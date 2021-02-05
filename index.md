@@ -12,7 +12,7 @@ layout: default
 
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
-  Posted: {{ post.date | date_to_string }}</p>
+   📅 - {{ post.date | date_to_string }}</p>
 
 {% endfor %}
 

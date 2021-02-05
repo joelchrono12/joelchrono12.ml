@@ -6,16 +6,16 @@ permalink: /android-launchers/
 layout: post
 ---
 
-## How everything started
+##  How everything started
 
 I have always liked the freedom that Android can give u as an operating system, ever since I got that first weird Chinese phone my mother got from a random store with no warranty at all and a battery that was about to explode, I fell in love with how different I could make my phone look compared to everyone else's just by installing a few apps in those 512 Mb of storage.
 
 At the time, I watched videos from the Spanish youtube channel [Pro Android](https://www.youtube.com/user/AndroideReview) which showcased different launchers and apps to customize my device.
-However, I had android 2.3, which was already old at the time, and even tho I rooted my device (or I thought I did, I probably got a virus or something) most launchers, including Nova Launcher, did not run at all. so I had to settle on Holo Launcher.
+However, I had Android 2.3, which was already old at the time, and even tho I rooted my device (or I thought I did, I probably got a virus or something) most launchers, including Nova Launcher, did not run at all. so I had to settle on Holo Launcher.
 
 It was not until my third phone, where I finally managed to get wild with the customization I got, a Samsung Galaxy s3 mini, with ROM support and every app I wanted working because of that. I might talk about that in future.
 
-## Android customization today
+## 📱 Android customization today
 I want to focus my first blog on a poll I did, that is still going on Mastodon [here](https://fosstodon.org/@joeligj12/105670230157355847) and talk about my opinions on some of the launchers I've used over the years.
 
 ### [Nova Launcher](https://novalauncher.com/)
@@ -49,7 +49,7 @@ Some launchers I have used before are here, I am skipping some tho.
 * [Niagara Launcher](https://niagaralauncher.app/): Very minimal and with some pretty animations. similar to kiss, but feels a lot more polished (KISS is more functional, snappy, less eye-candy), it has paid features that might get your attention, like folders and such.
 * [Posidon Launcher](https://posidon.io/launcher): A very unique launcher that features an RSS feed on it's home screen, I have been testing it and it has worked before, but currently it is crashing on me quite often, but seriously, it is a great FOSS application that you should try if you have not, the dev got a [telegram](https://t.me/posidonnews) channel too. 
 
-### Final thoughts
+### 💭 Final thoughts
 
 This is my first proper blogpost here, and I want it to take part of the #100DaysToOffload challenge. I might go into more detail about some launcher, or just focus on new discoverings I make along the way.
 

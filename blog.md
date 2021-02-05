@@ -9,5 +9,5 @@ permalink: /blog/
 {% for post in site.posts %}
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
-  Posted: {{ post.date | date_to_string }}</p>
+   📅 - {{ post.date | date_to_string }}</p>
 {% endfor %}
