@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO Stuff
+author: joelchrono12
+description: My personal blog, where I share my interests and hobbies
+lang: en
+locale: en_US
+url: "https://joelchrono12.github.io"
+baseurl: ""
+
+# RSS feeds
+feed:
+  posts_limit: 30

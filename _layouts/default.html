@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://joelchrono12.github.io/assets/images/favicon.png" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% feed_meta %}
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+    <link rel="stylesheet" href="https://joelchrono12.github.io/assets/css/custom.css">
+
+  </head>
+  <body>
+      <header>
+      	<h1>{{ page.header }}</h1>
+      	<p>{{ page.description }}</p>
+
+      	{% include navigation.html %}      	
+
+      </header>
+
+      <main>
+      	{{ content }}
+
+      </main>
+
+      <footer>
+	<p>This site was created by <a href="https://fosstodon.org/@joeligj12">joelchrono12</a> and was made using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.</p>
+      </footer>
+  </body>
+ </html>
