@@ -1,12 +1,14 @@
 ---
-title: Simple Jekyll - A Jekyll site powered by Simple.css
-header: Simple Jekyll {}
-description: A Jekyll site powered by Simple.css
+title: JoelChrono12's website
+header: JoelChrono12's website
+description: My personal blog, where you can see some of my thoughts and ramblings about tech, gaming and my hobbies
 permalink: /
 layout: default
 ---
 
-# Welcome to joelchrono's blog
+## Welcome to JoelChrono12's blog
+
+Feel free to take a look around!
 
 {% for post in site.posts %}
 
