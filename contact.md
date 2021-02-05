@@ -6,10 +6,12 @@ permalink: /contact/
 layout: default
 ---
 
-# About me
+# Contact me
 
-I am Joel
+You can follow me here:
 
-# About this place
+* [Mastodon](https://fosstodon.org/@joeligj12) 
 
-This is a website
+* [Itch.io](https://itch.io/profile/igchrono)
+
+  
