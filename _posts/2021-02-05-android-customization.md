@@ -33,7 +33,7 @@ Now, this is another launcher that I use sometimes, in fact, after the mentioned
 
 This is how I am rocking it today, as you can see, pretty minimalistic
 
-![kiss_setup](https://raw.githubusercontent.com/joelchrono12/jekyll-site-test.css/main/assets/_images/blogs/2020-02-05/kiss_setup.png){: width="400"}
+![kiss_setup](https://raw.githubusercontent.com/joelchrono12/jekyll-site-test.css/main/assets/images/blogs/2020-02-05/kiss_setup.png){: width="400"}
 
 ### [Microsoft Launcher](https://www.microsoft.com/en-us/launcher)
 
