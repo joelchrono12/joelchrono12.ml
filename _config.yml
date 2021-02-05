@@ -7,7 +7,7 @@ author: joelchrono12
 description: My personal blog, where I share my interests and hobbies
 lang: en
 locale: en_US
-url: "https://joelchrono12.github.io"
+url: "https://joelchrono12.netlify.app"
 baseurl: ""
 
 # RSS feeds
