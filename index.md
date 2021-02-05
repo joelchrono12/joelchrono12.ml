@@ -6,9 +6,7 @@ permalink: /
 layout: default
 ---
 
-## Welcome to JoelChrono12's blog
-
-Feel free to take a look around!
+## Feel free to take a look around!
 
 {% for post in site.posts %}
 

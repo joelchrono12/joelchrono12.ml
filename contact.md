@@ -1,14 +1,12 @@
 ---
-title: About | joelchrono12
-header: About me
-description: This page tells you a little bit about this website and its creator.
+title: Contact me | joelchrono12
+header: Contact me
+description: If you wish to chat with me or give some suggestions, this is the place
 permalink: /contact/
 layout: default
 ---
 
-# Contact me
-
-You can follow me here:
+You can find me in these places, I also speak Spanish!:
 
 * [Mastodon](https://fosstodon.org/@joeligj12) 
 
