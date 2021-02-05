@@ -25,7 +25,7 @@ It has every function you can imagine. It's gesture system is like no other, and
 
 this is my current setup, although I change it pretty often
 
-![nova_setup](https://raw.githubusercontent.com/joelchrono12/jekyll-site-test.css/main/assets/_images/blogs/2020-02-05/nova_setup.png){: width="400"}
+![nova_setup](/assets/_images/blogs/2020-02-05/nova_setup.png){: width="400"}
 
 ### [KISS Launcher](https://kisslauncher.com/)
 
