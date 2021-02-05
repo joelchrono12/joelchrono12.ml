@@ -25,6 +25,10 @@ I want to focus my first blog on a poll I did, that is still going on Mastodon [
 Everyone should know this one, it has been my go-to ever since I got it, as a teenager I was unable to buy it, and my family wasn't willing to pay for apps, but it was the first thing I got when I finally got some money from Google Rewards.
 It has every function you can imagine. It's gesture system is like no other, and the new gestures on icons and folders, allows me to have run up to three apps, from a single icon, by tapping it, or swiping up or down. I can make it even better if I apply the same gestures to a folder, so with a single icon, I get to access any app I want.
 
+![nova_setup](https://raw.githubusercontent.com/joelchrono12/jekyll-site-test.css/main/assets/_images/blogs/2020-02-05/nova_setup.png)
+
+
+
 
 
 
