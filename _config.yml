@@ -1,7 +1,7 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-image-size
+#  - jekyll-image-size
   
 
 # SEO Stuff
