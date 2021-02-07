@@ -14,8 +14,6 @@ On my journey towards being googleless, there is one service that has no match: 
   <img alt="Youtube on a laptop in the dark" src="/assets/images/blogs/2021-02-07/youtube.jpg" />
   <figcaption><span>Photo by <a href="https://unsplash.com/@leon_bublitz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Leon Bublitz</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> </figcaption>
 </figure>
-
-
 Even if you don't consume its content with entertainment purposes, you will probably need it for tutorials, or streaming events, or to sub to your friend's channel.
 
 I need Youtube, that's how I learn stuff, that's where my teachers upload their homework videos. And in times like these, it's honestly the primary way of entertainment I have.
@@ -41,10 +39,13 @@ After that, I decided to categorize them. Newpipe currently has a limited suppor
   <figcaption>Sub to ChrisWere btw </figcaption>
 </figure>
 
-### 🔔 Notifications? Nope
+### 🔔 No more notifications
 
 Newpipe offers many functions that Vanced does not, it allows you to download videos and playlists, listen to the audio of videos, etc. However, you also things, tthe ability to like and comment on videos. And more importantly for me (at least apparently), notifications.
 
-To deal with this, I just kept Vanced installed, and I get notifications that way, however, I don't think it's actually that necesary, most of the time I would open Newpipe and update the video feed, and watch whatever video I wanted. And some hours later I would get the notification of said content. 
+To deal with this, I just kept Vanced installed, and I get notifications that way, however, I I realized that most of the time I would open Newpipe and update the video feed, and watch whatever video I wanted, and some hours later I would get the notification of said content. This means that Youtube notifications suck, and that *I don't need them anymore*
 
-I guess I would rather watch videos whenever I have the time. Newpipe also allows me to get the RSS of any channel I want with ease, so if I really wanted to get notifications, I could probably work with that, but it is not hugely important for me right now.
+I guess this ended up helping me manage my time better, I would rather watch videos whenever I have the time, instead of receving a notification and having the urge of paying attention to it. Newpipe also allows me to get the RSS of any channel I want with ease, so if I really wanted to get notifications, I could probably work with that if I really had to know if something gets posted.
+
+
+

@@ -13,7 +13,6 @@ layout: default
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
   {{ post.description }}<br>
    📅 - {{ post.date | date_to_string }}</p>
-
 {% endfor %}
 
 This is a simple webpage that has been handbuilt by joelchrono12, following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
