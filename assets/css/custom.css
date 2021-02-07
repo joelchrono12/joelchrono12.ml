@@ -3,7 +3,7 @@
 
   /* Set sans-serif & mono fonts */
   --sans-font:-apple-system,BlinkMacSystemFont,"Avenir Next",Avenir,"Nimbus Sans L",Roboto,Noto,"Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-  --mono-font:"Terminus""mononoki Nerd Font","Ubuntu Mono",Consolas,Menlo,Monaco,"Andale Mono",monospace;
+  --mono-font:"Terminus""mononoki Nerd Font","Ubuntu Mono",Consolas,Menlo,Monaco,"Andale Mono","Droid Sans Mono",monospace;
 
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
   --base-fontsize: 1.15rem;
