@@ -5,10 +5,11 @@ plugins:
   
 
 # SEO Stuff
+title: "JoelChrono's blog"
 author: joelchrono12
 description: My personal blog, where I share my interests and hobbies
 lang: en
-locale: en_US
+locale: es_MX
 url: "https://joelchrono12.netlify.app"
 baseurl: ""
 
