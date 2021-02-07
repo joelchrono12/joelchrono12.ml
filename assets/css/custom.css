@@ -126,6 +126,7 @@ footer {
 
 /* Format headers */
 h1 {
+  font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
   margin-top: calc(var(--line-height) * 1.5rem);
 }
@@ -134,6 +135,7 @@ h2:before {
     content: "# ";
 }
 h2 {
+  font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
   margin-top: calc(var(--line-height) * 1.5rem);
 }
@@ -142,6 +144,7 @@ h3:before {
     content: "## ";
 }
 h3 {
+  font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale));
   margin-top: calc(var(--line-height) * 1.5rem);
 }
@@ -150,6 +153,7 @@ h4:before {
     content: "### ";
 }
 h4 {
+  font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale));
   margin-top: calc(var(--line-height) * 1.5rem);
 }
@@ -158,6 +162,7 @@ h5:before {
     content: "#### ";
 }
 h5 {
+  font-family: var(--sans-font);
   font-size: var(--base-fontsize);
   margin-top: calc(var(--line-height) * 1.5rem);
 }
@@ -166,6 +171,7 @@ h6:before {
     content: "##### ";
 }
 h6 {
+  font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) / var(--header-scale));
   margin-top: calc(var(--line-height) * 1.5rem);
 }
