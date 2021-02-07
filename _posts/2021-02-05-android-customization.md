@@ -1,6 +1,7 @@
 ---
 title: Android Launchers
 header: Android Launchers
+tags: android
 description: A bit of rambling talking about android customization and my favorite launchers
 permalink: /android-launchers/
 layout: post
