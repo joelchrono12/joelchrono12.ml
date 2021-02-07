@@ -192,14 +192,13 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-  border: none;
+  border: 0px solid var(--border);
+  background: var(--code-bg) !important;
   border-radius: 6px;
-  background: var(--accent);
   font-size: 1rem;
-  color: var(--bg);
-  padding: .7rem .9rem;
+  padding: .5rem .5rem;
   margin: .5rem 0;
-  transition: .4s;
+  transition: .2s;
 }
 
 a button[disabled],
@@ -225,7 +224,7 @@ input[type="reset"]:focus,
 input[type="reset"]:enabled:hover,
 input[type="button"]:focus,
 input[type="button"]:enabled:hover {
-	opacity: .8;
+	opacity: .6;
 }
 
 /* Format the expanding box */

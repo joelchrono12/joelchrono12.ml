@@ -12,3 +12,6 @@
   
 - name: RSS
   link: /feed.xml
+
+- name: Tags
+  link: /tags
