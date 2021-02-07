@@ -1,6 +1,6 @@
 ---
-title: JoelChrono12's website
-header: JoelChrono12's website
+title: $joelchrono12's blog
+header: $joelchrono12's blog
 description: My personal blog, where you can see some of my thoughts and ramblings about tech, gaming and my hobbies
 permalink: /
 layout: default
