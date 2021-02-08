@@ -1,18 +1,20 @@
 ---
 title: Tags | joelchrono12
 header: Tags
-description: This is a list of all of my tags, by clicking them you can access every posts that has that tag
+description: Specific themes I like to talk about
 permalink: /tags/
 layout: default
 ---
-# Current tags
 
-You can also get its special feed, if you want to add it to your RSS feed, I still have to make this look pretty, but it works.
-
+These are the current available tags, as well as the RSS feed of each of them, in case you want to follow certain topics , I still have to make this look pretty, but it works.
 
 {% for tag in site.tags %}
-  <!-- Here's a hack to generate a "tag cloud" where the size of
-  the word is directly proportional to the number of posts with
-  that tag. -->
-  <a href="/tags/{{ tag[0] }}/">{{ tag[0] }}</a>  - <a href="/feeds/{{ tag[0] }}.xml/">[feed]</a>
+  <h2>{{ tag[0] }}</h2>
+  <a href="/tags/{{ tag[0] }}/" class="button">All posts</a> <a class="button" href="/feeds/{{ tag[0] }}.xml/">RSS</a>
+  <ul>
+    {% for post in tag[1] limit:2 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> - 📅 {{post.date | date_to_string}} </li>
+    {% endfor %}
+  </ul>
+
 {% endfor %}

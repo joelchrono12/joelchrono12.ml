@@ -6,8 +6,6 @@ permalink: /about/
 layout: default
 ---
 
-## About me
-
 Hello! I am Joel, I am just a simple man who likes tech, FOSS and many other things.
 
 I use Linux, currently using [Void Linux](https://voidlinux.org) as my distro of choice, my current smartphone is using [MSM Extended](https://msmxtended.org/), but I switch roms on a monthly basis. 

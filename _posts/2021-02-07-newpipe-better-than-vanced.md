@@ -1,5 +1,5 @@
 ---
-title: Is Newpipe better than YouTube Vanced?
+title: Is Newpipe better than YouTube / Vanced?
 header: Is Newpipe better than Youtube / Vanced?
 date: "2021-02-07 15:00:00 -0600"
 description: I started using Newpipe, I gave it a serious try, and I am sharing some of the things I did to deal with its shortcomings
@@ -8,7 +8,7 @@ permalink: /newpipe-over-vanced/
 layout: post
 ---
 
-## Trying to avoid Youtube 🎥
+# Trying to avoid Youtube 🎥
 
 On my journey towards being googleless, there is one service that has no match: Youtube. This site has the biggest catalog of videos. But, as great as it is, it also represents one of the main ways for Google to get revenue, serve ads and collect data from it's users, which is  big problem for people like me, looking for a way to stop them from getting every bit they can about my life.
 
@@ -21,7 +21,7 @@ Even if you don't consume its content with entertainment purposes, you will prob
 I need Youtube, that's how I learn stuff, that's where my teachers upload their homework videos. And in times like these, it's honestly the primary way of entertainment I have.
 That's one of the reasons I made this blog too. To use my time for something more productive, growing this site of mine and making it as nice as I can. At the very least, I am typing a lot more and with better grammar (don't @ me).
 
-## Moving to Newpipe ▶️ 
+# Moving to Newpipe ▶️ 
 
 When I discovered Youtube Vanced, I was really happy, I had a way to consume Youtube without ads and, recently, without Sponsors. And yes, that was pretty convenient for me, but I still needed an account linked to the app if I wanted access to my Subscriptions.
 
@@ -29,7 +29,7 @@ So yeah, I was still being watched by Google, and it was not until a week ago, t
 
 So, when I did the switch, I started from scratch. A few years ago, Youtube offered a way to get your subscriptions on a OPML file, but they made it harder recently. Newpipe provides you with instructions to recover them if you so choose. However, I decided not to do it.
 
-### Decluttering my subscriptions 🗑️ 
+## Decluttering my subscriptions 🗑️ 
 
 I have used Youtube for years. Last time I exported my subscriptions, I had 1000+ subscriptions, some channels did not even exist anymore, and I did not recognize most of them. Back then I removed my subscription from a lot of channels, but I am probably reaching the same amount today. 
 
@@ -42,16 +42,15 @@ After that, I decided to categorize them. Newpipe currently has a limited suppor
   <img alt="Youtube on a laptop in the dark" src="/assets/images/blogs/2021-02-07/newpipe.jpg" />
   <figcaption>Sub to ChrisWere btw </figcaption>
 </figure>
+## No more notifications 🔔 
 
-### No more notifications 🔔 
-
-Newpipe offers many functions that Vanced does not, it allows you to download videos and playlists, listen to the audio of videos, etc. However, you also things, tthe ability to like and comment on videos. And more importantly for me (at least apparently), notifications.
+Newpipe offers many functions that Vanced does not, it allows you to download videos and playlists, listen to the audio of videos, etc. However, you also lose certain things, the ability to like and comment on videos. And more importantly for me (at least apparently), notifications.
 
 To deal with this, I just kept Vanced installed, and I get notifications that way, however, I I realized that most of the time I would open Newpipe and update the video feed, and watch whatever video I wanted, and some hours later I would get the notification of said content. This means that Youtube notifications suck, and that *I don't need them anymore*
 
 I guess this ended up helping me manage my time better, I would rather watch videos whenever I have the time, instead of receving a notification and having the urge of paying attention to it. Newpipe also allows me to get the RSS of any channel I want with ease, so if I really wanted to get notifications, I could probably work with that if I really had to know if something gets posted.
 
-## Finishing up
+# Finishing up
 
 This was my third entry for #100DaystoOffload , I have been working on this site quite a lot, if you even remember how it looked just a few days ago. I am quite happy with the results I have.
 
