@@ -5,10 +5,10 @@ layout: default
 
 <p> 📅  {{ page.date | date_to_string }}</p>
 
-<div>
+
 {% for tag in page.tags %}
-<button class="inline tag_list_item"><a class="tag_list_link" href="/tags/{{ tag }}">{{ tag }}</a></button>
-{% endfor %}</div>
+<a class="tag_list_link" href="/tags/{{ tag }}"><button>{{ tag }}</button></a>
+{% endfor %}
 
 {{ content }}
 

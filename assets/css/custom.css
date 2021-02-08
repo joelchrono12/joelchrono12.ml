@@ -193,7 +193,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   border: 0px solid var(--border);
-  background: var(--code-bg) !important;
+  background: var(--accent) !important;
   border-radius: 6px;
   font-size: 1rem;
   padding: .5rem .5rem;
