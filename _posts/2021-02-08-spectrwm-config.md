@@ -60,7 +60,9 @@ I really love how spectrwm is so easy to configure in general, as you saw with t
   <figcaption>Firefox, htop, kristall </figcaption>
 </figure>
 
-There is still work to do, but I am really happy with the results,  I am stilll playing around with other scripts and things. If you wanna get my current dotfiles, you can do so [here](https://github.com/ChronoTriggered/MyDotfiles).
+There is still work to do, but I am really happy with the results,  I am stilll playing around with other scripts and things. If you wanna get my current dotfiles, you can do so [here](https://github.com/ChronoTriggered/MyDotfiles). 
+
+Day 4 of #100DaystoOffload
 
 
 
