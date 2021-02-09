@@ -21,16 +21,16 @@ Hello! I am Joel, I am just a simple man who likes tech, FOSS and many other thi
 
 ## Extra info 
 
-* I use Linux, currently using [Void Linux](https://voidlinux.org) as my distro of choice, my current smartphone is using [MSM Extended](https://msmxtended.org/), but I switch roms on a monthly basis. 
+* I use Linux, currently using [Void Linux](https://voidlinux.org) as my distro of choice, 
+
+* My current smartphone is using [MSM Extended](https://msmxtended.org/), but I switch roms on a monthly basis. I will switch to Lineage soon.
+
 * I can solve a Rubik's cube in less than 20 seconds, my record is of 9.81 seconds.
+
 * I have made some videogames using the [Godot engine](https://godotengine.org)
 	* [Swap Die Repeat](https://igchrono.itch.io/swap-die-repeat)
-	* [Cliff_Hanger](https://igchrono.itch.io/cliff-hanger)
 	
-* 
-
-
-I really like card magic,retro gaming, origami, playing and listening to music, as well as learning new techy stuff.
+	* [Cliff_Hanger](https://igchrono.itch.io/cliff-hanger)
 
 
 
