@@ -21,9 +21,19 @@ Welcome to my corner of the internet, I hope you like this place, I am still wor
 
 <a href="/blog" class="button">Full blog list</a>
 
+# Gemini capsule
+
+You can also access a mirror of this site on your gemini client if you so wish, there might be a bit of delay, but eventually you will get it :D
+
+
+<a href="gemini://gemlog.blue/users/joelchrono12/1612572527.gmi" class="button">Visit gemini capsule</a>
+
+
 ---
-# About
+
 
 This is a simple webpage that has been handbuilt joelchrono12, following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
+
+
 
 
