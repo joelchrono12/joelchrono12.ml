@@ -11,8 +11,8 @@ description: My personal blog, where I share my interests and hobbies
 lang: en
 timezone: America/Mexico_City
 locale: en_US
-url: "https://joelchrono12.cf"
-baseurl: "https://joelchrono12.cf"
+url: "https://www.joelchrono12.cf"
+baseurl: "https://www.joelchrono12.cf"
 
 # RSS feeds
 feed:
