@@ -12,15 +12,18 @@ Welcome to my corner of the internet, I hope you like this place, I am still wor
 
 {% for post in site.posts limit:2 %}
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
-  {{ post.description }}<br>
-   📅 - {{ post.date | date_to_string }}</p>
+
+  {{ post.description }} <br>
+  📅 - {{ post.date | date_to_string }}
+  </p>
 {% endfor %}
 
 
 <a href="/blog" class="button">Full blog list</a>
 
 ---
-# Credits
+# About
 
-This is a simple webpage that has been handbuilt by joelchrono12, following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
+This is a simple webpage that has been handbuilt joelchrono12, following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
+
 

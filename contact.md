@@ -6,10 +6,10 @@ permalink: /contact/
 layout: default
 ---
 
-You can find me in these places, I also speak Spanish!:
+If you wanna have a chat with me, ask me questions, or just say hi, you can find me with the following links
 
-* [Mastodon](https://fosstodon.org/@joeligj12) 
+# Links
 
-* [Itch.io](https://itch.io/profile/igchrono)
+* ### [Mastodon](https://fosstodon.org/@joeligj12) 
+* ### [Itch.io](https://itch.io/profile/igchrono)
 
-  

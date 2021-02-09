@@ -26,8 +26,9 @@ It has every function you can imagine. It's gesture system is like no other, and
 
 this is my current setup, although I change it pretty often
 <center>
-<img src="/assets/images/blogs/2020-02-05/nova_setup.png" alt="Screenshot of my nova setup" width="500">
+<img src="/assets/images/blogs/2020-02-05/nova_setup.jpg" alt="Screenshot of my nova setup" width="500">
 </center>
+
 ## [KISS Launcher](https://kisslauncher.com/)
 
 Now, this is another launcher that I use sometimes, in fact, after the mentioned poll, I decided to give it another try, and I am quite happy with the results. It is very lightweight and customizable, it's tags feature works great and allows me to categorize my apps as I want (If only I didn't have to setup every app individually) and once it's done, there is nothing as cool as typing a category and getting the results you need.
@@ -35,8 +36,9 @@ Now, this is another launcher that I use sometimes, in fact, after the mentioned
 This is how I am rocking it today, as you can see, pretty minimalistic
 
 <center>
-<img src="/assets/images/blogs/2020-02-05/kiss_setup.png" alt="Screenshot of my KISS launcher setup" width="500">
+<img src="/assets/images/blogs/2020-02-05/kiss_setup.jpg" alt="Screenshot of my KISS launcher setup" width="500">
 </center>
+
 
 ## [Microsoft Launcher](https://www.microsoft.com/en-us/launcher)
 
