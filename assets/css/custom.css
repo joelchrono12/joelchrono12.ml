@@ -324,6 +324,7 @@ hr {
 
 mark {
 	padding: 3px 6px;
+	border-radius: 5px;
 	background: var(--accent-light);
 }
 
@@ -390,3 +391,21 @@ pre code {
     margin: 0;
     padding: 0;
 }
+
+div.scrollmenu {
+  padding: 0 .1rem;
+  background-color: var(--bg);
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+	opacity:0.8;
+}
+

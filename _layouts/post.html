@@ -3,13 +3,13 @@ layout: default
 ---
 
 
-<p> 📅 <mark> {{ page.date | date_to_string }}</mark>
+<p> 📅 <mark> {{ page.date | date_to_string }}</mark> <br>
 
-| 🏷️
+<div class="scrollmenu">🏷️
 {% for tag in page.tags %}
 <a href="/tags/{{ tag }}" class="button" >{{ tag }} </a>
 {% endfor %}
-
+</div> 
 </p>
 {{ content }}
 
