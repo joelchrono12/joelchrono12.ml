@@ -6,7 +6,7 @@ permalink: /
 layout: default
 ---
 
-Welcome to my corner of the internet, I hope you like this place, I am still workinng on it to make it as nice as possible :)
+Welcome to my corner of the internet, I hope you like this place, I am still working on it to make it as nice as possible :)
 
 # Latest blogs
 
