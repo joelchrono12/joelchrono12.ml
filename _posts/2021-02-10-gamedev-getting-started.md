@@ -45,7 +45,7 @@ I know **this is not really a proper *starting guide***, and I if you were expec
 
 * [Games from Scratch](https://www.youtube.com/user/gamefromscratch): Great for tutorials and reviews of game development software.
 * [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg): Don't get fooled by the name, adults can learn too, tutorials for many different engines, and some for Godot too, like their Godot Recipes, which are epic.
-* [Game Endeavour](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg): Devlogs, a great channel to get inspiration from, that also has some old tutorials that work as of now (He also loves [tweens](https://docs.godotengine.org/en/stable/classes/class_tween.html), and you should too).
+* [Game Endeavor](https://www.youtube.com/channel/UCLweX1UtQjRjj7rs_0XQ2Eg): Devlogs, a great channel to get inspiration from, that also has some old tutorials that work as of now (He also loves [tweens](https://docs.godotengine.org/en/stable/classes/class_tween.html), and you should too).
 * [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ): Great tutorials for general game development as well as Godot focused, it offers the source code of everything they share.
 * [HeartBeast](https://www.youtube.com/user/uheartbeast): Amazing channel with a lot of tutorials, devlogs and a pretty nice guy. His [Action RPG](https://www.youtube.com/watch?v=mAbG8Oi-SvQ&list=PL9FzW-m48fn2SlrW0KoLT4n5egNdX-W9a) series is my favorite 
 * [UmaiPixel](https://www.youtube.com/channel/UCla6BhPwo5zGal6vR5le4YA): Godot development and other things, but has not uploaded in a while.
