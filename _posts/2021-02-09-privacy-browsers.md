@@ -43,7 +43,7 @@ Each and everyone of this browsers are nothing but one more option, and is up to
   <figcaption>Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar </figcaption>
 </figure>
 
-This is the 5th blog for the #100DaystoOffload challenge, this time it was quite hard to start, but in the end, I think it turned out right, and I hope it's helpful for you. If you have any other browser recommendations, make sure to share them with me!
+This is the 5th blog for the [#100DaystoOffload](https://100daystooffload.com/) challenge, this time it was quite hard to start, but in the end, I think it turned out right, and I hope it's helpful for you. If you have any other browser recommendations, make sure to share them with me!
 
 I still find it difficult to stay loyal to one browser or another, to be honest, I have only been using SCW for half a week or so, and I factory reset my phone quite often. I have been browsing less and less in favor of [RSS readers](/rss-usage). So as I said, I quite prefer these lighter, simpler options for browsing quick questions or open links. And not so much for more personal or important browsing.
 

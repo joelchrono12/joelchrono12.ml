@@ -52,7 +52,7 @@ I guess this ended up helping me manage my time better, I would rather watch vid
 
 # Finishing up
 
-This was my third entry for #100DaystoOffload , I have been working on this site quite a lot, if you even remember how it looked just a few days ago. I am quite happy with the results I have.
+This was my third entry for [#100DaystoOffload](https://100daystooffload.com/) , I have been working on this site quite a lot, if you even remember how it looked just a few days ago. I am quite happy with the results I have.
 
 Maybe you could try doing a website too, you would spend less time on Youtube by doing so, just like me!
 

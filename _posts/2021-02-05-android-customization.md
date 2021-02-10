@@ -56,7 +56,7 @@ Some launchers I have used before are here, I am skipping some tho.
 
 # 💭 Final thoughts
 
-This is my first proper blogpost here, and I want it to take part of the #100DaysToOffload challenge. I might go into more detail about some launcher, or just focus on new discoverings I make along the way.
+This is my first proper blogpost here, and I want it to take part of the [#100DaysToOffload](https://100daystooffload.com/) challenge. I might go into more detail about some launcher, or just focus on new discoverings I make along the way.
 
 Besides launchers, I have also used different icon packs, gesture applications, android themes and root applications. So I hope I get to talk about those in the future
 
