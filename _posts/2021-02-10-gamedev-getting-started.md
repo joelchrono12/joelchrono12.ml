@@ -37,7 +37,7 @@ Also, I was aware of the FOSS community, and about to start using Linux. This le
 
 The pandemic, the discovering of the FOSS community, of Godot, *all this was an omen, a sign*, that **this would be my new hobby**.
 
-So I decided to try it out, I was more aware of how videogames work, so after a quick Google search (Yeah, I *still* used it, sorry) "How to make a platformer in Godot Engine", and I followed a couple of video tutorials by [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ), I also faced my first couple of problems, which weren't really that hard (*I forgot that the Y axis is inverted in Godot, as well most graphical interfaces*), but I was actually learning, and started to work on some quick small projects.
+So I decided to try it out, I was more aware of how videogames work, so after a quick Google search (Yeah, I *still* used it, sorry) on "How to make a platformer in Godot Engine", I found  a couple of video tutorials by [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ). It was quite long,but simple enough to follow, although  I also faced a couple of problems, which weren't really that hard (*I forgot that the Y axis is inverted in Godot, as well most graphical interfaces*), but I the end, I was actually learning, and started to work on some quick small projects with help from other videos and the great [documentation](https://docs.godotengine.org/en/stable/).
 
 ## Wrapping up 💭
 
