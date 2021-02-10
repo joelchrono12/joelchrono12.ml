@@ -11,5 +11,5 @@ If you wanna have a chat with me, ask me questions, or just say hi, you can find
 # Links
 
 * ### [Mastodon](https://fosstodon.org/@joeligj12) 
-* ### [Itch.io](https://itch.io/profile/igchrono)
+* ### [Itch.io](https://joelchrono12.itch.io/)
 
