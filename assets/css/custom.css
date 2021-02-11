@@ -267,8 +267,7 @@ table caption {
 }
 
 /* Lists */
-ol,
-ul {
+ol,ul {
 	padding-left: 3rem;
 }
 
@@ -348,10 +347,10 @@ figcaption {
 blockquote {
   margin: 2rem 0 2rem 2rem;
   padding: .4rem .8rem;
-	border-left: .35rem solid var(--accent);
-	opacity: .8;
-	font-style: italic;
-	color: var(--text-light)
+  border-left: .35rem solid var(--accent);
+  opacity: .8;
+  font-style: italic;
+  color: var(--text-light)
 }
 
 cite {
@@ -429,5 +428,48 @@ div.scrollmenu a:hover {
 
 #myBtn:hover {
   opacity: 0.8; /* Add a dark-grey background on hover */
+}
+
+.avatar{
+    opacity: 0.9;
+    width: 2.8rem;
+    border-radius: 30%;
+    padding: 2px 2px;
+}
+
+.comment-url{
+	font-size: 0.9rem;
+	color: var(--border);
+	padding: 1rem;
+}
+
+.comment-content{
+  	text-decoration: none;
+  	margin: 1rem ;
+  	padding: 0.5rem 1rem 0.5rem 1rem;
+  	font-size: 1rem;
+  	border-radius: 5px;
+	line-height: var(--line-height);
+	background: var(--code-bg);
+}
+
+.comment-content h1,.comment-content h2,.comment-content h3,.comment-content h4,.comment-content h5,.comment-content h6 {
+	margin: var(--line-height) * 0.3rem;
+	font-size: 1.2rem;
+	padding-left: 1rem;
+}
+
+.comment-content img{
+	margin-left: 2rem;
+	border-radius: 5px;
+	max-width: 40%;
+}
+
+.comment-content blockquote {
+	padding: 0 .2rem;
+}
+
+.comment-content ul {
+	padding-left: 2.5rem;
 }
 

@@ -10,15 +10,21 @@ layout: default
 <a href="/tags/{{ tag }}" class="button" >{{ tag }} </a>
 {% endfor %}
 </div> 
+
 </p>
+
 {{ content }}
 
-<br>
  <a class="button" id="myBtn" title="Go to top" href="#top">Top</a> 
 <hr>
 
-<h2>Looking for comments? 💬 </h2>
 
-<p>I don't have comments on this site as they're difficult to manage and take up too much time. I'd rather concentrate on producing content than managing comments.</p>
+{% if page.comments_id %}
+{% include comments.html %}
+{% endif %}
 
-<p>Instead of leaving a comment, feel free to <a href="/contact">contact me</a> ✉️ instead.</p>
+<p>If you dont want to leave a comment, feel free to <a href="/contact">contact me</a> ✉️ instead.</p>
+
+
+
+
