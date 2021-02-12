@@ -2,13 +2,12 @@
 layout: default
 ---
 
-
-<p> 🗓️ <mark> {{ page.date | date_to_string }}</mark> <br>
+<p> 🗓️ <mark> {{ page.date | date_to_string }}</mark>
 
 <div class="scrollmenu">🏷️
-{% for tag in page.tags %}
-<a href="/tags/{{ tag }}" class="button" >{{ tag }} </a>
-{% endfor %}
+	{% for tag in page.tags %}
+	<a href="/tags/{{ tag }}" class="button" >{{ tag }} </a>
+	{% endfor %}
 </div> 
 
 </p>
@@ -17,13 +16,22 @@ layout: default
 
  <a class="button" id="myBtn" title="Go to top" href="#top">Top</a> 
 <hr>
-
-
+<!--<details>
+  <summary>View comments!</summary>
+ <p><script src="https://utteranc.es/client.js"
+        repo="joelchrono12/jekyll-site-test.css"
+        issue-term="title"
+        theme="dark-blue"
+        crossorigin="anonymous"
+        async>
+</script></p>
+</details> -->
 {% if page.comments_id %}
 {% include comments.html %}
 {% endif %}
 
 <p>If you dont want to leave a comment, feel free to <a href="/contact">contact me</a> ✉️ instead.</p>
+
 
 
 
