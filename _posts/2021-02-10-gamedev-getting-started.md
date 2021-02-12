@@ -3,7 +3,7 @@ title: Getting started with game development
 header: Getting started with game development
 date: "2021-02-10 14:00:00 -0600"
 description: How I got into game development (And how you can too)
-tags: gamedev foss
+tags: gamedev foss programming
 permalink: /gamedev-getting-started/
 layout: post
 ---
