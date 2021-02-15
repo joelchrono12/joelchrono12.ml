@@ -1,6 +1,7 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+#  - jekyll-webring
 #  - jekyll-image-size
   
 
