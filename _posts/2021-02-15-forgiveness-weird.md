@@ -8,8 +8,6 @@ permalink: /request-forgiveness-for-small-things/
 layout: post
 ---
 
-# Asking for forgiveness due to simple things
-
 Recently I have been thinking about why is it so hard to ask someone for forgiveness when you do something wrong, that pissed someone off, but it's not a big deal.
 
 Like, if you think about it, there is this weird middleground of actions between drawing a stickman in the corner of a sheet of a friend's essay, to breaking somebody's smartphone in anger. 
