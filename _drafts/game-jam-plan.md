@@ -44,6 +44,7 @@ Each node, or character inside of that tower of Goombas can do certain things.
 
 #### Character ideas:
 
+* **IMPORTANT**: To avoid dealing with multiple cameras and stuff like that **ONLY ONE** is able to move, and by connecting to different characters, they can be controlled
 * A sum of characters can be heavy enough to activate press buttons.
 * One character can split the group into two
 * One character can move while having people around.
