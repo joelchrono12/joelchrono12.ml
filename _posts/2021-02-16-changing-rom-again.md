@@ -3,8 +3,8 @@
 title: Changing my android ROM once again
 header: Changing my android ROM once again
 date: "2021-02-16 11:49:00 -0600"
-description: Why is it so weird to ask to be forgiven when doing something wrong but "it's not a big deal"
 tags: lifestyle android foss
+description: "I have changed my rom again and degoogled my device despite going back to school"
 permalink: /changing-android-rom/
 layout: post
 comments_id: 5
