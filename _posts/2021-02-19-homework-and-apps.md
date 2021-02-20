@@ -1,7 +1,7 @@
 ---
 title: Homework and FOSS apps
 header: Homework and FOSS apps
-date: "2021-02-18 17:28:00 -0600"
+date: "2021-02-19 17:28:00 -0600"
 tags: android foss 
 description: "I am about to go back to school, and I decided to share some apps that are FOSS and I found this weekend :D"
 permalink: /blog/homework-foss-apps/
