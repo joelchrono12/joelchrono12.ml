@@ -9,7 +9,7 @@ layout: post
 
 ---
 
-In my country, Mexico, This pandemic is quite trendy, and its the only thing they talk about on TV news. We can look at the stats and see the big amount of people flooding local hospitals and passing away due to the decease. I am not going to deny the impact of the virus here, I know people who passed away because of it.
+In my country, Mexico, This pandemic is quite trendy, and its the only thing they talk about on TV news. We can look at the stats and see the big amount of people flooding local hospitals and passing away due to the disease. I am not going to deny the impact of the virus here, I know people who now are gone because of it.
 
 But in reality, most people are living their lives without using facemasks, unless they are working or going to the grocery store, its simply no big deal and they go outside almost as if these times are normal. I even got a haircut a couple of days ago, and besides the people working there, everyone waiting for their turn was maskless, thankfully, it was only a couple of people, so I took the risk. Honestly, nobody really cared. And I was unable to wear a mask while my hair was being cut, yes, it's not ideal, but it is what it is here.
 
