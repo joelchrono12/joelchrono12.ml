@@ -1,7 +1,7 @@
 ---
 title: Back to school
 header: Back to school
-date: "2021-02-21 22:45:00 -0600"
+date: "2021-02-22 22:45:00 -0600"
 tags: thoughts linux foss school
 description: "Just a quick blog where I talk about how the first day of going back to online University classes was"
 permalink: /blog/back-to-school/
