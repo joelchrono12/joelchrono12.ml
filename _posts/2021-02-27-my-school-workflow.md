@@ -2,7 +2,7 @@
 title: My academic writing workflow (Markdown + Pandoc)
 header: My academic writing workflow (Markdown + Pandoc)
 date: "2021-02-27 21:21:00 -0600"
-tags: gamedev foss school
+tags: foss school linux lifestyle tutorial 
 description: "How I make my assignments for my University, at least when they don't make me write everything by hand for some weird reason."
 permalink: /blog/doing-school-work/
 layout: post
@@ -45,7 +45,7 @@ To add a citations, you just do add `@idofcite` or you can also do `[@idofcite,p
 pandoc file.md -o file.pdf --filter pandoc-siteproc
 ```
 
- Finally, to add the desired formatting (APA in my case), I found a [website](https://editor.citationstyles.org/) that contains the .csl files that you need so pandoc can use its templates. I just added `csl: /path/to/file.csl` to the YAML metadata
+ Finally, to add the desired formatting (APA in my case), I found a [website](https://editor.citationstyles.org/) that contains the .csl files that you need so Pandoc can use its templates. I just added `csl: /path/to/file.csl` to the YAML metadata
 
 ## Image sizing
 
