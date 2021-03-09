@@ -2,7 +2,7 @@
 title: Writing during my free time
 header: Writing during my free time
 description: Thinking about my priorities and responsibilities outside of this blog
-permalink: /get-stuff-done/
+permalink: /blog/get-stuff-done/
 date: "2021-02-13 14:10:00 -0600"
 layout: post
 tags: lifestyle

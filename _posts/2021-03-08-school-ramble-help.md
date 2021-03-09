@@ -13,7 +13,7 @@ I have been quite distracted this past few days, I have had quite a lot of free 
 During vacations, this kind of behavior was not really *bad* because I did not have anything to actually *do*.
 Still, just because I don't have anything to do, I should stay doing nothing, therefore, if I know I have stuff to do, I should be doing them first.
 
-A few weeks ago I mentioned how I did what I felt that I needed to do, even if nobody was forcing me to do so. But these past few days, I have had some problems with that. I can make use of a lot of excuses, honestly.
+A [few weeks ago](/blog/get-stuff-done) I mentioned how I did what I felt that I needed to do, even if nobody was forcing me to do so. But these past few days, I have had some problems with that. I can make use of a lot of excuses, honestly.
 
 I can say that online classes are terrible, for example, most teachers don't even have a proper Google meet link, they create a different one for *each session*, and they send it like 5 minutes *before the meeting starts*. 
 Some teachers are pretty care-free about the format of each assignment they give us. Others want us to make use of PowerPoint or templates that only work on MS Word, or some will even make us do diagrams and maps and tables by hand. I don't even have proper notebooks, because I take notes on my laptop, but I have to make use of one just for those few moments, and it is so annoying.
