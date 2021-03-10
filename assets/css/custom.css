@@ -2,17 +2,17 @@
 :root {
 
   /* Set sans-serif & mono fonts */
-  --sans-font:-apple-system,"mononoki Nerd Font","Ubuntu Mono",BlinkMacSystemFont,"Avenir Next",Avenir,"Nimbus Sans L",Roboto,Noto,"Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-  --mono-font:"mononoki Nerd Font","Ubuntu Mono",Consolas,Menlo,Monaco,"Andale Mono","Droid Sans Mono",monospace;
+  --sans-font:-apple-system,BlinkMacSystemFont,Lato,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
+  --mono-font:"mononoki Nerd Font","Ubuntu Mono","Fira Code","Fira Mono",Consolas,Menlo,Monaco,"Andale Mono","Droid Sans Mono",monospace;
 
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-  --base-fontsize: 1.15rem;
+  --base-fontsize: 1.21rem;
 
   /* Major third scale progression - see https://type-scale.com/ */
-  --header-scale: 1.25;
+  --header-scale: 1.125;
 
   /* Line height is set to the "Golden ratio" for optimal legibility */
-  --line-height: 1.618;
+  --line-height: 1.6;
 
   /* Dark theme */
 
@@ -54,7 +54,7 @@ body {
 /* Make the main element a nice central block */
 main {
   margin: 1rem auto 0;
-  max-width: 45rem;
+  max-width: 46rem;
   padding: 0 .5rem;
 }
 
@@ -63,7 +63,7 @@ header {
 	background: var(--bg);
 	border-bottom: 2px solid var(--border);
   padding: 1.5rem 15rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.1rem;
 }
 
 /* Reduces header padding on smaller screens */
@@ -132,7 +132,7 @@ footer {
 h1 {
   font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
-  margin-top: calc(var(--line-height) * 1.5rem);
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
 h2:before {
@@ -141,7 +141,7 @@ h2:before {
 h2 {
   font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
-  margin-top: calc(var(--line-height) * 1.5rem);
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
 h3:before {
@@ -150,7 +150,7 @@ h3:before {
 h3 {
   font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale));
-  margin-top: calc(var(--line-height) * 1.5rem);
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
 h4:before {
@@ -159,7 +159,7 @@ h4:before {
 h4 {
   font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) * var(--header-scale));
-  margin-top: calc(var(--line-height) * 1.5rem);
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
 h5:before {
@@ -168,7 +168,7 @@ h5:before {
 h5 {
   font-family: var(--sans-font);
   font-size: var(--base-fontsize);
-  margin-top: calc(var(--line-height) * 1.5rem);
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
 h6:before {
@@ -177,7 +177,7 @@ h6:before {
 h6 {
   font-family: var(--sans-font);
   font-size: calc(var(--base-fontsize) / var(--header-scale));
-  margin-top: calc(var(--line-height) * 1.5rem);
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
 /* Format links & buttons */
