@@ -379,7 +379,6 @@ pre {
 	padding: 1rem 1.4rem;
 	max-width: 100%;
 	overflow: auto;
-  overflow-wrap: break-word;
   background: var(--code-bg);
   border: none;
   border-radius: 5px;
@@ -390,6 +389,8 @@ pre code {
     color: var(--code);
     background: none;
     margin: 0;
+    white-space: pre-wrap;
+    word-break: break-word;
     padding: 0;
 }
 
