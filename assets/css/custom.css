@@ -377,8 +377,9 @@ kbd {
 
 pre {
 	padding: 1rem 1.4rem;
-	max-width: 42rem;
+	max-width: 100%;
 	overflow: auto;
+  overflow-wrap: break-word;
   background: var(--code-bg);
   border: none;
   border-radius: 5px;
