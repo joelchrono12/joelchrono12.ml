@@ -377,7 +377,7 @@ kbd {
 
 pre {
 	padding: 1rem 1.4rem;
-	max-width: 100%;
+	max-width: 42rem;
 	overflow: auto;
   background: var(--code-bg);
   border: none;
