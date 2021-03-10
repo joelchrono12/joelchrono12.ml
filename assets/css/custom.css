@@ -49,13 +49,15 @@ body {
   font-size: var(--base-fontsize);
   line-height: var(--line-height);
   margin: 0;
+  display: flex;
 }
 
 /* Make the main element a nice central block */
 main {
   margin: 1rem auto 0;
-  max-width: 46rem;
+  max-width: 45rem;
   padding: 0 .5rem;
+  flex: 1;
 }
 
 /* Make the header bg full width, but the content inline with body */
