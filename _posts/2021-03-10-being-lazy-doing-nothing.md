@@ -16,7 +16,7 @@ Yesterday I went downtown. The workshop is like 15 minutes walking from my house
 
 Anyways, once there, I only had to pay 105 pesos (around 6 USD) to get the needed parts and their installation, I felt like it was *extremely* cheap even for Mexican standards, I wonder how much it would cost in other countries.
 
-However, I had to walk back to my house, since I only had 100 pesos with me (oof), the goof thing is, I am actually pretty used to walking, and I enjoy it quite a lot. So I came back home while listening some Daft Punk (RIP), took the money and went back since the bike would be ready in 30 minutes (basically I arrived at the right time!).
+However, I had to walk back to my house, since I only had 100 pesos with me (oof), the good thing is, I am actually pretty used to walking, and I enjoy it quite a lot. So I came back home while listening some Daft Punk (RIP), took the money and went back since the bike would be ready in 30 minutes (basically I arrived at the right time!).
 
 So yeah, I went back home with a pretty epic fixed bicycle. It felt quite nice, because it had been a while since I tried a functional bike, and it was a lot of fun.
 
