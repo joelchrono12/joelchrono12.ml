@@ -5,8 +5,8 @@ header: Blog
 description: Where the magic happens - this is the blog!
 permalink: /blog/
 ---
-
+<ul>
 {% for post in site.posts %}
-  <p> 📅 | {{ post.date | date: "%Y-%m-%d" }} <br> 
-  <a href="{{ post.url }}">{{ post.title }}</a> </p>
+<li><a href="{{ post.url }}">{{ post.title }}</a> -  📅  {{ post.date | date: "%Y-%m-%d" }} </li>
 {% endfor %}
+</ul>
