@@ -1,3 +1,4 @@
+/* Set the global variables for everything. Change these to use your own fonts/colours. */
 :root {
 
   /* Set sans-serif & mono fonts */
@@ -27,28 +28,59 @@
 
 }
 
-header{
-  background: var(--accent-bg);
+img {
+  opacity: .8;
 }
+
+* {
+  /* Set the font globally */
+  font-family: var(--sans-font);
+}
+
 html {
   scroll-behavior: smooth;
   font-size: 16px;
 }
 
-h2:before {
-    content: "# ";
+/* Make the body a nice central block */
+body {
+  color: var(--text);
+  background: var(--bg);
+  font-size: var(--base-fontsize);
+  line-height: var(--line-height);
+  margin: 0;
 }
-h3:before {
-    content: "## ";
+
+/* Make the main element a nice central block */
+main {
+  margin: 1rem auto 0;
+  max-width: 45rem;
+  padding: 0 .5rem;
 }
-h4:before {
-    content: "### ";
+
+/* Make the header bg full width, but the content inline with body */
+
+
+/* Reduces header padding on smaller screens */
+@media only screen and (max-width: 1200px) {
+  header {
+    padding: 1rem;
+  }
+
+  nav {
+    text-align: center;
+  }
 }
-h5:before {
-    content: "#### ";
+
+/* Remove margins for header text */
+header h1,
+header p {
+  margin: 0;
 }
-h6:before {
-    content: "##### ";
+
+/* Fix header line height when title wraps */
+header h1 {
+  line-height: 1.1;
 }
 
 /* Format navigation */
@@ -83,16 +115,57 @@ nav a.current:hover {
 }
 
 
-/* Reduces header padding on smaller screens */
-@media only screen and (max-width: 1200px) {
-  header {
-    padding: 1rem;
-  }
-  nav {
-    text-align: center;
-  }
+/* Format headers */
+h1 {
+  font-family: var(--sans-font);
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.12rem);
 }
 
+h2:before {
+    content: "# ";
+}
+h2 {
+  font-family: var(--sans-font);
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.12rem);
+}
+
+h3:before {
+    content: "## ";
+}
+h3 {
+  font-family: var(--sans-font);
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.12rem);
+}
+
+h4:before {
+    content: "### ";
+}
+h4 {
+  font-family: var(--sans-font);
+  font-size: calc(var(--base-fontsize) * var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.12rem);
+}
+
+h5:before {
+    content: "#### ";
+}
+h5 {
+  font-family: var(--sans-font);
+  font-size: var(--base-fontsize);
+  margin-top: calc(var(--line-height) * 1.12rem);
+}
+
+h6:before {
+    content: "##### ";
+}
+h6 {
+  font-family: var(--sans-font);
+  font-size: calc(var(--base-fontsize) / var(--header-scale));
+  margin-top: calc(var(--line-height) * 1.12rem);
+}
 
 /* Format links & buttons */
 
@@ -201,43 +274,96 @@ input {
   width: 60%;
 }
 
-
-.button,.button:visited{
-  margin: 0 .1rem; 
-  color: var(--bg);
-  text-decoration: none;
-  background-color: var(--accent); /* Green */
-  border-radius: 5px;
-  padding: .1rem .5rem;
-  display: inline-block;
-  font-size: 16px;
-  transition: .2s
+/* Make the textarea wider than other inputs */
+textarea {
+  width: 80%
 }
 
-.button:hover{
-  color: var(--bg);
-  background-color: var(--accent); /* Green */
+/* Makes input fields wider on smaller screens */
+@media only screen and (max-width: 720px) {
+  textarea,
+  select,
+  input {
+    width: 100%;
+  }
+}
+
+/* Ensures the checkbox and radio inputs do not have a set width like other input fields */
+input[type="checkbox"], input[type="radio"]{
+  width: auto;
+}
+
+/* Without this any HTML using <fieldset> shows ugly borders and has additional padding/margin. (Issue #3) */
+fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+/* Misc body elements */
+
+hr {
+	color: var(--border);
+  border-top: 1px;
+	margin: 1rem auto;
+}
+
+mark {
+	padding: 3px 6px;
+	border-radius: 5px;
+	background: var(--accent-light);
+}
+
+main img {
+  max-width: 100%;
   border-radius: 5px;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-size: .9rem;
+  color: var(--text-light);
   text-align: center;
-  opacity: .8;
+  margin-bottom: 1rem;
 }
 
+blockquote {
+  margin: 2rem 0 2rem 2rem;
+  padding: .4rem .8rem;
+  border-left: .35rem solid var(--accent);
+  opacity: .8;
+  font-style: italic;
+  color: var(--text-light)
+}
 
+cite {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  font-style: normal;
+}
 
 /* Use mono font for code like elements */
 code,
 pre,
 kbd,
 samp {
+	font-family: var(--mono-font);
   color: var(--code);
 }
 
 kbd {
   border: 1px solid var(--code);
-  border-bottom: 3px solid var(--code);
+	border-bottom: 3px solid var(--code);
+  border-radius: 5px;
+  padding: .1rem;
 }
 
 pre {
+	padding: 1rem 1.4rem;
+	max-width: 100%;
   background: var(--code-bg);
   border: none;
   border-radius: 5px;
@@ -246,10 +372,16 @@ pre {
 /* Fix embedded code within pre */
 pre code {
     color: var(--code);
+    background: none;
+    margin: 0;
+    padding: 0;
 }
 
 div.scrollmenu {
+  padding: 0 .1rem;
   background-color: var(--bg);
+  overflow: auto;
+  white-space: nowrap;
 }
 
 div.scrollmenu a {
@@ -261,13 +393,6 @@ div.scrollmenu a {
 div.scrollmenu a:hover {
 	opacity:0.8;
 }
-
-mark {
-	padding: 3px 6px;
-	border-radius: 5px;
-	background: var(--accent-light);
-}
-
 
 #myBtn {
   /*display: none; Hidden by default */
@@ -324,3 +449,12 @@ mark {
 	border-radius: 5px;
 	max-width: 40%;
 }
+
+.comment-content blockquote {
+	padding: 0 .2rem;
+}
+
+.comment-content ul {
+	padding-left: 2.5rem;
+}
+

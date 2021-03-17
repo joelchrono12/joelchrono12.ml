@@ -23,7 +23,7 @@ They recently got a very nice redesign that gets rid of the Holo interface for s
 
 I keep a backup of the full database thanks to Syncthing, similarly of [how I manage my RSS feeds](/rss-usage/). but it allows to export to simple OPML files too, but I like the stats it gives me, so saving them for everytime I [reboot my phone](/changing-android-rom) is quite nice.
 
-## Some podcasts suggestions. 📻
+# Some podcasts suggestions. 📻
 
 I have a lot of subbed podcasts that I listen from time to time, but these are a few that I consistently listen to, or that are finished shows that I enjoyed.
 
@@ -37,7 +37,7 @@ I have a lot of subbed podcasts that I listen from time to time, but these are a
 * [**Crime Junkie:**](https://feeds.megaphone.fm/ADL9840290619) I listen to this one from time to time, but not a lot lately. The first episode I listened of it was too good though.
 * [**The Bright Sessions:**](https://feeds.megaphone.fm/thebrightsessions) A psychologist who treats special people who have powers, a bit too dramatical for me sometimes, and I am a bit stuck due to lack of time. But pretty good.
 
-## ## Finishing up 
+# Finishing up 
 
 There is another FOSS podcasts app that I quite like, named [Tsacdop](https://github.com/stonega/tsacdop), this one is not developed by a whole community like Antennapod, so it is still quite in its early stages, but you can still try it out, since it has a very unique feel to it, I really love its layout.
 
