@@ -28,11 +28,13 @@
 }
 
 header{
-  background: var(--accent-bg);
+  width: 100vw;
   text-align: center;
 }
 header p {
-  margin: 0 2rem;
+  width: auto;
+  padding: 0 0.8rem;
+  
 }
 html {
   scroll-behavior: smooth;
