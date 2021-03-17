@@ -29,10 +29,13 @@
 
 header{
   background: var(--accent-bg);
+  text-align: center;
+}
+header p {
+  margin: 0 2rem;
 }
 html {
   scroll-behavior: smooth;
-  font-size: 16px;
 }
 
 h2:before {
@@ -56,18 +59,12 @@ nav {
   text-align: center;
   font-size: 1rem;
   line-height: 2;
-  padding: 1rem 0;
 }
 
 nav a {
-  margin: 1rem .5rem 0 0;
   background: var(--border);
-  border: 1px solid var(--border);
   border-radius: 8px;
   color: var(--bg) !important;
-  display: inline-block;
-  padding: .1rem 1rem;
-  text-decoration: none;
   transition: .2s;
 }
 
@@ -75,24 +72,12 @@ nav a:hover {
   color: var(--bg) !important;
   border-color: var(--border);
   background: var(--border);
-  opacity: 0.8;
+  opacity: 0.7;
 }
 
 nav a.current:hover {
   text-decoration: none;
 }
-
-
-/* Reduces header padding on smaller screens */
-@media only screen and (max-width: 1200px) {
-  header {
-    padding: 1rem;
-  }
-  nav {
-    text-align: center;
-  }
-}
-
 
 /* Format links & buttons */
 
