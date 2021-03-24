@@ -312,3 +312,17 @@ mark {
 	border-radius: 5px;
 	max-width: 40%;
 }
+
+.posttag, .posttag:visited {
+  background-color: var(--accent); /* Green */
+  padding: .1rem .5rem;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: .9rem;
+  color: var(--bg);
+}
+
+.posttag:hover{
+  color: var(--bg);
+  opacity: 0.8;
+}

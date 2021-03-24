@@ -41,7 +41,7 @@ While Pale Moon is kinda cool and it feels nice to be so different and unique, i
 
 Anyways, this was day 26 of [#100DaystoOffload](https://100DaystoOffload.com). I hope that you learned something from this! And if you did not, take this pretty epic alias to edit your latest blog post when you messed it up!
 
-```
+```bash
 # Assuming your files have the format year-month-day-filename.md
 # Also change ur editor if you so wish
 alias vb='cd ~/path/to/blogs && nvim $(ls -a | sort -r | head -n 1)'
