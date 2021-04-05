@@ -26,19 +26,38 @@
   --code-bg: #2e3440;
 
 }
-
-header{
-  width: 100vw;
-  padding: .6rem 0rem;
-  text-align: center;
+*{
+  box-sizing: border-box;
 }
+header{
+  z-index: 0;
+  width: 100vw;
+  border: none;
+  padding-bottom: 4rem;
+}
+body{
+  padding: 0 1.126rem;
+}
+footer {
+  background: var(--accent-bg);
+  width: 100vw;
+  margin-top: 1rem;
+  position: relative;
+  padding: 2rem 1rem .5rem 1rem;
+  padding-top: 5rem;
+  color: var(--text-light);
+  font-size: .9rem;
+  text-align: center;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  border: none;
+}
+
 header p {
   width: auto;
-  padding: 0 0;
   
-}
-html {
-  scroll-behavior: smooth;
 }
 
 h2:before {
@@ -325,4 +344,25 @@ mark {
 .posttag:hover{
   color: var(--bg);
   opacity: 0.8;
+}
+
+.top-svg{
+  z-index: -1;
+  fill: var(--accent-bg);
+  background: var(--bg);
+  height: 5rem;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.bottom-svg{
+  fill: var(--accent-bg);
+  background: var(--bg);
+  height: 5rem;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
 }

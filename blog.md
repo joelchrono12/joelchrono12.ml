@@ -13,18 +13,18 @@ Welcome to the blog archive, here you can access every blog I have done, they ar
   <h1>{{ year.name }}</h1>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
-<details><summary>{{ month.name }}</summary>
+<h2>{{ month.name }}</h2>
 <ul>
   {% for post in month.items %}
    <li>
    <a href="{{ post.url }}">{{ post.title }}</a><br>
+	   📅 {{ post.date | date: "%Y-%m-%d" }} 
 	 {% for tag in post.tags %}
     <a class="posttag" href="/tags/{{ tag }}">{{ tag }}</a>  
 	 {% endfor %}
-		📅 {{ post.date | date: "%Y-%m-%d" }} <br>{{ post.description }}
-    </li>
+	  <br>{{ post.description }}
+   </li>
   {% endfor %}
 	</ul>
-	</details>
 {% endfor %}
 {% endfor %}
