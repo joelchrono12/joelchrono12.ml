@@ -24,7 +24,7 @@ The series is about a nerdy developer who gets his head frozen and turned into a
 
 According to my Screen Time, during my first week of vacation, *I spent 30+ hours reading, completing 3 of the 4 books of the Bobiverse series, totaling around 700 pages*. And this week I will keep reading the 4th book, which has around 400 pages. 
 
-I am not saying all of this to brag or anything, I know people who read more as well as people who don't care. The point is, I had never read so much in such a short amount of time, had I?
+I am not saying all of this to brag or anything, I know people who read more as well as people who don't care. The point is, I had never read so much in such a short amount of time.
 
 # 🖊️ My favorite genre
 
