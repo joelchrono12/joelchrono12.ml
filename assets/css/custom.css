@@ -1,8 +1,8 @@
 :root {
 
   /* Set sans-serif & mono fonts */
-  --sans-font:-apple-system,BlinkMacSystemFont,Lato,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-  --mono-font:"mononoki Nerd Font","Ubuntu Mono","Fira Code","Fira Mono",Consolas,Menlo,Monaco,"Andale Mono","Droid Sans Mono",monospace;
+  --sans-font:-apple-system,BlinkMacSystemFont,"Ubuntu",Lato,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
+  --mono-font: "Ubuntu Mono","DejaVu Sans Mono","PT Mono","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
 
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
   --base-fontsize: 1.21rem;
@@ -27,6 +27,8 @@
 
 }
 *{
+  font-family:var(--sans-font);
+
   box-sizing: border-box;
 }
 header{
@@ -39,6 +41,7 @@ body{
   padding: 0 1.126rem;
 }
 footer {
+  z-index: 0;
   background: var(--accent-bg);
   width: 100vw;
   margin-top: 1rem;
@@ -350,7 +353,8 @@ mark {
   z-index: -1;
   fill: var(--accent-bg);
   background: var(--bg);
-  height: 5rem;
+  height: auto;
+  max-height: 5rem;
   width: 100%;
   position: absolute;
   left: 0;
@@ -360,9 +364,12 @@ mark {
 .bottom-svg{
   fill: var(--accent-bg);
   background: var(--bg);
-  height: 5rem;
+  height: auto;
+  max-height: 5rem;
   width: 100%;
   position: absolute;
   left: 0;
   top: 0;
 }
+
+
