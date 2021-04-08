@@ -583,8 +583,8 @@ footer h2 {
   display: inline-block;
   fill: var(--accent-bg);
   max-height: 20%;
-  width: 2.5rem;
-  margin: 0 10px;
+  width: 2.2rem;
+  margin: 0 .2rem;
   position: relative;
   transition:.4s
 }
