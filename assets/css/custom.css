@@ -120,20 +120,36 @@ a:hover {
 }
 
 .button,.button:visited{
-  margin: 0 .1rem; 
+  margin: 0 auto; 
   color: var(--bg);
   text-decoration: none;
   background-color: var(--accent); /* Green */
   border-radius: 5px;
-  padding: .1rem .5rem;
+  padding: 1rem 2rem;
   display: inline-block;
   font-size: 16px;
   transition: .2s
 }
 
-.button:hover{
+.reply-button,.reply-button:visited{
+  margin: 0 auto;
   color: var(--bg);
+  text-decoration: none;
   background-color: var(--accent); /* Green */
+  border-radius: 5px;
+  padding: .6rem 2rem;
+  font-size: 16px;
+  transition: .2s;
+}
+
+.reply-button:hover{
+  text-align: center;
+  color: var(--bg);
+  opacity: .8;
+}
+
+
+.button:hover{
   border-radius: 5px;
   text-align: center;
   opacity: .8;
@@ -255,9 +271,10 @@ mark {
 
 .avatar{
     opacity: 0.9;
-    width: 2.8rem;
     border-radius: 30%;
+    margin: .5rem .5rem;
     padding: 2px 2px;
+    float: left;
 }
 
 .comment-url{
@@ -267,15 +284,23 @@ mark {
 }
 
 .comment-content{
-  	text-decoration: none;
-  	margin: 1rem ;
-  	padding: 0.5rem 1rem 0.5rem 1rem;
-  	font-size: 1rem;
-  	border-radius: 5px;
+  text-decoration: none;
+  margin: 1rem 0 ;
+  padding: 1rem 1rem;
+  padding-left: 5rem;
+  font-size: 1rem;
+  border-radius: 5px;
 	line-height: var(--line-height);
 	background: var(--code-bg);
 }
-
+.comment-date{
+  text-decoration: none;
+  float: right;
+  font-size: .8rem;
+}
+.comment-author,.mastodon-comment-content a{
+  text-decoration: none;
+}
 .comment-content h1,.comment-content h2,.comment-content h3,.comment-content h4,.comment-content h5,.comment-content h6 {
 	margin: var(--line-height) * 0.3rem;
 	font-size: 1.2rem;
@@ -283,7 +308,6 @@ mark {
 }
 
 .comment-content img{
-	margin-left: 2rem;
 	border-radius: 5px;
 	max-width: 40%;
 }
@@ -597,7 +621,6 @@ footer h2 {
   position:relative;
   bottom:0;
   border: 1px;
-  border-color: red;;
 }
 
 .game-box{

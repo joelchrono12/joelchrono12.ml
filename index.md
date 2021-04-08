@@ -11,12 +11,11 @@ Welcome to my corner of the internet, I hope you like this place, I am still wor
 # Latest blogs
 
 {% for post in site.posts limit:3 %}
-  <div><a href="{{ post.url }}">{{ post.title }}</a><br>
+  <div><a href="{{ post.url }}" >{{ post.title }}</a><br>
   📅 - {{ post.date | date_to_string }}<br>
   {{ post.description }} <br>
   </div>
 {% endfor %}
-
 
 # My games and projects
 
@@ -31,7 +30,3 @@ You can also access a mirror of this site on your gemini client if you so wish, 
 ---
 
 This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
-
-
-
-

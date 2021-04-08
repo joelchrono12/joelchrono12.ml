@@ -5,6 +5,9 @@ description: I have been trapped into a new book series and I have never read so
 tags: reading lifestyle thoughts ramble 
 permalink: /blog/reading-a-lotta-books/ 
 layout: post 
+com_id: 106018619139281939
+host: "fosstodon.org"
+username: "joeligj12"
 date: "2021-04-05 20:35:32 -0600" 
 --- 
 
