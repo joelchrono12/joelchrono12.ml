@@ -13,24 +13,20 @@
   </head>
   <body>
   <a name="top"></a>
-      <header>
-      	<h1>{{ page.header }}</h1>
-
-      	<p>{{ page.description }}</p>
-      	{% include navigation.html %}
-        <svg class="top-svg" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path d="M0,30.3C48.69,62.5,89.37,70,118.38,70.45,216,72,261.22,26.55,333.32,20.64c51.62-4.22,38.34,50.12,86,53.13C454.52,76,480,43.53,500,18.53V0H0Z"/></svg>
-      </header>
-      <main>
-      	{{ content }}
-
-      </main>
-
-      <footer>
-        <svg preserveAspectRatio="none" class="bottom-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path class="cls-1" d="M500,60.89c-48.69-32.2-89.37-39.68-118.38-40.15C284,19.15,238.78,64.64,166.68,70.55c-51.62,4.22-38.34-50.12-86-53.13C45.48,15.19,20,47.66,0,72.66V91.19H500Z" transform="translate(0 -17.31)"/></svg>
-
-       <a href="https://512kb.club"><img src="https://512kb.club/images/green-team.svg" /></a> 
-	<p>This site was created by <a rel="me" href="https://fosstodon.org/@joeligj12">joelchrono12</a> and was made using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://simplecss.org">Simple.css</a>.</p>
-      </footer>
-  </body>
-  <script data-goatcounter="https://21569389.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
- </html>
+	<header>
+		<h1>{{ page.header }}</h1> 
+    <p>{{page.description}}</p>
+    {% include navigation.html %}
+    <svg class="top-svg" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path d="M0,30.3C48.69,62.5,89.37,70,118.38,70.45,216,72,261.22,26.55,333.32,20.64c51.62-4.22,38.34,50.12,86,53.13C454.52,76,480,43.53,500,18.53V0H0Z"/></svg>
+	</header>
+	<main>
+		{{ content }}
+	</main>
+	<footer>
+		<svg preserveAspectRatio="none" class="bottom-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path class="cls-1" d="M500,60.89c-48.69-32.2-89.37-39.68-118.38-40.15C284,19.15,238.78,64.64,166.68,70.55c-51.62,4.22-38.34-50.12-86-53.13C45.48,15.19,20,47.66,0,72.66V91.19H500Z" transform="translate(0 -17.31)"/></svg>
+    {% include recentposts.html %}
+				</footer><!-- #colophon -->
+			</div><!-- #page -->
+	</body>
+	<script data-goatcounter="https://21569389.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</html>

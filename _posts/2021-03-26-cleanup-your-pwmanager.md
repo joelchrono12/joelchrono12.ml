@@ -21,7 +21,7 @@ I chose the latter, and to be honest, I am quite happy with the results. Bitward
 
 But honestly, I am not here to tell you which password manager to use, if you are switching to a new one, or if you just have some time. **you should do some house keeping**.
 
-# Get rid of weak passwords 🔑
+# 🔑 Get rid of weak passwords 
 
 One of the features Bitwarden locks behind a paywall, is the ability to look for **duplicated passwords**. I was aware of the existence of multiple accounts sharing the same passwords. Back when I switched to Bitwarden, I was using my browser's built-in autofill feature (don't do that please), but I still used the same password *everywhere*. And I had been living with that for years. 
 
@@ -29,13 +29,13 @@ You are probably doing that too for some of your accounts, I suggest you to do y
 
 There is something **important** to keep in mind. If you come from LastPass (or any other proprietary manager), you should consider **changing all of your passwords**. You really have no idea of what they are doing behind the curtains. For all you know, they might release all of your information to the Web the moment you stopped using their service (or even if you still are).
 
-# Get rid of your old accounts 💀
+# 💀 Get rid of your old accounts 
 
 Funnily enough, the moment I started going through all of those accounts with repeated passwords, I realized I had a bunch of accounts that were deactivated, breached or were from a dead website/forum. 
 
 I have been deleting accounts I don't need, changing the passwords of those I have to keep, and requesting the deletion of some that don't offer any way to delete them myself. So far, **my recycle bin contains 64 accounts** and counting, which will get automatically deleted after a certain time (quite handy if I require to get some back).
 
-# Enjoy a cleaner, private and epic setup ✨
+# ✨ Enjoy a cleaner, private and epic setup
 
 Maybe you have heard of **Inbox Zero**, the digital minimalism practice where you get rid of all of your old emails that you won't really read. Well I have never really done that. But I assure you that it **does not feel as great** as having a completely tidy and well organized database of passwords and accounts. 
 

@@ -7,11 +7,5 @@
 - name: About
   link: /about
 
-- name: Contact
-  link: /contact
-  
-- name: RSS
-  link: /feed.xml
-
 - name: Tags
   link: /tags
