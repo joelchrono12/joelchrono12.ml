@@ -8,6 +8,7 @@ layout: post
 date: "2021-04-08 16:52:44 -0500" 
 com_id: 106032127692171891
 host: fosstodon.org
+comments_id: 7
 username: joeligj12
 --- 
 Lately, as you can see, I have been adding many little details to this website, in order to make it my own even more.

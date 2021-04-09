@@ -270,11 +270,18 @@ mark {
 }
 
 .avatar{
-    opacity: 0.9;
-    border-radius: 30%;
+    opacity: 0.8;
+    border-radius: 20%;
     margin: .5rem .5rem;
     padding: 2px 2px;
     float: left;
+}
+
+.gh-avatar{
+  width: 40px;
+  height: auto;
+  opacity: 0.9;
+  border-radius: 30%;
 }
 
 .comment-url{

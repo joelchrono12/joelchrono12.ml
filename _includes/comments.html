@@ -21,25 +21,25 @@ request.onload = function() {
 };
 
 function createCommentEl( response ) {
-	let user = document.createElement( 'p' );
+	let user = document.createElement( 'div' );
+		user.classList.add('mastodon-comment')
 		user.setAttribute( 'href', response.user.url.replace( 'api.github.com/users', 'github.com' ) );
 		user.classList.add( 'user' );
 
 	let userAvatar = document.createElement( 'img' );
 		userAvatar.classList.add( 'avatar' );
+	userAvatar.setAttribute('height', 60 )
+	userAvatar.setAttribute('width', 60 )
 		userAvatar.setAttribute( 'src', response.user.avatar_url );
-
 		user.appendChild( userAvatar );
 
 	let commentLink = document.createElement( 'a' );
 		commentLink.setAttribute( 'href', response.html_url );
 		commentLink.classList.add( 'comment-url' );
 		commentLink.innerHTML = '#' + response.id + ' - ' + response.created_at;
-		
 		user.appendChild (commentLink)
-
-	let commentContents = document.createElement( 'p' );
-		commentContents.classList.add( 'comment-content' );
+	let commentContents = document.createElement( 'div' );
+		commentContents.classList.add('mastodon-comment-content')
 		commentContents.innerHTML = response.body;
 	// Progressive enhancement.
 	if ( window.showdown ) {
@@ -47,30 +47,22 @@ function createCommentEl( response ) {
 		commentContents.innerHTML = converter.makeHtml( response.body );
 	}
 
-	let comment = document.createElement('p');
+	let comment = document.createElement('div');
+	comment.classList.add( 'comment-content' );
 	comment.setAttribute( 'data-created', response.created_at );
 	comment.setAttribute( 'data-author-avatar', response.user.avatar_url );
 	comment.setAttribute( 'data-user-url', response.user.url );
 
-	comment.appendChild( user );
-	//comment.appendChild( commentLink );
+	user.appendChild( comment );
+	comment.appendChild( commentLink );
 	comment.appendChild( commentContents );
-
-	
-	return comment;
+	return user;
 }
-
 request.send();
 </script>
-
 <div class="github-comments">
 	<h2>Comments</h2>
-	<p>You will need a Github account to <a id="leave-a-comment" href="https://github.com/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}" class="button"> Leave a comment </a></p>
-	<details>
-  	<summary>View / Hide comments</summary>
-  	<p id="gh-comments-list"></p>
-	  <p id="no-comments-found">No more comments found for this post.</p>
+	<p>You will need a Github account to <a id="leave-a-comment" href="https://github.com/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}" class="button"> Reply with Github </a></p>
+  	<details id="gh-comments-list"><summary>Github Comments</summary>
 	</details>
-	
 </div>
-

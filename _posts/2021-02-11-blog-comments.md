@@ -8,6 +8,9 @@ tags: foss linux programming
 permalink: /adding-comments-blog/
 layout: post
 comments_id: 1
+com_id: 105713382289696745
+host: fosstodon.org
+username: joeligj12
 
 ---
 
