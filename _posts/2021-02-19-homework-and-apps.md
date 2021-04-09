@@ -6,8 +6,9 @@ tags: android foss
 description: "I am about to go back to school, and I decided to share some apps that are FOSS and I found this weekend :D"
 permalink: /blog/homework-foss-apps/
 layout: post
-comments_id: 6
-
+com_id: 105760540498289775
+host: fosstodon.org
+username: joeligj12
 ---
 
 So, today I was not going to have time to do my blog, and at the same time, I have been thinking about doing stuff for the sake of getting it out of the way and do nothing for the rest of the day. I am talking about *homework*. 

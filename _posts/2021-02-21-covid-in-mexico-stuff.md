@@ -6,7 +6,9 @@ tags: ramble thoughts
 description: "Sharing how is COVID in a small town where people just keep minding their own business"
 permalink: /blog/covid-mexico-stuff/
 layout: post
-
+com_id: 105772617026571299
+host: fosstodon.org
+username: joeligj12
 ---
 
 In my country, Mexico, This pandemic is quite trendy, and its the only thing they talk about on TV news. We can look at the stats and see the big amount of people flooding local hospitals and passing away due to the disease. I am not going to deny the impact of the virus here, I know people who now are gone because of it.

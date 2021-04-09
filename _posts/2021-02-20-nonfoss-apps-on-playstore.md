@@ -7,7 +7,9 @@ description: "A bit of reflection on the Android community, some questions. Can 
 permalink: /blog/android-apps-not-foss/
 layout: post
 comments_id: 6
-
+com_id: 105764763413940055
+host: fosstodon.org
+username: joeligj12
 ---
 
 Yeah I am still talking about the Android ecosystem, I have a few thoughts about it that sparked this morning.

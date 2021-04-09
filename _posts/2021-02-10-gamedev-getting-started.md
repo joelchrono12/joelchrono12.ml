@@ -6,6 +6,9 @@ description: How I got into game development (And how you can too)
 tags: gamedev foss programming
 permalink: /blog/gamedev-getting-started/
 layout: post
+com_id: 105708324349870881
+host: fosstodon.org
+username: joeligj12
 ---
 
 Years ago, for reasons I don't remember today, I did some basic research on how to make my own videogames. Back then I was just a kid, who only spoke Spanish, and years ago there were not a lot of resources and tutorials on Youtube, or at least *I was completely unaware of them*. With my limited knowledge I found the following options.

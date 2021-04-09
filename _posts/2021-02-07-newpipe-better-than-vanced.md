@@ -6,6 +6,9 @@ description: I started using Newpipe, I gave it a serious try, and I am sharing 
 tags: android googleless foss
 permalink: /newpipe-over-vanced/
 layout: post
+com_id: 105692791857538293
+host: fosstodon.org
+username: joeligj12
 ---
 
 # Trying to avoid Youtube 🎥

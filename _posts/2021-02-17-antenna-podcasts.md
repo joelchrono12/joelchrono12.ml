@@ -7,7 +7,9 @@ description: "My favorite podcast app, open source and customizable"
 permalink: /blog/antenna-podcasts/
 layout: post
 comments_id: 6
-
+com_id: 105748458285929660
+host: fosstodon.org
+username: joeligj12
 
 ---
 

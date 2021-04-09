@@ -6,8 +6,9 @@ tags: android foss lifestyle linux googleless thoughts ramble
 description: "How I am using tech, social media on my life? and I dont even know what else I am saying, oh, yes, FOSS too!"
 permalink: /blog/tech-on-my-life/
 layout: post
-comments_id: 7
-
+host: fosstodon.org
+username: joeligj12
+com_id: 105754407524466101
 ---
 
 So recently I have been thinking around the way I think and use technology and software, the way I apply it to my life (not really tbh). There are certain aspects of my mindset that I consider very important, I have been applying some of them ever since I got my first piece of technology, and others have become more and more important for my life as time goes on.

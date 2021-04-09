@@ -6,6 +6,9 @@ tags: foss linux programming
 permalink: /blog/rofi-automated-blog/ 
 layout: post 
 date: "2021-03-14 19:33:26 -0600" 
+com_id: 105891498745925801
+username: joeligj12
+host: fosstodon.org
 --- 
 
 Oh yeah! Automation in Linux is not stopping! As you read in the title, I have decided to keep working on my [previous script](/blog/making-a-script-to-blog)!, where I wanted to get rid of the hassle of setting up all of the metadata and placement of making new posts for this website.

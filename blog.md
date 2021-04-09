@@ -20,7 +20,6 @@ permalink: /blog/
 	 {% for tag in post.tags %}
     <a class="posttag" href="/tags/{{ tag }}">{{ tag }}</a>  
 	 {% endfor %}
-	  <br>{{ post.description }}
    </li>
   {% endfor %}
 	</ul>

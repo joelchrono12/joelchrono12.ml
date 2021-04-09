@@ -632,7 +632,7 @@ footer h2 {
 
 .game-box{
   border-radius: 8px;
-  background: var(--accent-bg);
+  background: var(--code-bg);
   padding: .5rem 1rem;
   min-width: 280px;
   float: left;

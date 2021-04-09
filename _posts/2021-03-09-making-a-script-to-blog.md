@@ -6,6 +6,9 @@ tags: linux programming tutorial
 description: I tried to make a script to automate the creation of this blog, as a proper linux user should (kinda). And some blog CSS changes
 permalink: /blog/making-a-script-to-blog/
 layout: post
+com_id: 105863415037120456
+username: joeligj12
+host: fosstodon.org
 ---
 As the title said, I have been playing with some bash scripting since I was kinda bored. I was thinking about a blog made by [Kev](https://kevq.uk/the-wonderful-world-of-wordpress-wizardry-for-working-with-websites/), where he expressed how he moved away from Jekyll and back to WordPress. Now, I have never used WP, so I don't really know how many advantages, besides the mentioned in his blog, it has.
 

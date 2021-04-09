@@ -7,7 +7,9 @@ tags: foss linux
 description: "I have decided to try and write a blog on Nvim, it is quite easy until it is not, but I will get used to it"
 permalink: /blog/blogging-from-terminal/
 layout: post
-
+com_id: 105823323477857806
+host: fosstodon.org
+username: joeligj12
 ---
 
 So, up until now I have been using [Typora](https://typora.io/), a markdown text editor that I decided to use, mainly because of the spell checking capabilities that it offers.

@@ -6,6 +6,9 @@ tags: lifestyle ramble thoughts
 description:  Yesterday I got my bike fixed, and today I wanted to use it, but I guess that everyday does not go the way you expect it to go
 permalink: /blog/biking-doing-nothing
 layout: post
+com_id: 105869138201600680
+username: joeligj12
+host: fosstodon.org
 ---
 
 The last few days, I realized my physical shape is not the greatest. My life is not too healthy, I am not obese nor too skinny or anything, but I know I could be better. I decided I wanted to do some biking and exercise a bit, and since my bicycle was in need of reparations, I needed to move.

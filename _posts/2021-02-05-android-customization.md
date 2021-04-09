@@ -5,6 +5,9 @@ tags: android
 description: A bit of rambling talking about android customization and my favorite launchers
 permalink: /android-launchers/
 layout: post
+com_id: 105680459678439499
+host: fosstodon.org
+username: joeligj12
 ---
 
 #  How everything started

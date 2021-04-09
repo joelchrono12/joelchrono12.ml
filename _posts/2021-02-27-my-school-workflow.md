@@ -6,7 +6,9 @@ tags: foss school linux lifestyle tutorial
 description: "How I make my assignments for my University, at least when they don't make me write everything by hand for some weird reason."
 permalink: /blog/doing-school-work/
 layout: post
-
+com_id: 105806832145119898
+host: fosstodon.org
+username: joeligj12
 
 ---
 

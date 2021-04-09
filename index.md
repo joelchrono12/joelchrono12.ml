@@ -11,9 +11,9 @@ Welcome to my corner of the internet, I hope you like this place, I am still wor
 # Latest blogs
 
 {% for post in site.posts limit:3 %}
-  <div><a href="{{ post.url }}" >{{ post.title }}</a><br>
-  📅 - {{ post.date | date_to_string }}<br>
-  {{ post.description }} <br>
+  <div class="game-box"><a href="{{ post.url }}" >{{ post.title }}</a>
+  <br><em>{{ post.description }}</em><br>
+  📅  {{ post.date | date:"%Y-%m-%d"}}<br>
   </div>
 {% endfor %}
 
@@ -26,6 +26,7 @@ Welcome to my corner of the internet, I hope you like this place, I am still wor
 You can also access a mirror of this site on your gemini client if you so wish, there might be a bit of delay, but eventually you will get it :D
 
 <a href="gemini://gemlog.blue/users/joelchrono12/1612572527.gmi" class="button">Visit gemini capsule</a>
+
 
 ---
 

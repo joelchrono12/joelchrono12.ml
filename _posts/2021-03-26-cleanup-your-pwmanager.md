@@ -6,6 +6,9 @@ tags: foss tutorial linux privacy
 permalink: /blog/cleanup-your-pwmanager/ 
 layout: post 
 date: "2021-03-26 18:59:30 -0600" 
+com_id: 105959292261665856
+host: fosstodon.org
+username: joeligj12
 --- 
 
 I am pretty sure that most people reading this are aware of the changes LastPass did to their free-tier customers. A lot of articles already talked about that, and some might be in the process of switching to a different service, to host their own or to use an offline solution. 

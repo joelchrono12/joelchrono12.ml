@@ -6,6 +6,9 @@ tags: foss programming tutorial ramble
 permalink: /blog/changing-blog-sorting/ 
 layout: post 
 date: "2021-03-23 21:14:02 -0600" 
+com_id: 105959292261665856
+host: fosstodon.org
+username: joeligj12
 --- 
 
 So, at this point you should not be surprised at a blog that talks about making and optimizing the way this blog is done. I already made some posts talking about the way I made [creating blogs easier](/blog/rofi-automated-blog) for me, so now I will talk a bit more, but this time about the blog layout itself. 

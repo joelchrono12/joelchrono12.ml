@@ -7,6 +7,9 @@ date: "2021-02-13 14:10:00 -0600"
 layout: post
 tags: lifestyle
 comments_id: 3
+com_id: 105725844063809452
+host: fosstodon.org
+username: joeligj12
 ---
 
 This was written right before I finished cleaning the floor of my house. So I decided to write about it. It is going to be a shorter read that usual.

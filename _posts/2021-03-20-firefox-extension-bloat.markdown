@@ -5,7 +5,10 @@ description: I know that extensions can make you easier to track, but sometimes 
 tags: foss linux 
 permalink: /blog/firefox-extension-bloat/ 
 layout: post 
-date: "2021-03-20 22:49:42 -0600" 
+date: "2021-03-20 22:49:42 -0600"
+com_id: 105925990212839674
+host: fosstodon.org
+username: joeligj12
 --- 
 
 Lately, I have been trying to stay away from Firefox a little bit more, I guess that the drama around it got to me and I decided to go out and look for alternatives. I am a huge fan of browsers like Vivaldi or Brave, and I don't really care about the problems that some people have with them, especially in the Linux and Open source community. 
