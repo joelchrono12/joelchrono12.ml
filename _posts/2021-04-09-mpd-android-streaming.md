@@ -8,7 +8,7 @@ layout: post
 date: "2021-04-09 19:46:47 -0500" 
 host: Fosstodon.org 
 username: joeligj12 
-com_id: 106038790088739146 
+com_id: 106038796524852893
 --- 
 
 So, this morning I was watching a video by HexDSL, where he rambles about many things (as usual). However, he mentioned something that got my attention. He is now streaming music to his phone[^1], using [MPD](https://www.musicpd.org/).
