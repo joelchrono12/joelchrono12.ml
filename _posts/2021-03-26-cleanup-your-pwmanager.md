@@ -11,7 +11,7 @@ host: fosstodon.org
 username: joeligj12
 --- 
 
-I am pretty sure that most people reading this are aware of the changes LastPass did to their free-tier customers. A lot of articles already talked about that, and some might be in the process of switching to a different service, to host their own or to use an offline solution. 
+I am pretty sure that most people reading this are aware of the changes LastPass did to their free-tier customers. A lot of articles already talked about that, and some might be in the process of switching to a different service, to host their own or to use an offline solution.
 
 I have been an huge fan of [Bitwarden](https://bitwarden.com/), which Wikipedia page states:
 
@@ -28,7 +28,7 @@ But honestly, I am not here to tell you which password manager to use, if you ar
 
 One of the features Bitwarden locks behind a paywall, is the ability to look for **duplicated passwords**. I was aware of the existence of multiple accounts sharing the same passwords. Back when I switched to Bitwarden, I was using my browser's built-in autofill feature (don't do that please), but I still used the same password *everywhere*. And I had been living with that for years. 
 
-You are probably doing that too for some of your accounts, I suggest you to do yourself a favor and change those passwords as soon as you can. Thankfully, KeepassXC can show me duplicated passwords, and if you are self-hosting or paying for Bitwarden, you can have that functionality for free too.
+You are probably doing that too for some of your accounts, I suggest you to do yourself a favor and change those passwords as soon as you can. Luckily, KeepassXC can show me duplicated passwords, and if you are self-hosting or paying for Bitwarden, you can have that functionality too.
 
 There is something **important** to keep in mind. If you come from LastPass (or any other proprietary manager), you should consider **changing all of your passwords**. You really have no idea of what they are doing behind the curtains. For all you know, they might release all of your information to the Web the moment you stopped using their service (or even if you still are).
 

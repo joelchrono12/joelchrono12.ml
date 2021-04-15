@@ -1,17 +1,22 @@
 ---
 layout: default
 ---
-
-<p> 🗓️ <mark> {{ page.date | date_to_string }}</mark>
-
-<div class="scrollmenu">🏷️
+{% capture count_words %}
+{{ content | number_of_words }}
+{% endcapture %}
+{% capture time_words %}
+{{count_words | divided_by: 5}}
+{% endcapture %}
+ <br><small>📅  {{ page.date | date_to_string }}
+ 📝{{ count_words }} words  ⌚  ~{{ time_words | divided_by: 60 }} min.</small>
+<br>🏷️
+<small class="scrollmenu">
 	{% for tag in page.tags %}
-	<a href="/tags/{{ tag }}" class="button" >{{ tag }} </a>
+	<a href="/tags/{{ tag }}">{{ tag }}</a> |
 	{% endfor %}
-</div> 
+</small>
 
-</p>
-
+<hr>
 {{ content }}
 
 <h1>Comments</h1> 
@@ -26,4 +31,4 @@ layout: default
 {% endif %}
 <hr>
 
-<p>If you don't see an option to put comments, or if you don't want to, you can contact me ✉ by clicking any icon in the "Get in touch" section of the bottom of this page.</p>
+<p>If you don't see an option to put comments, or if you don't want to, you can contact me ✉️ by clicking any icon in the "Get in touch" section of the bottom of this page.</p>

@@ -1,20 +1,13 @@
 :root {
-
   /* Set sans-serif & mono fonts */
-  --sans-font:-apple-system,BlinkMacSystemFont,"Ubuntu",Lato,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-  --mono-font: "Ubuntu Mono","DejaVu Sans Mono","PT Mono","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
-
+  --sans-font: Lato,-apple-system,BlinkMacSystemFont,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
+  --mono-font: "Ubuntu Mono","Roboto Mono","DejaVu Sans Mono","PT Mono","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-  --base-fontsize: 1.21rem;
-
+  --base-fontsize: 1.16rem;
   /* Major third scale progression - see https://type-scale.com/ */
-  --header-scale: 1.125;
-
+  --header-scale: 1.08;
   /* Line height is set to the "Golden ratio" for optimal legibility */
-  --line-height: 1.6;
-
-  /* Dark theme */
-
+  --line-height: 1.52;
   --bg: #242933;
   --accent-bg: #3b4252;
   --text: #eceff4;
@@ -25,11 +18,13 @@
   --code: #ebcb8b;
   --code-bg: #2e3440;
 
+
+  --gap: 24px;
+  --nav-width: 1028px;
 }
 *{
-  font-family:var(--sans-font);
-
   box-sizing: border-box;
+  font-family: var(--sans-font);
 }
 
 html{
@@ -43,6 +38,11 @@ header{
 }
 body{
   padding: 0 1.126rem;
+  max-width: 50rem;
+}
+p{
+  margin: 0 0;
+  margin-bottom: .4rem;
 }
 footer {
   z-index: 0;
@@ -63,10 +63,6 @@ footer {
   border: none;
 }
 
-header p {
-  width: auto;
-  
-}
 
 h2:before {
     content: "# ";
@@ -85,16 +81,12 @@ h6:before {
 }
 
 /* Format navigation */
-nav {
-  text-align: center;
-  font-size: 1rem;
-  line-height: 2;
-}
 
 nav a {
   background: var(--border);
-  display: inline-table;
   color: var(--bg) !important;
+  margin: 0 .5rem;
+  border-radius: 8px;
 }
 
 nav a:hover {
@@ -106,6 +98,87 @@ nav a:hover {
 
 nav a.current:hover {
   text-decoration: none;
+}
+.top-nav{
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: calc(var(--nav-width) + var(--gap) * 2);
+}
+
+.title, .menu {
+    margin-left: var(--gap);
+    margin-right: var(--gap);
+}
+header h1{
+  line-height: 2;
+  font-size: 2.1rem;
+}
+
+/* Headers */
+
+/* Format headers */
+h1 {
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
+  margin-top: calc(var(--line-height) * .5rem);
+  margin-bottom: calc(var(--line-height) * .2rem);
+}
+
+h2 {
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale));
+  margin-top: calc(var(--line-height) * .5rem);
+  margin-bottom: calc(var(--line-height) * .2rem);
+}
+
+h3 {
+  font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale));
+  margin-top: calc(var(--line-height) * .5rem);
+  margin-bottom: calc(var(--line-height) * .2rem);
+}
+
+h4 {
+  font-size: calc(var(--base-fontsize) * var(--header-scale));
+  margin-top: calc(var(--line-height) * .5rem);
+  margin-bottom: calc(var(--line-height) * .2rem);
+}
+
+h5 {
+  font-size: var(--base-fontsize);
+  margin-top: calc(var(--line-height) * .5rem);
+  margin-bottom: calc(var(--line-height) * .2rem);
+}
+
+h6 {
+  font-size: calc(var(--base-fontsize) / var(--header-scale));
+  margin-top: calc(var(--line-height) * .5rem);
+  margin-bottom: calc(var(--line-height) * .2rem);
+}
+
+.title a{
+  background:none;
+  color: var(--text) !important;
+  border: none;
+  margin: 0 0;
+  padding: 0 .2rem;
+  text-align: left;
+}
+
+.title a:hover{
+  background:none;
+  color: var(--text) !important;
+  border: none;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+}
+
+ul.menu{
+  padding-left: 0;
 }
 
 /* Format links & buttons */
@@ -119,35 +192,19 @@ a:hover {
 	text-decoration: none
 }
 
+
 .button,.button:visited{
   margin: 0 auto; 
   color: var(--bg);
   text-decoration: none;
   background-color: var(--accent); /* Green */
-  border-radius: 5px;
-  padding: 1rem 2rem;
+  padding: 0 .2rem;
+  margin: .2rem .1rem;
+  border-radius: 6px;
+  font-size: calc(var(--base-fontsize)*.8);
   display: inline-block;
-  font-size: 16px;
   transition: .2s
 }
-
-.reply-button,.reply-button:visited{
-  margin: 0 auto;
-  color: var(--bg);
-  text-decoration: none;
-  background-color: var(--accent); /* Green */
-  border-radius: 5px;
-  padding: .6rem 2rem;
-  font-size: 16px;
-  transition: .2s;
-}
-
-.reply-button:hover{
-  text-align: center;
-  color: var(--bg);
-  opacity: .8;
-}
-
 
 .button:hover{
   border-radius: 5px;
@@ -159,9 +216,9 @@ a:hover {
 details {
 	padding: .6rem 1rem;
 	background: var(--accent-bg);
-	border: 1px solid var(--border);
+	border: none;
 	border-radius: 5px;
-  	margin-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 summary {
@@ -169,29 +226,7 @@ summary {
 	font-weight: bold;
 }
 
-details[open] {
-	padding-bottom: .75rem;
-}
 
-details[open] summary {
-	margin-bottom: .5rem;
-}
-
-details[open]>*:last-child {
-	margin-bottom: 0;
-}
-
-.button,.button:visited{
-  margin: 0 .1rem; 
-  color: var(--bg);
-  text-decoration: none;
-  background-color: var(--accent); /* Green */
-  border-radius: 5px;
-  padding: .1rem .5rem;
-  display: inline-block;
-  font-size: 16px;
-  transition: .2s
-}
 
 .button:hover{
   color: var(--bg);
@@ -423,43 +458,6 @@ textarea {
 	font-weight: 400
 }
 
-@media screen and (max-width:768px) {
-	#site-navigation label {
-		display: inline-block;
-		color: var(--header-text)
-	}
-
-	nav {
-		padding-top: 0
-	}
-
-	#navitems a {
-		color: var(--text);
-		box-sizing: border-box;
-		display: block;
-		width: 100%
-	}
-
-	#navitems {
-		display: none
-	}
-
-	#site-navigation input:checked~#navitems {
-		display: block;
-		position: fixed;
-		background: var(--bg);
-		border: 3px solid var(--text);
-		text-align: left;
-		right: 1rem;
-		font-size: 1.25rem;
-		padding: .5rem;
-		z-index: 1
-	}
-
-	#site-navigation input:checked~#navitems a {
-		padding: .25rem .5rem
-	}
-}
 
 nav.navigation.posts-navigation {
 	margin: 0;
@@ -655,9 +653,18 @@ div.game-box h2{
   line-height: 1.5rem;
   margin-top: 0;
 }
+
 .game-box img{
   float: right;
   opacity: .8;
   max-width: 8rem;
   margin-left: .8rem;
+}
+
+.tagged-posts{
+  border-radius: 8px;
+  background: var(--code-bg);
+  padding: .5rem 1rem;
+  float: left;
+  margin: .5rem .5rem;
 }

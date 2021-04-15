@@ -1,28 +1,37 @@
 ---
 title: Home | joelchrono12
-header: Joelchrono12's space
-description: My personal blog, where you can see some of my thoughts and ramblings about tech, gaming and my hobbies
+header: Welcome to my space
+description: I am Joelchrono12, you are visiting my personal blog. Here you can see some of my thoughts and ramblings about tech, gaming and my hobbies. I hope you enjoy your visit!
 permalink: /
 layout: default
 ---
 
-Welcome to my corner of the internet, I hope you like this place, I am still working on it to make it as nice as possible :)
-
 # Latest blogs
 
 {% for post in site.posts limit:3 %}
-  <div class="game-box"><a href="{{ post.url }}" >{{ post.title }}</a>
-  <br><em>{{ post.description }}</em><br>
-  📅  {{ post.date | date:"%Y-%m-%d"}}<br>
-  </div>
+<p><a class="front-title" href="{{ post.url }}"> {{ post.title }}</a><br>
+<em>{{ post.description }}</em><br>
+<small>
+📅  {{ post.date | date:"%Y-%m-%d"}}
+ 🏷️
+{% for tag in post.tags %}
+ <a href="/tags/{{ tag }}">{{ tag }}</a> |
 {% endfor %}
+</small>
+
+<br></p>
+{% endfor %} 
+
+
+
 
 # My games and projects
 
 {% include projects.html %}
 
-# Gemini capsule
 
+
+# Gemini capsule
 You can also access a mirror of this site on your gemini client if you so wish, there might be a bit of delay, but eventually you will get it :D
 
 <a href="gemini://gemlog.blue/users/joelchrono12/1612572527.gmi" class="button">Visit gemini capsule</a>

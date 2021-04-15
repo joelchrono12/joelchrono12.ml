@@ -1,7 +1,7 @@
 ---
 title: About | joelchrono12
 header: About
-description: This page tells you a little bit about me, the human who did this, and some extra info about this site.
+description: This page tells you a little bit about the human who did this, and some extra info about this site.
 permalink: /about/
 layout: default
 ---

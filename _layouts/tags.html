@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-
-<h1>Tagged articles {{post.url}}</h1>
+<h1>Tagged articles: {{ page.tag-name }}</h1>
 <ul>  
 {% for post in site.posts %}
 {% if post.tags contains page.tag-name %}
-<li><a href="{{ post.url }}">{{ post.title }}</a>, - 📅 {{ post.date | date: "%Y-%m-%d" }}</li>
+<li><a href="{{ post.url }}">{{ post.title }}</a>
+  <br><small> 📅<em> {{ post.date | date: "%Y-%m-%d" }}</em></small></li>
 {% endif %}
 {% endfor %}
 </ul>
