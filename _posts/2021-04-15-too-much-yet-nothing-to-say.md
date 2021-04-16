@@ -8,7 +8,7 @@ layout: post
 date: "2021-04-15 19:00:20 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106072241877338203 
 --- 
 
 So, I have had some trouble coming up with new themes to bring up and talk about. The last days have been quite normal, and I have had some ideas to share and explore. But, for some weird reason, I end up coming up with excuses to not talk about them or I have some weird fear of people not caring about what I have to say. 
