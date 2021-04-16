@@ -9,8 +9,8 @@ layout: default
 # Latest blogs
 
 {% for post in site.posts limit:3 %}
-<p><a class="front-title" href="{{ post.url }}"> {{ post.title }}</a><br>
-<em>{{ post.description }}</em><br>
+<p><strong><a href="{{ post.url }}"> {{ post.title }}</a></strong><br>
+{{ post.description }}<br>
 <small>
 📅  {{ post.date | date:"%Y-%m-%d"}}
  🏷️
