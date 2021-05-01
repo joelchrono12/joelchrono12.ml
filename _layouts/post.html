@@ -21,14 +21,11 @@ layout: default
 
 <h1>Comments</h1> 
 
-{% if page.com_id %}
-{% include mastodon.html%}
-{% endif %}
-
-
-{% if page.comments_id %}
+{% include mastodonrewrite.html %}
 {% include comments.html %}
-{% endif %}
+
+
+
 <hr>
 
 <p>If you don't see an option to put comments, or if you don't want to, you can contact me ✉️ by clicking any icon in the "Get in touch" section of the bottom of this page.</p>

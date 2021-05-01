@@ -18,7 +18,7 @@ permalink: /blog/
 	 <small>
 	   📅 <em>{{ post.date | date: "%Y-%m-%d" }}</em> 
      {% for tag in post.tags %}
-    <a class="button" href="/tags/{{ tag }}">{{ tag }}</a>
+    <a href="/tags/{{ tag }}">{{ tag }}</a>
 	 {% endfor %}</small></li>
   {% endfor %}
 </ul>

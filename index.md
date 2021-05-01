@@ -30,7 +30,6 @@ layout: default
 {% include projects.html %}
 
 
-
 # Gemini capsule
 You can also access a mirror of this site on your gemini client if you so wish, there might be a bit of delay, but eventually you will get it :D
 

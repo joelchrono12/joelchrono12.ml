@@ -11,8 +11,7 @@ layout: default
 
 <ul>
 {% for tag in site.tags %}
-<li><a href="/tags/{{ tag[0] }}/">{{ tag[0] }} </a> [{{ tag[1] | size }}]
-<a href="/feeds/{{ tag[0] }}.xml/"> RSS</a></li>
+<li><a href="/tags/{{ tag[0] }}/">{{ tag[0] }} </a> [{{ tag[1] | size }}] <a href="/feeds/{{ tag[0] }}.xml/"> RSS</a></li>
 {% endfor %}
 </ul>
 

@@ -1,70 +1,8 @@
+<noscript><p>You need javascript to fetch comments</p></noscript>
 <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 <script>
 const GH_API_URL = 'https://api.github.com/repos/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}/comments';
-
-let request = new XMLHttpRequest();
-request.open( 'GET', GH_API_URL, true );
-request.onload = function() {
-	if ( this.status >= 200 && this.status < 400 ) {
-		let response = JSON.parse( this.response );
-
-		for ( var i = 0; i < response.length; i++ ) {
-			document.getElementById( 'gh-comments-list' ).appendChild( createCommentEl( response[ i ] ) );
-		}
-
-		if ( 0 === response.length ) {
-			document.getElementById( 'no-comments-found' ).style.display = 'block';
-		}
-	} else {
-		console.error( this );
-	}
-};
-
-function createCommentEl( response ) {
-	let user = document.createElement( 'div' );
-		user.classList.add('mastodon-comment')
-		user.setAttribute( 'href', response.user.url.replace( 'api.github.com/users', 'github.com' ) );
-		user.classList.add( 'user' );
-
-	let userAvatar = document.createElement( 'img' );
-		userAvatar.classList.add( 'avatar' );
-	userAvatar.setAttribute('height', 60 )
-	userAvatar.setAttribute('width', 60 )
-		userAvatar.setAttribute( 'src', response.user.avatar_url );
-		user.appendChild( userAvatar );
-
-	let commentLink = document.createElement( 'a' );
-		commentLink.setAttribute( 'href', response.html_url );
-		commentLink.classList.add( 'comment-url' );
-		commentLink.innerHTML = '#' + response.id + ' - ' + response.created_at;
-		user.appendChild (commentLink)
-	let commentContents = document.createElement( 'div' );
-		commentContents.classList.add('mastodon-comment-content')
-		commentContents.innerHTML = response.body;
-	// Progressive enhancement.
-	if ( window.showdown ) {
-		let converter = new showdown.Converter();
-		commentContents.innerHTML = converter.makeHtml( response.body );
-	}
-
-	let comment = document.createElement('div');
-	comment.classList.add( 'comment-content' );
-	comment.setAttribute( 'data-created', response.created_at );
-	comment.setAttribute( 'data-author-avatar', response.user.avatar_url );
-	comment.setAttribute( 'data-user-url', response.user.url );
-
-	user.appendChild( comment );
-	comment.appendChild( commentLink );
-	comment.appendChild( commentContents );
-	return user;
-}
-request.send();
 </script>
 
 
 
-<div class="github-comments">
-	<p>You can also <a id="leave-a-comment" href="https://github.com/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}" class="button"> Reply with Github </a></p>
-  	<details id="gh-comments-list"><summary>Github Comments</summary>
-	</details>
-</div>
