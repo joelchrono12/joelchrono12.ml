@@ -8,7 +8,7 @@ layout: post
 date: "2021-05-01 14:52:53 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106161866918051726
 --- 
 
 I have had a lot of homework, work and projects I've been working on, and I didnt manage to write a blog in a pretty long time. So I decided to make this quick post in order to have a good start for May.
