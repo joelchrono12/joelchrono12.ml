@@ -8,7 +8,7 @@ layout: post
 date: "2021-05-07 18:20:03 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106196763484527173
 --- 
 
 Lately I have decided to change a bunch of stuff when it comes to my workflow with my devices. Be it my laptop or my android phone. I have made some changes mostly out of boredom, but also because I have got a few problems that I didn't feel like fixing on [Spectrwm](https://github.com/conformal/spectrwm), as well as other quality of life changes.
