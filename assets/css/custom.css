@@ -539,8 +539,8 @@ nav.navigation.posts-navigation a:hover {
 }
 
 footer h2 {
-  margin-top: 1rem;
-	font-size: 1.44rem;
+    margin-top: 3rem;
+    font-size: 1.44rem;
 }
 .widget-area {
 	display: grid;
