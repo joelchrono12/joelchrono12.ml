@@ -92,13 +92,13 @@ for my screen off animation!
 
 ## Syncthing,  details and annoyances
 
-After restoring my Migrate backup, after reinstalling Magisk Manager and 
-rebooting,everything worked fine. The default wallpaper is beautiful. 
-Some apps were glitchy so I had to reinstall them. But that's not the rom's 
-fault. 
+After restoring my Migrate backup, reinstalling Magisk Manager and 
+rebooting, I was ready to go. The default look and feel, as well as the 
+wallpaper were beautiful, some apps were glitchy so I had to reinstall them. 
+But that's not the rom's fault. 
 
-Syncthing, the program of choice I use, doesn't play nice when the folders
-that used to exists no longer do, but after resharing my folders from my
+Syncthing, the backup program I use, doesn't play nice when the folders
+that used to exist no longer do, but after resharing my folders from my
 computer, everything worked great, I was once again surprised at how quick
 the syncing process is, and wondered once again why this tool is not used by
 absolutely everyone. 
