@@ -1,0 +1,106 @@
+---
+title: Switching to K-9 Mail, a FOSS email client
+header: Switching to K-9 Mail, a FOSS email client
+description: One of the most veteran apps that I have never tried ended up making me go into a search for being more productive, although I don't think it will make a difference  
+tags: foss productivity lifestyle android 
+permalink: /blog/k9-mail-productivity-apps-vim-changes/ 
+layout: post 
+date: "2021-05-14 20:29:18 -0500" 
+host: fosstodon.org 
+username: joeligj12 
+com_id: a 
+--- 
+
+
+As mentioned in previous blogs, I recently switched my android rom and factory
+reset my device. In the process of doing so, my email app of choice broke, that
+app is [Spark Email](https://sparkmailapp.com), a proprietary app that I
+simply liked because of its pretty UI and ease of use. Despite that, I
+was felling a bit ashamed of using it, because, well, *it's not FOSS*.
+
+I am quite a FOSS advocate, but I am also a bit pragmatic. I still use
+Google services often, a lot more than I would like to admit. So if I was
+already using them, why wouldnt I give away more of my freedom for the sake
+of convenience, right? 
+
+Yeah, that's the train of thought I have sometimes. But other times, like
+today, I am feeling a more privacy conscious, and I decided to look for an
+alternative email client. I had already tried
+[Fairemail](https://email.faircode.eu/) a *fairly* decent app that works
+wonderfully. However, it contains unobtrusive, privacy friendly  ads, which
+are not bad at all and are completely understandable, but I didn't want to
+deal with them, besides, I had already tried it, and I wanted something
+new.
+
+And here is where [K-9 Mail](https://k9mail.app) comes to the rescue. The
+app was a bit dead, but last year, the app got a visual redesign that
+caught my attention and convinced me to give it a chance. I knew about the
+app for years, but just by looking at its icon and the screenshots
+showcased on F-Droid, I never installed it.
+
+
+<figure>
+<img  src="/assets/images/blogs/2021-05-13/k9-website.webp" />
+<figcaption>K-9 Mail's website, its actually better looking than
+Fairemail's</figcaption>
+</figure>
+
+
+## Setting up my accounts
+
+I was pleasantly surprised, setting up my Gmail account was as simple as 
+Google lets you, using the so called "App Passwords" needed for anything 
+that doesn't wanna use their login authentication methods.
+
+Adding the rest of my accounts was a piece of cake, I had to add my school
+account with IMAP because the domain was weird and unable to be
+automatically setup like my personal one, however, it was no big deal.
+
+A Microsoft account I got had no trouble at all, although I should add 2FA
+to it, since it's not active.
+
+## The User experience
+
+K-9 Mail pretty much looks like the Gmail app before they changed to
+Material Design 2.0 a couple years ago. And that's a good thing for me. It
+has a bit of similarity to Fairemail, but I liked K-9 a bit more since its more
+simplistic and a bit less cluttered. Besides, the starting screen of
+Fairemail its their settings, and its really overwhelming, which was a
+reason I wanted to avoid K-9, since I thought it would be even worse. But I
+am quite happy with how it is.
+
+There is a really good Dark Theme, a nice amount of settings and
+customization and it even applies a dark mode to the email contents, which
+is good for those nasty non-plain text emails that have their own styling.
+
+
+<figure>
+<img  src="/assets/images/blogs/2021-05-13/setup.webp" />
+<figcaption>K-9 with Dark theme enabled, looking good!</figcaption>
+</figure>
+
+# Overall
+
+It is a pretty great experience! so nice and comfy I did a whole blog about
+it. Like, I can't believe I spent so many years not using this (being fair,
+it looked terrible 2 years ago, but still).
+
+The only thing I disliked for a bit was the non-instant arrival of emails,
+which is normal for most email clients that once again don't depend on
+Google immediately. I wonder if there is some way to trigger the update,
+but at the same time, I don't really need email to be instant.
+
+With this setup, I am very happy again with my FOSS mindset. It has
+reinspired me to check out even more alternative, free software
+applications. This is day 36 of 
+[#100DaystoOffload](https://100DaystoOffload.com)
+
+
+
+
+
+
+
+
+
+
