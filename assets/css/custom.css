@@ -5,9 +5,9 @@
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
   --base-fontsize: 1.16rem;
   /* Major third scale progression - see https://type-scale.com/ */
-  --header-scale: 1.08;
+  --header-scale: 1.125;
   /* Line height is set to the "Golden ratio" for optimal legibility */
-  --line-height: 1.52;
+  --line-height: 1.618;
   --bg: #242933;
   --accent-bg: #3b4252;
   --text: #eceff4;
@@ -115,6 +115,10 @@ header h1{
   font-size: 2.1rem;
 }
 
+
+ol, ul {
+    padding-left: 1rem;
+}
 /* Headers */
 
 /* Format headers */

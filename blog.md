@@ -12,14 +12,12 @@ permalink: /blog/
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 <h2>{{ month.name }}</h2>
-<ul style="padding-left: 1.7rem;">
+<ul >
   {% for post in month.items %}
-   <li><a href="{{ post.url }}">{{ post.title }}</a><br>
+   <li><a href="{{ post.url }}">{{ post.title }}</a>
 	 <small>
-	   📅 <em>{{ post.date | date: "%Y-%m-%d" }}</em> 
-     {% for tag in post.tags %}
-    <a href="/tags/{{ tag }}">{{ tag }}</a>
-	 {% endfor %}</small></li>
+	  -  📅 <em>{{ post.date | date_to_string }}</em> 
+	</small></li>
   {% endfor %}
 </ul>
 {% endfor %}

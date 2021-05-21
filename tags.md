@@ -15,9 +15,3 @@ layout: default
 {% endfor %}
 </ul>
 
-# Tag Overview
-<div style="width: 90%; margin: 0 auto;">
-{% for tag in site.tags %}
-    <a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.5 | plus: 11 }}px">/{{ tag[0] }}</a>  
-{% endfor %} 
-</div>

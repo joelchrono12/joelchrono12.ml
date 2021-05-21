@@ -30,11 +30,14 @@ layout: default
 {% include projects.html %}
 
 
-# Gemini capsule
-You can also access a mirror of this site on your gemini client if you so wish, there might be a bit of delay, but eventually you will get it :D
+# Tags
 
-<a href="gemini://gemlog.blue/users/joelchrono12/1612572527.gmi" class="button">Visit gemini capsule</a>
-
+<div style="width: 80%; margin: 0 auto;">
+{% for tag in site.tags %}
+    <a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.5 | plus: 11 }}px">/{{ tag[0] }}</a>  
+{% endfor %} 
+</div>
+<br>
 
 ---
 
