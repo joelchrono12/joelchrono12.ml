@@ -4,7 +4,7 @@ title: Switching to Pass password manager on Linux, Android and Windows
 header: Switching to Pass password manager on Linux, Android and Windows 
 description: I decided to try Pass, changing my workflow and getting it to work everywhere I need it to 
 tags: linux android foss windows tutorial privacy 
-permalink: /blog/pass-manager-adventures/ 
+permalink: /blog/pass-unix-manager/ 
 layout: post 
 date: "2021-05-19 11:55:15 -0500" 
 host: fosstodon.org 
