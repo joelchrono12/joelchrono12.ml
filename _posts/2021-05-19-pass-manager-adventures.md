@@ -9,7 +9,7 @@ layout: post
 date: "2021-05-19 11:55:15 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106270454723528804
 
 --- 
 
