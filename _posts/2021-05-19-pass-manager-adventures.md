@@ -21,7 +21,7 @@ Pass is an extremely simple tool to manage your passwords by using GPG
 encryption on plain text files, allowing fairly customizable folder
 structure.  
 
-It follows the Unix philosophy of doing one thing and doing}it right. It
+It follows the Unix philosophy of doing one thing and doing it right. It
 can be extended with different clients and plugins that expand its
 functionality and allow features like auto-typing, otp support and filename
 encryption, which is kinda nice.
@@ -145,11 +145,11 @@ still use it, and I will use QtPass for native applications.
 # Some Troubleshooting
 
 During my experimentation, I faced many problems. Sometimes saving new
-passwords or edited changes on existing passwords would not work. This
-happened because the `.gpg-id` file used by pass to encrypt the files would
-a non existent key, since for some reason Password
-Store modified it (I assume that it is a subkey that only existed on android 
-so the rest of my devices would not be aware of it). 
+passwords or edited changes on existing entries would not work. This
+happened because the `.gpg-id` file used by pass was trying to encrypt the files with
+a non existent key, since, Password Storeoverwrote it (I assume 
+that it is a subkey that only existed on android and the rest of my devices 
+are not aware of it). 
 
 Another problem is getting the password-store folder location to be found by
 both of these programs. The plugin settings provide a way to set a custom
