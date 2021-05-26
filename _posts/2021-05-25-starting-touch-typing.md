@@ -8,7 +8,7 @@ layout: post
 date: "2021-05-25 19:09:21 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106298868625188758
 --- 
 
 After my switch to Pass,I got myself into a bit of trouble. For some reason, **I 
@@ -43,6 +43,6 @@ This was a bit of a shorter post, but I don't have a lot of time today, but I
 still wanted to publish something soon enough, since my time could be even more
 limited the following weeks.
 
-![My current progress in 10fastfingers.com](/assets/images/blogs/typing-progres)
+![My current progress in 10fastfingers.com](/assets/images/blogs/typing-progress.webp)
 
 This was day 38 of [#100DaystoOffload](https://100DaystoOffload.com)
