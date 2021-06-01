@@ -42,7 +42,7 @@ My current favorite, it is extremely lightweight, as customizable as Via, and mo
 Each and everyone of this browsers are nothing but one more option, and is up to you to choose, in fact, you can simply not install any of them and continue with you current one. But each of these has been used by me and they also look kinda nice :D
 
 <figure>
-  <img alt="Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar" src="/assets/images/blogs/2021-02-09/output.jpg" />
+  <img alt="Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar" src="/assets/img/blogs/2021-02-09-browser-showcase.webp" />
   <figcaption>Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar </figcaption>
 </figure>
 

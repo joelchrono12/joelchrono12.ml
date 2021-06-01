@@ -31,13 +31,13 @@ $ aspell -l en_US --mode markdown -c file.md
 ```
 And that will look for mistakes and correct them in case there are any, as you can see in this screenshot:
 
-![Aspell doing its work](/assets/images/blogs/2021-03-02/aspell.jpg "I made those mistakes just to show them, nothing more!")
+![Aspell doing its work](/assets/img/blogs/2021-03-02-aspell.webp "I made those mistakes just to show them, nothing more!")
 
 
 To be honest, I just wanted to have something to type right now. Since I have been a little busy with University and was struggling to keep up with my blog.
 
 Now I am going to share a little screenshot of how this setup looks, because why not?
 
-![Vim setup to write this blog](/assets/images/blogs/2021-03-02/nvim-to-write.jpg "Is this some kind of blogception???")
+![Vim setup to write this blog](/assets/img/blogs/2021-03-02-nvim-to-write.webp "Is this some kind of blogception???")
 
 So, yeah this was not that hard to do, there are still some things I have to figure out, luckily, most of these tools will also be useful for my [homework workflow](/blog/doing-school-work/) so, that's a win for me! This has been day 21 of [#100DaystoOffload](https://100daystooffload.com)

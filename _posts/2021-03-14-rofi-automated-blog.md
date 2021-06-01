@@ -44,7 +44,7 @@ choice=$(echo -e "Edit file\nEdit title\nEdit description\nEdit tags\nCancel" | 
 ```
 That would output a pretty nice looking interface!:
 
-![Rofi menu showing the options](/assets/images/blogs/2021-03-14/rofi.png)
+![Rofi menu showing the options](/assets/img/blogs/2021-03-14-rofi.webp)
 
 # Making sure the script doesn't break 🔧
 

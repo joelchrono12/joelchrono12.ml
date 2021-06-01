@@ -27,9 +27,9 @@ I want to focus my first blog on a poll I did, that is still going on Mastodon [
 Everyone should know this one, it has been my go-to ever since I got it, as a teenager I was unable to buy it, and my family wasn't willing to pay for apps, but it was the first thing I got when I finally got some money from Google Rewards.
 It has every function you can imagine. It's gesture system is like no other, and the new gestures on icons and folders, allows me to have run up to three apps, from a single icon, by tapping it, or swiping up or down. I can make it even better if I apply the same gestures to a folder, so with a single icon, I get to access any app I want.
 
-this is my current setup, although I change it pretty often
+This is my current setup, although I change it pretty often
 <center>
-<img src="/assets/images/blogs/2020-02-05/nova_setup.jpg" alt="Screenshot of my nova setup" width="500">
+<img src="/assets/img/blogs/2021-02-05-nova-setup.webp" alt="Screenshot of my nova setup" width="500">
 </center>
 
 ## [KISS Launcher](https://kisslauncher.com/)
@@ -39,7 +39,7 @@ Now, this is another launcher that I use sometimes, in fact, after the mentioned
 This is how I am rocking it today, as you can see, pretty minimalistic
 
 <center>
-<img src="/assets/images/blogs/2020-02-05/kiss_setup.jpg" alt="Screenshot of my KISS launcher setup" width="500">
+<img src="/assets/img/blogs/2021-02-05-kiss-setup.webp" alt="Screenshot of my KISS launcher setup" width="500">
 </center>
 
 

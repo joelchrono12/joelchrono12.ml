@@ -34,7 +34,7 @@ Also, I was aware of the FOSS community, and about to start using Linux. This le
 > **Godot Engine** is a feature-packed, cross-platform game engine **to create 2D and 3D games** from a unified interface. It provides a  comprehensive set of common tools, so that you can focus on making games without having to reinvent the wheel.
 
 <figure>
-  <img alt="Godot engine interface" src="/assets/images/blogs/2021-02-10/godot.webp" />
+  <img alt="Godot engine interface" src="/assets/img/blogs/2021-02-10-godot.webp" />
   <figcaption>Godot engine 2D and scripting interface</figcaption>
 </figure>
 
