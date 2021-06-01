@@ -8,7 +8,7 @@ layout: post
 date: "2021-06-01 17:02:12 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106338007305671850
 --- 
 
 I had a crazy last week, I barely had time to do my homework and I didn't even
