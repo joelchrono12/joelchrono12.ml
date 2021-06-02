@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog | joelchrono12
-header: Blog Archive
+header: 🗄️ Blog Archive
 description: This archive contains all of my blogs, ordered and divided by date
 permalink: /blog/
 ---
@@ -14,10 +14,7 @@ permalink: /blog/
 <h2>{{ month.name }}</h2>
 <ul >
   {% for post in month.items %}
-   <li><a href="{{ post.url }}">{{ post.title }}</a>
-	 <small>
-	  -  📅 <em>{{ post.date | date_to_string }}</em> 
-	</small></li>
+   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 {% endfor %}

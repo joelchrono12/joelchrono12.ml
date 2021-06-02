@@ -1,10 +1,11 @@
 ---
 title: Home | joelchrono12
-header: Welcome to my space
-description: I am Joelchrono12, you are visiting my personal blog. Here you can see some of my thoughts and ramblings about tech, gaming and my hobbies. I hope you enjoy your visit!
+header: Welcome to my website
+description: Hello! I am Joel, you are visiting my personal blog. Here you can see some of my thoughts and ramblings about tech, gaming and my hobbies. I hope you enjoy your visit!
 permalink: /
 layout: default
 ---
+Se the tools I use [here](/uses/)
 
 # Latest blogs
 
@@ -34,7 +35,7 @@ layout: default
 
 <div style="width: 80%; margin: 0 auto;">
 {% for tag in site.tags %}
-    <a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.5 | plus: 11 }}px">/{{ tag[0] }}</a>  
+    <a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.5 | plus: 11 }}px">{{ tag[0] }}</a>  
 {% endfor %} 
 </div>
 <br>

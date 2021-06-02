@@ -1,9 +1,9 @@
 :root {
   /* Set sans-serif & mono fonts */
-  --sans-font: "IBM Plex Sans",Lato,-apple-system,BlinkMacSystemFont,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-  --mono-font:  "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
+  --sans-font: "Roboto",-apple-system,BlinkMacSystemFont,"Nimbus Sans L",Avenir,"Noto Sans","Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
+  --mono-font:  "Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-  --base-fontsize: 1.12rem;
+  --base-fontsize: 1.15rem;
   /* Major third scale progression - see https://type-scale.com/ */
   --header-scale: 1.125;
   /* Line height is set to the "Golden ratio" for optimal legibility */
@@ -33,6 +33,7 @@ header{
   z-index: 0;
   width: 100vw;
   border: none;
+  padding-top: .5rem;
   padding-bottom: 4rem;
 }
 body{
@@ -82,6 +83,7 @@ h6:before {
 /* Format navigation */
 
 nav a {
+  margin 1rem .5rem 0 .5rem;
   background: var(--border);
   color: var(--bg) !important;
   margin: 0 .5rem;
@@ -106,13 +108,22 @@ nav a.current:hover {
   max-width: calc(var(--nav-width) + var(--gap) * 2);
 }
 
-.title, .menu {
+a.title {
     margin-left: var(--gap);
     margin-right: var(--gap);
+    background: none !important;
+    color: var(--text) !important;
+    border: none;
+    line-height: auto;
+    font-weight: 700;
+    font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
 }
-header h1{
-  line-height: 2;
-  font-size: 2.1rem;
+a.title:hover {
+    color: var(--text) !important;
+}
+
+.nav-items {
+    margin: 1rem 0 1rem 0;
 }
 
 

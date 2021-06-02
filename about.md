@@ -6,7 +6,10 @@ permalink: /about/
 layout: default
 ---
 # 👤 About me 
-Hello! I am Joel, I am just a simple man who likes tech, FOSS and many other things. I was born in **Mexico** where I still live. I am currently studying **Mechatronics Engineering**. Here are some quick things about me:
+
+ <img src="/assets/img/pfp.png" alt="My profile pic" class="img" style="display: block; margin-left: auto; margin-right: auto; width: 35%; border-radius:50%; opacity:.95"> 
+
+Hello! I am Joel, I am just a guy who likes tech, FOSS and many other things. I was born in **Mexico** where I still live. I am currently studying **Mechatronics Engineering**. Here are some quick things about me:
 
 I use Linux, and the distribution currently installed on my computer is [Void Linux.](https://voidlinux.org) 
 
