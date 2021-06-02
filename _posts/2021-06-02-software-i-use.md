@@ -8,7 +8,7 @@ layout: post
 date: "2021-06-02 16:06:11 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106343388420169436
 --- 
 
 This is going to be a quick blog where I just wanted to mention how I added
