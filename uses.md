@@ -35,7 +35,7 @@ permalink: /uses/
 - [Pass](https://passwordstore.org): Minimal password manager that follows the UNIX philosophy.
 - [Thunderbird](https://www.thunderbird.net): A really powerful desktop email client by Mozilla.
 - [GNU Image Manipulator Program](https://gimp.org/): An image editor similar to Photoshop.
-- [Element](https://element.io): The only Matrix client that it's wort using.
+- [Element](https://element.io): The only Matrix client that it's worth using.
 
 
 
