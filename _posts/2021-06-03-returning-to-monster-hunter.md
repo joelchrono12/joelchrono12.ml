@@ -8,7 +8,7 @@ layout: post
 date: "2021-06-03 15:20:42 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106349131555250442
 --- 
 
 Monster Hunter is one of my favorite franchises, even though, I haven't actually
