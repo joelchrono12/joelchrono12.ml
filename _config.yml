@@ -14,7 +14,8 @@ timezone: America/Mexico_City
 locale: en_US
 url: "https://www.joelchrono12.ml"
 baseurl: ""
-
+include:
+  - _redirects
 # RSS feeds
 feed:
   posts_limit: 30

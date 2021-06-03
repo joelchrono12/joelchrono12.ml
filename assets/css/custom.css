@@ -83,10 +83,8 @@ h6:before {
 /* Format navigation */
 
 nav a {
-  margin 1rem .5rem 0 .5rem;
   background: var(--border);
   color: var(--bg) !important;
-  margin: 0 .5rem;
   border-radius: 8px;
 }
 
