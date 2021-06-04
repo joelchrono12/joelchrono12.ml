@@ -5,7 +5,7 @@
   /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
   --base-fontsize: 1.15rem;
   /* Major third scale progression - see https://type-scale.com/ */
-  --header-scale: 1.125;
+  --header-scale: 1.175;
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
   --bg: #242933;
@@ -98,30 +98,32 @@ nav a:hover {
 nav a.current:hover {
   text-decoration: none;
 }
-.top-nav{
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  max-width: calc(var(--nav-width) + var(--gap) * 2);
+
+header h1{
+	display: inline-block;
+	margin-right: 20px;
+	line-height: 1.1;
+	
 }
 
-a.title {
-    margin-left: var(--gap);
-    margin-right: var(--gap);
-    background: none !important;
-    color: var(--text) !important;
-    border: none;
-    line-height: auto;
-    font-weight: 700;
-    font-size: calc(var(--base-fontsize) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale) * var(--header-scale));
-}
-a.title:hover {
-    color: var(--text) !important;
+header a,header a:hover,header a:visited {
+	text-decoration: none;
+	color: var(--text);
 }
 
-.nav-items {
-    margin: 1rem 0 1rem 0;
+header nav {
+	display: inline-block;
+	margin: 0;
+	position: relative;
+	top: -8px;
+}
+
+header img {
+	display: inline;
+	float: left;
+    height: 40px;
+    margin-right: 5px;
+    border-radius: 8px;
 }
 
 

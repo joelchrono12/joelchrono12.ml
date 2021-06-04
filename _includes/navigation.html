@@ -1,8 +1,5 @@
-<nav class="top-nav">
-    <a href="/" class="title">~/joelchrono12</a>
-    <div class="nav-items">
+<nav>
     {% for item in site.data.navigation %}
     <a href="{{ item.link }}">{{ item.name }}</a>
     {% endfor %}
-    </div>
 </nav>

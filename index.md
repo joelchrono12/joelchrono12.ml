@@ -5,7 +5,6 @@ description: Hello! I am Joel, you are visiting my personal blog. Here you can s
 permalink: /
 layout: default
 ---
-Se the tools I use [here](/uses/)
 
 # Latest blogs
 
