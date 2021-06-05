@@ -34,7 +34,7 @@ header{
   width: 100vw;
   border: none;
   padding-top: .5rem;
-  padding-bottom: 4rem;
+  padding-bottom: 0rem;
 }
 body{
   padding: 0 1.126rem;
@@ -45,22 +45,18 @@ p{
   margin-bottom: .4rem;
 }
 footer {
-  z-index: 0;
-  background: var(--accent-bg);
-  width: 100vw;
-  margin-top: 1rem;
-  position: relative;
-  padding: 2rem 1rem .5rem 1rem;
-  padding-top: 3.5rem;
-  padding-bottom: 1rem;
-  color: var(--text-light);
-  font-size: .9rem;
-  text-align: center;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  border: none;
+    padding: 2rem 1rem 1.5rem 1rem;
+    z-index: 0;
+    background: var(--accent-bg);
+    width: 100vw;
+    position: relative;
+    color: var(--text-light);
+    text-align: center;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    border: none;
 }
 
 
@@ -83,32 +79,39 @@ h6:before {
 /* Format navigation */
 
 nav a {
+    background: var(--bg);
+    margin: 1rem 0 0 1rem; 
+    color: var(--border) !important;
+    border: none;
+    border-radius: 8px;
+}
+
+nav a.nav-current {
   background: var(--border);
   color: var(--bg) !important;
-  border-radius: 8px;
+    font-weight: 700;
+    opacity: 1;
+
 }
 
 nav a:hover {
   color: var(--bg) !important;
   border-color: var(--border);
   background: var(--border);
-  opacity: 0.7;
-}
-
-nav a.current:hover {
-  text-decoration: none;
 }
 
 header h1{
-	display: inline-block;
-	margin-right: 20px;
-	line-height: 1.1;
-	
+    color: var(--accent) !important;
+    display: inline-block;
+    margin-right: 20px;
+    line-height: 1.1;
+
 }
 
 header a,header a:hover,header a:visited {
+    color: var(--accent);
 	text-decoration: none;
-	color: var(--text);
+    transition: .2s; 
 }
 
 header nav {
@@ -124,6 +127,7 @@ header img {
     height: 40px;
     margin-right: 5px;
     border-radius: 8px;
+    opacity: .85;
 }
 
 
@@ -542,19 +546,14 @@ nav.navigation.posts-navigation a:hover {
 
 .site-footer {
 	background: var(--header);
-	color: var(--header-text);
 	padding: 0 0 1rem 0;
 	text-align: center;
-	margin-top: 3rem;
+	margin-top: 1rem;
 	font-size: 1rem
 }
 
-.site-footer a {
-	color: var(--header-text)
-}
-
 footer h2 {
-    margin-top: 3rem;
+    margin-top: 0;
     font-size: 1.44rem;
 }
 .widget-area {
@@ -562,10 +561,10 @@ footer h2 {
 	grid-template-columns: repeat(2,1fr);
 	grid-column-gap: 1rem;
 	max-width: 60rem;
-	margin: 0 auto;
+    margin: 0 auto;
 	text-align: left;
 	font-size: 1.1rem;
-	margin-bottom: 3rem;
+	/*margin-bottom: 3rem;*/
 	padding: 0 1rem;
 }
 

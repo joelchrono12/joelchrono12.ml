@@ -13,7 +13,7 @@ lang: en
 timezone: America/Mexico_City
 locale: en_US
 url: "https://www.joelchrono12.ml"
-baseurl: ""
+baseurl: "https://joelchrono12.ml/"
 include:
   - _redirects
 # RSS feeds

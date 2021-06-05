@@ -1,10 +1,10 @@
 - name: Blog
-  link: /blog
+  link: /blog/
 - name: About
-  link: /about
+  link: /about/
 - name: Contact
-  link: /contact
+  link: /contact/
 - name: Uses
-  link: /uses
+  link: /uses/
 - name: Tags
-  link: /tags
+  link: /tags/
