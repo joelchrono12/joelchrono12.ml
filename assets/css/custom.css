@@ -8,6 +8,21 @@
   --header-scale: 1.175;
   /* Line height is set to the "Golden ratio" for optimal legibility */
   --line-height: 1.618;
+
+  /*This is my dark themed color scheme*/
+  --bg: #eceff4;
+  --accent-bg: #d8dee9;
+  --text: #4c566a;
+  --text-light: #4c566a;
+  --border: #4c566a;
+  --accent: #bf616a;
+  --accent-light: #5e81ac;
+  --code: #2e3440;
+  --code-bg: #e5e9f0;
+}
+
+@media (prefers-color-scheme:dark) {
+ :root {
   --bg: #242933;
   --accent-bg: #3b4252;
   --text: #eceff4;
@@ -17,10 +32,9 @@
   --accent-light: #bf616a;
   --code: #ebcb8b;
   --code-bg: #2e3440;
+ }
+ }
 
-  --gap: 24px;
-  --nav-width: 1028px;
-}
 *{
   box-sizing: border-box;
   font-family: var(--sans-font);
@@ -80,7 +94,7 @@ h6:before {
 
 nav a {
     background: var(--bg);
-    margin: 1rem 0 0 1rem; 
+    margin: 1rem 0 0 .5rem; 
     color: var(--border) !important;
     border: none;
     border-radius: 8px;
@@ -206,7 +220,6 @@ a,a:visited {
 }
 
 a:hover {
-	color: var(--accent-light);
 	text-decoration: none
 }
 
