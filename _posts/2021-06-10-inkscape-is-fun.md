@@ -8,7 +8,7 @@ layout: post
 date: "2021-06-10 12:09:50 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106387798793371840 
 ---
 
 These past days I finally gave Inkscape a chance after **years** of putting
@@ -36,7 +36,7 @@ It has been super fun, and pretty crazy, but somehow I managed to get myself int
 <figcaption>I have made 30+ icons, here are 21 of them!</figcaption>
 </figure>
 
-Here are some of the icons I've done so far, you wont see all of them in the next release because a few were duplicates that had the wrong metadata, if you feel like Inkscape is too scary or complicated, you should give it a chance, it is not as complicated as you think, and contributing some icons to Frost or Arcticons is always welcome. I will probably redo all of my icons of the bottom section of my website soon enough. 
+Here are some of the icons I've done so far, you wont see all of them in the next release because a few were duplicates that had the wrong metadata, if you feel like Inkscape is too scary or complicated, you should give it a chance, it is not as complicated as you think, and contributing some icons to Frost or Arcticons is always welcome. I will probably redo all of my icons at the bottom section of my website soon enough. 
 
 This has been day 44 of [#100DaystoOffload](https://100DaystoOffload.com)
 
