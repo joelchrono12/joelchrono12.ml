@@ -28,7 +28,7 @@ permalink: /uses/
 - [Aegis](https://getaegis.app/): Two Factor Authentication app.
 - [Yuito](https://github.com/accelforce/Yuito): A Mastodon client based on [Tusky](https://tusky.app/) which a few nice additions. 
 
-# Cross-platfom software
+# Cross-platform software
 - [Syncthing](https://syncthing.org): Sync files accross multiple devices.
 - [Joplin](https://joplinapp.com): Cross-platform Markdown note taking app.
 - [KDEConnect](https://kdeconnect.kde.org/): Communicate and exchange data between your phone and Linux device.
