@@ -8,7 +8,7 @@ layout: post
 date: "2021-06-24 20:23:12 -0500" 
 host: fosstodon.org 
 username: joeligj12 
-com_id: a 
+com_id: 106469176721962880
 --- 
 
 So I have been quite inactive here. The end of the semester is approaching and I really received a lot of new assignments in quite a short amount of time. But today I finally got a bit of time to breath and take a break. There are still some small works to do as well as a final project, but I no longer feel the same pressure as last week.
