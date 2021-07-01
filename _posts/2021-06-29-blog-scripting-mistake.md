@@ -5,7 +5,7 @@ description: Playing around with a static site generator I found out a mistake t
 tags: foss coding linux 
 permalink: /blog/blog-scripting-mistake/ 
 layout: post 
-date: "2021-06-29 17:50:26 -0500" 
+date: 2021-06-29 17:50:26 -0500
 host: fosstodon.org 
 username: joeligj12 
 com_id: mastodonid
