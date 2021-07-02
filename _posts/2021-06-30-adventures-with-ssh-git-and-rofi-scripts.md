@@ -6,7 +6,7 @@ summary: Playing with SSH and Git and some fixed for my rofi post making script
 tags: coding linux blog tilde git
 permalink: /blog/adventures-ssh-git-rofi-script/
 layout: post
-date: 2021-06-30 10:42:58 -0500
+date: 2021-07-01 07:54:58 -0500
 host: fosstodon.org
 username: joeligj12
 com_id: a
@@ -73,7 +73,7 @@ So I tried something. My ~/ssh/config file names the `Host` as `tildegit` and no
 Hi there, chrono! You've successfully authenticated with the key named tilde.cafe, but Gitea does not provide shell access.
 ```
 
-And so, after countless useless commits and failed pushes, I got it, I just changed the pushurl to `tildegit:username/repo` and it all worked out fine!
+And so, after countless useless commits and failed pushes, I got it, I just changed the pushurl to `tildegit:username/repo` and it all worked out fine! I did the same for GH.
 
 ## Using ssh-agent
 
