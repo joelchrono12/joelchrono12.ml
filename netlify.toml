@@ -1,4 +1,4 @@
-# netlify.toml
+# netlify.toml file
 
 [[headers]]
   for = "/*"
