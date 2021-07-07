@@ -41,4 +41,4 @@ layout: default
 
 ---
 
-This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator and [Simple.css](https://simplecss.org).
+This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator.
