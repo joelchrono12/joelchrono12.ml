@@ -35,6 +35,9 @@
 html{
     font-family: var(--sans-font);
 }
+hr{
+    color: var(--border);
+}
 header{
     display: flex;
     flex-wrap: wrap;
