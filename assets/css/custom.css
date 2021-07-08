@@ -36,7 +36,11 @@ html{
     font-family: var(--sans-font);
 }
 header{
-    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 1rem 0;
+
 }
 body {
     padding: 20px;
@@ -189,7 +193,6 @@ nav a:hover {
     background: var(--border);
 }
 header h1{
-    margin-right: 30px;
     color: var(--accent) !important;
     display: inline-block;
 }
