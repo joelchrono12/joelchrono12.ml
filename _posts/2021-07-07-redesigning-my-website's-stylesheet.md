@@ -8,7 +8,7 @@ layout: post
 date: 2021-07-07 21:21:01 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106542766191264595
 ---
 
 So, after doing some experiments, I have decided to leave Simple.css, the framework I have used since I started this blog, and I started to play around with my own, simpler Cascading stylesheet.
