@@ -1,8 +1,8 @@
 ---
 title: Adventures with ssh, git and rofi scripts
 header: Adventures with ssh, git and rofi scripts
-description: Playing with SSH and Git and some fixed for my rofi post making script
-summary: Playing with SSH and Git and some fixed for my rofi post making script
+description: Playing with SSH and Git and some fixes I added to my rofi post making script
+summary: Playing with SSH and Git and some fixes I added to my rofi post making script
 tags: coding linux blog tilde git
 permalink: /blog/adventures-ssh-git-rofi-script/
 layout: post
