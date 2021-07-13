@@ -9,7 +9,7 @@ layout: post
 date: 2021-07-12 20:27:52 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106570774186376510
 ---
 
 # Home alone, but not my home
