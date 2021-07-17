@@ -175,12 +175,12 @@ div.game-box h2{
 }
 /* Format navigation */
 nav a {
-    background: var(--bg);
+    background: var(--code-bg);
     margin: 1rem 0 0 .5rem; 
     color: var(--border) !important;
-    border-radius: 5px;
+    border-radius: 8px;
     display: inline-block;
-    padding: .1rem 1rem;
+    padding: .1rem .6rem;
     text-decoration: none;
     transition: .4s;
 }
