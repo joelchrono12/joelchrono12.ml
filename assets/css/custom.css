@@ -119,60 +119,6 @@ pre code {
 svg {
     width: 36px;
 }
-img.avatar{
-    opacity: 0.7;
-    border-radius: 20%;
-    margin: .5rem .5rem;
-    padding: 2px 2px;
-    float: left;
-}
-.comment-url{
-    font-size: 0.9rem;
-    color: var(--border);
-    padding: 1rem;
-}
-.comment-content{
-    text-decoration: none;
-    margin: 1rem 0 ;
-    padding: 1rem 1rem;
-    padding-left: 5rem;
-    font-size: 1rem;
-    border-radius: 5px;
-    line-height: var(--line-height);
-    background: var(--code-bg);
-}
-.comment-date{
-    float: right;
-}
-.comment-content img{
-    border-radius: 5px;
-    max-width: 40%;
-}
-/* Games and projects section*/
-.game-box{
-    border-radius: 8px;
-    background: var(--code-bg);
-    padding: .5rem 1rem;
-    min-width: 280px;
-    float: left;
-    margin: .5rem .5rem;
-}
-.gamebox-area{
-    overflow: auto;
-    display: flex;
-}
-div.game-box h2{
-    font-size: 1.2rem;
-    margin-bottom: .4rem;
-    line-height: 1.5rem;
-    margin-top: 0;
-}
-.game-box img{
-    float: right;
-    opacity: .8;
-    max-width: 8rem;
-    margin-left: .8rem;
-}
 /* Format navigation */
 nav a {
     background: var(--code-bg);
@@ -203,6 +149,7 @@ header nav {
 	display: inline-block;
 	/*position: relative;*/
 }
+
 a button,
 button,
 input[type="submit"],

@@ -1,0 +1,25 @@
+/* Games and projects section*/
+.game-box{
+    border-radius: 8px;
+    background: var(--code-bg);
+    padding: .5rem 1rem;
+    min-width: 280px;
+    float: left;
+    margin: .5rem .5rem;
+}
+.gamebox-area{
+    overflow: auto;
+    display: flex;
+}
+div.game-box h2{
+    font-size: 1.2rem;
+    margin-bottom: .4rem;
+    line-height: 1.5rem;
+    margin-top: 0;
+}
+.game-box img{
+    float: right;
+    opacity: .8;
+    max-width: 8rem;
+    margin-left: .8rem;
+}
