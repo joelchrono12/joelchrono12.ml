@@ -33,7 +33,7 @@
     }
 }
 html{
-    font-family: var(--sans-font);
+    font-family: var(--mono-font);
 }
 hr{
     color: var(--border);
