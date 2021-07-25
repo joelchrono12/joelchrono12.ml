@@ -8,8 +8,7 @@ permalink: /uses/
 ---
 
 # Favorites
-- [Void Linux](https://voidlinux.org/): My current distro, uses runit as init system and xbps as package manager
-- [Qutebrowser](https://qutebrowser.org): Minimal-keyboard driven browser baset on QtWebEngine. 
+- [Endeavour OS](endeavouros.com): My current distro, a simple arch based distro that has given me no problems so far.
 - [Firefox](https://firefox.com): Web browser that can be greatly customized. 
 - [Alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
 - [Godot](https://godotengine.org): A great game engine, easy to learn, uses its own language, [check my games](https://joelchrono12.itch.io/)!
@@ -17,7 +16,7 @@ permalink: /uses/
 - [Pcmanfm](https://wiki.archlinux.org/title/PCManFM): Simple graphical file manager.
 - [Newsboat](https://newsboat.org/): A minimal RSS reader with a terminal interface
 
-# Android only
+# Androzid only
 - [CrDroid](https://crdroid.net): A custom rom.
 - [F-Droid](https://f-droid.org): A FOSS only app store.
 - [Newpipe](https://newpipe.net/): YouTube front-end with a lot of features.
@@ -37,6 +36,10 @@ permalink: /uses/
 - [GNU Image Manipulator Program](https://gimp.org/): An image editor similar to Photoshop.
 - [Element](https://element.io): The only Matrix client that it's worth using.
 
+# Previously used
 
+I decided to make this section to mention software that I no longer use but might work for you.
+- [Void Linux](https://voidlinux.org/): My previous distro, uses runit as init system and xbps as package manager, I switched because I am dumb and I am lazy to go back.
+- [Qutebrowser](https://qutebrowser.org): Minimal-keyboard driven browser based on QtWebEngine. I no longer use it because of the lack of ad blocking.
 
 
