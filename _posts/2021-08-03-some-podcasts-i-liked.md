@@ -8,7 +8,7 @@ layout: post
 date: 2021-08-04 17:50:47 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106700350133456779
 ---
 
 During my digital journey I have liked a bunch of things, one of those are Podcasts! I have shared some of my favorites before in a small review I did on AntennaPod, a free and open source podcasts app. 
