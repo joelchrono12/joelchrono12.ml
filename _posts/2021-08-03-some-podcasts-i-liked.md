@@ -39,19 +39,19 @@ At first, I though I would not like this show, but the short and concise episode
 
 ## The Phenomenon
 
-This one is amazing, this audio drama tells the story of how almost all of humanity extinguished just by looking up, and how the try to find a way to stay alive. The mistery is strong on this one, each episode follows the events of different survivors that interconnect in a bigger story. I dont wanna spoil it, so all I can say is this. *Do not look outside, do not look at the sky, do not make noise*.
+This one is amazing, this audio drama tells the story of how almost all of humanity extinguished just by looking up, and how the try to find a way to stay alive. The mistery is strong on this one, each episode follows the events of different survivors that interconnect in a bigger story. I don't wanna spoil it, so all I can say is this. *Do not look outside, do not look at the sky, do not make noise*.
 
 [Website](https://www.phenomenonpod.com/) [RSS Link](https://phenomenonpod.libsyn.com/rss)
 
 ## The Magnus Archives
 
-I just started listening to this, it shares multiple fiction stories of horror and suspense. The ads dont interrupt at all, since they are located at the beginning or end of each episode, it seems to have some interconnection but each story can be enjoyed separately. Sometimes the audio is a bit bad but that only adds to the experience of low quality recordings being archived, as the title implies. Another great thing about this podcast is that it is licenced under a Creative Commons license, which is actually really cool!
+I just started listening to this, it shares multiple fiction stories of horror and suspense. The ads don't interrupt at all, since they are located at the beginning or end of each episode, it seems to have some interconnection but each story can be enjoyed separately. Sometimes the audio is a bit bad but that only adds to the experience of low quality recordings being archived, as the title implies. Another great thing about this podcast is that it is licensed under a Creative Commons license, which is actually really cool!
 
 [Website](https://rustyquill.com/the-magnus-archives/) [RSS Link](https://rss.acast.com/themagnusarchives)
 
 # Gaming, tech and Linux
 
-If you are not a fan of being unable to sleep (Altough I actually listen to all of the above while in bed), you might enjoy these other lighter, more tech focused podcasts. I listen to these across the day, while cleaning my room or doing the dishes and stuff like that.
+If you are not a fan of being unable to sleep (Although I actually listen to all of the above while in bed), you might enjoy these other lighter, more tech focused podcasts. I listen to these across the day, while cleaning my room or doing the dishes and stuff like that.
 
 ## Retro Game Time Machine
 
@@ -73,19 +73,19 @@ This podcast became an instant favorite, different stories narrating the creatio
 
 ## Into the Aether
 
-This is another gaming variety podcast, it is somewhat similar to RGTM, but quite more general and also with better quality audio. It has no significant structure and its quite rambly, but thats what I like about this podcast so much. You can get started with any episode and binge it all the way, this one is a bit harder to listen to quickly because the hosts have a faster pace, but it is still really enjoyable.
+This is another gaming variety podcast, it is somewhat similar to RGTM, but quite more general and also with better quality audio. It has no significant structure and its quite rambly, but that's what I like about this podcast so much. You can get started with any episode and binge it all the way, this one is a bit harder to listen to quickly because the hosts have a faster pace, but it is still really enjoyable.
 
 [Website](https://intothecast.online/) [RSS Link](https://feeds.transistor.fm/intotheaether)
 
 ## Destination Linux
 
-I had a bit of an adversion against most of Linux focused podcasts, I felt that they would talk about the same things over and over, and I was already quite repetitive with the Linux content I watch on video format. But DL proved me wrong! There are multiple hosts who talk about their Linux Journey week after week, and they have formed quite a big community, a network of fans and Linux enthusiasts, the podcast is quite cozy and the audio quality is fantastic, I find the intro music super cringey, but its tolerable enough. I really recommend this one if you are a fan of Linux and FOSS.
+I had a bit of an adversion against most of Linux focused podcasts, I felt that they would talk about the same things over and over, and I was already quite repetitive with the Linux content I watch on video format. But DL proved me wrong! There are multiple hosts who talk about their Linux Journey week after week, and they have formed quite a big community, a network of fans and Linux enthusiasts, the podcast is quite cozy and the audio quality is fantastic, I find the intro music super cringe, but its tolerable enough. I really recommend this one if you are a fan of Linux and FOSS.
 
 [Website](https://destinationlinux.org) [RSS Link](https://destinationlinux.org/feed/mp3/)
 
 ## The WAN Show
 
-You can think whatever you want about Linus Media Group, but this podcast is just great. Listening to the hot takes of Linus against whatever dumb thing a company does each week is super fun, and these guys really know how to make ad segways seamless, I dont even like the idea of skipping them because of how integrated they are with inside jokes and charisma. Luke feels like an audience mirror most of the time eager to see Linus rant about whatever is going on. It is a great show and I absolutely love it.
+You can think whatever you want about Linus Media Group, but this podcast is just great. Listening to the hot takes of Linus against whatever dumb thing a company does each week is super fun, and these guys really know how to make ad segways seamless, I don't even like the idea of skipping them because of how integrated they are with inside jokes and charisma. Luke feels like an audience mirror most of the time eager to see Linus rant about whatever is going on. It is a great show and I absolutely love it.
 
 [Website](https://www.youtube.com/playlist?list=PL8mG-RkN2uTw7PhlnAr4pZZz2QubIbujH) [RSS Link](https://anchor.fm/s/3cbbb3b8/podcast/rss)
 
