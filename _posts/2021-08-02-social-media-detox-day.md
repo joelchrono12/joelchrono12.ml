@@ -8,7 +8,7 @@ layout: post
 date: 2021-08-03 20:33:13 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106695301618053555
 ---
 
 # Social media and me
