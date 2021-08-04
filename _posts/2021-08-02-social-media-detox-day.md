@@ -2,7 +2,7 @@
 title: Detox Day
 header: Detox Day
 description: I decided to share about the different things I did during my little detox of social media which happened yesterday. as well as my story since the MSN Live Messenger days...
-tags: lifestyle art design ramble
+tags: lifestyle art design ramble detox
 permalink: /blog/detox-day/
 layout: post
 date: 2021-08-03 20:33:13 -0500

@@ -2,7 +2,7 @@
 title: Rambling about tech and my lifestyle
 header: Rambling about tech and my lifestyle
 date: "2021-02-18 15:20:00 -0600"
-tags: android foss lifestyle linux googleless thoughts ramble
+tags: android foss lifestyle linux googleless thoughts ramble detox
 description: "How I am using tech, social media on my life? and I dont even know what else I am saying, oh, yes, FOSS too!"
 permalink: /blog/tech-on-my-life/
 layout: post
