@@ -1,7 +1,7 @@
 ---
 title: Detox Day
 header: Detox Day
-description: Today is the day, and I decided to share about the different things I did during my little detox of social media. as well as my failures
+description: Today is the day, and I decided to share about the different things I did during my little detox of social media. as well as my story with it since the MSN Live Messenger days...
 tags: lifestyle art design ramble
 permalink: /blog/detox-day/
 layout: post
