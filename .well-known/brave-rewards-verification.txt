@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: joelchrono12.ml
+Token: f409280a4671c6d93bcb583e508b5753e2353195c5896c5e9b36ffe6ec10dfc7
