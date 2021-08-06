@@ -16,7 +16,7 @@ url: "https://www.joelchrono12.ml"
 baseurl: ""
 include:
   - _redirects
-  - [".well-known"]
+  - .well-known
 # RSS feeds
 feed:
   posts_limit: 30
