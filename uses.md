@@ -8,7 +8,7 @@ permalink: /uses/
 ---
 
 # Favorites
-- [Endeavour OS](endeavouros.com): My current distro, a simple arch based distro that has given me no problems so far.
+- [Endeavour OS](https://endeavouros.com): My current distro, a simple arch based distro that has given me no problems so far.
 - [Firefox](https://firefox.com): Web browser that can be greatly customized. 
 - [Alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
 - [Godot](https://godotengine.org): A great game engine, easy to learn, uses its own language, [check my games](https://joelchrono12.itch.io/)!
@@ -16,7 +16,7 @@ permalink: /uses/
 - [Pcmanfm](https://wiki.archlinux.org/title/PCManFM): Simple graphical file manager.
 - [Newsboat](https://newsboat.org/): A minimal RSS reader with a terminal interface
 
-# Androzid only
+# Android only
 - [CrDroid](https://crdroid.net): A custom rom.
 - [F-Droid](https://f-droid.org): A FOSS only app store.
 - [Newpipe](https://newpipe.net/): YouTube front-end with a lot of features.
