@@ -29,6 +29,15 @@ layout: default
 
 {% include projects.html %}
 
+# Support me
+
+This site is verified with **Brave Rewards**, so if you like my work or you file like it, you can tip me some BAT by enabling the option on your browser
+
+I also have **Monero** if you want something anonymous!
+
+```
+45Y7FRc1SfrB8YsoJKnoWqTxRaLdFRghaB5EvVaLhs3BMmr3mT5jsooKVVefyF6m4Hg3CyM24q7Ck6TrnbhWmmEMLVJmc1e
+```
 
 # Tags
 
