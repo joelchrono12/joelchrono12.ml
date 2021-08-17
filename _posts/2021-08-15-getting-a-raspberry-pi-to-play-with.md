@@ -9,7 +9,7 @@ image: /assets/img/blogs/2021-08-07-raspi.jpg/
 date: 2021-08-17 15:19:28 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106773505756417500
 
 ---
 
