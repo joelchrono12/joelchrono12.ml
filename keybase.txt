@@ -1,0 +1,60 @@
+---
+layout: none
+permalink: /keybase.txt
+---
+==================================================================
+https://keybase.io/joelchrono12
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joelchrono12.ml
+  * I am joelchrono12 (https://keybase.io/joelchrono12) on keybase.
+  * I have a public key ASBFOTmPqvxdwh7LQWfRi44xJMJJsN8gOg68RQLmANVwLQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a557ff3e32a3181a41b2b1353a94573fb4d21d56ce4c2134deb7c5f80b45bef20a",
+      "host": "keybase.io",
+      "kid": "01204539398faafc5dc21ecb4167d18b8e3124c249b0df203a0ebc4502e600d5702d0a",
+      "uid": "77676ec40068cacb125c5d5feca5c819",
+      "username": "joelchrono12"
+    },
+    "merkle_root": {
+      "ctime": 1629228617,
+      "hash": "1d6df55dcb532cab9677fbed4328876b5f8a75b513522b1ff81267714f5ebc7126d68dea33cec1f0a459504f823d2774be41f30899aa36b1ab5461a4c152f4b0",
+      "hash_meta": "683c6ca7f7240795d3ba67bca8d7db002eb386a5053ebe867b2b8cdd19008147",
+      "seqno": 20584067
+    },
+    "service": {
+      "entropy": "MXJ/ZAz+Mvago7jxt/bJwMt6",
+      "hostname": "joelchrono12.ml",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1629228664,
+  "expire_in": 504576000,
+  "prev": "10cd7ee0c0dc69c4cbe20480af62efa343df024dd1e26a45970f2f03a2420803",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRTk5j6r8XcIey0Fn0YuOMSTCSbDfIDoOvEUC5gDVcC0Kp3BheWxvYWTESpcCIMQgEM1+4MDcacTL4gSAr2Lvo0PfAk3R4mpFlw8vA6JCCAPEIBOs0R4VsdAJJcRM7VR8sqziZLfjF+1Q2Mr7G+23J9HsAgHCo3NpZ8RAgkpJLCo4JMPazBhvGrylGOsJjO5TqiHAst/5/GfWPHQrQ+kX7UER+WsxdXTTuI2W9FKFdsjeP5xGro/AfeboAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDj3Rnrfij7T3BT56Wig77N0QtoK7WywTExjPKGA/9mIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joelchrono12
+
+==================================================================
