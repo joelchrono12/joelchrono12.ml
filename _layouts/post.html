@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<head>
+    <meta property="og:image" content="/assets/img/blogs/{{ site.image }}">
+</head>
 {% capture count_words %}
 {{ content | number_of_words }}
 {% endcapture %}
