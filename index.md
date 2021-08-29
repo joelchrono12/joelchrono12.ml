@@ -5,7 +5,7 @@ description: Hello! I am Joel, you are visiting my personal blog. Here you can s
 permalink: /
 layout: default
 
----
+***
 
 # Latest blogs
 
@@ -50,7 +50,7 @@ You can also tip me with  **[Monero](https://getmonero.org)** if you want someth
 </div>
 <br>
 
----
+***
 
-This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the [Jekyll](https://jekyllrb.com) static site generator.
+This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the [Jekyll](https://jekyllrb.com) static site generator. Thanks for visiting!
 
