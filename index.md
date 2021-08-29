@@ -52,4 +52,5 @@ You can also tip me with  **[Monero](https://getmonero.org)** if you want someth
 
 ---
 
-This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the Jekyll static site generator.
+This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the [Jekyll](https://jekyllrb.com) static site generator.
+
