@@ -4,8 +4,7 @@ header: Welcome to my website
 description: Hello! I am Joel, you are visiting my personal blog. Here you can see some of my thoughts and ramblings about tech, gaming and my hobbies. I hope you enjoy your visit!
 permalink: /
 layout: default
-
-***
+---
 
 # Latest blogs
 
