@@ -4,7 +4,7 @@ header: My spectrwm setup
 date: "2021-02-08 12:09:00 -0600"
 description: Why spectrwm is my tiling window manager of choice. 
 tags: linux foss
-permalink: /spectrwm-setup/
+permalink: /blog/spectrwm-setup/
 layout: post
 ---
 
@@ -60,7 +60,7 @@ I really love how spectrwm is so easy to configure in general, as you saw with t
   <figcaption>Firefox, htop, kristall </figcaption>
 </figure>
 
-There is still work to do, but I am really happy with the results,  I am stilll playing around with other scripts and things. If you wanna get my current dotfiles, you can do so [here](https://github.com/ChronoTriggered/MyDotfiles). 
+There is still work to do, but I am really happy with the results,  I am stilll playing around with other scripts and things. If you wanna get my current dotfiles, you can do so [here](https://tildegit.org/chrono/dotfiles). 
 
 Day 4 of [#100DaystoOffload](https://100daystooffload.com/)
 
