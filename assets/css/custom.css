@@ -71,6 +71,8 @@ figcaption {
 }
 blockquote {
     color: var(--text-light);
+    font-style: italic;
+
 }
 a {
     color: var(--accent);
@@ -94,6 +96,9 @@ p {
 code, pre, pre span, kbd, samp {
     font-family: var(--mono-font);
     color: var(--code);
+    background: var(--code-bg);
+    border-radius: 5px;
+    padding: 0.12rem 0.3rem;
 }
 kbd {
     border: 1px solid var(--preformatted);
