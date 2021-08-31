@@ -8,7 +8,7 @@ layout: post
 date: 2021-08-31 16:20:03 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106852970389013923
 ---
 
 Managing dotfiles has always been quite annoying to me. But thankfully, I never really had a reason to do it too often. When [I moved from Void Linux to EndeavourOS](/blog/switching-distro-ending-school/), all I did was `tar` my whole `.config` and copied the file to and external drive. 
