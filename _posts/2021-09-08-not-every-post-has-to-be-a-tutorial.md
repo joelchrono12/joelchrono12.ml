@@ -8,7 +8,7 @@ layout: post
 date: 2021-09-08 15:22:24 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 106898166942458826
 ---
 
 So, I have learned quite a lot of things that I wanted to share here on my blog. But I did not really feel like I was good enough to mention them properly without doing a full tutorial or essay about the topic. I have already talked about a similar problem in previous blogs. Let's catch up on what I have been doing lately, alright? 
