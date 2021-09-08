@@ -2,7 +2,7 @@
 title: Learning Inkscape is fun
 header: Learning Inkscape is fun
 description: I decided to get started and learn how to use Inkscape, after a few days messing around with it, I am loving it so far 
-tags: drawing foss linux android 
+tags: drawing foss linux android inkscape
 permalink: /blog/inkscape-is-fun/ 
 layout: post 
 date: "2021-06-10 12:09:50 -0500" 
