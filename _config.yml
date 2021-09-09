@@ -20,3 +20,5 @@ include:
 # RSS feeds
 feed:
   posts_limit: 30
+  tags: 
+    path: "feeds/"

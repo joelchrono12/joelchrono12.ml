@@ -11,7 +11,7 @@ username: joeligj12
 com_id: 106852970389013923
 ---
 
-Managing dotfiles has always been quite annoying to me. But thankfully, I never really had a reason to do it too often. When [I moved from Void Linux to EndeavourOS](/blog/switching-distro-ending-school/), all I did was `tar` my whole `.config` and copied the file to and external drive. 
+Managing dotfiles has always been quite annoying to me. But thankfully, I never really had a reason to do it too often. When [I moved from Void Linux to EndeavourOS](/blog/switching-distro-ending-school/), all I did was `tar` my whole `.config` and copied the file to an external drive. 
 
 That works fine,  but it's not the best way to backup the constant changes I usually do to customize the way my programs look or act, and as a customization freak, that happens *quite often*.
 
