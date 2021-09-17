@@ -9,12 +9,12 @@
     /* Line height is set to the "Golden ratio" for optimal legibility */
     --line-height: 1.618;
     /*This is my dark themed color scheme*/
-    --bg: #eceff4;
-    --accent-bg: #d8dee9;
+    --bg: #FFFFFF;
+    --accent-bg: #F2F4F8;
     --text: #4c566a;
     --text-light: #4c566a;
-    --border: #4c566a;
-    --accent: #bf616a;
+    --border: #3b4252;
+    --accent: #5e81ac;
     --accent-light: #5e81ac;
     --code: #2e3440;
     --code-bg: #e5e9f0;
