@@ -31,9 +31,9 @@ layout: default
 
 # Support me
 
-This site is [verified with Brave Rewards](https://brave.com/)**, so if you like my work or you feel like helping me out, you can tip me some BAT by enabling the option on your browser
+This site is [verified with Brave Rewards](https://brave.com/), so if you like my work or you feel like helping me out, you can tip me some BAT by enabling the option on your browser
 
-You can also [tip me with Monero](https://getmonero.org)** if you want something anonymous and privacy respecting!
+You can also [tip me with Monero](https://getmonero.org) if you want something anonymous and privacy respecting!
 
 ```
 45Y7FRc1SfrB8YsoJKnoWqTxRaLdFRghaB5EvVaLhs3BMmr3mT5jsooKVVefyF6m4Hg3CyM24q7Ck6TrnbhWmmEMLVJmc1e
