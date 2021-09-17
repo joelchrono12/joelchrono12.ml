@@ -165,7 +165,8 @@ input[type="button"] {
   background: var(--accent);
   font-size: 1rem;
   color: var(--bg);
+  text-decoration: none;
   padding: .7rem .9rem;
-  margin: .5rem 0;
+  margin: .5rem .1rem;
   transition: .4s;
 }

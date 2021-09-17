@@ -31,9 +31,9 @@ layout: default
 
 # Support me
 
-This site is verified with **[Brave Rewards](https://brave.com/)**, so if you like my work or you feel like helping me out, you can tip me some BAT by enabling the option on your browser
+This site is [verified with Brave Rewards](https://brave.com/)**, so if you like my work or you feel like helping me out, you can tip me some BAT by enabling the option on your browser
 
-You can also tip me with  **[Monero](https://getmonero.org)** if you want something anonymous and privacy respecting!
+You can also [tip me with Monero](https://getmonero.org)** if you want something anonymous and privacy respecting!
 
 ```
 45Y7FRc1SfrB8YsoJKnoWqTxRaLdFRghaB5EvVaLhs3BMmr3mT5jsooKVVefyF6m4Hg3CyM24q7Ck6TrnbhWmmEMLVJmc1e
@@ -51,5 +51,5 @@ You can also tip me with  **[Monero](https://getmonero.org)** if you want someth
 
 ***
 
-This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide by [Kev Quirk](https://kevq.uk) using the [Jekyll](https://jekyllrb.com) static site generator. Thanks for visiting!
+This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide on [Kev Quirk's website](https://kevq.uk) using the [Jekyll static site generator](https://jekyllrb.com) . Thanks for visiting!
 
