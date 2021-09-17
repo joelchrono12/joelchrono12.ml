@@ -3,9 +3,9 @@
     --sans-font: "IBM Plex Sans","Roboto",-apple-system,BlinkMacSystemFont,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
     --mono-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.15rem;
+    --base-fontsize: 1.2rem;
     /* Major third scale progression - see https://type-scale.com/ */
-    --header-scale: 1.175;
+    --header-scale: 1.185;
     /* Line height is set to the "Golden ratio" for optimal legibility */
     --line-height: 1.618;
     /*This is my dark themed color scheme*/
