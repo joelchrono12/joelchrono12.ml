@@ -11,6 +11,8 @@ layout: default
 
 Hello! I am Joel, I am just a guy who likes tech, FOSS and many other things. I was born in **Mexico** where I still live. I am currently studying **Mechatronics Engineering**. Here are some quick things about me:
 
+My username (or nickname?) comes from Chrono, which is the main character of Chrono Trigger, a JRPG released in 1995 for the SNES, it is my favorite game, I actually played it on my PSP, which I got as a gift in 2012, which was quite a year, also, 12 is the day of my birthday, so yeah, `joelchrono12`. I changed it from `joeligj12`, which is my Fosstodon username, because most streamers on Twitch struggle to pronounce it in English, `igj` are the first letters of my full name, but *Chrono* is cooler.
+
 I use Linux, and the distribution currently installed on my computer is [Void Linux.](https://voidlinux.org) 
 
 My current smartphone is using [Arrow OS](https://arrowos.net/), as custom rom, but I switch roms from time to time. I am interested on switchin to LineageOS soon or maybe not, depending on my laziness.
@@ -46,5 +48,3 @@ This page was the result of going into Mastodon and getting inspired by the Foss
 I have used Jekyll to generate this site, and I use simple.css as a framework, where I have customized the style to fit my taste.
 
 The website source is hosted on [Github](https://github.com/joelchrono12/jekyll-site-test.css) and the site itself is deployed using Netlify.
-
-
