@@ -8,7 +8,7 @@ layout: post
 date: 2021-09-28 18:33:13 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107011985303896953
 ---
 
 So yeah I don't really have a lot of time to make an epic post, and its been a while since my last one, but well.
@@ -21,7 +21,7 @@ I also had to move a servo-motor so it works as the entrance, it goes up and dow
 
 Keeping track of the cars and making sure there are no weird errors was kinda fun. This project allowed me to experiment with Python, using stuff that I don't really do when using other languages, like `try` and exceptions to detect stuff. 
 
-For example, when a car exits, I need to know the space it used, and I don't want the code to fail when the user inputs "18" or "-4". Although I could just make an a few conditional statements, I decided to add an exception to the `IndexError` from PyMySQL and take care of stuff that way.
+For example, when a car exits, I need to know the space it used, and I don't want the code to fail when the user inputs "18" or "-4". Although I could just make a few conditional statements, I decided to add an exception to the `IndexError` from PyMySQL and take care of stuff that way.
 
 It was quite a nice experience, I also had to help half a dozen of classmates who are still not used to the Raspberry Pi and are unwilling to learn Vim for some weird reason. Anyways, I have had a lot of homework and a new *exam* coming up pretty soon, which will be quite a nightmare for me, since it looks like this semester I am only good at Embedded Systems...
 
