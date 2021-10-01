@@ -8,10 +8,10 @@ layout: post
 date: 2021-09-30 19:55:40 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107023949657791701
 ---
 
-After delivering my school project, the teacher thaught us the basics of HTML and PHP. As you might assume, I was already quite familiar with HTML and even a little Javascript which I've used for some parts of my website.
+After delivering my school project, the teacher taught us the basics of HTML and PHP. As you might assume, I was already quite familiar with HTML and even a little JavaScript which I've used for some parts of my website.
 
 During class, we learned how to detect `POST` requests and make a simple input box to set the degrees of a servomotor via the internet!
 
@@ -52,19 +52,19 @@ if($_POST['space_num'] and $_SERVER['REQUEST_METHOD'] == "POST"){
     echo "$output2";
 }
 
-# Runs everytime the page loads
+# Runs every time the page loads
 $command = escapeshellcmd("sudo ./database_output.py");
 $output = shell_exec($command);
 
 echo "$output <br>";
 ```
 
-As you can tell, it is quite simple to get whats going on. Now you might be wondering whats inside of those python scripts, well, I made one to output the database contents in a table, as I mentioned, and another one is in charge of updating the database, playing output to a speaker and moving the servomotor to let cars in and stuff. check it out if you want [in its git repo](https://tildegit.org/chrono/parking_lot_website.git)
+As you can tell, it is quite simple to get whats going on. Now you might be wondering whats inside of those python scripts, well, I made one to output the database contents in a table, as I mentioned, and another one is in charge of updating the database, playing output to a speaker and moving the servomotor to let cars in and stuff. Check it out if you want [in its git repo](https://tildegit.org/chrono/parking_lot_website.git)
 
 Let me know what do you think of my coding skills out of this! I think I took into account most of the plausible scenarios, but there might be some bugs still there.
 
 
-I could explain these scripts but I was already unwilling to show them at all because of the mistakes I could have. Anyways, the point is I got a really cool project working that will probably be what we'll learn during the following classes, but I am glat I got inspired to do this on my own! so I am happy about it.
+I could explain these scripts but I was already unwilling to show them at all because of the mistakes I could have. Anyways, the point is I got a really cool project working that will probably be what we'll learn during the following classes, but I am glad I got inspired to do this on my own! so I am happy about it.
 
 This has been day 57 of [#100DaysToOffload](https://100DaysToOffload.com)
 
