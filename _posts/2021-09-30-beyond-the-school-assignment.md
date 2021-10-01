@@ -25,18 +25,18 @@ After a few failed attempts, missing tags and some coding errors, I managed to m
 
 Next, I wanted to be able to run specific sections of that python script based on which button was pressed, so I can allow cars to enter or exit the parking lot successfully.
 
-For that, the easiest route for me would be using external arguments, that come when you run a command, for example, when you run `cd directory/path/` , the argument is the path you wanna go to. In my case, the arguments would be the action I wanna do, and in one of those actions I would also require the input of the user, to know which parking spot they are exiting from.
+For that, the easiest route for me would be using external arguments, that come when you run a command. For example, when you run `cd /path/to/directory/` , the argument is the path you wanna go to. In my case, the arguments would be the action I wanna do, and in one of those actions I would also require the input of the user, to know which parking spot they are exiting from.
 
-After getting to do that. I was now able to recognize user input and update the page according to it. That section looked like this!
+After messing around with Python, I was now able to recognize user input and update the page according to it thanks to arguments sent by PHP. That section looked like this!
 
 ![Parking lot database table](/assets/img/blogs/2021-09-30-database-input.webp)
 
-The cool thing about this is that not only was I displaying all this information on the website, I also did stuff in the real world, my servomotor opened and closed, and I setup a speaker to output when there were no spots available and to indicate where to park to a car incoming.
+The cool thing about this is that not only was I displaying all this information on the website, I also did stuff in the real world, my servo opened and closed, and I setup a speaker to output when there were no spots available, or in case you are entering, which spot you were assigned to use.
 
-The PHP itself looked something like this. I placed it in different sections of the HTML.
+The PHP itself looked something like this. I placed it in different sections of the HTML, so the output appears where I want it to.
 
 ```
-If the car wants to enter
+//If the car wants to enter
 if($_POST['entrance'] and $_SERVER['REQUEST_METHOD'] == "POST"){
 
     $command = escapeshellcmd("sudo ./parking.py 2");
@@ -59,10 +59,9 @@ $output = shell_exec($command);
 echo "$output <br>";
 ```
 
-As you can tell, it is quite simple to get whats going on. Now you might be wondering whats inside of those python scripts, well, I made one to output the database contents in a table, as I mentioned, and another one is in charge of updating the database, playing output to a speaker and moving the servomotor to let cars in and stuff. Check it out if you want [in its git repo](https://tildegit.org/chrono/parking_lot_website.git)
+As you can tell, it is quite simple to get whats going on. Now you might be wondering whats inside of those python scripts, well, I made one to output the database contents in a table, as I mentioned, and another one is in charge of updating the database, playing output to a speaker and moving the servo to let cars in and out. Check it out if you want [in its git repo](https://tildegit.org/chrono/parking_lot_website.git)
 
 Let me know what do you think of my coding skills out of this! I think I took into account most of the plausible scenarios, but there might be some bugs still there.
-
 
 I could explain these scripts but I was already unwilling to show them at all because of the mistakes I could have. Anyways, the point is I got a really cool project working that will probably be what we'll learn during the following classes, but I am glad I got inspired to do this on my own! so I am happy about it.
 
