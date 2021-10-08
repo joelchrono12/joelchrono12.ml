@@ -3,7 +3,7 @@
     --sans-font: "IBM Plex Sans","Roboto",-apple-system,BlinkMacSystemFont,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
     --mono-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.2rem;
+    --base-fontsize: 1.35rem;
     /* Major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.185;
     /* Line height is set to the "Golden ratio" for optimal legibility */
@@ -49,7 +49,7 @@ body {
     padding: 20px;
     background-color: var(--bg);
     color: var(--text);
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     line-height: var(--line-height);
     margin: 0 auto;
     max-width: 50rem;
@@ -81,12 +81,12 @@ a:hover {
     text-decoration: none
 }
 h1 {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     color: var(--border);
     margin-bottom: 0px;
 }
 h2, h3, h4, h5, h6 {
-    font-size: 1.2rem;
+    font-size: 1.35rem;
     color: var(--accent-light);
     margin-bottom: 0px;
 }
