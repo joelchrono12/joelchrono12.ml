@@ -33,5 +33,5 @@ There are many other sites that don't have MFA and there are also some that surp
 
 Anyways, this is a friendly reminder to check if you have MFA enabled in all of your accounts that support it, and its important to encourage the developers of  every account you log into, so they get to work on it.
 
-This has been day 58 of [#100DaysToOffload](https://100DaysToOffload.com). I have once again taking a while to post something, but that's how it is sometimes. Anyways, have a good day!
+This has been day 58 of [#100DaysToOffload](https://100DaysToOffload.com). I once again took a while to post something, but that's how it is sometimes. Anyways, have a good day!
 
