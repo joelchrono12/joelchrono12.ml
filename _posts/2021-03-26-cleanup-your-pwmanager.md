@@ -2,7 +2,7 @@
 title: Don't just switch your password manager, clean it up too! 
 header: Don't just switch your password manager, clean it up too! 
 description: After LastPass messed up big time, a lot of people changed to a different password manager, but after that, maybe it's time to get rid of old accounts too.  
-tags: foss tutorial linux privacy 
+tags: foss tutorial linux privacy security
 permalink: /blog/cleanup-your-pwmanager/ 
 layout: post 
 date: "2021-03-26 18:59:30 -0600" 
