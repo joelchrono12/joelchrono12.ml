@@ -3,7 +3,7 @@ title: Enabling 2FA everywhere ain't easy
 header: Enabling 2FA everywhere ain't easy
 description: Since the Twitch leak that revealed quite a lot of data and source code, I got the urge of evaluating all of my passwords and authentication methods, and I got into another password cleanup phase, I was surprised to see 2FA is still not implemented everywhere.
 tags: security privacy foss detox
-permalink: /blog/enabling-2-factor-authentication-on-your-accounts/
+permalink: /blog/enabling-2fa-aint-easy/
 layout: post
 date: 2021-10-16 15:41:20 -0500
 host: fosstodon.org
