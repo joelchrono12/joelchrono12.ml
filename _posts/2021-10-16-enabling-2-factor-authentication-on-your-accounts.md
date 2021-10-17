@@ -5,10 +5,10 @@ description: Since the Twitch leak that revealed quite a lot of data and source 
 tags: security privacy foss detox
 permalink: /blog/enabling-2fa-aint-easy/
 layout: post
-date: 2021-10-16 15:41:20 -0500
+date: 2021-10-16 20:20:20 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107114246270751675
 ---
 
 So ever since [I switched to pass](https://joelchrono12.ml/blog/pass-unix-manager/), I have really enjoyed my time and improved the state of my accounts bit by bit.
