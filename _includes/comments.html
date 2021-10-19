@@ -2,17 +2,20 @@
 <div class="article-content">
 
     <div id="gh-comments-list"></div>
-    <button id="load-comment">Load comments</button>
-    <a class="button" href="mailto:joel.chrono@disroot.org?subject=Re: {{ page.title  }}">Reply via email</a>
-    <a class="button" href="https://{{page.host}}/interact/{{ page.com_id }}?=type=reply">Reply via Mastodon</a> 
-    <a href="https://github.com/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}" class="button"> Reply with Github </a></p>
-    <a class="button" href="https://{{ page.host }}/@{{ page.username }}/{{ page.com_id }}">View Mastodon post</a>. 
-
+    <button id="load-comment">Load comments</button><br>
+    <a class="button" href="mailto:joel.chrono@disroot.org?subject=Re: {{ page.title  }}">Reply via email</a><br>
+    <a class="button" href="https://{{page.host}}/interact/{{ page.com_id }}?=type=reply">Reply via Mastodon</a>
+    <a href="https://github.com/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}" class="button"> Reply with Github </a><br>
+    <a class="button" href="https://{{ page.host }}/@{{ page.username }}/{{ page.com_id }}">View Mastodon post</a>
+    <!--<br>-->
     <noscript><p>You need JavaScript to view the comments.</p></noscript>
     <script>
 document.getElementById('load-comment').addEventListener("click", async () => {
+//window.addEventListener("DOMContentLoaded", async () => {
     const response = await fetch('https://{{ page.host }}/api/v1/statuses/{{ page.com_id }}/context');
     const data = await response.json();
+    const gh_response = await fetch(GH_API_URL);
+	const gh_data = await gh_response.json();
     if (data.descendants && data.descendants.length > 0) {
      document.getElementById('gh-comments-list').innerHTML += "<h3>Mastodon Comments</h3>";
       let descendants = data.descendants;
@@ -23,9 +26,18 @@ document.getElementById('load-comment').addEventListener("click", async () => {
     else {
         document.getElementById('gh-comments-list').innerHTML += "<p>⚠️ No Mastodon comments found ⚠️</p>";
       }
+    //console.log(gh_data);
+    if (gh_data && gh_data.length > 0) {
+        document.getElementById('gh-comments-list').innerHTML += "<h3>Github Comments</h3>";
+        for (let i = 0; i < gh_data.length; i++) {
+		    document.getElementById('gh-comments-list').appendChild(createCommentEl1(gh_data[i]));
+		}
+	} else {
+	    document.getElementById('gh-comments-list').innerHTML += "<p> ⚠️ No Github comments yet ⚠️ </p>";
+	}
   });
 
-window.addEventListener("DOMContentLoaded", async () => {
+/*window.addEventListener("DOMContentLoaded", async () => {
     const gh_response = await fetch(GH_API_URL);
 	const datas = await gh_response.json();
 	console.log(datas);
@@ -37,8 +49,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 	} else {
 	    document.getElementById('gh-comments-list').innerHTML += "<p> ⚠️ No Github comments yet ⚠️ </p>";
 	}
-});
-
+});*/
 
 function createCommentEl( response ){
   	let user = document.createElement('div');
