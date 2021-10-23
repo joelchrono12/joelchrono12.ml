@@ -2,14 +2,16 @@
 .game-box{
     border-radius: 8px;
     background: var(--code-bg);
-    padding: 1.3rem 1rem;
-    min-width: 280px;
-    float: left;
+    padding: .5rem 1rem;
+    padding-bottom: 1.4rem;
+    min-width: 300px;
+    /*float: left;*/
     margin: .5rem .5rem;
 }
 .gamebox-area{
     overflow: auto;
     display: flex;
+    min-height: 2rem;
 }
 div.game-box h2{
     font-size: 1.2rem;
@@ -17,17 +19,15 @@ div.game-box h2{
     line-height: 1.5rem;
     margin-top: 0;
 }
-.game-box img{
-    float: right;
-    opacity: .8;
-    max-width: 8rem;
-    margin-left: .8rem;
-}
+/*.game-box img{*/
+    /*[>float: right;<]*/
+    /*opacity: .8;*/
+/*}*/
 
 a.button{
-    float: left;
-    padding: 1.2rem;
-    margin: 0.2rem 0.5rem;
+    /*float: left;*/
+    padding: 1rem;
+    margin-bottom: 0.5rem;
     border-radius: 8px;
     color: var(--bg);
     background-color: var(--accent);
