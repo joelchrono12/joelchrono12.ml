@@ -13,4 +13,18 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
 end
 
-gem "webrick"
+gem "addressable", "~>2.4"
+gem "webrick" 
+gem "colorator", "~>1.0"
+gem "em-websocket", "~>0.5"
+gem "i18n", "~>1.0"
+gem "jekyll-sass-converter", "~>2.0"
+gem "jekyll-watch", "~>2.0"
+gem "kramdown", "~>2.3"
+gem "kramdown-parser-gfm", "~>1.0"
+gem "liquid", "~>4.0"
+gem "mercenary", "~>0.4.0"
+gem "pathutil", "~>0.9"
+gem "rouge", "~>3.0"
+gem "safe_yaml", "~>1.0"
+gem "terminal-table", "~>2.0"
