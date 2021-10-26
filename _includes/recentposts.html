@@ -3,9 +3,11 @@
     <div class="col-left">
         <section class="box">
             <h2>Recent Posts</h2>
+            <ul style="padding-left: 0; list-style-type: none;">
             {% for post in site.posts limit:4 %}
-            <a href="{{ post.url }}">{{ post.title }}</a><br>
+            <li style="margin-bottom: .5rem;"><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
+            <ul>
         </section>
     </div>
     {% endif %}
