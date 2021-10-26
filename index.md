@@ -22,9 +22,6 @@ layout: default
 <br></p>
 {% endfor %} 
 
-
-
-
 # My games and projects
 
 {% include projects.html %}
@@ -40,16 +37,4 @@ You can also [tip me with Monero](https://getmonero.org) if you want something a
 ```
 ![Monero QR Code](./assets/img/monero)
 
-# Tags
-
-<div style="width: 80%; margin: 0 auto;">
-{% for tag in site.tags %}
-    <a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.5 | plus: 11 }}px">{{ tag[0] }}</a>  
-{% endfor %} 
-</div>
-<br>
-
 ***
-
-This is a simple webpage that has been handbuilt by [joelchrono12](/contact), following the guide on [Kev Quirk's website](https://kevq.uk) using the [Jekyll static site generator](https://jekyllrb.com) . Thanks for visiting!
-

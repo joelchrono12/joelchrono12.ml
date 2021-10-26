@@ -1,37 +1,44 @@
 <!doctype html>
 <html lang="en-US">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.description }}" />
-    <meta property="og:image" content="/assets/img/blogs/{{ page.image }}">
-    {% feed_meta %}
-    <!--<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">-->
-    <link rel="stylesheet" href="/assets/css/custom.css">
-    <link rel="icon" href="/assets/img/favicon.png" />
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ page.title }}</title>
+      <meta name="description" content="{{ page.description }}" />
+      <meta property="og:image" content="/assets/img/blogs/{{ page.image }}">
+      {% feed_meta %}
+      <!--<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">-->
+      <link rel="stylesheet" href="/assets/css/custom.css">
+      <link rel="icon" href="/assets/img/favicon.png" />
   </head>
   <body>
-  <a name="top"></a>
-	<header>
-	<h1>
-	<a href="/">
-		<!--<img alt="Me in a 64 by 64 pixel art" src="/assets/img/pfp.webp">-->
-	~/joelchrono12
-	</a>
-	</h1>
-    {% include navigation.html %}
-    {% comment %}<svg class="top-svg" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path d="M0,30.3C48.69,62.5,89.37,70,118.38,70.45,216,72,261.22,26.55,333.32,20.64c51.62-4.22,38.34,50.12,86,53.13C454.52,76,480,43.53,500,18.53V0H0Z"/></svg>{% endcomment %}
-	</header>
-	<main>
-        <h1>{{ page.header }}</h1>
-        <em>{{ page.description }}</em>
-		{{ content }}
-	</main>
-	<footer>
-		{% comment %}<svg preserveAspectRatio="none" class="bottom-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path class="cls-1" d="M500,60.89c-48.69-32.2-89.37-39.68-118.38-40.15C284,19.15,238.78,64.64,166.68,70.55c-51.62,4.22-38.34-50.12-86-53.13C45.48,15.19,20,47.66,0,72.66V91.19H500Z" transform="translate(0 -17.31)"/></svg>{% endcomment %}
-    {% include recentposts.html %}
-				</footer><!-- #colophon -->
-			</div><!-- #page -->
-	</body>
+      <header>
+          <h1><a href="/">~/joelchrono12</a></h1>
+          {% include navigation.html %}
+          {% comment %}<svg class="top-svg" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path d="M0,30.3C48.69,62.5,89.37,70,118.38,70.45,216,72,261.22,26.55,333.32,20.64c51.62-4.22,38.34,50.12,86,53.13C454.52,76,480,43.53,500,18.53V0H0Z"/></svg>{% endcomment %}
+      </header>
+      <section id="wrapper">
+      <main id="content">
+          <h1>{{ page.header }}</h1>
+          <em>{{ page.description }}</em>
+          {{ content }}
+
+      </main>
+     <section id="sidebar">
+          {% comment %}<svg preserveAspectRatio="none" class="bottom-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 73.88"><path class="cls-1" d="M500,60.89c-48.69-32.2-89.37-39.68-118.38-40.15C284,19.15,238.78,64.64,166.68,70.55c-51.62,4.22-38.34-50.12-86-53.13C45.48,15.19,20,47.66,0,72.66V91.19H500Z" transform="translate(0 -17.31)"/></svg>{% endcomment %}
+
+      {% if page.layout == 'post' %}
+      <h1>Comments</h1> 
+      {% include comments.html %}
+      <hr>
+      {% endif %}
+          {% include recentposts.html %}
+      </section>
+      <footer>
+          <a href="https://512kb.club"><img alt="Member of the 512KB Club Green's team" src="/assets/img/green-team.svg" /></a> 
+          <p>This site was created by <a rel="me" href="https://fosstodon.org/@joeligj12">joelchrono12</a> and was made using <a href="https://jekyllrb.com">Jekyll</a>.</p>
+          <p>This blog is licensed under <b>CC BY-SA 4.0</b> unless otherwise stated.<br>
+           <p><a class="button" href="#top">Back to top</a></p>
+      </footer>
+  </body>
 </html>

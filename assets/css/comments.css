@@ -13,9 +13,9 @@ img.avatar{
 .comment-content{
     text-decoration: none;
     margin: 1rem 0 ;
-    padding: 1rem 1rem;
-    padding-left: 5rem;
-    font-size: 1rem;
+    padding: 2rem 1rem;
+    /*padding-left: 5rem;*/
+    font-size: .8rem;
     border-radius: 5px;
     line-height: var(--line-height);
     background: var(--code-bg);
