@@ -1,4 +1,5 @@
 <div class="widget-area">
+    {% if page.permalink != '/' and page.permalink != '/blog/'%}
     <div class="col-left">
         <section class="box">
             <h2>Recent Posts</h2>
@@ -7,6 +8,7 @@
             {% endfor %}
         </section>
     </div>
+    {% endif %}
     <div class="col-right">
         <section class="footer-area footer-area-two box">
             <h2>Get in touch</h2>

@@ -9,17 +9,13 @@ layout: default
 # Latest blogs
 
 {% for post in site.posts limit:3 %}
-<p><strong><a href="{{ post.url }}"> {{ post.title }}</a></strong><br>
-{{ post.description }}<br>
-<small>
-📅  {{ post.date | date:"%Y-%m-%d"}}
- 🏷️
+<h3><a href="{{ post.url }}"> {{ post.title }}</a></h3>
+<p>{{ post.description }}</p>
+<p> <small>| {{ post.date | date:"%Y-%m-%d"}}
 {% for tag in post.tags %}
- <a href="/tags/{{ tag }}">{{ tag }}</a> |
+<a href="/tags/{{ tag }}">{{ tag }}</a> |
 {% endfor %}
-</small>
-
-<br></p>
+</small></p>
 {% endfor %} 
 
 # My games and projects

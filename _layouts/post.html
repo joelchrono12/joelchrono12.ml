@@ -7,7 +7,7 @@ layout: default
 {% capture time_words %}
 {{count_words | divided_by: 5}}
 {% endcapture %}
- <br><small>📅  {{ page.date | date_to_string }}
+<small>📅  {{ page.date | date_to_string }}
  📝{{ count_words }} words  ⌚  ~{{ time_words | divided_by: 60 }} min.</small>
 <br>🏷️
 <small class="scrollmenu">
