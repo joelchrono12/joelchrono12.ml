@@ -42,7 +42,7 @@ hr{
     color: var(--border);
 }
 header{
-    max-width: 50rem;
+    /*max-width: 50rem;*/
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -58,7 +58,7 @@ body {
     font-size: 1.2rem;
     line-height: var(--line-height);
     margin: 0 auto;
-    max-width: 75rem;
+    max-width: 90rem;
 }
 main img, main video, embed {
     max-width: 100%;
@@ -206,6 +206,8 @@ input[type="button"] {
         display: grid;
         grid-template-columns: 70% 30%;
         grid-template-rows: 1fr 3rem;
+        max-width: 75rem;
+        margin: 0 auto;
     }
     #sidebar {
         /*top: 0;*/
