@@ -130,6 +130,7 @@ pre code {
 }
 svg {
     width: 44px;
+    transition: .4s;
 }
 /* Format navigation */
 nav a {
@@ -176,6 +177,11 @@ input[type="button"] {
   padding: .7rem .9rem;
   margin: .5rem .1rem;
   transition: .4s;
+}
+
+button:hover, .button:hover, svg:hover{
+    opacity: .8;
+    cursor: pointer;
 }
 
 .icon-list{
