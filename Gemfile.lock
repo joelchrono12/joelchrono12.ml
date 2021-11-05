@@ -11,7 +11,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.15.4)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.6.0)
+    http_parser.rb (0.8.0)
     i18n (1.8.11)
       concurrent-ruby (>= 1.0)
     jekyll (4.2.1)
@@ -70,7 +70,7 @@ DEPENDENCIES
   colorator (~> 1.0)
   em-websocket (~> 0.5)
   forwardable-extended (~> 2.6)
-  i18n (~> 1.0)
+  i18n (~> 1.8.11)
   jekyll-feed
   jekyll-sass-converter (~> 2.0)
   jekyll-sitemap
