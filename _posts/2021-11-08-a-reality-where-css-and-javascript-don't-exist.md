@@ -8,7 +8,7 @@ layout: post
 date: 2021-11-08 17:12:17 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107244175652529202
 ---
 
 So far [UglyDuck and many other bloggers](#post-inspired-by) have started to talk about the way the Web has changed significantly ever since it became a thing.
