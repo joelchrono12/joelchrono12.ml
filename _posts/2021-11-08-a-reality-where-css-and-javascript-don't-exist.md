@@ -19,7 +19,7 @@ And here we are once again. While JavaScript has always had a bunch of people ag
 
 As you might have noticed, I recently went into a bit of a website overhaul (I always am tbh), I added a side bar to show what used to be placed at the site's footer section, just because I wanted to see if I could accomplish that without much trouble. Of course, I managed to do it, and I feel like there is a lot of stuff I could add.
 
-I tend to have this feeling, where I want to fix this little detail, add some transition or animation, and its always constantly changing. In a World where there is no such option, there is time to focus on the important thing, *the content*.
+I tend to have this feeling, where I want to fix this little detail, add some transition or animation, and its always constantly changing. In a World where there are no such options, there is time to focus on the important thing, *the content*, ~~sure...~~
 
 While I can see how this view is controversial, I wonder why is it controversial here, and nowhere else? 
 
