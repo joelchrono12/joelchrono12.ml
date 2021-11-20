@@ -8,7 +8,7 @@ layout: post
 date: 2021-11-20 08:53:52 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107310232150132383
 ---
 
 So I had to make a new post today, since, as always I haven't done a lot of posts lately.
