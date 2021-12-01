@@ -8,7 +8,7 @@ layout: post
 date: 2021-11-30 18:42:18 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107368996702295204
 ---
 
 So winter vacations are about to start, and school is finally ending this year.
