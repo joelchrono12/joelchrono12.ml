@@ -1,9 +1,9 @@
 :root {
     /* Set sans-serif & mono fonts */
     --sans-font: "IBM Plex Sans","Roboto",-apple-system,BlinkMacSystemFont,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-    --mono-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
+    --mono-font: "Mononoki Nerd Font","IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.35rem;
+    --base-fontsize: 1rem;
     /* Major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.185;
     /* Line height is set to the "Golden ratio" for optimal legibility */
@@ -55,7 +55,7 @@ body {
     padding: 20px;
     background-color: var(--bg);
     color: var(--text);
-    font-size: 1.2rem;
+    font-size: var(--base-fontsize);
     line-height: var(--line-height);
     margin: 0 auto;
     max-width: 90rem;
