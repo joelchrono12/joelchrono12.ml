@@ -2,7 +2,7 @@
 title: Moving to EndeavourOS while school is still going
 header: Moving to EndeavourOS while school is still going
 description: After a week of heavy working on my linux environment, a school assignment inspired me to switch my distro. Right after that, school got harder than expected 
-tags: school linux lifestyle productivity 
+tags: school linux lifestyle productivity distro
 permalink: /blog/switching-distro-ending-school/ 
 layout: post 
 date: "2021-06-24 20:23:12 -0500" 
