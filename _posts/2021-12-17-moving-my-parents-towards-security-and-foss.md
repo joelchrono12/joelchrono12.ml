@@ -8,7 +8,7 @@ layout: post
 date: 2021-12-17 18:36:07 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107465250201557951
 ---
 
 So these past couple of weeks I have finally had some free time to do something I've been meaning to do for a while, move my parents towards using a password manager. It all started when my dad told me he got an email about him having an insecure password, so he wanted me to help him setup something to fix that.

@@ -8,7 +8,7 @@ layout: post
 date: 2021-12-20 15:51:16 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
+com_id: 107481773058885318
 ---
 Back when [I left Void Linux](https://joelchrono12.ml/blog/switching-distro-ending-school/), I did so because of a couple of reasons:
 
@@ -52,7 +52,7 @@ But you know what, that is completely fine, as Guru Laghima once said:
 > "Let go your earthly tether. Enter the void. Empty and become wind"
 
 
-With nothing installed, I was finally born again, Void was even more beautiful than I remembered, there were a lot of new things and the packages available have grown quite a bit. There were still some problem that I had, but in the end, I know everything is going to be alright.
+With nothing installed, I was finally born again, Void was even more beautiful than I remembered, there were a lot of new things and the packages available have grown quite a bit. There are still some problems here and there, but in the end, I know everything is going to be alright.
 
 This has been day 64 of [#100DaysToOffload](https://100DaysToOffload.com)
 
