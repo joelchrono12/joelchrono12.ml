@@ -68,6 +68,9 @@ body p, body ul, body ol{
 body ul{
     padding-left: 2.5rem;
 }
+body p, body ul, body ol{
+    padding: 0;
+}
 
 main img, main video, embed {
     max-width: 100%;
@@ -216,7 +219,10 @@ button:hover, .button:hover, svg:hover{
     /*max-width: 20rem;*/
 /*}*/
 
-/*@media only screen and (min-width:900px) {*/
+@media only screen and (min-width:900px) {
+    body p, body ul, body ol{
+        padding: 0 1.5rem;
+    }
     /*#wrapper{*/
         /*display: grid;*/
         /*grid-template-columns: 70% 30%;*/
@@ -251,4 +257,4 @@ button:hover, .button:hover, svg:hover{
         /*margin-top: 0;*/
         /*padding-top: 0;*/
     /*}*/
-/*}*/
+}
