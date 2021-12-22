@@ -33,4 +33,12 @@ You can also [tip me with Monero](https://getmonero.org) if you want something a
 ```
 ![Monero QR Code](./assets/img/monero)
 
-***
+
+<section class="box">
+<h1>Tags</h1>
+<center>
+{% for tag in site.tags %}
+<a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.3 | plus: 15 }}px;">{{ tag[0] }}</a>  
+{% endfor %} 
+</center>
+</section>
