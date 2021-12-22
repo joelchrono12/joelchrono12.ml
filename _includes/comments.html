@@ -13,8 +13,8 @@ document.getElementById('load-comment').addEventListener("click", async () => {
 //window.addEventListener("DOMContentLoaded", async () => {
     const response = await fetch('https://{{ page.host }}/api/v1/statuses/{{ page.com_id }}/context');
     const data = await response.json();
-    const gh_response = await fetch(GH_API_URL);
-	const gh_data = await gh_response.json();
+//    const gh_response = await fetch(GH_API_URL);
+//	const gh_data = await gh_response.json();
     if (data.descendants && data.descendants.length > 0) {
      document.getElementById('gh-comments-list').innerHTML += "<h3>Mastodon Comments</h3>";
       let descendants = data.descendants;
