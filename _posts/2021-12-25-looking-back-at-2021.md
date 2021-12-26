@@ -8,7 +8,7 @@ layout: post
 date: 2021-12-25 10:18:37 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107513587131583889
 ---
 
 When I started writing this blog, I accepted the [#100DaysToOffload](https://100DaysToOffload.com) challenge and did so with full strenght, writing a post almost everyday. I decided to create my blog at the beginning of February and I did a total of 22 posts. Some of them were barely decent, and some of them I am still kinda proud of.
