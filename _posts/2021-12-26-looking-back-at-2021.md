@@ -5,7 +5,7 @@ description: This year has been incredible, so many things have happened and I m
 tags: ramble review thoughts linux gamedev
 permalink: /blog/looking-back-at-2021/
 layout: post
-date: 2021-12-25 10:18:37 -0500
+date: 2021-12-26 08:00:37 -0600
 host: fosstodon.org
 username: joel
 com_id: 107513587131583889
