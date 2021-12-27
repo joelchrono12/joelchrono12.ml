@@ -62,14 +62,11 @@ body {
 }
 
 body p, body ul, body ol{
-    padding: 0 1.5rem;
+    min-width: 80ch;
 }
 
 body ul{
     padding-left: 2.5rem;
-}
-body p, body ul, body ol{
-    padding: 0;
 }
 
 main img, main video, embed {
