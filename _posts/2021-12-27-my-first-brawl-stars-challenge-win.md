@@ -7,8 +7,8 @@ permalink: /blog/my-first-brawl-stars-challenge-win/
 layout: post
 date: 2021-12-27 10:10:00 -0500
 host: fosstodon.org
-username: joeligj12
-com_id: idcomments
+username: joel
+com_id: 107519797670878600
 ---
 
 So, most of my "target demographic", which is pretty miniscule, probably do not know or play Brawl Stars, it is a real-time multiplayer game which is sort of a simple, easy version of League of Legends, but with different game modes. There are single player modes like a Battle Royale or a 1v1 mode named Duels, that is the newest mode for this update, which just got released, as well as many other 3v3 modes such as Bounty, Gem Grab, Heist, Hot Zones or Siege that I won't take the time to explain, but are all fun in their own way. 
@@ -24,3 +24,5 @@ My friend, `fantastic ms` as you you can see in the picture below, tends to ruin
 Sadly, we did not manage to beat it with four lives. However, you're allowed to buy more chances with gems (1 gem for two lives), if you take into account that paying for a Brawler around 200 gems is a lot more expensive than the 2 gems we paid, we were super happy after we actually managed to get our 9th victory, and obtain a brand new Brawler to play with, completely for free!
 
 ![Me and teammates showcasing our new Brawler](/assets/img/blogs/2021-12-27-brawl_win.jpg)
+
+This has been day 67 of [#100DaysToOffload](https://100DaysToOffload.com)
