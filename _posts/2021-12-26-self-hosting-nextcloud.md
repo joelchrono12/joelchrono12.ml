@@ -8,7 +8,7 @@ layout: post
 date: 2021-12-26 18:00:00 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107515982524534916
 ---
 
 So, as I previously stated, I am very happy I got to have a Raspberry Pi, it is the kind of gadget I would have loved to have earlier in my life to play around with doing cool stuff. Being introduced to Linux some year early could have had quite a great impact on my life, and I only wonder what my today could've been.
