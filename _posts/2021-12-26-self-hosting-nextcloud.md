@@ -2,7 +2,7 @@
 title: Self-hosting Nextcloud
 header: Self-hosting Nextcloud
 description: After my classes using my Raspberry Pi for many handy projects, I decided to now use it as a Nextcloud server, and I might try and set it up for other things as well
-tags: selfhost raspberrypi project foss privacy
+tags: selfhost raspberrypi project foss privacy googleless
 permalink: /blog/self-hosting-nextcloud/
 layout: post
 date: 2021-12-26 18:00:00 -0500
