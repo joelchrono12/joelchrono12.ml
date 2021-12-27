@@ -7,9 +7,8 @@ layout: default
 {% capture time_words %}
 {{count_words | divided_by: 5}}
 {% endcapture %}
-<small>📅  {{ page.date | date_to_string }}
- 📝{{ count_words }} words  ⌚  ~{{ time_words | divided_by: 60 }} min.</small>
-<br>🏷️
+<small>Published {{ page.date | date_to_string }}, {{ count_words }} words, ~{{ time_words | divided_by: 60 }} min. read.
+    <br> Tags:</small>
 <small class="scrollmenu">
 	{% for tag in page.tags %}
 	<a href="/tags/{{ tag }}">{{ tag }}</a> |
