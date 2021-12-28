@@ -24,7 +24,14 @@ layout: default
 
 # Support me
 
-This site is [verified with Brave Rewards](https://brave.com/), so if you like my work or you feel like helping me out, you can tip me some BAT by enabling the option on your browser
+You can support me in many ways, either via Paypal or Liberapay, as well as other options. 
+
+<br>
+<a class="button" href="https://paypal.me/joelchrono12">Paypal</a> <a class="button" href="https://liberapay.com/joelchrono12/donate">LiberaPay</a>
+<br>
+<br>
+
+This site also is [verified with Brave Rewards](https://brave.com/), so it's the easiest way to help me out, you can tip me some BAT by enabling the option on your browser.
 
 You can also [tip me with Monero](https://getmonero.org) if you want something anonymous and privacy respecting!
 
