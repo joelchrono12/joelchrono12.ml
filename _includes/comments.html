@@ -1,111 +1,59 @@
 <link rel="stylesheet" href="/assets/css/comments.css">
 <div class="article-content">
 
-    <div id="gh-comments-list"></div>
-    <a class="button" id="load-comment">Load comments</a> <a class="button" href="mailto:joel.chrono@disroot.org?subject=Re: {{ page.title  }}"><b>Reply via email</b></a> <a class="button" href="https://{{page.host}}/interact/{{ page.com_id }}?=type=reply">Reply via Mastodon</a><br>
+    <div id="comments-list"></div>
     <noscript><p>You need JavaScript to view comments here.</p></noscript>
+    <a class="button" id="load-comment">Load comments</a> <a class="button" href="mailto:joel.chrono@disroot.org?subject=Re: {{ page.title  }}"><b>Reply via email</b></a> <a class="button" href="https://{{page.host}}/interact/{{ page.com_id }}?=type=reply">Reply via Mastodon</a><br>
+    <script src="/assets/js/purify.js"></script>
     <script>
-document.getElementById('load-comment').addEventListener("click", async () => {
 //window.addEventListener("DOMContentLoaded", async () => {
+document.getElementById('load-comment').addEventListener("click", async () => {
     const response = await fetch('https://{{ page.host }}/api/v1/statuses/{{ page.com_id }}/context');
     const data = await response.json();
-//    const gh_response = await fetch(GH_API_URL);
-//	const gh_data = await gh_response.json();
     if (data.descendants && data.descendants.length > 0) {
-        document.getElementById('gh-comments-list').innerHTML += "<h3>Mastodon Comments</h3>";
+        document.getElementById('comments-list').innerHTML += "<h3>Mastodon Comments</h3>";
         let descendants = data.descendants;
         for (let i = 0; i < descendants.length; i++) {
-            document.getElementById('gh-comments-list').appendChild(createCommentEl(descendants[i]));
+//            document.getElementById('comments-list').appendChild(createCommentEl(descendants[i]));
+            document.getElementById('comments-list').appendChild(DOMPurify.sanitize(createCommentEl(descendants[i]), {'RETURN_DOM_FRAGMENT': true}));
         }
         document.getElementById('load-comment').remove();
     }
     else {
-        document.getElementById('gh-comments-list').innerHTML += "<p>⚠️ No Mastodon comments yet ⚠️</p>";
+        document.getElementById('comments-list').innerHTML += "<p>⚠️ No Mastodon comments yet ⚠️</p>";
     }
 });
 
-
-function createCommentEl( response ){
-  	let user = document.createElement('div');
-		user.classList.add('mastodon-comment')
-	let userAvatar = document.createElement('img');
-		userAvatar.classList.add('avatar');
-        userAvatar.setAttribute('height', 60 );
-        userAvatar.setAttribute('width', 60 );
-		userAvatar.setAttribute('src',response.account.avatar_static);
-		user.appendChild(userAvatar);
-	let userLink = document.createElement('a');
-		userLink.setAttribute('href',response.account.url);
-        userLink.classList.add('comment-author');
+function createCommentEl(response){
+    let user = document.createElement('div');
+    user.classList.add('mastodon-comment')
+    let userAvatar = document.createElement('img');
+    userAvatar.classList.add('avatar');
+    userAvatar.setAttribute('height', 60 ); userAvatar.setAttribute('width', 60 ); userAvatar.setAttribute('src',response.account.avatar_static);
+    user.appendChild(userAvatar);
+    let userLink = document.createElement('a');
+    userLink.setAttribute('href',response.account.url);
+    userLink.classList.add('comment-author');
     for (let j = 0; j < response.account.emojis.length;j++){
         let emoji = response.account.emojis[j];
         response.account.display_name = response.account.display_name.replace(`:${emoji.shortcode}:`, `<img src="${emoji.static_url}" alt="Emoji ${emoji.shortcode}" height="16px" width="16px" />`);
-      }
-        userLink.innerHTML = response.account.display_name + ' @' + response.account.username;
+    }
+    userLink.innerHTML = response.account.display_name + ' @' + response.account.username;
 
     let commentDate = document.createElement('a');
-        commentDate.classList.add('comment-date');
-        commentDate.setAttribute('href',response.url);
-        commentDate.innerHTML = response.created_at.substr(0,10);
+    commentDate.classList.add('comment-date'); commentDate.setAttribute('href',response.url); commentDate.innerHTML = response.created_at.substr(0,10);
 
-	let commentContents = document.createElement('div');
-		commentContents.classList.add('mastodon-comment-content');
-        commentContents.innerHTML = response.content;
+    let commentContents = document.createElement('div');
+    commentContents.classList.add('mastodon-comment-content'); commentContents.innerHTML = response.content;
 
-	let comment = document.createElement('div');
-		comment.classList.add( 'comment-content' );
+    let comment = document.createElement('div');
+    comment.classList.add( 'comment-content' );
 
-		user.appendChild( comment );
-		comment.appendChild( userLink );
-        comment.appendChild(commentDate);
-		comment.appendChild( commentContents );
-		return user;
-}
-
-
-/*function createCommentEl1( response ) {
-	let user = document.createElement( 'div' );
-		user.classList.add('mastodon-comment');
-
-	let userAvatar = document.createElement( 'img' );
-		userAvatar.classList.add( 'avatar' );
-	    userAvatar.setAttribute('height', 60 );
-	    userAvatar.setAttribute('width', 60 );
-		userAvatar.setAttribute( 'src', response.user.avatar_url );
-		user.appendChild( userAvatar );
-
-	let userLink = document.createElement( 'a' );
-		userLink.setAttribute( 'href', response.user.html_url );
-		userLink.classList.add( 'comment-author' );
-		userLink.innerHTML = '@' + response.user.login;
-	let commentDate = document.createElement('a');
-		commentDate.setAttribute('href', response.html_url);
-		commentDate.classList.add('comment-date');
-		commentDate.innerHTML = response.created_at.substr(0,10);
-
-	let commentContents = document.createElement( 'div' );
-		commentContents.classList.add('mastodon-comment-content');
-		commentContents.innerHTML = response.body;
-	// Progressive enhancement.
-	if ( window.showdown ) {
-		let converter = new showdown.Converter();
-		commentContents.innerHTML = converter.makeHtml( response.body );
-	}
-
-	let comment = document.createElement('div');
-	comment.classList.add( 'comment-content' );
-
-	user.appendChild( comment );
-	comment.appendChild( userLink );
-	comment.appendChild(commentDate);
-	comment.appendChild( commentContents );
+    user.appendChild( comment );
+    comment.appendChild( userLink );
+    comment.appendChild(commentDate);
+    comment.appendChild( commentContents );
     return user;
-}*/
+}
     </script>
 </div>
-
-<noscript><p>You need javascript to fetch comments</p></noscript>
-<script src="/assets/js/showdown.min.js"></script>
-<!--<script>-->
-    <!--const GH_API_URL = 'https://api.github.com/repos/joelchrono12/jekyll-site-test.css/issues/{{ page.comments_id }}/comments';-->
-<!--</script>-->
