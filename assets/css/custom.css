@@ -62,7 +62,6 @@ body {
 }
 
 body p, body ul, body ol{
-    min-width: 80ch;
 }
 
 body ul{
@@ -219,6 +218,7 @@ button:hover, .button:hover, svg:hover{
 @media only screen and (min-width:900px) {
     body p, body ul, body ol{
         padding: 0 1.5rem;
+        min-width: 80ch;
     }
     /*#wrapper{*/
         /*display: grid;*/

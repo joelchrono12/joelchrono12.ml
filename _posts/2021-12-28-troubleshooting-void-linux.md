@@ -7,8 +7,8 @@ permalink: /blog/troubleshooting-void-linux/
 layout: post
 date: 2021-12-28 09:57:57 -0500
 host: fosstodon.org
-username: joeligj12
-com_id: idcomments
+username: joel
+com_id: 107526114775171486
 ---
 
 Ever since I switched back to Void I've done changes to my base install. I will
