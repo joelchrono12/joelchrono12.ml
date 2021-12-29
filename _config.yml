@@ -12,6 +12,7 @@ description: My personal blog, where I share my interests and hobbies
 lang: en
 timezone: America/Mexico_City
 locale: en_US
+highlighter: rouge
 url: "https://www.joelchrono12.ml"
 baseurl: ""
 #include: [".well-known"]

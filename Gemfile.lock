@@ -69,7 +69,8 @@ DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-feed
   jekyll-sitemap
+  rouge
   webrick
 
 BUNDLED WITH
-   2.2.30
+   2.2.33

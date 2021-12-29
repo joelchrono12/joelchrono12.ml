@@ -26,7 +26,7 @@ document.getElementById('load-comment').addEventListener("click", async () => {
 
 function createCommentEl(response){
     let user = document.createElement('div');
-    user.classList.add('mastodon-comment')
+    user.classList.add('mastodon-comment');
     let userAvatar = document.createElement('img');
     userAvatar.classList.add('avatar');
     userAvatar.setAttribute('height', 60 ); userAvatar.setAttribute('width', 60 ); userAvatar.setAttribute('src',response.account.avatar_static);
