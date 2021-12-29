@@ -35,6 +35,8 @@ p.mastodon-comment-content{
 }
 .mastodon-comment-content a{
     text-decoration: none;
+    overflow: auto;
+    /*display: flex;*/
 }
 
 .mastodon-comment-content p{
