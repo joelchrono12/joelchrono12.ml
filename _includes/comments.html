@@ -8,6 +8,7 @@
     <script>
 //window.addEventListener("DOMContentLoaded", async () => {
 document.getElementById('load-comment').addEventListener("click", async () => {
+    document.getElementById('load-comment').remove();
     const response = await fetch('https://{{ page.host }}/api/v1/statuses/{{ page.com_id }}/context');
     const data = await response.json();
     if (data.descendants && data.descendants.length > 0) {
@@ -17,7 +18,6 @@ document.getElementById('load-comment').addEventListener("click", async () => {
 //            document.getElementById('comments-list').appendChild(createCommentEl(descendants[i]));
             document.getElementById('comments-list').appendChild(DOMPurify.sanitize(createCommentEl(descendants[i]), {'RETURN_DOM_FRAGMENT': true}));
         }
-        document.getElementById('load-comment').remove();
     }
     else {
         document.getElementById('comments-list').innerHTML += "<p>⚠️ No Mastodon comments yet ⚠️</p>";
