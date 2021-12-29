@@ -37,11 +37,11 @@ img.avatar{
 .button{
   border: none;
   border-radius: 5px;
+  display: inline-block;
   background: var(--accent);
   font-size: 1rem;
   color: var(--bg);
   text-decoration: none;
-  line-height: 3.5rem;
   padding: .7rem .9rem;
   margin: .5rem .1rem;
   transition: .4s;
