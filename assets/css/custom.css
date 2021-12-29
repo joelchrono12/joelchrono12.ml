@@ -62,9 +62,6 @@ body {
     max-width: 50rem;
 }
 
-body p, body ul, body ol{
-}
-
 body ul{
     padding-left: 2.5rem;
 }
@@ -105,9 +102,6 @@ h2, h3, h4, h5, h6 {
     font-size: 1.35rem;
     color: var(--accent-light);
     margin-bottom: 0px;
-}
-p {
-    padding: 0px;
 }
 code, pre, pre span, kbd, samp {
     font-family: var(--mono-font);
@@ -217,10 +211,10 @@ button:hover, .button:hover, svg:hover{
 /*}*/
 
 @media only screen and (min-width:900px) {
-    body p, body ul, body ol{
+    main p, main ul, main ol{
         padding: 0 1.5rem;
-        min-width: 80ch;
     }
+}
     /*#wrapper{*/
         /*display: grid;*/
         /*grid-template-columns: 70% 30%;*/

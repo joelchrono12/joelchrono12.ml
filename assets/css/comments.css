@@ -5,14 +5,7 @@ img.avatar{
     margin-top: 1rem;
     float: left;
 }
-.comment-content{
-    text-decoration: none;
-    margin: 1rem 0 ;
-    font-size: .9rem;
-    line-height: var(--line-height);
-    background: var(--code-bg);
-    border-radius: 8px;
-}
+
 .comment-date{
     float: right;
     padding-right: 1rem;
@@ -28,11 +21,21 @@ img.avatar{
     max-width: 40%;
 }
 
-.mastodon-comment-content p{
+p.mastodon-comment-content{
     padding-left: 80px;
     padding-top: 3rem;
     padding-bottom: .4rem;
     padding-right: .4rem;
+    background: var(--code-bg);
+    border-radius: 8px;
+    /*min-height: 80px;*/
+}
+.mastodon-comment-content a{
+    text-decoration: none;
+}
+
+.mastodon-comment-content p{
+    min-height: 80px;
 }
 
 .button{

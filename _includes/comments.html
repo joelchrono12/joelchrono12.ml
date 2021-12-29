@@ -43,7 +43,7 @@ function createCommentEl(response){
     let commentDate = document.createElement('a');
     commentDate.classList.add('comment-date'); commentDate.setAttribute('href',response.url); commentDate.innerHTML = response.created_at.substr(0,10);
 
-    let commentContents = document.createElement('div');
+    let commentContents = document.createElement('p');
     commentContents.classList.add('mastodon-comment-content'); commentContents.innerHTML = response.content;
 
     let comment = document.createElement('div');
@@ -52,7 +52,7 @@ function createCommentEl(response){
     user.appendChild( comment );
     comment.appendChild( userLink );
     comment.appendChild(commentDate);
-    comment.appendChild( commentContents );
+    user.appendChild( commentContents );
     return user;
 }
     </script>
