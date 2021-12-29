@@ -11,6 +11,7 @@ img.avatar{
     font-size: .9rem;
     line-height: var(--line-height);
     background: var(--code-bg);
+    border-radius: 8px;
 }
 .comment-date{
     float: right;
