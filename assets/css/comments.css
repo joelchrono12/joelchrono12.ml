@@ -46,9 +46,3 @@ img.avatar{
   margin: .5rem .1rem;
   transition: .4s;
 }
-@media only screen and (min-width:900px) {
-    .mastodon-comment-content p{
-        padding: 0 1.5rem;
-        min-width: 72ch;
-    }
-}
