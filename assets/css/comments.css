@@ -30,13 +30,13 @@ p.mastodon-comment-content{
     padding-bottom: .4rem;
     padding-right: .4rem;
     background: var(--code-bg);
+    word-break: break-word;
+    overflow-wrap: break-word;
     border-radius: 8px;
     /*min-height: 80px;*/
 }
 .mastodon-comment-content a{
     text-decoration: none;
-    overflow: auto;
-    /*display: flex;*/
 }
 
 .mastodon-comment-content p{
