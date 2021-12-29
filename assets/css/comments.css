@@ -24,6 +24,7 @@ img.avatar{
 }
 
 p.mastodon-comment-content{
+    min-height: 85px;
     font-size: .85rem;
     padding-left: 80px;
     padding-top: 3rem;
@@ -33,14 +34,9 @@ p.mastodon-comment-content{
     word-break: break-word;
     overflow-wrap: break-word;
     border-radius: 8px;
-    /*min-height: 80px;*/
 }
 .mastodon-comment-content a{
     text-decoration: none;
-}
-
-.mastodon-comment-content p{
-    min-height: 80px;
 }
 
 .button{
