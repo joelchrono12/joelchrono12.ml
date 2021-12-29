@@ -8,10 +8,12 @@ img.avatar{
 
 .comment-date{
     float: right;
+    font-size: .8rem;
     padding-right: 1rem;
     padding-top: 1rem;
 }
 .comment-author{
+    font-size: .9rem;
     float: left;
     font-weight: 700;
     padding: 1rem 1rem .2rem .2rem;
@@ -22,6 +24,7 @@ img.avatar{
 }
 
 p.mastodon-comment-content{
+    font-size: .85rem;
     padding-left: 80px;
     padding-top: 3rem;
     padding-bottom: .4rem;
