@@ -5,10 +5,10 @@ description: I have talked about comments on my blog before, but I think I final
 tags: tutorial coding blog fediverse small-web
 permalink: /blog/how-to-add-mastodon-comments-to-jekyll-blog/
 layout: post
-date: 2021-12-28 21:53:34 -0500
+date: 2021-12-29 10:20:00 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107531143511314399
 ---
 
 As it usually is, I have already talked about this topic before, but I recently
@@ -171,7 +171,7 @@ You can always check my website's source code to see how all of this is being
 applied. And don't be afraid to leave any question you might have by contacting
 me in any way you prefer below. 
 
-This has been day 68 of [#100DaysToOffload](https://100DaysToOffload.com)
+This has been day 69 of [#100DaysToOffload](https://100DaysToOffload.com)
 
 # Mentioned sources and posts
 
