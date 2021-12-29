@@ -3,19 +3,12 @@ img.avatar{
     border-radius: 20%;
     margin: .2rem .5rem;
     margin-top: 1rem;
-    padding: 2px;
     float: left;
-}
-.comment-url{
-    font-size: 1.1rem;
-    color: var(--border);
-    padding: 1rem;
 }
 .comment-content{
     text-decoration: none;
     margin: 1rem 0 ;
-    font-size: 1rem;
-    border-radius: 5px;
+    font-size: .9rem;
     line-height: var(--line-height);
     background: var(--code-bg);
 }
@@ -34,9 +27,8 @@ img.avatar{
     max-width: 40%;
 }
 
-.mastodon-comment-content{
-    background: var(--code-bg);
-    padding-left: 5rem;
+.mastodon-comment-content p{
+    padding-left: 80px;
     padding-top: 3rem;
     padding-bottom: .4rem;
     padding-right: .4rem;
@@ -57,6 +49,6 @@ img.avatar{
 @media only screen and (min-width:900px) {
     .mastodon-comment-content p{
         padding: 0 1.5rem;
-        min-width: 72ch !important;
+        min-width: 72ch;
     }
 }
