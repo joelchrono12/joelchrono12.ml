@@ -7,8 +7,8 @@ permalink: /blog/i-went-for-a-run-today/
 layout: post
 date: 2021-12-30 09:14:02 -0500
 host: fosstodon.org
-username: joeligj12
-com_id: idcomments
+username: joel
+com_id: 107536585656946072
 ---
 
 Yesterday a friend challenged me to wake up early and go for a run at 6:00 am, 
