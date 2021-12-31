@@ -8,7 +8,7 @@ layout: post
 date: 2021-12-31 14:31:30 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107543565669951378
 ---
 
 So, today I woke up a little later than usual, I tend to be awake by 7 am but I
