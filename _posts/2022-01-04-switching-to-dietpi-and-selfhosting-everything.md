@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-04 13:01:29 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107565841368245045
 ---
 
 I have been playing around during the last few days with my Raspberry Pi, this is because I decided to move to a distro known as DietPi, which has a bunch of preexisting scripts that setup a bunch of services for you.
