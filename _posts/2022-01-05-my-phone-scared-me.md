@@ -29,9 +29,9 @@ I decided to plug my phone again, and try to power it on. But this time I used a
 
 Nothing happened, my phone had died. No luck. This was quite a way for my phone to simply be gone forever.
 
-Years ago I went through a similar situation, I had a Samsung Galaxy S3 mini, a great device with minuscule battery, compared to today's phones. The worse thing is that battery percentage was all over the place, sometimes it would be at 30% and just die, because it was actually at 5%, just not shown correctly.
+Years ago I went through a similar situation, I had a Samsung Galaxy S3 mini, a great device with minuscule battery, compared to today's phones. One of its bad things however, is that battery percentage was all over the place, sometimes it would be at 30% and just die, because it was actually at 5%, just not shown correctly.
 
-A reboot would normally update the percentage properly, but I didn't want to do that all the time. One day, I was using my phone normally while doing house chores and it powered off, I just plugged it in, and no luck, it just died. Looking back, I probably should have tried another battery, but well, it happens
+A reboot would normally update the percentage properly, but I didn't want to do that all the time. One day, I was using my phone normally while doing house chores and it powered off, I just plugged it in, and no luck, it just died. Looking back, I probably should have tried another battery, but well, it happens.
 
 So, today was happening, the same thing, out of nowhere, you blink and its gone. 
 
