@@ -33,7 +33,7 @@ Years ago I went through a similar situation, I had a Samsung Galaxy S3 mini, a 
 
 A reboot would normally update the percentage properly, but I didn't want to do that all the time. One day, I was using my phone normally while doing house chores and it powered off, I just plugged it in, and no luck, it just died. Looking back, I probably should have tried another battery, but well, it happens
 
-So, today was happening, the same ting, out of nowhere, you blink and its gone. 
+So, today was happening, the same thing, out of nowhere, you blink and its gone. 
 
 Then it vibrated, and an Orange Fox icon showed up. The recovery menu was working! But the LED light was still off, I decided to try and do a reboot to system, and after watching the boot animation for a while, I finally got my lock screen, and the LED light finally decided to show up. My battery was at 12%, which means it was actually charging.
 
