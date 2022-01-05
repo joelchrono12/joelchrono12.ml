@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-05 09:30:36 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107570630890051187
 ---
 
 Yesterday night was quite a great day, I've been playing around with Jellyfin for a while, and my phone had also been experiencing multiple clients such as Findroid, Finamp, Gelli and others, testing out features and the user experience each app has.
@@ -17,7 +17,7 @@ So, my battery was dying, I also used the flashlight a lot, so my phone had been
 
 Anyways, while I was editing some metadata, my phone vibrated, and it finally died, without much thought I just plugged it in and went back to work.
 
-After I was done, I had to check my phone again to get ready to sleep. I like to listed to podcasts while I sleep, so I was about to download some. I pick up the phone, press the power button, and realize that there is no charging animation, in fact, the LED light (yes, my phone has one of those) is not on either.
+After I was done, I had to check my phone again to get ready to sleep. I like to listen to podcasts while I sleep, so I was about to download some. I pick up the phone, press the power button, and realize that there is no charging animation, in fact, the LED light (yes, my phone has one of those) is not on either.
 
 I plug my phone somewhere else, no luck, I got try another charger, no luck, I press the button for 4 seconds or so, nothing happens.
 
