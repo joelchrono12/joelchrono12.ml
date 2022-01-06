@@ -2,13 +2,13 @@
 title: Gaming on Void Linux
 header: Gaming on Void Linux
 description: So yesterday I installed Steam, and I did run into problems, I guess Linus is right about some stuff, I mean, is anyone even trying to say otherwise?.
-tags: gaming foss 
+tags: gaming foss linux
 permalink: /blog/gaming-on-void-linux/
 layout: post
-date: 2022-01-06 09:50:13 -0600
+date: 2022-01-06 10:10:13 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107576426049759939
 ---
 
 I run Void Linux, which I have to say, its not the easiest distro to run, so there were definitely a couple of caveats I had to work around to get gaming with Steam.
