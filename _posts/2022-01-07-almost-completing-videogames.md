@@ -8,12 +8,12 @@ layout: post
 date: 2022-01-07 22:22:19 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107584954919188398
 ---
 
 So, there are quite a lot of different games that I have played and completed, be it games on my PSP or on my computer, I have never had a proper console, but I did have one of those "Poly Station" kinda things that only had the same 5 NES games over and over again. I got quite a bit of use out of that, until the joysticks broke.
 
-As time goes on, a lot of those games lost my interest and were never completed, sometimes because the games were boring, others because I got mad at it. 
+As time goes on, a lot of other games were also played, but ended up losing interest in them, and never got completed, sometimes because the games were boring, others because I got mad at them. 
 
 I recently acquired a couple of PC games that I am enjoying so far, Hollow Knight is quite amazing and challenging, and I am enjoying it quite a bit. Axiom Verge too is going just fine CrossCode remains unplayed because of graphical glitches that I have been unable to solve, but maybe it fixes itself at some point.
 
