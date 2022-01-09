@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-08 21:00:31 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107590307037269194
 ---
 
 If you, like me, don't really have the money to spend on a proper controller, but you do have a PSP console and a mini USB cable laying around, you might want to know about this little piece of software known as FuSa Gamepad.
