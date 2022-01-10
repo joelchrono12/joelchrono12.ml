@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-10 14:20:57 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107600120955393384
 ---
 
 I won't bring up any names, wait, maybe I will,
@@ -54,7 +54,9 @@ the bottom to the Advanced section, there, you should see an option named
 `Article CSS selector on original website`. There, you will input the class or
 id of the HTML element containing the article content. If you got an id, you
 should input `#idname`, if its a class, you use `.classname`, note the use of
-the `#` and `.` to differentiate them.
+the `#` and `.` to differentiate them. You can see how it would look here:
+
+![FreshRSS CSS selector option](/assets/img/blogs/2022-01-11-fetch-article-freshrss-css-setting.png)
 
 If the site is super simple or classless, you might want to go with the HTML
 element itself, or a sequence of nested elements, such as `main body`, its all
