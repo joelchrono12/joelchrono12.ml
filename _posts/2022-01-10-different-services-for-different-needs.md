@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-10 10:23:18 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107599105066623256
 ---
 
 The thing that ignited this writing is that I decided to try out Nextcloud News as my RSS feed reader. But to be honest, I was not really that happy with how it worked. It looked pretty nice but there was no way to fully control some little details that made me want to just stay on FreshRSS.
@@ -29,4 +29,4 @@ At the very least if something breaks, having everything separated should make i
 
 What was even the point anyways? I feel like this is nonsense, selfhosting rules, there are too many options sometimes but I still love doing it.
 
-This is day 77 of [#100DaysToOffload](https://100DaysToOffload.com).
+This is day 78 of [#100DaysToOffload](https://100DaysToOffload.com).
