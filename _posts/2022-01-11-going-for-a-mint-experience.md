@@ -5,10 +5,10 @@ description: So, yes, after just a couple of weeks in Void Linux, I ended up swi
 tags: linux distro foss thoughts
 permalink: /blog/going-for-a-mint-experience/
 layout: post
-date: 2022-01-11 20:59:10 -0600
+date: 2022-01-11 21:40:10 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107607430377636437
 ---
 
 So, I decided to switch again, sorry for the post being quite late today, but I was configuring and trying to return to a workflow used to the benefits and caveats of rolling release distributions such as Arch and Void. 
