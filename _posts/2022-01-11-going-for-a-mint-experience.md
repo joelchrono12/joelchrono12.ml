@@ -29,7 +29,7 @@ In case you are interested, I had to leave Void Linux due to the same graphical 
 
 Wrapping up, I am quite happy with Linux Mint, I have managed to try and install everything I needed, only a few exceptions showed up, but they are not super important for me. If you are seeing this post, it means Jekyll also got setup flawlessly, which is great.
 
-This has been day 79 of [#100DaysToOffload](https://100daystooffload.com)
+This has been day 80 of [#100DaysToOffload](https://100daystooffload.com)
 
 
 
