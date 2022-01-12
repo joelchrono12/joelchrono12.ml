@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-12 11:11:41 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107610635245854750
 ---
 
 This is going to be a simple post, because most of the effort I would put into writing something already went into editing some CSS files, therefore I'll write something quick explaining how it went.
@@ -23,7 +23,7 @@ There is still a lot of work that needs to be put into this, but I think the des
 
 You can find the repository [here](https://github.com/joelchrono12/freshrss-nord-theme) if you wish to install it yourself or help out too!
 
-If you don't have GitHub or don't want to use it, feel free to use `git-send-email` too, I don't mind. You can see my theme in action here:
+If you don't have GitHub or don't want to use it, feel free to use `git send-email` too, I don't mind. You can see my theme in action here:
 
 ![Nord theme for FreshRSS](/assets/img/blogs/2022-01-12-freshrss-nord-theme.png)
 
