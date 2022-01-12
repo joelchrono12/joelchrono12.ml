@@ -23,7 +23,9 @@ There is still a lot of work that needs to be put into this, but I think the des
 
 You can find the repository [here](https://github.com/joelchrono12/freshrss-nord-theme) if you wish to install it yourself or help out too!
 
-If you don't have GitHub or don't want to use it, feel free to use `git-send-email` too, I don't mind.
+If you don't have GitHub or don't want to use it, feel free to use `git-send-email` too, I don't mind. You can see my theme in action here:
+
+![Nord theme for FreshRSS](/assets/img/blogs/2022-01-12-freshrss-nord-theme.png)
 
 If you want to know how to apply it here is a quick guide:
 
