@@ -10,7 +10,7 @@ host: fosstodon.org
 username: joeligj12
 com_id: 107481773058885318
 ---
-Back when [I left Void Linux](https://joelchrono12.ml/blog/switching-distro-ending-school/), I did so because of a couple of reasons:
+Back when [I left Void Linux]({{ site.url }}/blog/switching-distro-ending-school/), I did so because of a couple of reasons:
 
 First, it was a school assignment, I would win some extra points and I was already willing to make the move. But also, I was pretty dumb and couldn't figure out printing, as well as some graphical issues, where the screen would blink and glitch seemingly at random.
 

@@ -11,7 +11,7 @@ username: joeligj12
 com_id: 107114246270751675
 ---
 
-So ever since [I switched to pass](https://joelchrono12.ml/blog/pass-unix-manager/), I have really enjoyed my time and improved the state of my accounts bit by bit.
+So ever since [I switched to pass]({{ site.url }}/blog/pass-unix-manager/), I have really enjoyed my time and improved the state of my accounts bit by bit.
 
 By now its old news, but the Twitch leak happened the same day I was getting my vaccine, and while waiting I talked a friend who was worried about the security of his account, turns out, both of us as soon as we woke up changed our passwords and got ready to get the shot (Astra Zeneca btw).
 
@@ -19,7 +19,7 @@ Regardless, because of this and other conversations in the Fediverse, I decided 
 
 Basically, MFA allows you to get a unique code that changes over time. This means that even if someone gets access to your password, they only have 30 seconds to try and guess the code until it changes. Sadly, not every website implements this feature properly. Twitch for example, requires you to add your phone number first, even if you don't use MFA via SMS and use an authenticator app, the most recommended way of getting the codes.
 
-I was sad to see that less than a third of all my online accounts provided good MFA support. I have like 150 accounts total, and [I used to have a lot more](https://joelchrono12.ml/blog/cleanup-your-pwmanager/), and while some don't really need it (local accounts, router passwords), there are is a big amount of sites that don't even bother for some reason.
+I was sad to see that less than a third of all my online accounts provided good MFA support. I have like 150 accounts total, and [I used to have a lot more]({{ site.url }}/blog/cleanup-your-pwmanager/), and while some don't really need it (local accounts, router passwords), there are is a big amount of sites that don't even bother for some reason.
 
 Some interesting places that **do not offer** Multi-Factor authentication are the following:
 

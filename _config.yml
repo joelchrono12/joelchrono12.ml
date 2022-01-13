@@ -20,6 +20,6 @@ include:
   - _redirects
 # RSS feeds
 feed:
-  posts_limit: 30
+  posts_limit: 45
   tags: 
     path: "feeds/"

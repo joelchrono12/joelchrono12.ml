@@ -20,7 +20,7 @@ So anyways, I have decided to try and do this blog using Neovim and only that, w
 
 # Some plugins and external programs later...
 
-I installed a few plugins that I saw in some videos, such as [Goyo](https://github.com/junegunn/goyo.vim) and [Limelight](https://github.com/junegunn/limelight.vim), that are supposed to help focus on typing and only that (I am struggling to get Limelight to work with the Nord color scheme, I will sort it out later). But I have seen a few others that can do more powerful stuff, like prettifying tables made with pipes and such, as well as automatically hiding markdown elements like `*italics*` and `__boldness__`, as well as `[hyperlinks](https://joelchrono12.ml)`. But I am currently seeing all of this pretty clearly.
+I installed a few plugins that I saw in some videos, such as [Goyo](https://github.com/junegunn/goyo.vim) and [Limelight](https://github.com/junegunn/limelight.vim), that are supposed to help focus on typing and only that (I am struggling to get Limelight to work with the Nord color scheme, I will sort it out later). But I have seen a few others that can do more powerful stuff, like prettifying tables made with pipes and such, as well as automatically hiding markdown elements like `*italics*` and `__boldness__`, as well as `[hyperlinks](https://{{ site.url }})`. But I am currently seeing all of this pretty clearly.
 
 Also, I found a pretty epic terminal utility called [Aspell](http://aspell.net/), which is quite a life-saver, since, as its name implies, it is pretty useful to check for mistakes and errors in this text.
 
