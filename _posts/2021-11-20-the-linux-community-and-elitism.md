@@ -2,7 +2,7 @@
 title: Linux, Elitism and complexity
 header: Linux, Elitism and complexity
 description: Although this started as a response, this will probably end up in some random tangents with some weird rambling.
-tags: linux foss
+tags: linux foss email
 permalink: /blog/the-linux-community-and-elitism/
 layout: post
 date: 2021-11-20 08:53:52 -0500
