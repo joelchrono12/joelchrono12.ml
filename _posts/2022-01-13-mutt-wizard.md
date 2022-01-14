@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-13 20:14:47 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107618694875944957
 ---
 
 I don't know exactly what caused me to fall into this rabbit hole, I have been a fan of plain text encrypted email for a while already. I have used Thunderbird for almost a year now, and K-9 Mail too has been a great email client for my phone.
