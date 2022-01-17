@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-17 07:09:30 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107638046034834926
 ---
 
 Wordle is a simple word guessing game where you get 6 chances to guess a 5 letter word. It is a web based game [hosted here](https://www.powerlanguage.co.uk/wordle/).
