@@ -23,5 +23,5 @@ I don't really want this blog to turn into yet another tutorial, so please, if y
 
 A cool thing that vdirsync has is support for `pass`, or any other command to get your password without just storing it in plain text, so that's pretty cool, you can check my rather simple config in [my dotfiles](https://tildegit.org/chrono/dotfiles)
 
-Now I have added my school schedule, since I just started a new semester, and my time is not as much as before. So, this has been day 86 of [#100DaysToOffload](https://100daystooffload.com)
+Now I have added my school schedule, since I just started a new semester, and my time is not as much as before. So, this has been day 87 of [#100DaysToOffload](https://100daystooffload.com)
 
