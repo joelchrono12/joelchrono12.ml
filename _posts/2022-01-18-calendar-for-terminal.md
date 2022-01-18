@@ -11,7 +11,7 @@ username: joel
 com_id: 107644701031846887
 ---
 
-I was checking out my email today using neomutt, which I've been trying for a few days, and I sumbled upon some people I've talked to that are part of the Fosstodon or the Fediverse in general.
+I was checking out my email today using neomutt, which I've been trying for a few days, and I stumbled upon some people I've talked to that are part of the Fosstodon or the Fediverse in general.
 
 From there, I went ahead and checked out some posts and blogs written by them in my RSS reader, and I stumbled upon and article by Hyde (aka Lazybear) titled [Calendars and Terminal](https://lazybear.io/posts/calendars-and-terminals/), which really got my attention. It talks about `khal` and `vdirsyncer`, a couple of tools that can be used to access my calendars from any CalDAV server, such as my Nextcloud instance, right from my terminal.
 
