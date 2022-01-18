@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-18 11:35:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107644701031846887
 ---
 
 I was checking out my email today using neomutt, which I've been trying for a few days, and I sumbled upon some people I've talked to that are part of the Fosstodon or the Fediverse in general.
@@ -21,7 +21,7 @@ I haven't really done the contacts syncing yet, but I might as well try and set 
 
 I don't really want this blog to turn into yet another tutorial, so please, if you want to try this out check the couple of links I shared here.
 
-A cool thing that vdirsync has is support for `pass`, or any other command to get your password without just storing it in plain text, so that's pretty cool, you can check my rather simple config in [my dotfiles]
+A cool thing that vdirsync has is support for `pass`, or any other command to get your password without just storing it in plain text, so that's pretty cool, you can check my rather simple config in [my dotfiles](https://tildegit.org/chrono/dotfiles)
 
 Now I have added my school schedule, since I just started a new semester, and my time is not as much as before. So, this has been day 86 of [#100DaysToOffload](https://100daystooffload.com)
 
