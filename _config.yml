@@ -13,7 +13,7 @@ lang: en
 timezone: America/Mexico_City
 locale: en_US
 highlighter: rouge
-url: "https://www.joelchrono12.ml"
+url: "https://joelchrono12.netlify.app"
 baseurl: ""
 #include: [".well-known"]
 include:
