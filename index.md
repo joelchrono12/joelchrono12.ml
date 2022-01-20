@@ -27,7 +27,7 @@ layout: default
 You can support me in many ways, either via Paypal or Liberapay, as well as other options. 
 
 <br>
-<a class="button" href="https://paypal.me/joelchrono12">Paypal</a> <a class="button" href="https://liberapay.com/joelchrono12/donate">LiberaPay</a>
+<a class="button" href="https://joelchrono12.netlify.app/paypal">Paypal</a> <a class="button" href="https://liberapay.com/joelchrono12/donate">LiberaPay</a>
 <br>
 <br>
 
