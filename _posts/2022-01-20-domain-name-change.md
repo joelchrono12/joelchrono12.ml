@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-20 10:05:54 -0600
 host: fosstodon.org
 username: joel
-com_id: https://fosstodon.org/@joel/107655730252709647
+com_id: 107655730252709647
 ---
 
 So, I had been exchanging some emails with some people, and I've been thinking about dead blogs, the Internet Archive and stuff like that, since my domain name, which I got for free, is about to expire, and due to some personal problems, I won't be able to get the 9 dollars I need to keep it up for another year. It might not be a lot for some people, and even for me, in  better times, but right now I can't really afford it, so I will probably just let it die, and go back to using my free *.netlify.app domain, just like [Ryan Moore's website](https://rmooreblog.netlify.app/) which seems to be going just fine.
