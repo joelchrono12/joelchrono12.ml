@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-19 11:00:04 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107650395357428944
 ---
 
 So, when I moved to Linux Mint, I ran into an issue with Thunderbird, which was the email client I've used the most. The version available in Linux Mint by default was too old, so despite having backed up my `/home` partition, I was unable to restore the Thunderbird profile I used to have.
@@ -34,11 +34,3 @@ The UNIX philosophy is pretty interesting. Programs and tools dedicated to one t
 I am particularly amazed at how my contacts and calendars are now simply a set of files and folders in my Linux system, that can be integrated with these simple programs without too much trouble. I am really happy with how it works, no longer will I deal with random broken profiles and settings, *hopefully.* And its pretty easy to backup too!
 
 This has been day 88 of [#100DaysToOffload](https://100daystooffload.com)
-
-
-
-
-
-
-
-
