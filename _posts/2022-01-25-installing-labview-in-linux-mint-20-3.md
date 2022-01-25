@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-25 10:45:40 -0600
 host: fosstodon.org
 username: joel
-com_id: 107684460437052141
+com_id: 1076844768309502391
 ---
 
 So far, I have tried multiple ways to solve this, including the first couple of tutorials that just run the INSTALL script or do it via rpm itself.
