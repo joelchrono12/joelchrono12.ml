@@ -31,7 +31,7 @@ I don't know why nobody has tried to fork Telegram's UI and apply a different pr
 
 I really like Signal in principle, but I am not a fan of their crypto business. I just can't get anyone to install it, and that's probably my fault due to the time I already spent trying to convince my friends and family to switch to Telegram back when I still was trying to use it for personal messaging. 
 
-This app really needs usernames, because there is no other reason to use it otherwise, at least in my case. The moment they do, I honestly have no problem ditching Telegram (or creating a different) and probably sticking to a fork client that doesn't include any of the Crypto nonsense.
+This app really needs usernames, because there is no other reason to use it otherwise, at least in my case. The moment they do, I honestly have no problem ditching Telegram (for personal messaging) and probably sticking to a fork client that doesn't include any of the crypto nonsense.
 
 # Matrix
 
