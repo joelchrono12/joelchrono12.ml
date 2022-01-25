@@ -51,7 +51,9 @@ Nevertheless, if you don't wanna use PGP encrypted email, I would say this is th
 
 This morning I felt quite inspired to try out Briar, a peer to peer communication platform that also works over the Tor network when it needs to. The way it works seems to be incredibly secure, and its also not as invested into the crypto world like Signal and Session, another app which is quite similar and I'll talk about later.
 
-I decided to do a quick post in Mastodon and invite some people to chat a bit via Briar, and I have to admit, the experiment went a lot better than I thought. I think its fairly clear that this app is the most secure and private one of the bunch, there is nothing stored in any server, simply your device and your friend's. Of course this comes with some caveats, but at least for most conversation, it is pretty good. The app is also in continuous development, so a lot of features are going to be implemented in the future.
+I decided to do a quick post in Mastodon and invite some people to chat a bit via Briar, and I have to admit, the experiment went a lot better than I thought. I think its fairly clear that this app is the most secure and private one of the bunch, there is nothing stored in any server, simply your device and your friend's. Of course this comes with some caveats, but at least for most conversations, it is pretty good. 
+
+The app is also in continuous development, so a lot of features are going to be implemented in the future.
 
 It has some problems, but they are mostly quality of life improvements and some details that make the user experience a bit clunky, but its a lot better than last time I used it, quite a while ago.
 
