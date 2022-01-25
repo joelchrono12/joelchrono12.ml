@@ -30,7 +30,7 @@ Recently I have seen more and more awareness towards FOSS, and I have seen more 
 
 I really don't think that apps like [Tasker](https://play.google.com/store/apps/dev?id=8102570190170276456), [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero) or [Bouncer](https://play.google.com/store/apps/details?id=com.samruston.permission) should become open source. Not in an ecosystem that barely controls what apps get added to the Play Store.
 
-If you go right now to the store, and search for "Gallery", you will quite a lot of Simple Gallery based clones, that don't even change anything about the source code, besides the icons, and the addition of advertisement and other things that we can't even see because those clones are not FOSS.
+If you go right now to the store, and search for "Gallery", you will find quite a lot of Simple Gallery based clones, that don't even change anything about the source code, besides the icons, and only bother adding advertisement and other things that we can't even see because those clones don't comply with the license by not showing their source code.
 
 Despite the license, there will always be people who will simply not care. And will look to make money out of the work of others. 
 
