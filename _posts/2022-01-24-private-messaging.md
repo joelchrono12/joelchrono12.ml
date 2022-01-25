@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-24 18:05:32 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107680237733807091
 ---
 
 When I got started into Android and customization, I always loved the idea of alternative platforms, I never settled with the defaults, regardless of the phone or device I used in any aspect. My favorite kinds of apps where the alternatives to the default. Back then I didn't care that much about FOSS, so apps like QuickPic, Dolphin Browser, Telegram, Imagine for Instagram and a lot of others where usually installed in my phone, simply because I liked using something else, especially if it meant it was better, which was the case with most of them when compared to the more popular options.
