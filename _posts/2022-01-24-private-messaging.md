@@ -11,7 +11,7 @@ username: joel
 com_id: 107680237733807091
 ---
 
-When I got started into Android and customization, I always loved the idea of alternative platforms, I never settled with the defaults, regardless of the phone or device I used in any aspect. My favorite kinds of apps where the alternatives to the default. Back then I didn't care that much about FOSS, so apps like QuickPic, Dolphin Browser, Telegram, Imagine for Instagram and a lot of others where usually installed in my phone, simply because I liked using something else, especially if it meant it was better, which was the case with most of them when compared to the more popular options.
+When I got started into Android and customization, I always loved the idea of alternative platforms, I never settled with the defaults, regardless of the phone or device I used in any aspect. My favorite kinds of apps where the alternatives to the default. Back then I didn't care that much about FOSS, so apps like QuickPic, Dolphin Browser, Telegram, Imagine for Instagram and a lot of others where usually installed in my phone, simply because I liked using something else, especially if it meant it was better, which was the case with most of them when compared to the more popular options and official clients.
 
 From there to nowadays, a lot of things have changed, I don't care about features as much as I care about the freedoms that software and services allow me to have over the code, as well as my own data. 
 
@@ -65,11 +65,11 @@ I really, really like this app, I will try ot use it more often, make sure to re
 
 I kinda didn't feel like talking about Session, mostly because I felt it was less reliable than Briar and they seem to be as involved with crypto currencies as Signal, if not more. The development is also mainly done is Australia, which is not the place you want your private services to come from. Of course, this is all personal opinion, they still work over Tor and the code is still there for everyone to check, I just don't feel as comfortable recommending this service compared to previous mentions for one reason or another. 
 
-Of course, I am not against it, I can still use it just fine and you can help me find out why its actually not as bad as I make it to be by leaving a reply or sending me an email.
+Of course, I am not against it, I can still use it just fine and I would love it if you can help me find out why its not as bad as I believe by leaving a reply or sending me an email. I am open to discussion and changing my opinion if that's the case.
 
 # Wrapping up
 
-Se yeah, I feel like this was it, as you can see this is not the biggest dive into what makes each of this apps special, I didn't mention stuff like Threema, Tox or Jami because I don't actually use any of them in any degree, and I have had at least some experience with the services I actually talked about.
+Se yeah, I feel like this was it, as you can see this is not the biggest dive into what makes each of these apps special, I didn't mention stuff like Threema, Tox or Jami because I don't actually use any of them in any degree, and I have had at least some experience with the services I actually talked about.
 
 I guess this was it for today! This is post 93/100 for [#100DaysToOffload](https://100daystooffload.com)
 
