@@ -61,7 +61,7 @@ They recently launched a Linux client, which is super alpha software as of now, 
 
 Some interesting features are Private Groups, where only you can add people, Forums, which are basically private groups where other people can also invite people, and Blogs, which are public posts for everyone to see. You can even add RSS feeds for you to read, and you can "Reblog" them, so your contacts can have access to it, without making any connections to the original website!
 
-I really, really like this app, I will try ot use it more often, make sure to reach me out if you want my contact link, or I might post it publicly later in my [contact page](/contact).
+I really, really like this app, I will try to use it more often, make sure to reach me out if you want my contact link, or I might post it publicly later in my [contact page](/contact).
 
 # Session
 
