@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-26 12:09:03 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107690495300474362
 ---
 
 When I installed Linux Mint, one of the first things I did was install spectrwm and set it up there. However, I realized that the version available in the repositories does not work with some features I was using, like changing the color of text in my bar.
@@ -68,9 +68,3 @@ static struct arg_t args[] = {
 ```
 
 This has been day 95 of [#100DaysToOffload](https://100daystooffload.com)
-
-
-
-
-
-
