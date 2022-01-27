@@ -35,11 +35,17 @@ This site also is [verified with Brave Rewards](https://brave.com/), so it's the
 
 You can also [tip me with Monero](https://getmonero.org) if you want something anonymous and privacy respecting!
 
+
 ```
 45Y7FRc1SfrB8YsoJKnoWqTxRaLdFRghaB5EvVaLhs3BMmr3mT5jsooKVVefyF6m4Hg3CyM24q7Ck6TrnbhWmmEMLVJmc1e
 ```
 ![Monero QR Code](./assets/img/monero)
 
+If you want to, I Bitcoin is fine too:
+
+```
+bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
+```
 
 <section class="box">
 <h1>Tags</h1>
