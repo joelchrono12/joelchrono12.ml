@@ -64,21 +64,22 @@ aijk file.png
 
 This is how it works:
 
-* Obtain picture file from argument
+* Obtain picture file from argument.
 * Add a Title to file via a rofi input.
-* Create filename for file itself
-* Set paths to different required things (depends on your site)
+* Create filename for file itself.
+* Set paths to different required things (depends on your site).
 * Get the latest markdown files from your site.
-* Make changes to picture so its smaller or whatever (can be customized, requires ImageMagick)
+* Make changes to picture so its smaller or whatever (can be customized, requires ImageMagick).
 * Print formatted markdown line to bottom of the latest markdown file.
 
 ## Adding a Graphical option for mouse users
 
 You can run this script with absolute ease from your terminal, if that's what you want, but I also figured out a way to do it from a GUI if you are using Thunar as a file manager (might be possible with others, haven't checked).
 
-1. Open Thunar > Edit > Configure custom actions
+1. Open Thunar > Edit > Configure custom actions.
 2. Add a new entry for `aijk` and save it.
 ![Thunar configuration](/assets/img/blogs/2022-01-27-thunar-configuration.png)
+4. Set the appearance conditions to images only.
 3. Right click on any image to try it out!
 
 # Final thoughts
