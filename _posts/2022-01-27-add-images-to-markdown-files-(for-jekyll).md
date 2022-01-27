@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-27 10:16:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107695360366384300
 ---
 
 So I have already done quite a lot of posts to make the creation of new posts easier. I find Jekyll to be a pretty decent static site generator, but this little script should work with whatever you got. As long as you customize it to your file structure.
@@ -54,7 +54,7 @@ printf "\n![${name}](${imgs}${filename}.png)" >> $last_post
 
 ## How to use
 
-Once added to your $PATH and making it executable, all you need is to change the required paths in the script, I think most of you will be able to figure it out on your but reach me out if you need help. 
+Once added to your $PATH and making it executable, all you need is to change the required paths in the script, I think most of you will be able to figure it out on your own, but reach me out if you need help. 
 
 You can run it just by doing this:
 
