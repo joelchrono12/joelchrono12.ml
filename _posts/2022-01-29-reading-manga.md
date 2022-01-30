@@ -8,12 +8,12 @@ layout: post
 date: 2022-01-29 21:50:13 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107709520283130903
 ---
 
 I started reading manga at the end of last year, I never had any interest on it before, but since I was already watching anime, I decided to give it a go.
 
-The first manga I read was Attack on Titan, since I had already watched the anime, but I kinda don't want to count it just because I skipped a bunch of stuff and went to reread episodes I liked, as well as read ahead in some of the things that would come with the now released 4th season. So here is a quick list of the ones I've been reading:
+The first manga I read was Attack on Titan, since I had already watched the anime, but I kinda don't want to count it just because I skipped a bunch of stuff and went to reread episodes I liked, as well as read ahead in some of the things that would come with the now released 4th season. So I decided to make a quick list of the ones I got started with.
 
 # Sakamoto Days
 
