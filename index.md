@@ -41,7 +41,7 @@ You can also [tip me with Monero](https://getmonero.org) if you want something a
 ```
 ![Monero QR Code](./assets/img/monero)
 
-If you want to, I Bitcoin is fine too:
+If you want to, I guess Bitcoin is fine too:
 
 ```
 bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
