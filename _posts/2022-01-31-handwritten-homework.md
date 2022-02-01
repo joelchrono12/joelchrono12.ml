@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-31 16:56:53 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107719565449560712
 ---
 
 So for this new semester I have some pretty decent teachers this time around. There is nobody where I feel like they are just wasting my time or the don't really want to be there. They all seem pretty knowledgeable and willing to help out at any moment if possible. I still have a couple who are kinda boring to listen to, at least for me, but I can still learn somewhat nonetheless
