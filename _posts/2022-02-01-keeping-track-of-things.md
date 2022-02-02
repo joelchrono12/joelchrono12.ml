@@ -11,7 +11,7 @@ username: joel
 com_id: 107726460053919012
 ---
 
-So I was reading the [latest blogpost](https://erzadel.net/january-2022-summary/) by [Edel](fosstodon.org/@edel), a fellow Fosstodon member, about the many things she has done this month, from books, music, app usage and other things. I started following her blog recently since she joined the [#100DaysToOffload](https://100daystooffload.com) which I am about to finish.
+So I was reading the [latest blogpost](https://erzadel.net/january-2022-summary/) by [Edel](https://fosstodon.org/@edel), a fellow Fosstodon member, about the many things she has done this month, from books, music, app usage and other things. I started following her blog recently since she joined the [#100DaysToOffload](https://100daystooffload.com) which I am about to finish.
 
 I've thought about how cool it is to be able to pick a week, or a date and be able to know what you did in that day. I haven't really had the time to do journaling or anything like that, but I guess this blog has kind of become that for me, although I don't really follow any method and go by whatever I feel like writing, which I guess is yet another way of journaling.
 
