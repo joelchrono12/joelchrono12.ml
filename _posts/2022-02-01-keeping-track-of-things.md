@@ -2,13 +2,13 @@
 title: Keeping track of things
 header: Keeping track of things
 description: While I am not a fan of companies tracking my behavior online, I do believe that keeping track of myself is kinda neat
-tags: personal foss android manga podcast reading detox
+tags: personal foss android manga podcasts reading detox
 permalink: /blog/keeping-track-of-things/
 layout: post
-date: 2022-02-01 21:07:35 -0600
+date: 2022-02-01 22:14:35 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107726460053919012
 ---
 
 So I was reading the [latest blogpost](https://erzadel.net/january-2022-summary/) by [Edel](fosstodon.org/@edel), a fellow Fosstodon member, about the many things she has done this month, from books, music, app usage and other things. I started following her blog recently since she joined the [#100DaysToOffload](https://100daystooffload.com) which I am about to finish.
