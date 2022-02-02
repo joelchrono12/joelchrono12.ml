@@ -29,4 +29,4 @@ Another thing that kinda made me think of this is the time I've invested into ma
 
 I just realized I spent 5 hours reading it today, 6 yesterday, despite having classes today, I got quite distracted this time, which is bad, because I don't want to end up doing "just enough" to pass, since I know I can do a lot better. *I'll probably read some more before going to sleep*, but I have to restrain myself since school is starting to get serious again. 
 
-Anyways, this is day 97 of [#100DaysToOffload](https://100daystooffload.com), right on time.
+Anyways, this is day 98 of [#100DaysToOffload](https://100daystooffload.com), right on time.
