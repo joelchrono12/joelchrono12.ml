@@ -27,7 +27,7 @@ Of course, friendships don't need to last a lifetime, they are so volatile, they
 
 Its such a weird thing. If you were to ask me who is my best friend, I truly don't know who would I name, or how many, if there are any. Its not about knowing everything about a person, no need to know their family or job, but well, I don't know, I guess its about getting to know their personality, their soul. Be able to stay by their side, not because of commitment or convenience, but because you care for them.
 
-During the time I've been part of the Linux and FOSS community, I have had the pleasure of knowing new people and even starting some meaningful conversations with a few of them, but I wonder if I'll really be able to keep in touch with them for 5 years. I sure wish to maybe be friends some people in here, after all Proverbs 18:24 says:
+During the time I've been part of the Linux and FOSS community, I have had the pleasure of knowing new people and even starting some meaningful conversations with a few of them, but I wonder if I'll really be able to keep in touch with them for 5 years. I sure wish to maybe be friends with some people in here, after all Proverbs 18:24 says:
 
 > There are “friends” who destroy each other, 
 > but a real friend sticks closer than a brother.
