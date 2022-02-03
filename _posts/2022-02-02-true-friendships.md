@@ -8,7 +8,7 @@ layout: post
 date: 2022-02-02 20:33:26 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107732081776135901
 ---
 
 Today I stumbled upon a video based on a series called "The Four Loves", by the man himself **C. S. Lewis**. In this case, he focuses on *"Philia"* or Friendship. The video was done by [CSLewisDoodle](https://www.youtube.com/channel/UCw-kYN6wWXWDyp_lB0wnlxw), a channel that adds drawings and helps illustrate the ideas shared in a great way.
