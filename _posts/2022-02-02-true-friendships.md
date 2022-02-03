@@ -5,7 +5,7 @@ description: I don't really remember how I ended up thinking about the friends I
 tags: thoughts personal life opinion community
 permalink: /blog/true-friendships/
 layout: post
-date: 2022-02-02 20:33:26 -0600
+date: 2022-02-02 22:00:26 -0600
 host: fosstodon.org
 username: joel
 com_id: 107732081776135901
