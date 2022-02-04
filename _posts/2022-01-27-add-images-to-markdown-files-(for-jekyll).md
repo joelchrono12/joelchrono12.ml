@@ -94,4 +94,6 @@ Anyways, this is what I'll do now to add images, I will simply right click, clic
 
 This has been day 95 of [#100DaysToOffload](https://100daystooffload.com). Make sure to check out [Ru's website](https://rusingh.com/), since she single-handedly managed to inspire me to work on this quick script.
 
+**NOTE: This is actually day 96, from here it all went wrong. If you don't understand this note, [read here]**
+
 

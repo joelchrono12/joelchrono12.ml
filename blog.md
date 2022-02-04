@@ -7,13 +7,20 @@ permalink: /blog/
 ---
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% comment %}
+This is reversed order, if you want to start from the beginning
+{% assign postsByYear = site.posts | reverse | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% endcomment %}
+
 {% for year in postsByYear %}
   <h1>{{ year.name }}'s posts</h1>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+
 {% for month in postsByMonth %}
 <h2>{{ month.name }}</h2>
 <ul >
-  {% for post in month.items %}
+  {% for post in month.items  %}
    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
