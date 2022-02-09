@@ -62,9 +62,9 @@ body {
     max-width: 50rem;
 }
 
-body ul{
-    padding-left: 2.5rem;
-}
+/*ul{*/
+    /*padding-left: 2.5rem;*/
+/*}*/
 
 main img, main video, embed {
     max-width: 100%;
@@ -93,6 +93,7 @@ a {
 a:hover {
     text-decoration: none
 }
+
 h1 {
     font-size: 1.5rem;
     color: var(--border);
@@ -193,9 +194,9 @@ button:hover, .button:hover, svg:hover{
 
 
 @media only screen and (min-width:900px) {
-    main p, main ul, main ol{
-        padding: 0 1.5rem;
-    }
+    /*main p, main ul, main ol{*/
+        /*padding: 0 1.5rem;*/
+    /*}*/
 }
 
 /* Format the expanding box */
