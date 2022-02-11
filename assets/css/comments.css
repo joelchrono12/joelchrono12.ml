@@ -17,6 +17,12 @@ img.avatar{
     float: left;
     font-weight: 700;
     padding: 1rem 1rem .2rem .2rem;
+    overflow: auto;
+    /*text-overflow:ellipsis;*/
+    white-space: nowrap;
+    max-width: 32ch;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
 }
 .comment-content img{
     border-radius: 5px;

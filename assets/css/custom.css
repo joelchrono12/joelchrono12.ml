@@ -99,8 +99,13 @@ h1 {
     color: var(--border);
     margin-bottom: 0px;
 }
+main h1{
+    font-size: 1.7rem;
+    margin-top: 2.5rem;
+}
 h2, h3, h4, h5, h6 {
-    font-size: 1.35rem;
+    margin-top: 2rem;
+    font-size: 1.5rem;
     color: var(--accent-light);
     margin-bottom: 0px;
 }

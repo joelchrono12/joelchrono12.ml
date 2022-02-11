@@ -64,7 +64,7 @@ bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
 </p>
 
 
-<h1>Tags</h1>
+<h1>My Tags Cloud</h1>
 <center>
 <p>
 {% for tag in site.tags %}
