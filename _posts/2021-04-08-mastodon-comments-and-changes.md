@@ -2,7 +2,7 @@
 title: Changing the comment system and customizing this site  
 header: Changing the comment system and customizing this site  
 description: The past few days I have been inspired into making this site more "personal", I also decided to make my comments work using mastodon 
-tags: programming linux foss  
+tags: coding linux foss  
 permalink: /blog/mastodon-comments-and-changes/ 
 layout: post 
 date: "2021-04-08 16:52:44 -0500" 

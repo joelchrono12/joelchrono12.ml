@@ -2,7 +2,7 @@
 title: Changing my workflow, making it Vim-like, switching rom 
 header: Changing my workflow, making it Vim-like, switching rom 
 description: I feel like testing stuff out, switching my workflow around, evading being bored and completing my homework in time! 
-tags: linux lifestyle android foss  
+tags: linux lifestyle android foss vim
 permalink: /blog/changing-my-workflow/ 
 layout: post 
 date: "2021-05-07 18:20:03 -0500" 

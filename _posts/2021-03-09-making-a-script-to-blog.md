@@ -2,7 +2,7 @@
 title: Automating the creation of this blog
 header: Automating the creation of this blog 
 date: "2021-03-09 21:32:00 -0600" 
-tags: linux programming tutorial
+tags: linux coding tutorial vim
 description: I tried to make a script to automate the creation of this blog, as a proper linux user should (kinda). And some blog CSS changes
 permalink: /blog/making-a-script-to-blog/
 layout: post

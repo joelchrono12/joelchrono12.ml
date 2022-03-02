@@ -3,7 +3,7 @@
 title: Writing a blog from the terminal 
 header: Writing a blog from the terminal
 date: "2021-03-02 18:35:00 -0600"
-tags: foss linux 
+tags: foss linux vim
 description: "I have decided to try and write a blog on Nvim, it is quite easy until it is not, but I will get used to it"
 permalink: /blog/blogging-from-terminal/
 layout: post

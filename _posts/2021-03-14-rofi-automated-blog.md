@@ -2,7 +2,7 @@
 title: I made a rofi script to automate this blog 
 header: I made a rofi script to automate this blog 
 description: I already did something like this, but now I used rofi, and its a lot more epic! 
-tags: foss linux programming 
+tags: foss linux coding 
 permalink: /blog/rofi-automated-blog/ 
 layout: post 
 date: "2021-03-14 19:33:26 -0600" 

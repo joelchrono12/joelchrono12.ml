@@ -2,7 +2,7 @@
 title: Not every post has to be a tutorial (Catching up)
 header: Not every post has to be a tutorial (Catching up)
 description: During the last couple of days I have been thinking about topics I want to cover, but I don't have the time to invest in proper explanations. I decided  to let it be and just talk about what I've been doing these days.
-tags: lifestyle ramble blog ricing raspberrypi robotics school inkscape foss linux
+tags: lifestyle ramble blog ricing raspberrypi school inkscape foss linux
 permalink: /blog/not-every-post-has-to-be-a-tutorial/
 layout: post
 date: 2021-09-08 15:22:24 -0500

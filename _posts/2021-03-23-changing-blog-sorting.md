@@ -2,7 +2,7 @@
 title: Doing changes to the blog archive page (and others) 
 header: Doing changes to the blog archive page (and others) 
 description: I have a blog made in Jekyll, I HAVE to make a blog every time I made changes to its layout. Added blog list split by year and month, and better tags layout too 
-tags: foss programming tutorial ramble
+tags: foss coding tutorial ramble
 permalink: /blog/changing-blog-sorting/ 
 layout: post 
 date: "2021-03-23 21:14:02 -0600" 

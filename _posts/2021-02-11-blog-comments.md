@@ -4,7 +4,7 @@ title: Adding comment support to my website
 header: Adding comment support to my website
 date: "2021-02-11 09:36:00 -0600"
 description: How I added comments, and how I made them look good to fit with simple.css (and doing my best so you don't break them lol) :P
-tags: foss linux programming
+tags: foss linux coding
 permalink: /adding-comments-blog/
 layout: post
 comments_id: 1
