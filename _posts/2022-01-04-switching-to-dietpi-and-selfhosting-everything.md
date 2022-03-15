@@ -2,7 +2,7 @@
 title: Switching to DietPi and selfhosting everything
 header: Switching to DietPi and selfhosting everything
 description: I decided to move over my Raspberry Pi distro to try out selfhosting the easy way
-tags: selfhost googleless 
+tags: selfhost degoogle 
 permalink: /blog/switching-to-dietpi-and-selfhosting-everything/
 layout: post
 date: 2022-01-04 13:01:29 -0500

@@ -2,7 +2,7 @@
 title: New section, the software I use! 
 header: New section, the software I use! 
 description: If you look at the top section of this website, you will see a new "Uses" section, check it out if you want to know some of the software I use.
-tags: android linux googleless foss short
+tags: android linux degoogle foss short
 permalink: /blog/software-i-use/ 
 layout: post 
 date: "2021-06-02 16:06:11 -0500" 

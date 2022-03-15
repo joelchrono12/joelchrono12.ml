@@ -3,7 +3,7 @@
 title: Changing my android ROM once again
 header: Changing my android ROM once again
 date: "2021-02-16 11:49:00 -0600"
-tags: lifestyle android foss
+tags: lifestyle android foss degoogle
 description: "I have changed my rom again and degoogled my device despite going back to school"
 permalink: /changing-android-rom/
 layout: post
