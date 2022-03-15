@@ -8,7 +8,7 @@ layout: post
 date: 2022-03-14 22:03:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107960637147275526
 ---
 
 Ever since I read yet another post by [Edel](https://fosstodon.org/@edel) about how she has watched [less YouTube videos over time](https://erzadel.net/why-ive-been-watching-less-youtube-videos/) I too wanted to put some thought into my usage of the service.
@@ -44,7 +44,11 @@ Also, while writing this, I decided to check out some invidious instances and re
 
 Well, if you asked that question yesterday, I would have probably told you to go with Youtube Vanced.
 
-But [YouTube Vanced is dead](https://nitter.net/YTVanced/status/1503052250268286980). Going back to Newpipe then!, I actually prefer it over Vanced, but it has some problems on Android 12, which I use, so PiP doesn't work as well and takes over the entire screen, disabling touch for everything under it. There is an adb command I used to fix it (I don't remember it now), so I can use it just fine now again, even if its still a bit less polished than Vanced and the official app.
+But [YouTube Vanced is dead](https://nitter.net/YTVanced/status/1503052250268286980). Going back to Newpipe then!, I actually prefer it over Vanced, but it has some problems on Android 12, which I use, so PiP doesn't work as well and takes over the entire screen, disabling touch for everything under it. There is an adb command I used to fix it ~~(I don't remember it now)~~:
+```
+adb shell settings put global block_untrusted_touches 0
+```
+Now I can use it just fine now again, even if its still a bit less polished than Vanced and the official app. Also, keep in mind that this command can **leave you vulnerable to malware.**
 
 There is another very promising client that uses the proper PiP API and works wonderfully, named [SongTube](https://songtube.github.io/) which has an awesome user interface and is a bit more suited for music (as the name implies). Sadly, it doesn't have a way to import subscriptions, which is the reason I haven't fully switched to it, but if you don't mind, I recommend giving it a try.
 
