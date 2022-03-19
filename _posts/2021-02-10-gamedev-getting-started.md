@@ -38,13 +38,13 @@ Also, I was aware of the FOSS community, and about to start using Linux. This le
   <figcaption>Godot engine 2D and scripting interface</figcaption>
 </figure>
 
-The pandemic, the discovering of the FOSS community, of Godot, *all this was an omen, a sign*, that **this would be my new hobby**.
+The pandemic, the discovering of the FOSS community, of Godot, *all this was an omen, a sign*, that *this would become my new hobby*.
 
-So I decided to try it out, I was more aware of how videogames work, so after a quick Google search (Yeah, I *still* used it, sorry) on "How to make a platformer in Godot Engine", I found  a couple of video tutorials by [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ). It was quite long,but simple enough to follow, although  I also faced a couple of problems, which weren't really that hard (*I forgot that the Y axis is inverted in Godot, as well most graphical interfaces*), but I the end, I was actually learning, and started to work on some quick small projects with help from other videos and the great [documentation](https://docs.godotengine.org/en/stable/).
+So I decided to try it out, I was more aware of how the internet works, and after a quick Google search (Yeah, I *still* used it, sorry) on "How to make a platformer in Godot Engine", I found  a couple of video tutorials by [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ). It was quite long, but simple enough to follow, although I also faced a couple of problems, which weren't really that hard (*I forgot that the Y axis is inverted in Godot, as well most graphical interfaces*), but in the end, I was actually learning, and started to work on some quick small projects with help from other videos and the great [documentation](https://docs.godotengine.org/en/stable/).
 
 ## Wrapping up 💭
 
-I know **this is not really a proper *starting guide***, and I if you were expecting that, I am sorry, I might do something like that in the future, but if you want to try game development too, these are my recommendations to get started using Godot or in game development in general. 
+I know this is not really a *proper* starting guide, and I if you were expecting that, I am sorry, I might do something like that in the future, but if you want to try game development too, these are my recommendations to get started using Godot or in game development in general. 
 
 * [Games from Scratch](https://www.youtube.com/user/gamefromscratch): Great for tutorials and reviews of game development software.
 * [KidsCanCode](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg): Don't get fooled by the name, adults can learn too, tutorials for many different engines, and some for Godot too, like their Godot Recipes, which are epic.
@@ -55,7 +55,7 @@ I know **this is not really a proper *starting guide***, and I if you were expec
 * [Brackeys](https://www.youtube.com/user/Brackeys): Does not do videos anymore, but has a lot of Unity and general game development tutorials 
 * Don't forget to checkout the channels mentioned at the beginning of the blog too, wich are more general!
 
-This has been day 6, of [#100DaystoOffload](https://100daystooffload.com/). Eventually, I did my first "complete" game in a [game jam](https://en.wikipedia.org/wiki/Game_jam). but thats a story for another day ;)
+This has been day 6, of [#100DaystoOffload](https://100daystooffload.com/). Eventually, I did my first "complete" game in a [game jam](https://en.wikipedia.org/wiki/Game_jam). but thats a story for another day. ;)
 
 
 
