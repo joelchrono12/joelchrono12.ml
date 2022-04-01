@@ -12,7 +12,7 @@ document.getElementById('load-comment').addEventListener("click", async () => {
     const response = await fetch('https://{{ page.host }}/api/v1/statuses/{{ page.com_id }}/context');
     const data = await response.json();
     if (data.descendants && data.descendants.length > 0) {
-        document.getElementById('comments-list').innerHTML += "<h3>Mastodon Comments</h3>";
+        document.getElementById('comments-list').innerHTML += "";
         let descendants = data.descendants;
         for (let i = 0; i < descendants.length; i++) {
 //            document.getElementById('comments-list').appendChild(createCommentEl(descendants[i]));
@@ -48,11 +48,13 @@ function createCommentEl(response){
 
     let comment = document.createElement('div');
     comment.classList.add( 'comment-content' );
+    let hbreak = document.createElement('hr');
 
     user.appendChild( comment );
     comment.appendChild( userLink );
     comment.appendChild(commentDate);
     user.appendChild( commentContents );
+    user.appendChild(hbreak);
     return user;
 }
     </script>

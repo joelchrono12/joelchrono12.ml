@@ -12,19 +12,20 @@
     min-height: 2rem;
 }
 div.game-box h2{
-    font-size: 1.2rem;
+    /*font-size: 1.6rem;*/
     margin-bottom: .4rem;
-    line-height: 1.5rem;
+    line-height: 1.9rem;
     margin-top: 0;
 }
-/*.game-box img{*/
-    /*[>float: right;<]*/
-    /*opacity: .8;*/
-/*}*/
-
-a.button{
-    padding: 1rem;
+.game-box img{
+    max-width: 300px;
     border-radius: 8px;
-    color: var(--bg);
-    background-color: var(--accent);
+    opacity: 0.8;
 }
+
+/*a.button{*/
+    /*padding: 1rem;*/
+    /*border-radius: 8px;*/
+    /*color: var(--bg);*/
+    /*background-color: var(--accent);*/
+/*}*/

@@ -57,3 +57,9 @@ p.mastodon-comment-content{
   margin: .5rem .1rem;
   transition: .4s;
 }
+button a:visited, 
+button a:hover, 
+a.button:visited, 
+a.button:hover{
+    color: var(--bg);
+}

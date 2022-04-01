@@ -32,153 +32,106 @@
         --code-bg: #2e3440;
     }
 }
-*{
-    box-sizing: border-box;
+
+a,
+a:visited {
+  color: var(--accent);
 }
-html{
-    font-family: var(--mono-font);
-    font-size: 100%;
+
+a:hover {
+  text-decoration: none;
 }
-hr{
-    color: var(--border);
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    @media not print {
+        html {
+        background:var(--bg);
+         color:var(--text); }
+        a {color: var(--accent);}
+        a:visited {color: var(--accent);}
+        a:hover,a:focus{color: var(--accent-light);}
+    }
 }
-header{
-    margin: 1rem auto;
-}
+
+
+
+/*html {font-size: 100%;} [>16px<]*/
+
 body {
-    padding: 20px;
-    background-color: var(--bg);
-    color: var(--text);
+    font-family: var(--mono-font);
     font-weight: 400;
     line-height: 1.75;
+    max-width: 80ch;
     margin: 0 auto;
-    max-width: 50rem;
-}
-
-main img, main video, embed {
-    max-width: 100%;
-    height: auto;
-    opacity: 0.8;
-    border-radius: 5px;
-    margin: 0 auto;
-}
-figure {
-    margin: 0;
-}
-figcaption {
-    /*font-size: .9rem;*/
-    color: var(--text-light);
-    text-align: center;
-    margin-bottom: 1rem;
-}
-
-blockquote {
-    color: var(--text-light);
-    font-style: italic;
-
-}
-a {
-    color: var(--accent);
-}
-a:hover {
-    text-decoration: none
+    padding: 18px;
+    font-size:20px;
+    /*color: #000000;*/
 }
 
 p {margin-bottom: 1rem;}
 
 h1, h2, h3, h4, h5 {
-    color: var(--accent-light);
-}
-
-h1 {
-    color: var(--border);
-}
-
-h1, h2, h3, h4, h5 {
   margin: 3rem 0 1.38rem;
-  font-weight: 600;
+  font-family: 'Fira Code', monospace;
+  font-weight: 400;
   line-height: 1.3;
 }
 
 h1 {
   margin-top: 0;
-  font-size: 1.802rem;
+  font-size: 2.488rem;
 }
 
-h2 {font-size: 1.602rem;}
+h2 {font-size: 2.074rem;}
 
-h3 {font-size: 1.424rem;}
+h3 {font-size: 1.728rem;}
 
-h4 {font-size: 1.266rem;}
+h4 {font-size: 1.44rem;}
 
-h5 {font-size: 1.125rem;}
+h5 {font-size: 1.2rem;}
 
-small, .text_small {font-size: 0.889rem;}
-
-/* Code  */
-code, pre, pre span, kbd, samp {
-    font-family: var(--mono-font);
-    color: var(--code);
-    background: var(--code-bg);
-    border-radius: 5px;
-    padding: 0.12rem 0.3rem;
+hr{
+  color: var(--border);
 }
-kbd {
-    border: 1px solid var(--preformatted);
-    border-bottom: 3px solid var(--preformatted);
-    border-radius: 5px;
-    padding: .1rem;
+
+small, .text_small {font-size: 0.833rem;}
+/* Using 800px as mobile screen in this example */
+main img{
+  max-width: 100%;
+  height: auto;
+  opacity: 0.8;
+  border-radius: 8px;
+}
+
+code {
+    font-size:14px;
+    /* Word wrap is optional if you plan to have long inline code snippets */
+    word-wrap:break-word;
 }
 pre {
-    padding: 1rem 1.4rem;
-    max-width: 100%;
-    overflow: auto;
-    overflow-x: auto;
-    background: var(--code-bg);
-    border: none;
-    border-radius: 5px;
+    overflow:auto;
+    line-height: 1.245rem;
 }
-pre code {
-    font-family: var(--mono-font);
-    background: none;
-    margin: 0;
-    padding: 0;
+/* Default table styles for this demo */
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
 }
-svg {
-    width: 44px;
-    transition: .4s;
+table tr {
+    border-bottom: 1px solid
 }
-/* Format navigation */
-nav a {
-    background: var(--code-bg);
-    margin: .7rem 0 0 .5rem; 
-    color: var(--border) !important;
-    border-radius: 8px;
-    display: inline-block;
-    padding: .3rem .6rem;
-    text-decoration: none;
-    transition: .4s;
+table th, table td {
+    padding: 10px 20px;
 }
-nav a.nav-current {
-    background: var(--border);
-    color: var(--bg) !important;
-    font-weight: 700;
-    opacity: 1;
+table td span {
+    color: dimgrey;
+    /*display: none;*/
+    font-size: 10px;
+    font-weight: bold;
+    padding: 5px;
+    /*position: absolute;*/
 }
-nav a:hover {
-    color: var(--bg) !important;
-    border-color: var(--border);
-    background: var(--border);
-}
-header h1{
-    color: var(--accent) !important;
-    /*display: inline-block;*/
-}
-header nav {
-    margin-bottom: 1.2rem;
-    /*display: inline-block;*/
-}
-
 a button,
 button,
 input[type="submit"],
@@ -199,72 +152,24 @@ button:hover, .button:hover, svg:hover{
     opacity: .8;
     cursor: pointer;
 }
-
-.icon-list{
-    margin-top: 1rem;
+nav a {
+    background: var(--code-bg);
+    margin: .7rem .3rem; 
+    color: var(--border) !important;
+    border-radius: 8px;
+    display: inline-block;
+    padding: .3rem .6rem;
+    text-decoration: none;
+    transition: .4s;
 }
-
-
-@media only screen and (min-width:900px) {
-    /*main p, main ul, main ol{*/
-        /*padding: 0 1.5rem;*/
-    /*}*/
+nav a.nav-current {
+    background: var(--border);
+    color: var(--bg) !important;
+    font-weight: 700;
+    opacity: 1;
 }
-
-/* Format the expanding box */
-details {
-  background: var(--accent-bg);
-  /*border: 1px solid var(--border);*/
-  border-radius: 5px;
-  margin-bottom: 1rem;
-  margin-top: .5rem;
-}
-
-summary {
-  cursor: pointer;
-  font-weight: bold;
-  padding: 0.6rem 1rem;
-}
-
-details[open] {
-  padding: 0.6rem 1rem 0.75rem 1rem;
-}
-
-details[open] summary {
-  margin-bottom: 0.5rem;
-  padding: 0;
-}
-
-details[open] > *:last-child {
-  margin-bottom: 0;
-}
-
-
-/*  TABLES  */
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin: 1.5rem 0;
-}
-
-td,
-th {
-  border: 1px solid var(--border);
-  text-align: left;
-  padding: 0.5rem;
-}
-
-th {
-  background: var(--accent-bg);
-  font-weight: bold;
-}
-
-tr:nth-child(even) {
-  /* Set every other cell slightly darker. Improves readability. */
-  background: var(--accent-bg);
-}
-
-table caption {
-  font-weight: bold;
-  margin-bottom: 0.5rem;
+nav a:hover {
+    color: var(--bg) !important;
+    border-color: var(--border);
+    background: var(--border);
 }
