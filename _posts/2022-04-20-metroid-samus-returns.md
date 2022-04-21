@@ -8,7 +8,7 @@ layout: post
 date: 2022-04-20 01:30:08 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 108166102970047091
 ---
 
 So its been a while since my last post and it felt a little weird to make something 20 days later pretending like nothing happened, so this paragraph is here to recognize I've been gone for a while and now let's proceed with the rest of this writing.

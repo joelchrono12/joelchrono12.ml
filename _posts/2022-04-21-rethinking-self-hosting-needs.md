@@ -8,7 +8,7 @@ layout: post
 date: 2022-04-21 16:40:00 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 108172308619938700
 ---
 
 Honestly, I've had a lot of fun learning how to install and mess around with MariaDB, Apache and other tools for quite a while. And I decided to host my own services for a lot of things. But looking back at the things I actually need and use, I think I could do just fine without most of the things I've installed on my Raspberry Pi. So I will go through all the tools I use and why I don't really need them, or why I actually do.
