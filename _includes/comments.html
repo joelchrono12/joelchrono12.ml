@@ -48,13 +48,11 @@ function createCommentEl(response){
 
     let comment = document.createElement('div');
     comment.classList.add( 'comment-content' );
-    let hbreak = document.createElement('hr');
 
     user.appendChild( comment );
     comment.appendChild( userLink );
     comment.appendChild(commentDate);
     user.appendChild( commentContents );
-    user.appendChild(hbreak);
     return user;
 }
     </script>

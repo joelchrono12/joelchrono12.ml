@@ -7,42 +7,52 @@ img.avatar{
 }
 
 .comment-date{
-    float: right;
-    font-size: .8rem;
+    /*float: right;*/
     padding-right: 1rem;
     padding-top: 1rem;
 }
-.comment-author{
-    font-size: .9rem;
-    float: left;
-    font-weight: 700;
-    padding: 1rem 1rem .2rem .2rem;
-    overflow: auto;
-    /*text-overflow:ellipsis;*/
+.comment-content{
+    /*font-size: .9rem;*/
+    /*float: left;*/
+    /*font-weight: 700;*/
+    /*padding: 1rem 1rem .2rem .2rem;*/
+    /*overflow: auto;*/
+    /*[>text-overflow:ellipsis;<]*/
+    /*white-space: nowrap;*/
+    /*max-width: 32ch;*/
+    /*scrollbar-width: none; [> Firefox <]*/
+    /*-ms-overflow-style: none;  [> Internet Explorer 10+ <]*/
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
     white-space: nowrap;
-    max-width: 32ch;
-    scrollbar-width: none; /* Firefox */
-    -ms-overflow-style: none;  /* Internet Explorer 10+ */
 }
-.comment-content img{
-    border-radius: 5px;
-    max-width: 40%;
+.comment-author,.comment-date{
+    font-size: .9rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+
+}
+.comment-date{
+    float: right;
 }
 
-p.mastodon-comment-content{
-    min-height: 85px;
-    font-size: .85rem;
-    padding-left: 80px;
-    padding-top: 3rem;
-    padding-bottom: .4rem;
-    padding-right: .4rem;
+/*p.mastodon-comment-content{*/
+.mastodon-comment{
+    /*min-height: 85px;*/
     background: var(--code-bg);
-    word-break: break-word;
-    overflow-wrap: break-word;
+    /*word-break: break-word;*/
+    /*overflow-wrap: break-word;*/
     border-radius: 8px;
 }
-.mastodon-comment-content a{
+.mastodon-comment-content{
     text-decoration: none;
+    font-size: .85rem;
+    padding-left: 80px;
+    /*padding-top: 3rem;*/
+    /*padding-bottom: .4rem;*/
+    padding-right: .4rem;
 }
 
 .button{
