@@ -25,7 +25,7 @@ faf00f15 b4cef5f4 2f42c75c 59376214
     </pre>
     </details>
 
-- **🕹 [Itch.io](htps://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.
+- **🕹 [Itch.io](https://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.
 - **🛩 [Telegram](https://t.me/joelchrono12)** -If you want to have a chat with me, this is where I am at. It is not the most private messaging service in the world, I know, but it still has a lot of features, and you can contact me without having to share phone numbers.
 - **💻 [GitHub](https://github.com/joelchrono12)** - Here you can check out some of my projects, there are not a lot, but I still would love to try stuff out and contribute however I can. I have done a lot of icons for the Arcticons icon pack.
 
