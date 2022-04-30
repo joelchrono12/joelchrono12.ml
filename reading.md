@@ -5,6 +5,9 @@ description: I started reading books again and I decided to create this section 
 permalink: /reading/
 layout: default
 ---
+
+You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!
+
 # 👤 Books Read
 
 <table>
