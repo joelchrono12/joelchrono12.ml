@@ -19,7 +19,7 @@ Apps that can sync with FreshRSS are few and far between. A quick search on F-Dr
 
 Right now, [Readrops](https://github.com/readrops/Readrops) is the most modern looking of the bunch, and my current choice at the moment, however, it still feels a bit old. And the compatibility is bare, favorites work, but labels don't, for example. Also, the dark theme is not of my liking.
 
-There is actually another app with a very elegant design, that shows up when looking for "Fresh RSS" on F-Droid: [Fluent Reader](https://github.com/yang991178/fluent-reader_lite).
+There is actually another app with a very elegant design, that shows up when looking for "Fresh RSS" on F-Droid: [Fluent Reader](https://github.com/yang991178/fluent-reader-lite).
 However, such design is following Apple's guidelines, instead of Material design, which makes it not fit at all with the rest of my system. That's pretty much my only complain.
 
 Sadly, the current best Android client for FreshRSS is [FeedMe](https://play.google.com/store/apps/details?id=com.seazon.feedme), it is not FOSS, but it has support for a lot of APIs and pretty much all of the features FreshRSS comes with, its design is great and functional. The only thing I don't like is the settings page having a sidebar, but that's about it.
