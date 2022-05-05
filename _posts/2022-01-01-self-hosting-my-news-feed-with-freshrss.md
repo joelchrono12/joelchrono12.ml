@@ -2,7 +2,7 @@
 title: Selfhosting my news feed with FreshRSS
 header: Selfhosting my news feed with FreshRSS
 description: So, I decided to take a look at FreshRSS and try and install it by myself on my Raspberry Pi
-tags: foss tutorial linux raspberrypi
+tags: foss tutorial linux raspberrypi rss
 permalink: /blog/self-hosting-my-news-feed-with-freshrss/
 layout: post
 date: 2022-01-01 08:00:00 -0500
