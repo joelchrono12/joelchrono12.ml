@@ -8,7 +8,7 @@ layout: post
 date: 2022-05-05 09:58:51 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 108250214220117565
 ---
 
 This post won't be long, I just wanted to keep going a bit about the state of RSS reader apps on Android. Ever since [Flym](https://github.com/FredJul/Flym) died, I have been looking for an alternative, and since I moved to FreshRSS, my needs got a bit more specific, since I need a client with support for Fever's or Google Reader's API. So far, nothing has managed to convinced me.
