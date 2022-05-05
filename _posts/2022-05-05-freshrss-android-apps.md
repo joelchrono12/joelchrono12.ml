@@ -1,7 +1,7 @@
 ---
 title: FreshRSS Android Apps
 header: FreshRSS Android Apps
-description: There are not a lot of great RSS apps for Android, and there are not of RSS apps that support FreshRSS just yet either, but I still have hope.
+description: There are a few great RSS apps for Android, and there are even less RSS apps that support FreshRSS, but I still have hope.
 tags: rss ramble android opinion
 permalink: /blog/freshrss-android-apps/
 layout: post
