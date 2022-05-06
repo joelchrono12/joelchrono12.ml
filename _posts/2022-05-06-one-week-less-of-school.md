@@ -9,7 +9,7 @@ date: 2022-05-06 11:50:36 -0500
 host: fosstodon.org
 username: joel
 image: /assets/img/blogs/2022-05-06-time-ticking.jpg
-com_id: idcomments
+com_id: 108256206805712451
 ---
 
 I have been on [Fosstodon](https://fosstodon.org) for a while, and its the best place to hang out for me, but I was given the chance to help manage a new small community known as [Benign.Town](https://benign.town), I even designed the logo for it, which is kinda cool. I decided to do this since I wanted to learn a bit more about how this all works, and it was an opportunity I could not ignore, since I would like to do my own in the future, at least for personal use.
