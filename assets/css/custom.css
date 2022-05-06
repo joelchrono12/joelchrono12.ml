@@ -173,3 +173,14 @@ nav a:hover {
     border-color: var(--border);
     background: var(--border);
 }
+
+figure {
+  margin: 0;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  margin-bottom: 1rem;
+}
