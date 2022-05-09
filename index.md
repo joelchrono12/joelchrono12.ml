@@ -13,7 +13,7 @@ layout: default
 <ul>
 {% for post in site.posts limit:5 %}
 <li>{{ post.date | date:"%Y-%m-%d"}}
-<b><a href="{{ post.url }}"> {{ post.title }}</a></b>
+<a href="{{ post.url }}"> {{ post.title }}</a>
 <!--<small>{{ post.description }}</small>-->
 <!--<small style="display: block">[ {% for tag in post.tags %}-->
 <!--<a href="/tags/{{ tag }}">{{ tag }}</a>-->
