@@ -1,24 +1,24 @@
 ---
 title: Hide web elements with UBlock Origin 
 header: Hide web elements with UBlock Origin 
-description: Some websites have too much going on. And you might want to use extensions to simplify them, but you might just be able to do it using current adblocker
+description: Some websites have too much going on. And you might want to use extensions to simplify them, but you might just be able to do it using current ad-blocker
 tags: tutorial internet detox
 permalink: /blog/ublock-origin-cosmetic-filtering/
 layout: post
 date: 2022-05-08 18:35:26 -0500
-host: fosstodon.org
+host: benign.town
 image: /assets/img/blogs/2022-05-08-element-blocker.webp
 username: joel
-com_id: idcomments
+com_id: 108269199539638291
 ---
 
-I was really tempted to make the title of this post a bit more eye-catchy, but decided to keep it more informative. Cosmetic filtering is a great feature that most people seem to not know UBlock Origin has, even though it is the best adblocker around!
+I was really tempted to make the title of this post a bit more eye-catchy, but decided to keep it more informative. Cosmetic filtering is a great feature that most people seem to not know UBlock Origin has, even though it is the best ad-blocker around!
 
 The name might already tell you what this feature does, but in case you don't know. Cosmetic filters allows you to hide certain sections of a website. Not only ads, but many other things. Like comment sections, sidebars or annoying pop-ups.
 
 I decided to write this as somewhat of an answer to Ru's post about using Stylus (a tool to make custom stylesheets for websites) to [hide followers and follows in Mastodon](https://rusingh.com/hide-followers-following-on-mastodons-web-ui/). Stylus might be a little too much for such a simple thing. Besides, having less extensions is always good to make fingerprinting more difficult. 
 
-UBlock Origin can help a lot for other usecases, I'll share my filter list at the end to give you some filters you might want to use too.
+UBlock Origin can help a lot for other use cases, I'll share my filter list at the end to give you some filters you might want to use too.
 
 # How to use it
 
