@@ -16,10 +16,19 @@ highlighter: rouge
 url: "https://joelchrono12.netlify.app"
 baseurl: ""
 #include: [".well-known"]
+#
+
+collections:
+  origami:
+    output: true
+
 include:
   - _redirects
 # RSS feeds
 feed:
   posts_limit: 150
+  collections: 
+    origami:
+      path: "/origami.xml"
   tags: 
     path: "feeds/"

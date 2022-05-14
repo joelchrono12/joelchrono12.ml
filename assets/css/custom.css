@@ -114,26 +114,57 @@ pre {
     line-height: 1.245rem;
     padding: 1rem;
 }
-/* Default table styles for this demo */
+ /*Default table styles for this demo */
 table {
     border-collapse: collapse;
     text-align: left;
     width: 100%;
 }
-table tr {
-    border-bottom: 1px solid
-}
 table th, table td {
     padding: 10px 20px;
 }
 table td span {
-    color: dimgrey;
+    /*color: dimgrey;*/
     /*display: none;*/
-    font-size: 10px;
-    font-weight: bold;
+    /*font-size: 10px;*/
+    /*font-weight: bold;*/
     padding: 5px;
     /*position: absolute;*/
 }
+
+/* Format tables */
+table {
+  /*border-collapse: collapse;*/
+  /*display: block;*/
+  /*margin: 1.5rem 0;*/
+  overflow: auto;
+  width: 100%;
+  border-radius: 13px;
+  border-spacing: 0;
+}
+
+td,
+th {
+  border: 1px solid var(--accent-bg);
+  text-align: left;
+  /*padding: 0.5rem;*/
+}
+
+th {
+  background: var(--accent-bg);
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  /* Set every other cell slightly darker. Improves readability. */
+  background: var(--code-bg);
+}
+
+table caption {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
 a button,
 button,
 input[type="submit"],

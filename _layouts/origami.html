@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<p>Designed by: <a href="{{ page.creator.site }}">{{ page.creator.name }}</a>.</p>
+<p>Published {{ page.date | date_to_string }}.</p>
+{% if page.tutorial %}
+<p>Tutorial <a href="{{ page.tutorial }}">here</a>.</p>
+{% else %}
+No tutorials available
+{% endif %}
+
+{{ content }}
+<figure>
+    <img alt="{{ page.description }}" src="{{ page.image }}" />
+    <figcaption>{{ page.title }} by {{ page.creator.name }}</figcaption>
+</figure>

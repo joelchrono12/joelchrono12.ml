@@ -1,5 +1,7 @@
 - name: Blog
   link: /blog/
+- name: Origami
+  link: /origami/
 - name: About
   link: /about/
 - name: Contact

@@ -33,6 +33,33 @@ I have work in some games for different game jams made in Godot, as well as addi
 
 {% include projects.html %}
 
+# Origami Models
+
+<div>
+
+ <table>
+  <tr>
+    <th>Model</th>
+    <th>Author</th>
+    <th>Tutorial</th>
+    <th style="text-align: right">Photo</th>
+  </tr>
+{% for origami in site.origami limit: 3%}
+  <tr>
+    <td><a href="{{ origami.url }}">{{ origami.title }}</a></td>
+    <td><a href="{{ origami.creator.site }}">{{ origami.creator.name }}</a></td>
+    {% if origami.tutorial %}
+    <td><a href="{{ origami.tutorial }}">Yes</a></td>
+    {% else%}
+    <td>No</td>
+    {% endif %}
+    <td style="text-align: right"><img width="210px" src="{{ origami.image }}" alt="{{ origami.description }}" title="{{ origami.description }}"></td>
+  </tr>
+{% endfor %}
+</table> 
+</div>
+<p style="text-align: right" ><a href="/origami/">View more models</a></p>
+
 ***
 
 # Support me

@@ -29,3 +29,12 @@ div.game-box h2{
     /*color: var(--bg);*/
     /*background-color: var(--accent);*/
 /*}*/
+
+.origami-box{
+    background-color: var(--code-bg);
+    display: flex;
+    flex-flow: row wrap;
+}
+.origami-box img{
+    /*width: 200px;*/
+}

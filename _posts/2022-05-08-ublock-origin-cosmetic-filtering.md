@@ -1,6 +1,6 @@
 ---
-title: Hide web elements with UBlock Origin 
-header: Hide web elements with UBlock Origin 
+title: Hide web elements with UBlock Origin
+header: Hide web elements with UBlock Origin
 description: Some websites have too much going on. And you might want to use extensions to simplify them, but you might just be able to do it using current ad-blocker
 tags: tutorial internet detox
 permalink: /blog/ublock-origin-cosmetic-filtering/
