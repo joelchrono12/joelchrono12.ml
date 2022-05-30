@@ -22,7 +22,7 @@ This is reversed order, if you want to start from the beginning
     <th>Tutorial</th>
     <th style="text-align: right">Photo</th>
   </tr>
-{% for origami in site.origami %}
+{% for origami in site.origami reversed %}
   <tr>
     <td><a href="{{ origami.url }}">{{ origami.title }}</a></td>
     <td><a href="{{ origami.creator.site }}">{{ origami.creator.name }}</a></td>
