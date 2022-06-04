@@ -3,10 +3,10 @@ title: On feeling like an Impostor
 header: On feeling like an Impostor
 description: This is a post that is way overdue, my personal experience with feeling like I am not good enough, self-doubt and the so-called Impostor Syndrome.
 tags: personal ramble
-permalink: /blog/on-feeling-like-an-imposter/
+permalink: /blog/on-feeling-like-an-impostor/
 layout: post
 date: 2022-06-03 21:22:00 -0500
-host: fosstodon.org
+host: benign.town 
 username: joel
 com_id: idcomments
 ---

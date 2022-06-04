@@ -6,9 +6,9 @@ tags: art blog
 permalink: /blog/using-jekyll-collections-to-share-origami/
 layout: post
 date: 2022-05-29 19:50:12 -0500
-host: fosstodon.org
+host: benign.town
 username: joel
-com_id: idcomments
+com_id: 108388254429763876
 ---
 
 So I had been meaning to add different forms of content on my blog, having sections for stuff that I don't really consider a proper blogpost, but I never really had the time, and I didn't really generate enough diverse content for me to try setting it up, until recently.
