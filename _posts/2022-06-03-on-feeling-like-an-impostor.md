@@ -6,9 +6,9 @@ tags: personal ramble
 permalink: /blog/on-feeling-like-an-impostor/
 layout: post
 date: 2022-06-03 21:22:00 -0500
-host: benign.town 
-username: joel
-com_id: idcomments
+host: fosstodon
+username: kev
+com_id: 108418291126516452
 ---
 
 More than a month ago, Kev Quirk, one of the admins of Fosstodon, wrote a blogpost about [how he doesn't think he is an expert at anything](https://kevq.uk/the-expert-vs-the-impostor/). I read it and replied with:
