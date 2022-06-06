@@ -7,7 +7,9 @@ plugins:
 
 # SEO Stuff
 title: "Joelchrono12's Blog"
-author: joelchrono12
+author: 
+  name: joelchrono12
+  email: joel.chrono@disroot.org
 description: My personal blog, where I share my interests and hobbies
 lang: en
 timezone: America/Mexico_City

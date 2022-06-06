@@ -3,7 +3,7 @@ title: Android Launchers
 header: Android Launchers
 tags: android
 description: A bit of rambling talking about android customization and my favorite launchers
-permalink: /android-launchers/
+permalink: /blog/android-launchers/
 layout: post
 com_id: 105680459678439499
 host: fosstodon.org
