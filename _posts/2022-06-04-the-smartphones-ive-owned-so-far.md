@@ -6,20 +6,20 @@ tags: android tech lifestyle storytime
 permalink: /blog/the-smartphones-i've-owned-so-far/
 layout: post
 date: 2022-06-04 09:36:00 -0500
-host: fosstodon.org
+host: benign.town
 username: joel
-com_id: idcomments
+com_id: 108430406507659867
 ---
 
-My first blogpost when I created this blog was about [Android launchers and customization](/blog/android-launchers/), and I talked a little bit about my history with smartphones and how much I liked to customize them and make them mine.
+My first post when I started this blog was about [Android launchers and customization](/blog/android-launchers/), and I talked a little bit about my history with smartphones and how much I liked to customize them and make them mine.
 
 So I thought it was about time I went ahead and wrote about the history of devices I've owned and played around with, I thought it would be fun to make a trip down memory lane...
 
 # The dark times
 
-First, what did I have before Android was even a thing? Well, I was just a kid back then, so I don't remeber specific models, but I atleast know the type of phone and brands I had.
+First, what did I have before Android was even a thing? Well, I was just a kid back then, so I don't remember specific models, but I at least know the type of phone and brands I had.
 
-My first cellphone could not do phone calls, it was a Nokia phone that was locked down so it would only work in the US (I didn't live in the US). It had a green monochrome screen that served me well to play simple games such as Snake and Space Impact. It was a wonderful little thing with tons of battery and fun, it resembled a classic Nokia 3310, but the up and down keys were in the middle. I have not found a picture of it anywhere.
+My first cellphone could not do phone calls, it was a Nokia phone that was locked down so it would only work in the US (I didn't live in the US). It had a green monochrome screen that served me well to play simple games such as Snake and Space Impact. It was a wonderful little thing with tons of battery and fun, it resembled a classic Nokia 3310, but the up and down keys were in the middle (Kinda like the 3510, but I remember the keys being separated). I have not found a picture of it anywhere.
 
 After that, my second device would be a Sony Ericcson, after some googling I was able to find that it was a K300i. I remember playing a Darts game on it, as well as recording a lot of videos of me practicing magic tricks, the quality was not great, but kinda decent back then. Again, I didn't really had a SIM card, so no phone calls.
 
@@ -28,9 +28,9 @@ After that, my second device would be a Sony Ericcson, after some googling I was
   <figcaption>Sony Ericcson K300i</figcaption>
 </figure>
 
-There was another phone that I really liked, because it finally had a qwerty keyboard, it was an LG phone with a Windows Mobile OS, it was really fun. This was one of the first times I tried to side-loading stuff, I realized the phone could run java apps, so I found a version of Plants vs Zombies and managed to get it running on it. It didn't run great, but it was cool nonetheless.
+There was another phone that I really liked, because it finally had a QWERTY keyboard, it was an LG phone with a Windows Mobile OS, it was really fun. This was one of the first times I tried side-loading stuff, I realized the phone could run java apps, so I found a version of Plants vs Zombies and managed to get it running on it. It didn't run great, but it was cool nonetheless.
 
-Looks like LG made a ton of phones with QWERTY keyboards so I couldn't quite find the model I used to have. I remember its keys were all separated, instead of being like a single grid, they were all a bit spaced out, and it was quite squared, the corners were as rounded as some of the models I saw online.
+Looks like LG made a ton of phones with QWERTY keyboards, so I couldn't quite find the model I used to have. I remember its keys were all separated, instead of being like a single grid, they were all a bit spaced out, and it was quite squared, the body was not as rounded as some of the models I saw online.
 
 # The rise of Android
 
@@ -40,7 +40,7 @@ I really defended Android back then, I remember phones like the Samsung Galaxy A
 
 ## 2012
 
-Back then my dad didn't really liked smartphones, and didn't feel the need for one, and my mom had a similar sentiment. But one day we ended up at a gas station where they had an electronics store, my dad was buying a FM radio transmitter for the car. I saw some phones there, and I somehow convinced him on the spot to get a phone for mom. It was some terrible chinese knock-off that was super cheap. It ran android 2.3.5 and it kinda sucked, it was already out of date when we got it, I remember around that time learning about Nova Launcher and icons packs, and it all required Android 2.3.6 or 4.0.
+Back then my dad didn't really like smartphones, and didn't feel the need for one, and my mom had a similar sentiment. But one day we ended up at a gas station where they had an electronics store, my dad was buying a FM radio transmitter for the car. I saw some phones there, and I somehow convinced him on the spot to get a phone for mom. It was some terrible chinese knock-off that was super cheap. It ran android 2.3.5 and it kinda sucked, it was already out of date when we got it, I remember around that time learning about Nova Launcher and icons packs, and it all required Android 2.3.6 or 4.0.
 
 It didn't take long for my mom to give up on the touch keyboard and get another phone. The thing actually had quite a lot of buttons compared to today's navigation gestures; along the volume and power buttons, there also was a Search, Menu, Home, Back and Overview buttons, which is kinda interesting.
 
