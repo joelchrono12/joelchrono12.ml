@@ -1,20 +1,12 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-#  - jekyll-webring
+  - jekyll-webring
 #  - jekyll-image-size
   
 
 # SEO Stuff
-title: "Joelchrono12's Blog"
-author: 
-  name: joelchrono12
-  email: joel.chrono@disroot.org
-description: My personal blog, where I share my interests and hobbies
-lang: en
-timezone: America/Mexico_City
-locale: en_US
-highlighter: rouge
+title: "Joelchrono12.xyz"
 url: "https://joelchrono12.netlify.app"
 baseurl: ""
 #include: [".well-known"]
@@ -26,6 +18,9 @@ collections:
 
 include:
   - _redirects
+
+excludes:
+  - _data/webring.yml
 # RSS feeds
 feed:
   posts_limit: 150
@@ -34,3 +29,16 @@ feed:
       path: "/origami.xml"
   tags: 
     path: "feeds/"
+
+webring:
+  data_file: webring
+  layout_file: webring
+  feeds:
+    - https://erzadel.net/feed.xml
+    - https://chriswiegman.com/feed
+    - https://lazybear.io/index.xml
+    - https://kevq.uk/feed
+    - https://jasonsanta.xyz/rss.xml
+    - https://rusingh.com/category/post/article/feed/
+  num_items: 5
+  date_format: "%-d %B, %Y"
