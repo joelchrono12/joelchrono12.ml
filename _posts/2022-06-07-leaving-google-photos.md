@@ -8,7 +8,7 @@ layout: post
 date: 2022-06-07 18:29:25 -0500
 host: benign.town
 username: joel
-com_id: idcomments
+com_id: 108438831436312938
 ---
 
 I might have lied with the title a little bit, I don't really use Google Photos, but I don't think I will stop using the "Google" part of it. I decided to look for a way to backup all those photos, encrypt them, and then upload them once again to Google Drive. I am writing this while doing this task, so I will be documenting what I've done so far, and maybe update you all in a later post.
