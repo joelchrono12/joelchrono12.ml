@@ -2,7 +2,7 @@
 <section class="webring">
   <h3>Articles from blogs I follow around the net</h3>
   <ul class="articles">
-      {% for item in webring %}
+      {% for item in webring reversed %}
     <li class="article">
       <strong class="title">
         <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>

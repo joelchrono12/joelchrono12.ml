@@ -40,6 +40,8 @@ webring:
     - https://lazybear.io/index.xml
     - https://kevq.uk/feed
     - https://jasonsanta.xyz/rss.xml
+    - https://dusanmitrovic.xyz/rss
     - https://rusingh.com/category/post/article/feed/
   num_items: 5
-  date_format: "%-d %B, %Y"
+  no_item_at_date_behaviour: use_latest
+  date_format: "%B %-d, %Y"
