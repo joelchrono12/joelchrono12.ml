@@ -8,7 +8,7 @@ layout: post
 date: 2022-06-10 08:49:21 -0500
 host: benign.town
 username: joel
-com_id: idcomments
+com_id: 108453708403017599
 ---
 
 A few days ago I noticed a really annoying setting in Dolphin, KDE's default file manager. I noticed that the date format was not `YYYY-MM-DD`, which I tend to prefer. It looks like I can't change that in Dolphin's own settings, but only via Plasma's System Settings.
@@ -16,7 +16,7 @@ A few days ago I noticed a really annoying setting in Dolphin, KDE's default fil
 
 I switched to Fedora a couple weeks ago, and decided to go with the KDE spin, and use as many KDE apps as I could. I really like Dolphin, now that the dependencies, which can be annoying when using XFCE or a GTK desktop, are not really a problem since they all come built-in.
 
-The only way to change the date format is by changing the System's region settings, there are a lot of formats but I could not find what I wanted,some time I had to give up, what a shame.
+The only way to change the date format is by changing the System's region settings, there are a lot of formats but I could not find what I wanted, after some time I had to give up, what a shame.
 
 At a later point I realized that some of my apps were not working properly. Rofi would not launch with my shortcuts, Khard and Khal were showing errors. And it was due to these I realized that my locale settings were a mess. So basically my KDE settings broke my app launcher and email setup, which was pretty annoying.
 
