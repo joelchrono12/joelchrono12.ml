@@ -8,7 +8,7 @@ layout: post
 date: 2022-05-06 11:50:36 -0500
 host: fosstodon.org
 username: joel
-image: /assets/img/blogs/2022-05-06-time-ticking.jpg
+image: "assets/img/blogs/2022-05-06-time-ticking.jpg"
 com_id: 108256206805712451
 ---
 

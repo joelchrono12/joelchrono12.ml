@@ -5,7 +5,7 @@ description: Last week, I got back to school, and I also got a Raspberry Pi. Let
 tags: coding tech linux foss school raspberrypi webdev
 permalink: /blog/getting-a-raspberry-pi-to-play-with/
 layout: post
-image: /assets/img/blogs/2021-08-07-raspi.jpg/
+image: "assets/img/blogs/2021-08-07-raspi.jpg""
 date: 2021-08-17 15:19:28 -0500
 host: fosstodon.org
 username: joeligj12
