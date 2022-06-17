@@ -1,7 +1,7 @@
 ---
 title: Home | joelchrono12
-header: Welcome to my <i>digital garden</i>
-description: Hello! I am Joel, you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies. I hope you enjoy your visit!
+header: Welcome to my digital garden
+description: Hello! I am Joel, you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href='/origami/'>origami</a>. I hope you enjoy your visit!
 permalink: /
 layout: default
 ---
@@ -33,32 +33,6 @@ I have work in some games for different game jams made in Godot, as well as addi
 
 {% include projects.html %}
 
-# Origami Models
-
-<div>
-
- <table>
-  <tr>
-    <th>Model</th>
-    <th>Author</th>
-    <th>Tutorial</th>
-    <th style="text-align: right">Photo</th>
-  </tr>
-{% for origami in site.origami limit: 3%}
-  <tr>
-    <td><a href="{{ origami.url }}">{{ origami.title }}</a></td>
-    <td><a href="{{ origami.creator.site }}">{{ origami.creator.name }}</a></td>
-    {% if origami.tutorial %}
-    <td><a href="{{ origami.tutorial }}">Yes</a></td>
-    {% else%}
-    <td>No</td>
-    {% endif %}
-    <td style="text-align: right"><img width="210px" src="{{ origami.image }}" alt="{{ origami.description }}" title="{{ origami.description }}"></td>
-  </tr>
-{% endfor %}
-</table> 
-</div>
-<p style="text-align: right" ><a href="/origami/">View more models</a></p>
 
 ***
 
