@@ -39,7 +39,7 @@ I have worked in some games made in Godot as entries for different game jams, I'
 * [Swap Die Repeat](https://joelchrono12.itch.io/swap-die-repeat)  
     For my first game jam! A 2D puzzle platformer made with Godot, swap characters until you die! (but try not to).
 * [Cliff Hanger](https://joelchrono12.itch.io/cliff-hanger)  
-    Yet another A 2D platformer, but you have to complete the levels in 12 seconds or less, how? By stopping time!, somehow...
+    Yet another 2D platformer, but you have to complete the levels in 12 seconds or less, how? By stopping time!, how? by hanging on... cliffs?
 * [Only Spaceship](https://joelchrono12.itch.io/only)  
     A rushed out game that is kinda wonky and broken. A spaceshooter where you survive as long as its not unfair.
 
