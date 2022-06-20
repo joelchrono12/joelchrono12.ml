@@ -1,7 +1,7 @@
 ---
 title: A troublesome Raspberry Pi install
 header: Storing GPG keys on KWallet
-description: A offered to help a friend who wanted use a Raspberry Pi as a file server. But I got into a lot more trouble than I expected.
+description: I offered to help a friend who wanted use a Raspberry Pi as a file server. But I got into a lot more trouble than I expected.
 tags: linux raspberrypi storytime life selfhost internet
 permalink: /blog/troublesome-raspberrypi-setup/
 layout: post
@@ -25,7 +25,7 @@ It was here were everything got a little annoying. My friend does not live in a 
 
 DietPi's scripts can detect when an error shows up and lets you retry the last command, so retrying the install was not difficult, it was just a matter of having to try each step a couple times.
 
-At one point the script downloads the latest version using `curl`, a perfectly normal procedure. However, the download stopped midway and it looks like there was no check to verify the integrity of the tar file. So the script kept going until its time to extract the file, which lead to an error.
+At one point the script downloads the latest version using `curl`, a perfectly normal procedure. However, the download stopped midway and it looks like there was no check to verify the integrity of the tar file. So the script kept going until its time to extract the file, which led to an error.
 
 So, retrying the latest command this time would not work, since the file is technically there, just broken. So how did I fix this?
 
