@@ -1,14 +1,14 @@
 ---
 title: A troublesome Raspberry Pi install
 header: Storing GPG keys on KWallet
-description: I offered to help a friend who wanted use a Raspberry Pi as a file server. But I got into a lot more trouble than I expected.
+description: I offered to help a friend who wanted to use a Raspberry Pi as a file server. But I got into a lot more trouble than I expected.
 tags: linux raspberrypi storytime life selfhost internet
 permalink: /blog/troublesome-raspberrypi-setup/
 layout: post
 date: 2022-06-20 11:00:51 -0500
 host: benign.town
 username: joel
-com_id: 108510676679528156
+com_id: 108510703691746278
 ---
 
 I've used a Raspberry Pi to selfhost a lot of stuff, such as Nextcloud or FreshRSS. Eventually I managed to inspire a friend to try it out too. He just wanted a simple file server that could be accessed on his network.
