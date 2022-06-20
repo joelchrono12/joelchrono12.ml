@@ -1,6 +1,6 @@
 ---
 title: A troublesome Raspberry Pi install
-header: Storing GPG keys on KWallet
+header: A troublesome Raspberry Pi install
 description: I offered to help a friend who wanted to use a Raspberry Pi as a file server. But I got into a lot more trouble than I expected.
 tags: linux raspberrypi storytime life selfhost internet
 permalink: /blog/troublesome-raspberrypi-setup/
