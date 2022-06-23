@@ -12,7 +12,7 @@ if git rev-parse --git-dir > /dev/null 2>&1; then
     sed -i "s/idcomments/$posturl/g" "$lastpost"
 
     git add *
-    git commit -m "automatically added comments"
+    git commit -m "new post $lastpost with automatically added comments"
     git push
 
     exit

@@ -4,7 +4,7 @@ random:
   source_url: http://lazybear.io/
   title: Day One !
   url: http://lazybear.io/posts/day-one-100days-to-offload/
-  _date: 2020-05-01 16:10:03.000000000 Z
+  _date: 2020-05-01 16:10:03.000000000 +00:00
   summary: |2-
 
      I’ve stumbled upon that challenge : #100DaysToOffload launched by Kev Quirk on Mastodon where I
@@ -14,7 +14,7 @@ random:
   source_url: https://dusanmitrovic.xyz/rss
   title: Encode your FLAC collection to OGG Vorbis
   url: https://dusanmitrovic.xyz/blog/post/2020-12-01/Encode-your-FLAC-collection-to-OGG-Vorbis
-  _date: 2020-12-01 00:21:15.000000000 Z
+  _date: 2020-12-01 00:21:15.000000000 +00:00
   summary: " I have a lot of music, collected over the years, ripped from audio CDs,
     digitally downloaded, you name it. Most of my music is encoded in a lossless audio
     codec, FLAC. Now while FLAC is good for archiving, the size of the audio files
@@ -23,7 +23,7 @@ random:
   source_url: https://erzadel.net
   title: How I Keep Track of My Reading
   url: https://erzadel.net/how-i-keep-track-of-my-reading/
-  _date: 2022-03-05 20:08:05.000000000 Z
+  _date: 2022-03-05 20:08:05.000000000 +00:00
   summary: "\n            \n                 \n Day 19 of #100DaysToOffload \n \n
     I've been trying to read more. I used to be a prolific reader (weren't most of
     us all, at one point) and for one reason or another, I let reading fall to the
@@ -32,7 +32,7 @@ random:
   source_url: https://rusingh.com
   title: There it is again… the need to contribute.
   url: https://rusingh.com/again-need-to-contribute/
-  _date: 2022-03-17 16:53:47.000000000 Z
+  _date: 2022-03-17 16:53:47.000000000 +00:00
   summary: |2-
 
      I discovered that BookWyrm is built on Django (3.2). Immediately felt excited, since I could learn and grow by contributing and pushing the ActivityPub ecosystem forward. Already have 2 or 3 issues open…including a loose commitment to close one (simple) ...
@@ -40,7 +40,7 @@ random:
   source_url: https://jasonsanta.xyz/rss.xml
   title: 'Review of Delta Chat messenger '
   url: https://jasonsanta.xyz/posts/review-of-delta-chat-messenger-.html
-  _date: 2022-04-26 04:00:00.000000000 Z
+  _date: 2022-04-26 04:00:00.000000000 +00:00
   summary: " Everyone has an email address these days. Email as a protocol has been
     around for many years at this point. Most people end up using gmail as the email
     provider. \nMany people end up only using email to sign up for services that require
@@ -49,7 +49,7 @@ random:
   source_url: https://kevq.uk
   title: Alloy of Law (Mistborn 4)
   url: https://kevq.uk/alloy-of-law-mistborn-4/
-  _date: 2022-05-12 11:51:36.000000000 Z
+  _date: 2022-05-12 11:51:36.000000000 +00:00
   summary: "  \n \n   \n\n\n\n   \n\n   \n\n Alloy of Law \n\n\n\n ✍️ Written by:
     Brandon Sanderson \U0001F3F7 Genre: Sci-fi / fantasy \U0001F5D3 Published: 08th
     Nov 2011 \U0001F4C4 Pages: 354 \U0001F9D0 My rating: ★★★☆☆ / 3 stars \n\n\n\n
@@ -59,7 +59,7 @@ random:
   source_url: https://chriswiegman.com
   title: The Little Things
   url: https://chriswiegman.com/2022/05/the-little-things/
-  _date: 2022-05-20 18:10:25.000000000 Z
+  _date: 2022-05-20 18:10:25.000000000 +00:00
   summary: "\n There hasn’t been a lot for me to be positive about lately. Even my
     office upgrade last week has brought me, so far, nothing but frustration as so
     many things have gone wrong with the tech. \n\n\n\n For all the frustrations though,
