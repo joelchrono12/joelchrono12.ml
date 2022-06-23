@@ -24,7 +24,7 @@ excludes:
   - _data/webring.yml
 # RSS feeds
 feed:
-  posts_limit: 150
+  posts_limit: 20
   collections: 
     origami:
       path: "/origami.xml"
@@ -42,6 +42,6 @@ webring:
     - https://jasonsanta.xyz/rss.xml
     - https://dusanmitrovic.xyz/rss
     - https://rusingh.com/category/post/article/feed/
-  num_items: 5
-  no_item_at_date_behaviour: use_latest
-  date_format: "%B %-d, %Y"
+  #num_items: 5
+  #no_item_at_date_behaviour: use_latest
+  #date_format: "%B %-d, %Y"
