@@ -2,6 +2,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-webring
+  - jekyll-redirect-from
 #  - jekyll-image-size
   
 
@@ -12,6 +13,9 @@ url: "https://joelchrono12.netlify.app"
 baseurl: ""
 #include: [".well-known"]
 #
+#
+whitelist:
+  - jekyll-redirect-from
 
 collections:
   origami:
@@ -42,6 +46,6 @@ webring:
     - https://jasonsanta.xyz/rss.xml
     - https://dusanmitrovic.xyz/rss
     - https://rusingh.com/category/post/article/feed/
-  #num_items: 5
+  num_items: 5
   #no_item_at_date_behaviour: use_latest
-  #date_format: "%B %-d, %Y"
+  date_format: "%B %-d, %Y"

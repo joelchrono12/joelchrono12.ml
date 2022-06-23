@@ -14,4 +14,5 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-webring'
   gem 'webrick'
+  gem 'jekyll-redirect-from'
 end

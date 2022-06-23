@@ -4,7 +4,8 @@ header: Fixing bootloader on Void (For me)
 date: "2021-02-14 07:43:00 -0600"
 description: How to make Void Linux boot after a Windows update happens and kills everything. 
 tags: linux tutorial
-permalink: /survive-windows-void/
+permalink: /blog/survive-windows-void/
+redirect_from: /survive-windows-void/
 layout: post
 comments_id: 4
 ---

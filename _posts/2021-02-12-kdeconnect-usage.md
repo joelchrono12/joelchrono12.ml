@@ -2,7 +2,8 @@
 title: Using KDEConnect 
 header: Using KDEConnect 
 description: How I use KDE Connect on my window manager to sync and share stuff on my devices
-permalink: /kdeconnect-use/
+permalink: /blog/kdeconnect-use/
+redirect_from: /kdeconnect-use/
 date: "2021-02-12 13:17:00 -0600"
 layout: post
 tags: android linux foss

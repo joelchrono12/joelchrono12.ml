@@ -2,7 +2,9 @@
 title: I finally got it
 header: I finally got it
 description: The first post on this little blog.
-permalink: /i-got-it/
+permalink: /blog/i-got-it/
+redirect_from: 
+  - /i-got-it/
 layout: post
 ---
 

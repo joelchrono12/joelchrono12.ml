@@ -2,8 +2,10 @@
 title: Hello World
 header: Hello World
 description: The first post on this little blog.
-permalink: /hello-world/
+permalink: /blog/hello-world/
 layout: post
+redirect_from:
+  - /hello-world
 ---
 
 # Hello everyone

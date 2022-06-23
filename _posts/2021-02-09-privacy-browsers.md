@@ -4,7 +4,8 @@ header: Privacy respecting browsers on Android
 date: "2021-02-09 17:42:00 -0600"
 description: Looking for fast, privacy focused, lightweight web browsers for casual use? Me too...
 tags: android privacy
-permalink: /privacy-android-browsers/
+permalink: /blog/privacy-android-browsers/
+redirect_from: /privacy-android-browsers/
 layout: post
 com_id: 105703971035900139
 host: fosstodon.org
