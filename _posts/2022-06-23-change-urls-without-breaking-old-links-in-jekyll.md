@@ -6,7 +6,7 @@ tags: tutorial jekyll webdev
 layout: post
 permalink: /blog/change-urls-without-breaking-old-links/
 date: 2022-06-23 16:13:35 -0500
-host: fosstodon.org
+host: benign.town
 username: joel
 com_id: 108528967322278227
 ---
