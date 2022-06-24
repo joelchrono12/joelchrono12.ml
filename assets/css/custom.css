@@ -77,7 +77,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  margin-top: 0;
+  /*margin-top: 0;*/
   font-size: 2.488rem;
 }
 
@@ -225,4 +225,37 @@ blockquote{
     margin: 0 0 1.2rem;
     position: relative;
 
+}
+
+a.post{
+    grid-gap: 1rem;
+    text-decoration: none;
+    align-items: center;
+    border: 1px solid transparent;
+    display: grid;
+    grid-template-columns: auto 60px;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 0.4rem 1rem;
+    transition: .2s;
+    /*color: #8f949d;*/
+}
+
+a.post .post-title{
+    display: grid;
+    font-size: 1.2rem;
+    margin: .4rem 0;
+}
+
+a.post .post-date {
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 400;
+    text-align: center;
+}
+
+a.post:hover{
+    transition: .2s;
+    background-color: var(--code-bg);
+    border-radius: 8px;
 }

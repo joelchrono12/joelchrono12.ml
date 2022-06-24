@@ -19,10 +19,10 @@ This is reversed order, if you want to start from the beginning
 
 {% for month in postsByMonth %}
 <h2>{{ month.name }}</h2>
-<ul >
+<div class="posts">
   {% for post in month.items  %}
-   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+   <a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
   {% endfor %}
-</ul>
+</div>
 {% endfor %}
 {% endfor %}
