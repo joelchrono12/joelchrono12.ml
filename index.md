@@ -10,17 +10,11 @@ layout: default
 # Latest blogs 
 
 
-<ul>
+<div class="posts">
 {% for post in site.posts limit:5 %}
-<li>{{ post.date | date:"%Y-%m-%d"}}
-<a href="{{ post.url }}"> {{ post.title }}</a>
-<!--<small>{{ post.description }}</small>-->
-<!--<small style="display: block">[ {% for tag in post.tags %}-->
-<!--<a href="/tags/{{ tag }}">{{ tag }}</a>-->
-<!--{% endfor %} ]</small>-->
-</li>
+<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
 {% endfor %} 
-</ul>
+</div>
 <p style="text-align: right" ><a href="/blog">View full archive</a></p>
 <hr>
 
