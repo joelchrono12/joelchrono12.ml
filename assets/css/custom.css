@@ -259,3 +259,13 @@ a.post:hover{
     background-color: var(--code-bg);
     border-radius: 8px;
 }
+
+
+
+@media (prefers-color-scheme:light) {
+    header center.home-top{
+        border-radius: 8px;
+        padding: 1rem;
+        background-color: #242933;
+    }
+}

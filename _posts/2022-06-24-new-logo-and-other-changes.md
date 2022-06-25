@@ -1,7 +1,7 @@
 ---
 title: New logo and other changes
 header: New logo and other changes
-description: "I was really bored, so I made a new logo for my website, inspired, as always, by other people's blogs."
+description: I was really bored, so I made a new logo for my website, inspired, as always, by other people's blogs.
 tags: blog webdev design coding
 permalink: /blog/new-logo-and-other-changes/
 layout: post
