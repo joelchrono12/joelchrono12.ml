@@ -2,7 +2,7 @@
 title: New laptop, new distro, Windows again
 header: New laptop, new distro, Windows again
 description: "I got a laptop as a gift. So I had to get Linux installed on it once again. However, Windows had to make a return into my life, but at least its not just on a device of mine..."
-tags: linux distro ramble blog personal life
+tags: linux distro ramble blog personal windows
 permalink: /blog/new-laptop-new-distro/
 layout: post
 date: "2022-06-15 08:17:42 -0500"

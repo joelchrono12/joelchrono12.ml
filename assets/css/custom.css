@@ -236,7 +236,7 @@ a.post{
     grid-template-columns: auto 60px;
     margin-left: -1rem;
     margin-right: -1rem;
-    padding: 0.4rem 1rem;
+    padding: 0.2rem 1rem;
     transition: .2s;
     /*color: #8f949d;*/
 }

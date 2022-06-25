@@ -2,7 +2,7 @@
 title: After a couple years, I played Monster Hunter again
 header: After a couple years, I played Monster Hunter again
 description: While cleaning up my email, I remembered the times I spent playing this game online, and after a couple years of hiatus, I decided to do it again!
-tags: gaming monster-hunter psp android
+tags: gaming emulation psp android
 permalink: /blog/returning-to-monster-hunter/ 
 layout: post 
 date: "2021-06-03 15:20:42 -0500" 

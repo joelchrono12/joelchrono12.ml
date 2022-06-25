@@ -1,7 +1,7 @@
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-webring
+  #- jekyll-webring
   - jekyll-redirect-from
 #  - jekyll-image-size
   
@@ -35,17 +35,17 @@ feed:
   tags: 
     path: "feeds/"
 
-webring:
-  data_file: webring
-  layout_file: webring
-  feeds:
-    - https://erzadel.net/feed.xml
-    - https://chriswiegman.com/feed
-    - https://lazybear.io/index.xml
-    - https://kevq.uk/feed
-    - https://jasonsanta.xyz/rss.xml
-    - https://dusanmitrovic.xyz/rss
-    - https://rusingh.com/category/post/article/feed/
-  num_items: 5
-  #no_item_at_date_behaviour: use_latest
-  date_format: "%B %-d, %Y"
+#webring:
+  #data_file: webring
+  #layout_file: webring
+  #feeds:
+    #- https://erzadel.net/feed.xml
+    #- https://chriswiegman.com/feed
+    #- https://lazybear.io/index.xml
+    #- https://kevq.uk/feed
+    #- https://jasonsanta.xyz/rss.xml
+    #- https://dusanmitrovic.xyz/rss
+    #- https://rusingh.com/category/post/article/feed/
+  #num_items: 5
+  ##no_item_at_date_behaviour: use_latest
+  #date_format: "%B %-d, %Y"

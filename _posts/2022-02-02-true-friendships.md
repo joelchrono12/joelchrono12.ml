@@ -2,7 +2,7 @@
 title: True friendships
 header: True friendships
 description: I don't really remember how I ended up thinking about the friends I have, the meaning of true friendship and the contrast with online interactions
-tags: thoughts personal life opinion community
+tags: thoughts personal opinion community
 permalink: /blog/true-friendships/
 layout: post
 date: 2022-02-02 22:00:26 -0600

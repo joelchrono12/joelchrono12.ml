@@ -2,7 +2,7 @@
 title: Almost completing videogames
 header: Almost completing videogames
 description: There are a lot of games that I have started and I just can't bring myself to finish them, and sometimes, there are consequences
-tags: gaming retro emulation psp
+tags: gaming emulation psp
 permalink: /blog/almost-completing-videogames/
 layout: post
 date: 2022-01-07 22:22:19 -0600
@@ -36,7 +36,3 @@ I didn't play some of these because the joystick on my PSP was faulty, but I rec
 Anyways, not a lot of structure this time, but I wanted to have something today, a bit late, but anyways.
 
 This has been day 76 of [#100DaysToOffload](https://100DaysToOffload.com)
-
-
-
-

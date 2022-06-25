@@ -2,7 +2,7 @@
 title: A troublesome Raspberry Pi install
 header: A troublesome Raspberry Pi install
 description: I offered to help a friend who wanted to use a Raspberry Pi as a file server. But I got into a lot more trouble than I expected.
-tags: linux raspberrypi storytime life selfhost internet
+tags: linux raspberrypi storytime selfhost internet
 permalink: /blog/troublesome-raspberrypi-setup/
 layout: post
 date: 2022-06-20 11:00:51 -0500

@@ -6,7 +6,6 @@ permalink: /
 layout: default
 ---
 
-***
 # Latest blogs 
 
 
@@ -17,27 +16,6 @@ layout: default
 </div>
 <p style="text-align: right" ><a href="/blog">View full archive</a></p>
 <hr>
-
-
-
-
-# My games and projects
-
-I have worked in some games made in Godot as entries for different game jams, I've also done translations or documentation in a few projects. I also designed icons for apps and icons packs. Here is some of my work!
-* [FreshRSS Nord's Theme](https://github.com/joelchrono12/freshrss-nord-theme)  
-    A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance. WIP.
-* [Arcticons Icon Pack](https://github.com/Donnnno/Arcticons)  
-    A monotone line-based icon pack for Android where I contribute by designing icons with a focus on Free and Open Source Software.
-* [Deep Into the Volcano](https://joelchrono12.itch.io/deep-into-the-volcano)  
-    My entry for Ludum Dare 48, a simple game with two levels where you try to escape the Lava coming towards you!
-* [Swap Die Repeat](https://joelchrono12.itch.io/swap-die-repeat)  
-    For my first game jam! A 2D puzzle platformer made with Godot, swap characters until you die! (but try not to).
-* [Cliff Hanger](https://joelchrono12.itch.io/cliff-hanger)  
-    Yet another 2D platformer, but you have to complete the levels in 12 seconds or less, how? By stopping time!, how? by hanging on... cliffs?
-* [Only Spaceship](https://joelchrono12.itch.io/only)  
-    A rushed out game that is kinda wonky and broken. A spaceshooter where you survive as long as its not unfair.
-
-***
 
 # Support me
 
@@ -53,7 +31,6 @@ You can also <b>tip me with Monero</b> if you want something anonymous and priva
 </pre>
 <center><img src="./assets/img/monero"/></center>
 </details>
-
 <details>
 <summary>Bitcoin</summary>
 If you want to, I guess Bitcoin is fine too:
@@ -61,14 +38,13 @@ If you want to, I guess Bitcoin is fine too:
 bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
 </pre>
 </details>
-
 ***
 
 # Tag cloud
 <center>
-<p>
+<p style="display: flex;align-items: center; flex-wrap: wrap;">
 {% for tag in site.tags %}
-<a href="/tags/{{ tag[0] }}/" style="font-size: {{ tag[1] | size | times: 1.1 | plus: 12 }}px;">{{ tag[0] }}</a>  
-{% endfor %} 
+<a href="/tags/{{ tag[0] }}/" style="line-height: 1.2;font-size: {{ tag[1] | size | times: 1.4 | plus: 12 }}px;">{{ tag[0] }}</a><small>×{{ tag[1].size }}</small> 
+{% endfor %}
 </p>
 </center>

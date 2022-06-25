@@ -1,11 +1,17 @@
 ---
 layout: default
 ---
-<h1>Tagged articles: {{ page.tag-name }}</h1>
+{% for tag in site.tags%}
+	{% if page.tag-name == tag[0] %}
+	<h1>Tagged articles: {{ page.tag-name }} ({{ tag[1].size }})</h1>
+	{% endif %}
+{% endfor %}
+
+
 <div class="posts">  
 {% for post in site.posts %}
-{% if post.tags contains page.tag-name %}
-<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
-{% endif %}
+	{% if post.tags contains page.tag-name %}
+	<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
+	{% endif %}
 {% endfor %}
 </div>

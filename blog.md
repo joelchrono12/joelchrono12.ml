@@ -2,7 +2,7 @@
 layout: default
 title: Blog | joelchrono12
 header: 🗄️ Blog Archive
-description: This archive contains all of my blogs, ordered and divided by date
+description: "This archive contains all of my blogs, ordered and divided by date, you can also access them <a href='/tags/'>by tag</a>."
 permalink: /blog/
 ---
 

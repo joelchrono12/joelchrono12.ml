@@ -2,6 +2,7 @@
 
 if git rev-parse --git-dir > /dev/null 2>&1; then
     : # This is a valid git repository
+    ./webring-gen.sh
     lastpost=$(/usr/bin/ls ~/git/joelchrono12.ml/_posts/*.md | sort -r | head -n 1) 
     getdesc=$(grep "description:" $lastpost | cut -d " " -f2- | head -n 1)
     geturl=$(grep "permalink:" $lastpost | cut -d " " -f2- | head -n 1)

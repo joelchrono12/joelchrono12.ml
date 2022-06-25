@@ -2,7 +2,7 @@
 title: Scripting mistakes and tilde communities
 header: Scripting mistakes and tilde communities
 description: Playing around with a static site generator I found out a mistake that messed up my Markdown experience, and I did not even noticed until now while trying to build a website on tilde.cafe!
-tags: foss coding linux 
+tags: foss coding linux tilde
 permalink: /blog/blog-scripting-mistake/ 
 layout: post 
 date: 2021-06-29 17:50:26 -0500
