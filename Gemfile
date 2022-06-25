@@ -11,8 +11,7 @@ gem "rouge"
 # Plugins
 group :jekyll_plugins do
   gem 'jekyll-sitemap'
-  gem 'jekyll-feed'
-  #gem 'jekyll-webring'
-  gem 'webrick'
   gem 'jekyll-redirect-from'
+  gem 'jekyll-feed'
+  gem 'webrick'
 end
