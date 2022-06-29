@@ -2,7 +2,7 @@
 title: How to add comments to Jekyll blog (2022)
 header: How to add comments to Jekyll blog (2022)
 description: I have talked about comments on my blog before, but I think I finally found the final iteration of it, and it's now live!
-tags: tutorial coding blog fediverse small-web
+tags: tutorial coding blog fediverse small-web jekyll webdev
 permalink: /blog/how-to-add-mastodon-comments-to-jekyll-blog/
 layout: post
 date: 2021-12-29 10:20:00 -0500

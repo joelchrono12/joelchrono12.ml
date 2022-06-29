@@ -2,7 +2,7 @@
 title: How to highlight the current section of a Jekyll website 
 header: How to highlight the current section of a Jekyll website 
 description: I have always enjoyed messing around with my website, today its not different, I decided to fix some stuff and add a nice detail to my navigation bar
-tags: webdev foss blog tutorial 
+tags: webdev foss blog tutorial jekyll
 permalink: /blog/changing-my-site-navbar/ 
 layout: post 
 date: "2021-06-04 19:19:41 -0500" 

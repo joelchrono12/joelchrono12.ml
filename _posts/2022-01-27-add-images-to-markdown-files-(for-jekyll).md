@@ -2,7 +2,7 @@
 title: Add images to Markdown files (for Jekyll)
 header: Add images to Markdown files (for Jekyll)
 description: I decided to streamline the process of adding images to new posts quickly, how did I do it? Using bash scripts of course!
-tags: tutorial coding bash linux webdev blog
+tags: tutorial coding bash linux webdev blog jekyll
 permalink: /blog/add-images-to-markdown-files-(for-jekyll)/
 layout: post
 date: 2022-01-27 10:16:00 -0600

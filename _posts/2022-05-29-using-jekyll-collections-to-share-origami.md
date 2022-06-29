@@ -2,7 +2,7 @@
 title: Using Jekyll's collections to share origami
 header: Using Jekyll's collections to share origami
 description: I created a new section on my website to share my origami posts, which have taken over my Mastodon account lately. I decided to have a section where I share pictures of them and tutorials (if available).
-tags: art blog
+tags: art blog webdev jekyll
 permalink: /blog/using-jekyll-collections-to-share-origami
 layout: post
 date: 2022-05-29 19:50:12 -0500
