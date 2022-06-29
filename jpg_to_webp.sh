@@ -4,7 +4,7 @@
 #do
   #cwebp -q 85 "$f" -o "${f%.*}.webp";
 #done
-FILES="./*.jpg"
+FILES="./*.png"
 
 for f in $FILES
 do

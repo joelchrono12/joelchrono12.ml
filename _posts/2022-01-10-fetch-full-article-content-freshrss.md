@@ -56,7 +56,7 @@ id of the HTML element containing the article content. If you got an id, you
 should input `#idname`, if its a class, you use `.classname`, note the use of
 the `#` and `.` to differentiate them. You can see how it would look here:
 
-![FreshRSS CSS selector option](/assets/img/blogs/2022-01-11-fetch-article-freshrss-css-setting.png)
+![FreshRSS CSS selector option](/assets/img/blogs/2022-01-11-fetch-article-freshrss-css-setting.webp)
 
 If the site is super simple or classless, you might want to go with the HTML
 element itself, or a sequence of nested elements, such as `main body`, its all

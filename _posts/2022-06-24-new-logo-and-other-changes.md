@@ -32,7 +32,7 @@ I was a little inspired by Kev Quirk's logo design, where its pretty much just h
 However, I wanted to have something that was a bit more representative of me and what I liked. At first, I went a little too crazy, and started with something like this:
 
 <figure>
-  <img alt="My initial logo idea" width="512px" align="center" src="/assets/img/blogs/2022-06-24-favicon_v1.png" />
+  <img alt="My initial logo idea" width="512px" align="center" src="/assets/img/blogs/2022-06-24-favicon_v1.webp" />
   <figcaption>I can't believe I thought this was decent enough to export</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ In this design I used the C from Chrono Trigger's title screen, since I've said 
 The J is from my name, and the font comes [from here](http://www.thealmightyguru.com/GameFonts/Series-ChronoTrigger.html). Its based on the font used in the game text boxes and dialogues, so I thought it was quite fitting. Eventually ending up this logo, which I actually pushed to my site for a few hours before this article was written.
 
 <figure>
-  <img alt="My initial logo idea" width="512px" align="center" src="/assets/img/blogs/2022-06-24-favicon_v2.png" />
+  <img alt="My initial logo idea" width="512px" align="center" src="/assets/img/blogs/2022-06-24-favicon_v2.webp" />
   <figcaption>I was pretty happy with how this one turned out!</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ I decided to look for some fonts that kinda looked like origami, and I stumbled 
 
 
 <figure>
-  <img alt="Current logo" width="512px" align="center" src="/assets/img/logo.png" />
+  <img alt="Current logo" width="512px" align="center" src="/assets/img/logo.webp" />
   <figcaption>My current choice, maybe it'll change in the future again...</figcaption>
 </figure>
 

@@ -31,7 +31,7 @@ After failing to use my Pi as a web server, I decided to at least use it as an l
 Setting it up was extremely simple, I only had to run a simple script and then configure my router to use my Raspi as its main DNS. I added a few more host lists, blocked some specific domains, set up dark mode for the web UI, and voilá! 
 
 <figure>
-  <img alt="Pi-hole's web interface" src="/assets/img/blogs/2021-08-17-pihole.png" />
+  <img alt="Pi-hole's web interface" src="/assets/img/blogs/2021-08-17-pihole.webp" />
   <figcaption>Pi-hole's web interface</figcaption>
 </figure>
 
