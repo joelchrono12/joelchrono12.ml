@@ -7,5 +7,5 @@ creator:
     site: https://www.johnmontroll.com/
 date: 2022-04-29
 description: "Dinosaur with very short arms and a big head."
-image: /assets/img/origami/trex_jhon_montroll.jpg
+image: /assets/img/origami/trex_jhon_montroll.webp
 ---

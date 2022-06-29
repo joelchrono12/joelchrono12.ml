@@ -8,5 +8,5 @@ creator:
 tutorial: https://youtu.be/yjmLeIBTjlk
 date: 2022-05-14
 description: "A simple cat, one of the first models I made, really easy to do."
-image: /assets/img/origami/cat_ab.jpg
+image: /assets/img/origami/cat_ab.webp
 ---

@@ -8,5 +8,5 @@ creator:
 tutorial: https://youtu.be/lbzxWgJj458
 date: 2022-03-24
 description: "A very simple 2D pig that looks better on small paper."
-image: /assets/img/origami/pig_hk.jpg
+image: /assets/img/origami/pig_hk.webp
 ---

@@ -8,5 +8,5 @@ creator:
 tutorial: https://www.youtube.com/watch?v=U5B71d1OR_M
 date: 2022-04-22
 description: "A really great gift for any Star Wars fan"
-image: /assets/img/origami/yoda.jpg
+image: /assets/img/origami/yoda.webp
 ---

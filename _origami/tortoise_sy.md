@@ -8,6 +8,6 @@ creator:
 tutorial: http://mirorigami.narod.ru/serg/diagrams/Tortoise.pdf
 date: 2022-04-28
 description: "A 2D tortoise which looks pretty minimal and cool."
-image: /assets/img/origami/tortoise_sy.jpg
+image: /assets/img/origami/tortoise_sy.webp
 
 ---
