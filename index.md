@@ -42,9 +42,7 @@ bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
 
 # Tag cloud
 <center>
-<p style="display: flex;align-items: center; flex-wrap: wrap;">
 {% for tag in site.tags %}
 <a href="/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.2;font-size: {{ tag[1] | size | times: 1.4 | plus: 12 }}px;">{{ tag[0] }}</a> 
 {% endfor %}
-</p>
 </center>
