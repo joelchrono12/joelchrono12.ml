@@ -14,6 +14,10 @@ baseurl: ""
 #include: [".well-known"]
 #
 #
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
 whitelist:
   - jekyll-redirect-from
 

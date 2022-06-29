@@ -45,7 +45,7 @@ Also, while writing this, I decided to check out some invidious instances and re
 Well, if you asked that question yesterday, I would have probably told you to go with Youtube Vanced.
 
 But [YouTube Vanced is dead](https://nitter.net/YTVanced/status/1503052250268286980). Going back to Newpipe then!, I actually prefer it over Vanced, but it has some problems on Android 12, which I use, so PiP doesn't work as well and takes over the entire screen, disabling touch for everything under it. There is an adb command I used to fix it ~~(I don't remember it now)~~:
-```
+```bash
 adb shell settings put global block_untrusted_touches 0
 ```
 Now I can use it just fine now again, even if its still a bit less polished than Vanced and the official app. Also, keep in mind that this command can **leave you vulnerable to malware.**

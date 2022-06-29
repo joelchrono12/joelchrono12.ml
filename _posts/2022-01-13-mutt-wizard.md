@@ -23,7 +23,7 @@ Regardless, I have decided to test Neomutt once and for all, and in order to mak
 
 Passwords are stored with `pass`, that's not a problem for most people, but I am a bit finicky, `mw`, which is the program you call via the terminal, creates a new pass gpg entry, so I have duplicated things, and yeah I guess I don't like that. Thankfully it's a matter of changing the `msmtp` configuration file, which is used by the program of the same name which is a dependency to actually send the emails I write. it should have something like this:
 
-```
+```bash
 account mail@example.org
 # content
 passwordeval "pass mail@example.org"
@@ -45,7 +45,7 @@ In order to self encrypt email, it looks like there is no real way to adjust tha
 
 I also added these lines to the config file in `~/.config/mutt/muttrc`
 
-```
+```bash
 set crypt_opportunistic_encrypt = yes
 set crypt_replysign = yes
 ```
@@ -62,7 +62,7 @@ Another thing I wanted to fix was setting up Neomutt as default XDG email app, s
 
 Editing the Neomutt desktop file was necessary, I changed the Exec line to `alacritty -e neomutt %u`. It all looks like this:
 
-```
+```bash
 [Desktop Entry]
 Categories=Office;Network;Email;
 Comment=Simple text-based Mail User Agent
@@ -89,10 +89,9 @@ Another detail was that K-9 was displaying emails wrong, but that's because the 
 
 ## A small Neovim configuration
 
-I created a simple config file specific for email writing and formatting, so I am also sharing it here. I just works. Notice the color set for comments, since quotes were hard to read with the Nord color scheme, so yeah I changed the color of them and its alright.
+I created a simple config file specific for email writing and formatting, located at `~/.config/nvim/ftplugin/mail.vim`, so I am also sharing it here. I just works. Notice the color set for comments, since quotes were hard to read with the Nord color scheme, so yeah I changed the color of them and its alright.
 
-```
-❯ cat ~/.config/nvim/ftplugin/mail.vim
+```vim
 " ftplugin/mail.vim
 setl tw=72
 setl nojs
@@ -117,8 +116,3 @@ I have managed to adapt quite nicely. I still haven't moved all of my accounts y
 
 
 This has been day 82 of [#100DaysToOffload](https://100daystooffload.com)
-
-
-
-
-

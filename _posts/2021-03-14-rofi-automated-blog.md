@@ -1,11 +1,11 @@
 ---
-title: I made a rofi script to automate this blog 
-header: I made a rofi script to automate this blog 
-description: I already did something like this, but now I used rofi, and its a lot more epic! 
-tags: foss linux coding 
-permalink: /blog/rofi-automated-blog/ 
-layout: post 
-date: "2021-03-14 19:33:26 -0600" 
+title: I made a rofi script to automate this blog
+header: I made a rofi script to automate this blog
+description: I already did something like this, but now I used rofi, and its a lot more epic!"
+tags: foss linux coding
+permalink: /blog/rofi-automated-blog/
+layout: post
+date: 2021-03-14 19:33:26 -0600
 com_id: 105891498745925801
 username: joeligj12
 host: fosstodon.org
@@ -25,7 +25,7 @@ So, I had to get working on something quicker and better. I decided to use Rofi,
 
 I started with the previous script as a base, but honestly it barely resembles it anymore. All I had to do is create variables and set them to rofi, similar to this.
 
-```
+```bash
 variable=$(rofi -dmenu) 
 ```
 
@@ -39,7 +39,7 @@ So, I had to make some `if` statements!, I am not a total noob when it comes to 
 
 First, I had to make a rofi menu, to do that, it was as simple as piping an echo of the options into rofi, like this:
 
-```
+```bash
 choice=$(echo -e "Edit file\nEdit title\nEdit description\nEdit tags\nCancel" | rofi -p "Now?:" -dmenu)
 ```
 That would output a pretty nice looking interface!:
@@ -56,7 +56,7 @@ Also, there was a bit of an annoyance when I called the script, since I could on
 
 So, this is the final script! I am very proud of getting a bit better at automating the simple things. I am pretty happy with this. 
 
-```
+```bash
 #! /bin/bash 
 path=/path/to/blogposts
 name=$(rofi -l 0 -width 40 -p "Filename (ESC to quit):" -dmenu)
@@ -92,8 +92,3 @@ done
 Now, the script might look a bit weird here because of the kinda broken CSS (working on it), so if you wanna take a better look at it, check [here](https://gist.github.com/ChronoTriggered/7d0f360b38192af03221573586f12c69)
 
 This has been day 25 of [#100DaystoOffload](https://100DaystoOffload.com)
-
-
-
-
-

@@ -1,16 +1,14 @@
 ---
-
-title: Pass password manager on Linux, Android and Windows 
-header: Pass password manager on Linux, Android and Windows 
-description: I decided to try Pass, changing my workflow and getting it to work everywhere I need it to 
+title: Pass password manager on Linux, Android and Windows
+header: Pass password manager on Linux, Android and Windows
+description: I decided to try Pass, changing my workflow and getting it to work everywhere I need it to
 tags: linux android foss windows tutorial privacy security
-permalink: /blog/pass-unix-manager/ 
-layout: post 
-date: "2021-05-19 11:55:15 -0500" 
-host: fosstodon.org 
-username: joeligj12 
+permalink: /blog/pass-unix-manager/
+layout: post
+date: 2021-05-19 11:55:15 -0500
+host: fosstodon.org
+username: joeligj12
 com_id: 106270494790830151
-
 --- 
 
 After a month or so of using Keepass to manage my passwords, I wanted to
@@ -33,14 +31,14 @@ leave some sources if you wanna deal with that.
 
 So, all I did was run 
 
-```
+```bash
 pass init <gpg-id> 
 ```
 
 Where you use the id of a preexisting gpg key you have. After that, to save
 a password you use 
 
-```
+```bash
 > pass insert personal/example.com/account-name
 Enter password for account-name: account-password
 ```
@@ -54,7 +52,7 @@ adding lines when creating a new entry.
 
 I set up my files like this: 
 
-```
+```yaml
 password
 url: example.com
 login: account@example.com
@@ -72,7 +70,7 @@ its [website](https://passwordstore.org/)
 Coming from Keepass, I used [pass-import](https://github.com/roddhjav/pass-import) 
 and the following command
 
-```
+```bash
 pass import keepass keepass_file.kdbx
 ```
 
@@ -170,4 +168,3 @@ difficult to do the switch and I just provided a few sources across this post th
 could can be helpful if you need something more. 
 
 This is day 37 of [#100DaystoOffload](https://100DaystoOffload,com)
-

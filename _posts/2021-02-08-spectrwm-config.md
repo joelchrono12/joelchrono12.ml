@@ -22,7 +22,7 @@ I had heard about Spectrwm for a while, and tried it a couple of times, but I ne
 
 The bar can be configured in different ways, I just use a bash script, I named it `baraction.sh` and it is located in `~/.config/spectrwm/`, I followed Distrotube's config, and took some ideas from [r/unixporn](https://www.reddit.com/r/unixporn/)
 I had to setup some colors inside my `.spectrwm.conf` file, which looks something like this:
-```
+```bash
 # Bar Settings
 bar_enabled			= 1
 bar_action			= ~/.config/spectrwm/baraction.sh
@@ -42,7 +42,7 @@ bar_format			= +|L +@bg=0;+S +L +@bg=0; +@bg=8; +C +@fg=0; +|2R +A +@bg=0;+@fg=0
 
 Spectrwm is can be controlled with a little program named [wmctrl](https://www.freedesktop.org/wiki/Software/wmctrl/), wich interacts with EWMH compatible X window managers, and I can use it to make some interesting things. For example, Spectrwm does not play nice with polybar, trayer and similar tools. Since I use the default bar, I dont really have a problem with this for the most part. Nonetheless, I made a script that moves my systray to my current workspace, it looks like this: 
 
-```
+```bash
 #!/bin/bash	
 current_ws="$(wmctrl -d | grep '*' | awk '{print $1}')"
 wmctrl -r panel -t $current_ws

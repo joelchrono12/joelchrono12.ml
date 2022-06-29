@@ -27,7 +27,7 @@ It depends on some basic tools such as `sed`, `cut`, `grep`, but it also require
 
 There really is not a lot to talk about other than this. Here is the script, its not really super clean or anything (any suggestion are absolutely welcome) but at least its serviceable.
 
-```
+```bash
 #!/usr/bin/bash
 
 if git rev-parse --git-dir > /dev/null 2>&1; then

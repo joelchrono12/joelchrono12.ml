@@ -17,7 +17,7 @@ I have made some changes to the CSS, as well as modifying some pages, such as th
 
 After a check there, I added the following lines to my blog.md file (located on my site's root directory).
 {% raw %}
-```
+```html
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
   <h1>{{ year.name }}</h1>
@@ -44,7 +44,7 @@ After a check there, I added the following lines to my blog.md file (located on 
 I made use of the nice `<details>` HTML element which is quite pretty thanks to [Simple.css](https://simplecss.org), the CSS framework I am using right now. I also used them to the tags page, which has a similar structure to the blog, although is quite simpler.
 
 {% raw %}
-```
+```html
 {% for tag in site.tags %}
   <details>
   <summary>{{ tag[0] }}</summary>  

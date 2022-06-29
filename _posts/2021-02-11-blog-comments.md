@@ -29,7 +29,7 @@ But after that, one of them sent me a link to a [guide on how to do comments](ht
 
 And so, I decided to give it a try. I have to admit I just copy pasted everything in it at first, but after doing so, I realized that it had some conflicts with the [Simple.css](https://simplecss.org/) framework, which I used to make this site look as it does. The profile pictures looked huge, and the formatting was all wrong, so I did not like the look of it. I decided to keep working on it. To fix the avatar pictures, I added this to my custom.css file:
 
-```
+```css
 .avatar{
     opacity: 0.9;
     width: 2.5rem;
@@ -40,7 +40,7 @@ And so, I decided to give it a try. I have to admit I just copy pasted everythin
 
 Where the `avatar` class is included inside of the comments.html file that I took from the guide, as well as other classes that I had to customize myself so they don't use the default properties provided by simple.css. Said classes are here:
 
-```
+```css
 .comment-url{
    line-height: 1px;
    font-size: 0.7rem;
@@ -62,7 +62,7 @@ Where the `avatar` class is included inside of the comments.html file that I too
 
 Markdown can be used inside of comments too, so you can have headers, lists, and everything markdown can (I think). This meant that I had to limit and change letter sizes of them, so more CSS needed to be done. At the beginning I had no idea of how to do it, but after reading the simple.css file, I realized how some of the syntax worked. *After some attempts because I forget semi-colons exist and had to test different values*, it worked! So this is a snippet of how I limited the image file size first. 
 
-```
+```css
 .comment-content img{
 	margin-left: 2rem;
 	border-radius: 5px;
@@ -77,6 +77,3 @@ Despite what my description said, I think there might still be something you can
 So this was everything I did to add comments to my site. Once again, huge thanks to [Aristath](https://aristath.github.io/), for sharing quite a great resource, and [Abhinav](https://distrotoot.com/@abhi), who let me know of it. 
 
 This was day 7 of [#100DaystoOffload](https://100daystooffload.com/), and I am quite happy with the final results. Let me know what do you think in the comments! (I was eager to write that, and I hope you can stop whining about this [marrero171](https://marrero171.itch.io/))
-
-
-

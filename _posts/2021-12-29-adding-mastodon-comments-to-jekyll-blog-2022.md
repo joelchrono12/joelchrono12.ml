@@ -44,7 +44,7 @@ comments.html %}{% endraw %}`, to tell Jekyll to insert that bit of code in ther
 In order for said code to work, we are also going to need some metadata located
 inside of the front matter of each blogpost, in this case, we add the this:
 
-```
+```yaml
 host: fosstodon.org
 username: joel
 com_id: 107526114775171486
@@ -57,7 +57,7 @@ by every post we make!
 
 Edit `comments.html`, and place these lines first:
 
-```
+```html
 <link rel="stylesheet" href="/assets/css/comments.css">
 <div class="article-content">
 <div id="comments-list"></div>
@@ -89,7 +89,7 @@ that will give format to each element.
 
 ## Main function
 
-```
+```javascript
 document.getElementById('load-comment').addEventListener("click", async () => {
     document.getElementById('load-comment').remove();
     const response = await fetch('https://{{ page.host }}/api/v1/statuses/{{ page.com_id }}/context');
@@ -116,7 +116,7 @@ array of comments and its properties, which will be processed with the function 
 This function will get the data from the JSON and create HTML elements based on
 that data. Here is the function:
 
-```
+```javascript
 function createCommentEl(response){
     let user = document.createElement('div');
     user.classList.add('mastodon-comment');

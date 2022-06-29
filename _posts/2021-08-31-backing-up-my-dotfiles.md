@@ -29,13 +29,13 @@ The first step to backup your dotfiles, is to create an **empty** repository in 
 
 To clone a repo, just do:
 
-```
+```bash
 git clone https://site.com/link/to/repo
 ```
 
 In my case, I use [Tildegit](https://tildegit.org), a Gitea instance, so my command looks like this.
 
-```
+```bash
 git clone https://tildegit.org/chrono/dotfiles.git
 ```
 
@@ -45,7 +45,7 @@ You can clone my dotfiles if you want to use them, [here](https://tildegit.org/c
 
 Before actually backing something up, we need to install `stow`, depending on your distribution, you can install it with your package manager of choice. In my case, Endeavor is based on Arch, so I do:
 
-```
+```bash
 $ sudo pacman -S stow
 ```
 
@@ -59,25 +59,25 @@ Lets explain how `stow` works. Picom expects its config file in `~/.config/picom
 
 Lets put all of this together in the terminal.
 
-```
-$ mkdir dotfiles && cd dotfiles # mkdir only if you didn't clone it
-$ touch README.md other_file.txt # optional
-$ mkdir -p ~/dotfiles/stow_home/picom/.config/picom/
-$ mv ~/.config/picom/ ~/dotfiles/stow_home/picom/.config/
+```bash
+mkdir dotfiles && cd dotfiles # mkdir only if you didn't clone it
+touch README.md other_file.txt # optional
+mkdir -p ~/dotfiles/stow_home/picom/.config/picom/
+mv ~/.config/picom/ ~/dotfiles/stow_home/picom/.config/
 ```
 
 Once you do that, your picom folder is no longer in the `.config` directory, but inside of `dotfiles/home_stow`, following *the same folder structure*, as if `home_stow` was the `/home` directory, followed by the user `picom` and the path to the picom configuration files. [^4]
 
 Now we repeat this process with all of the files and directories we want to back up. Once done, the behavior of the programs you use, such as `vim`, should revert to their default configurations, since the user config files are no longer there. So, **now its time to fix that!** Inside of `stow_home`, run the following command:
 
-```
-$ stow -vt ~ *
+```bash
+stow -vt ~ *
 ```
 
 This will symlink **everything** inside of `stow_home` [^3], targetting `~` as the starting point. The `-v` flag will let you know of everything being done, so you should see an output like this, depending on the programs you backed up:
 
-```
-$ stow -vt ~ *
+```bash
+# $ stow -vt ~ *
 LINK: .config/awesome => ../dotfiles/stow_home/awesome/.config/awesome
 LINK: .config/bat => ../dotfiles/stow_home/bat/.config/bat
 LINK: .config/dunst => ../dotfiles/stow_home/dunst/.config/dunst
@@ -94,10 +94,10 @@ If you stumbled upon this guide, you probably know the necesary `git` commands t
 
 Generally, everytime you do changes you only need to follow these three commands, inside of your `dotfiles` folder.
 
-```
-$ git add *
-$ git commit -m "Added config files"
-$ git push
+```bash
+git add *
+git commit -m "Added config files"
+git push
 ```
 
 Remember that the last command will not work if you don't have an external repository.
@@ -116,7 +116,7 @@ So, if you read until the end of this blog. I actually did a pretty decent bash 
 
 All you need to do is configure it to your liking and run it like this
 
-```
+```bash
 dotstow file_or_folder
 ```
 

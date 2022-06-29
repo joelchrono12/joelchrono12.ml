@@ -22,16 +22,16 @@ This is the obvious next step if you have dealt with this kinds of problems befo
 
 After doing that you have to mount your partition, firs run `lsblk` or `fdisk -l` and look for the partition that contains Linux in it. In my case, that partition is usually `/dev/sdX5` where X is usually `a` or `b` depending on my boot order and that kind of stuff. So, to mount it in the `/mnt` folder, I do:
 
-```
-# mount /dev/sdX5 /mnt
+```bash
+mount /dev/sdX5 /mnt
 ```
 
 ## Mount EFI Partition
 
 After that, I need to mount the partition that contains the EFI System, in this case, that partition is usually `/dev/sdX2`. **It is important to always check `lsblk` though, just in case something you had deleted some partition or renamed something.**
 
-```
-# mount /dev/sdX2 /mnt/boot/efi
+```bash
+mount /dev/sdX2 /mnt/boot/efi
 ```
 
 
@@ -39,8 +39,8 @@ After that, I need to mount the partition that contains the EFI System, in this 
 
 I have to do a couple of commands, first of all:
 
-```
-# for i in dev sys run proc; do mount -v --rbind /$i /mnt/$i; done
+```bash
+for i in dev sys run proc; do mount -v --rbind /$i /mnt/$i; done
 ```
 
 I am not exactly sure of what happens exactly, but if you try to do the  next steps, you will end up failing to install GRUB or rEFInd because they cannot see the folder where the EFI System is (or something like that, I am not sure).
@@ -50,8 +50,8 @@ Now we are ready to chroot and do the final step.
 
 Now you execute this command:
 
-```
-# chroot /mnt
+```bash
+chroot /mnt
 ```
 
 Now your interface might not change at all, but by doing `ls`, or running a command not available in the Live USB, like `neofetch`, you can know that you are inside of your Linux, and access all of those folders and programs.
@@ -62,8 +62,8 @@ Do a quick  `ls /boot/efi` and check if the folders there match with your system
 
 Now that you know everything is where it should, it is time to install grub once again. **Reminder: this guide is more for personal use than anything, there might be some utilities like `grub-prober` or whatever that I already had installed and you don't, nonetheless if thats the case, following this guide should fail without doing any major harm.** Run:
 
-```
-# grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --recheck
+```bash
+grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=GRUB --recheck
 ```
 
 Remember that all this time, you were chrooted in `/mnt` which is your SSD's root partition.

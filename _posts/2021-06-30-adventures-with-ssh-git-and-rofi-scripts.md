@@ -84,7 +84,7 @@ Its worth noting that all this time, I knew I could use the `ssh-agent`, but I d
 Now, in my previous blog I mentioned that I started using [Blop](https://gitlab.com/uoou/blop) to produce a simple, more minimal mirror of this website on my tilde [here](https://chrono.tilde.cafe). However, the script uses `sed` to change a bunch of stuff, and after reading it, I found a few things I could apply to my current rofi scripts, so I renewed it and made it better, I also removed some blank spaces that were getting added and caused some weird behavior, like having my HTML end with a dash like `this-file-.html` and other things.
 
 Now it looks like this!
-```
+```bash
 #! /bin/bash
 path=/home/joelchrono12/git/joelchrono12.ml/_posts/
 title=$(rofi -l 0 -width 50 -p "Title:" -dmenu)
