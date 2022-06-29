@@ -8,7 +8,7 @@ layout: post
 date: 2022-06-29 16:49:25 -0500
 host: benign.town
 username: joel
-com_id: idcomments
+com_id: 108563304562342746
 ---
 
 When I started this website I actually tried for a while to compress my images whenever I used them for a blogpost or something, but at some point I stopped caring about it. Even when I talked about [image management with Jekyll]({{ site.url }}/blog/add-images-to-markdown-files-(for-jekyll)/) I didn't even mentioned using WebP, but simple ImageMagick commands.
