@@ -5,7 +5,7 @@ description: Last week, I got back to school, and I also got a Raspberry Pi. Let
 tags: coding tech linux foss school raspberrypi webdev
 permalink: /blog/getting-a-raspberry-pi-to-play-with/
 layout: post
-image: "assets/img/blogs/2021-08-07-raspi.jpg"
+image: "assets/img/blogs/2021-08-07-raspi.webp"
 date: 2021-08-17 15:19:28 -0500
 host: fosstodon.org
 username: joeligj12
@@ -18,7 +18,7 @@ So, going back to school was not as I expected, I thought I was going to be able
 But of course, I had to get a Raspberry Pi, and I just cannot stop being distracted by it. During the first couple of days I decided to try and move my website to it, self host a few things and try some new programs. 
 
 <figure>
-  <img alt="My Raspberry Pi setup" src="/assets/img/blogs/2021-08-07-raspi.jpg" />
+  <img alt="My Raspberry Pi setup" src="/assets/img/blogs/2021-08-07-raspi.webp" />
   <figcaption>My Raspberry Pi setup</figcaption>
 </figure>
 

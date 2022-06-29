@@ -9,7 +9,7 @@ date: "2022-06-15 08:17:42 -0500"
 host: benign.town
 username: joel
 com_id: 108483480126763805
-image: "assets/img/blogs/2022-06-15-vivobook-laptop.jpg"
+image: "assets/img/blogs/2022-06-15-vivobook-laptop.webp"
 ---
 
 These last few days have been quite crazy, and some really good things happened. First, I am writing this in my Nextcloud instance from another computer while working at Uni. I don't usually do that, but I got some time and decided to go ahead and use it for something more productive.
@@ -17,7 +17,7 @@ By reading the title you already know what this is about, so lets go for it.
 
 ## New laptop
 
-![Asus Vivobook S15](/assets/img/blogs/2022-06-15-vivobook-laptop.jpg)
+![Asus Vivobook S15](/assets/img/blogs/2022-06-15-vivobook-laptop.webp)
 
 I've used a fairly old laptop for a while, it has served me really well and I don't really have complaints, other than the hardware being quite damaged. The laptop fell and a corner is pretty much busted, alongside 2 USB ports. I've done fine with a dongle, but it was really annoying. The hinge was broken too. It was flimsy and whenever I opened the lid it would turn on by itself, or turn off if I moved the screen a bit too much.
 

@@ -24,7 +24,7 @@ My first cellphone could not do phone calls, it was a Nokia phone that was locke
 After that, my second device would be a Sony Ericcson, after some googling I was able to find that it was a K300i. I remember playing a Darts game on it, as well as recording a lot of videos of me practicing magic tricks, the quality was not great, but kinda decent back then. Again, I didn't really had a SIM card, so no phone calls.
 
 <figure>
-  <img alt="Sony Ericcson K300i" src="/assets/img/blogs/2022-06-05/ericcson.jpg" />
+  <img alt="Sony Ericcson K300i" src="/assets/img/blogs/2022-06-05/ericcson.webp" />
   <figcaption>Sony Ericcson K300i</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ I actually still have the box of this device, but it had another thinner box aro
 
 ## 2013
 <figure>
-  <img alt="HTC Status" src="/assets/img/blogs/2022-06-05/htcstatus.jpg" />
+  <img alt="HTC Status" src="/assets/img/blogs/2022-06-05/htcstatus.webp" />
   <figcaption>HTC Status</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ I really liked its interface, it looked really nice, with great animations and a
 
 ## 2015
 <figure>
-  <img alt="Samsung Galaxy S III mini" src="/assets/img/blogs/2022-06-05/s3mini.jpg" />
+  <img alt="Samsung Galaxy S III mini" src="/assets/img/blogs/2022-06-05/s3mini.webp" />
   <figcaption>Samsung Galaxy S III mini</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ I ended up going back to the HTC Status for a while, with only Whatsapp, Faceboo
 
 ## 2018
 <figure>
-  <img alt="Xiaomi Redmi 5A" src="/assets/img/blogs/2022-06-05/redmi5a.jpg" />
+  <img alt="Xiaomi Redmi 5A" src="/assets/img/blogs/2022-06-05/redmi5a.webp" />
   <figcaption>Xiaomi Redmi 5A</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Sadly, once again the charging port was starting to show its age and quality, be
 
 ## 2020
 <figure>
-  <img alt="Xiaomi Redmi Note 8" src="/assets/img/blogs/2022-06-05/redminote8.jpg" />
+  <img alt="Xiaomi Redmi Note 8" src="/assets/img/blogs/2022-06-05/redminote8.webp" />
   <figcaption>Xiaomi Redmi Note 8</figcaption>
 </figure>
 

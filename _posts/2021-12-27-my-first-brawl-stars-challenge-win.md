@@ -23,6 +23,6 @@ My friend, `fantastic ms` as you you can see in the picture below, tends to ruin
 
 Sadly, we did not manage to beat it with four lives. However, you're allowed to buy more chances with gems (1 gem for two lives), if you take into account that paying for a Brawler around 200 gems is a lot more expensive than the 2 gems we paid, we were super happy after we actually managed to get our 9th victory, and obtain a brand new Brawler to play with, completely for free!
 
-![Me and teammates showcasing our new Brawler](/assets/img/blogs/2021-12-27-brawl_win.jpg)
+![Me and teammates showcasing our new Brawler](/assets/img/blogs/2021-12-27-brawl_win.webp)
 
 This has been day 67 of [#100DaysToOffload](https://100DaysToOffload.com)
