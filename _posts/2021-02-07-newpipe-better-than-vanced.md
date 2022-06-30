@@ -16,10 +16,7 @@ username: joeligj12
 
 On my journey towards being googleless, there is one service that has no match: Youtube. This site has the biggest catalog of videos. But, as great as it is, it also represents one of the main ways for Google to get revenue, serve ads and collect data from it's users, which is  big problem for people like me, looking for a way to stop them from getting every bit they can about my life.
 
-<figure>
-  <img alt="Youtube on a laptop in the dark" src="/assets/img/blogs/2021-02-07-youtube.jpg" />
-  <figcaption><span>Photo by <a href="https://unsplash.com/@leon_bublitz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Leon Bublitz</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> </figcaption>
-</figure>
+{% include img.html alt="Youtube on a laptop in the dark" image="/assets/img/blogs/2021-02-07-youtube.jpg" caption='Photo by <a href="https://unsplash.com/@leon_bublitz">Leon Bublitz</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>' %}
 Even if you don't consume its content with entertainment purposes, you will probably need it for tutorials, or streaming events, or to sub to your friend's channel.
 
 I need Youtube, that's how I learn stuff, that's where my teachers upload their homework videos. And in times like these, it's honestly the primary way of entertainment I have.
@@ -40,12 +37,8 @@ I have used Youtube for years. Last time I exported my subscriptions, I had 1000
 I decided to look up every channel I actually remembered, and "subscribing" to them (you don't really subscribe since the subs number doesn't go up) and ended up with around 60 channels, which I currently follow. 
 After that, I decided to categorize them. Newpipe currently has a limited support on custom tabs, but it shows the groups in little icons at the top of the subscriptions page.
 
+{% include img.html alt="Youtube on a laptop in the dark" image="/assets/img/blogs/2021-02-07-newpipe.jpg" caption="Sub to ChrisWere btw" %}
 
-
-<figure>
-  <img alt="Youtube on a laptop in the dark" src="/assets/img/blogs/2021-02-07-newpipe.jpg" />
-  <figcaption>Sub to ChrisWere btw </figcaption>
-</figure>
 ## No more notifications 🔔 
 
 Newpipe offers many functions that Vanced does not, it allows you to download videos and playlists, listen to the audio of videos, etc. However, you also lose certain things, the ability to like and comment on videos. And more importantly for me (at least apparently), notifications.

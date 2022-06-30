@@ -78,7 +78,7 @@ You can run this script with absolute ease from your terminal, if that's what yo
 
 1. Open Thunar > Edit > Configure custom actions.
 2. Add a new entry for `aijk` and save it.
-![Thunar configuration](/assets/img/blogs/2022-01-27-thunar-configuration.jpg)
+{% include img.html image="/assets/img/blogs/2022-01-27-thunar-configuration.jpg" %}
 4. Set the appearance conditions to images only.
 3. Right click on any image to try it out!
 

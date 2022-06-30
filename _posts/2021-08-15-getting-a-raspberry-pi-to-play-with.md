@@ -17,10 +17,7 @@ So, going back to school was not as I expected, I thought I was going to be able
 
 But of course, I had to get a Raspberry Pi, and I just cannot stop being distracted by it. During the first couple of days I decided to try and move my website to it, self host a few things and try some new programs. 
 
-<figure>
-  <img alt="My Raspberry Pi setup" src="/assets/img/blogs/2021-08-07-raspi.jpg" />
-  <figcaption>My Raspberry Pi setup</figcaption>
-</figure>
+{% include img.html alt="My Raspberry Pi setup" image="/assets/img/blogs/2021-08-07-raspi.jpg" caption="My Raspberry Pi setup" %}
 
 Sadly, despite my best efforts, I was unable to open the necessary ports to the world, so I wont be able to self host at the moment. Thankfully, it looks like the network in the area we live will be updated to fiber. We will get some new modems and maybe the software and configuration allow me to have it working before this year ends.
 
@@ -30,10 +27,7 @@ After failing to use my Pi as a web server, I decided to at least use it as an l
 
 Setting it up was extremely simple, I only had to run a simple script and then configure my router to use my Raspi as its main DNS. I added a few more host lists, blocked some specific domains, set up dark mode for the web UI, and voilá! 
 
-<figure>
-  <img alt="Pi-hole's web interface" src="/assets/img/blogs/2021-08-17-pihole.jpg" />
-  <figcaption>Pi-hole's web interface</figcaption>
-</figure>
+{% include img.html alt="Pi-hole's web interface" image="/assets/img/blogs/2021-08-17-pihole.jpg" caption="Pi-hole's web interface" %}
 
 It has worked quite well for me and my family, from time to time an ad will appear, but I just had to add it to the blacklist and say I won't see it again!
 

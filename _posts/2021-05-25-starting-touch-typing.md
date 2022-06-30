@@ -43,6 +43,6 @@ This was a bit of a shorter post, but I don't have a lot of time today, but I
 still wanted to publish something soon enough, since my time could be even more
 limited the following weeks.
 
-![My current progress in 10fastfingers.com](/assets/img/blogs/2021-05-25-typing-progress.jpg)
+{% include img.html image="/assets/img/blogs/2021-05-25-typing-progress.jpg" %}
 
 This was day 38 of [#100DaystoOffload](https://100DaystoOffload.com)

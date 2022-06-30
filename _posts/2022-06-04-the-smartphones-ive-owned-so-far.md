@@ -23,10 +23,7 @@ My first cellphone could not do phone calls, it was a Nokia phone that was locke
 
 After that, my second device would be a Sony Ericcson, after some googling I was able to find that it was a K300i. I remember playing a Darts game on it, as well as recording a lot of videos of me practicing magic tricks, the quality was not great, but kinda decent back then. Again, I didn't really had a SIM card, so no phone calls.
 
-<figure>
-  <img alt="Sony Ericcson K300i" src="/assets/img/blogs/2022-06-05/ericcson.jpg" />
-  <figcaption>Sony Ericcson K300i</figcaption>
-</figure>
+{% include img.html alt="Sony Ericcson K300i" image="/assets/img/blogs/2022-06-05/ericcson.jpg" caption="Sony Ericcson K300i" %}
 
 There was another phone that I really liked, because it finally had a QWERTY keyboard, it was an LG phone with a Windows Mobile OS, it was really fun. This was one of the first times I tried side-loading stuff, I realized the phone could run java apps, so I found a version of Plants vs Zombies and managed to get it running on it. It didn't run great, but it was cool nonetheless.
 
@@ -53,20 +50,14 @@ Eventually the battery inflated and I did not bother to look for a replacement i
 I actually still have the box of this device, but it had another thinner box around it that contained all the information, so the actual container does not say anything.
 
 ## 2013
-<figure>
-  <img alt="HTC Status" src="/assets/img/blogs/2022-06-05/htcstatus.jpg" />
-  <figcaption>HTC Status</figcaption>
-</figure>
+{% include img.html alt="HTC Status" image="/assets/img/blogs/2022-06-05/htcstatus.jpg" caption="HTC Status" %}
 
 The next phone I got was once again passed down by my mother. She got an HTC Status, also known as the HTC ChaCha, and it had a QWERTY keyboard and Android 2.3.6, still.
 
 I really liked its interface, it looked really nice, with great animations and a skeumorphic look that rivaled Apple's. Sadly, the horizontal screen limited the apps that worked on it, they just didn't look right. It had a direct Facebook button, which I found quite annoying since I didn't have an account (although I wanted one, back then). The storage was, once again, quite limited so I never really had a chance to explore too much with it. I did try a couple of launchers and icon packs tho, like Smart Launcher 3 and an icon pack called Goolors, which is not available anymore. Most other launchers were vertical only though.
 
 ## 2015
-<figure>
-  <img alt="Samsung Galaxy S III mini" src="/assets/img/blogs/2022-06-05/s3mini.jpg" />
-  <figcaption>Samsung Galaxy S III mini</figcaption>
-</figure>
+{% include img.html alt="Samsung Galaxy S III mini" image="/assets/img/blogs/2022-06-05/s3mini.jpg" caption="Samsung Galaxy S III mini" %}
 
 It was not until the Samsung Galaxy S III mini, passed down to me by my father around 2015, that I finally got the chance to play around with root access and custom roms. I remember that I bricked it the first day I got it, I was so eager to mess with it, and I flashed the wrong recovery. Thankfully, Odin was a thing and flashing the stock rom was not hard at all. I decided to wait for a while (only a couple days, actually 😅) to try again. I eventually found out about [the rom mantainer's website](https://novafusion.pl/tutorials/installation-guide-golden/) of the different roms available for my device, so I stopped relying on specific YouTube tutorials.
 
@@ -77,10 +68,7 @@ Sadly, out of nowhere, my phone died completely, it just stopped turning on. I a
 I ended up going back to the HTC Status for a while, with only Whatsapp, Facebook Lite and Geometry Dash installed on it, anything else would not fit, at the time I realized there was a 4.0 custom rom somewhere, but I never bothered trying it out.
 
 ## 2018
-<figure>
-  <img alt="Xiaomi Redmi 5A" src="/assets/img/blogs/2022-06-05/redmi5a.jpg" />
-  <figcaption>Xiaomi Redmi 5A</figcaption>
-</figure>
+{% include img.html alt="Xiaomi Redmi 5A" image="/assets/img/blogs/2022-06-05/redmi5a.jpg" caption="Xiaomi Redmi 5A" %}
 
 It took until now to finally get a new phone, that was actually new. I had saved some money, and my dad would pay half of it, I wanted a Xiaomi Redmi 5A, codename: Riva; it was a really good phone for the price, pretty low end, but good enough for me, since I knew it had good rom support, even today I think it has some Android 12 roms available.
 
@@ -93,10 +81,7 @@ This was the first device where I could try pretty much everything without worry
 Sadly, once again the charging port was starting to show its age and quality, becoming looser and faulty. If there was anything that made me want to switch phones, it would be the lack of a fingerprint scanner, and that it still used microUSB for charging, other than that it was pretty awesome, I could probably still use it today, since I kinda like the small form factor too, which is even less common today.
 
 ## 2020
-<figure>
-  <img alt="Xiaomi Redmi Note 8" src="/assets/img/blogs/2022-06-05/redminote8.jpg" />
-  <figcaption>Xiaomi Redmi Note 8</figcaption>
-</figure>
+{% include img.html alt="Xiaomi Redmi Note 8" image="/assets/img/blogs/2022-06-05/redminote8.jpg" caption="Xiaomi Redmi Note 8" %}
 
 And finally, we arrive at my current phone, the Xiaomi Redmi Note 8, codename: ginkgo. Yet again I saved up half of the price and my dad completed it. I remember being so excited about it, since it would be the biggest step up since the S III mini. I would be having a current gen phone for the first time, even if it would be a mid-range phone, its more than enough.
 

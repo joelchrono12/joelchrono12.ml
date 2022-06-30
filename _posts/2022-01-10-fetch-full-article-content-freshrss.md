@@ -56,7 +56,7 @@ id of the HTML element containing the article content. If you got an id, you
 should input `#idname`, if its a class, you use `.classname`, note the use of
 the `#` and `.` to differentiate them. You can see how it would look here:
 
-![FreshRSS CSS selector option](/assets/img/blogs/2022-01-11-fetch-article-freshrss-css-setting.jpg)
+{% include img.html image="/assets/img/blogs/2022-01-11-fetch-article-freshrss-css-setting.jpg" %}
 
 If the site is super simple or classless, you might want to go with the HTML
 element itself, or a sequence of nested elements, such as `main body`, its all
@@ -68,7 +68,7 @@ of just whatever small portion of text is included in the default feed.
 
 This is how Simon's website posts look now on my feed:
 
-![FreshRSS Screenshot showing final result](/assets/img/blogs/2022-01-11-fetch-content-rss-final-result.jpg)
+{% include img.html image="/assets/img/blogs/2022-01-11-fetch-content-rss-final-result.jpg" %}
 
 As you can see, some sites will have small problems like duplicate titles or
 maybe even a couple ads showing up in there, but hey, its the full article

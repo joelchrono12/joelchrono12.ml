@@ -3,7 +3,7 @@ title: My spectrwm setup
 header: My spectrwm setup
 date: "2021-02-08 12:09:00 -0600"
 description: Why spectrwm is my tiling window manager of choice. 
-tags: linux foss
+tags: linux foss ricing
 permalink: /blog/spectrwm-setup/
 layout: post
 ---
@@ -53,12 +53,9 @@ I just run it inside of the bar script, so it updates at the same time.
 
 I really love how spectrwm is so easy to configure in general, as you saw with the little snippet I shared, Spectrwm does not need any specific programming language to understand what is going on, just a bit of text formatting and some help from the manpage, and everything ends up working out. In the end, I have this is my current setup. 
 
-<figure>
-  <img alt="spectrwm setup" src="/assets/img/blogs/2021-02-08-spectrwm1.jpg" />
-  <figcaption>Typora, alacritty, pcmanfm </figcaption>
-  <img alt="spectrwm setup" src="/assets/img/blogs/2021-02-08-spectrwm2.jpg" />
-  <figcaption>Firefox, htop, kristall </figcaption>
-</figure>
+{% include img.html alt="spectrwm setup" image="/assets/img/blogs/2021-02-08-spectrwm1.jpg"   caption="Typora, alacritty, pcmanfm" %}
+
+{% include img.html alt="spectrwm setup 2" image="/assets/img/blogs/2021-02-08-spectrwm2.jpg"   caption="Firefox, htop, kristall" %}
 
 There is still work to do, but I am really happy with the results,  I am stilll playing around with other scripts and things. If you wanna get my current dotfiles, you can do so [here](https://tildegit.org/chrono/dotfiles). 
 

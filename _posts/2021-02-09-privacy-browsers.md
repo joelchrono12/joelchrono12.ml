@@ -42,10 +42,7 @@ My current favorite, it is extremely lightweight, as customizable as Via, and mo
 
 Each and everyone of this browsers are nothing but one more option, and is up to you to choose, in fact, you can simply not install any of them and continue with you current one. But each of these has been used by me and they also look kinda nice :D
 
-<figure>
-  <img alt="Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar" src="/assets/img/blogs/2021-02-09-browser-showcase.jpg" />
-  <figcaption>Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar </figcaption>
-</figure>
+{% include img.html image="/assets/img/blogs/2021-02-09-browser-showcase.jpg" caption="Home screens, from left to right, DuckDuckGo, SmartCookieWeb, Via and Focus/Klar"%}
 
 This is the 5th blog for the [#100DaystoOffload](https://100daystooffload.com/) challenge, this time it was quite hard to start, but in the end, I think it turned out right, and I hope it's helpful for you. If you have any other browser recommendations, make sure to share them with me!
 

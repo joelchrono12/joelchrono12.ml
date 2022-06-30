@@ -24,7 +24,7 @@ I really liked the way this browser works. It is portable and can be run from an
 
 Honestly, it looks pretty terrible out of the box, at least with the Nordic GTK theme.
 
-![Pale moon's website open in said browser](/assets/img/blogs/2021-03-20-pm-site.jpg)
+{% include img.html image="/assets/img/blogs/2021-03-20-pm-site.jpg" %}
 
 While pretty customizable, the fact that some websites did not show up nicely, and sites like YouTube, LBRY and Google Meet barely worked (or did not at all) made me unable to use it as my primary browser.
 

@@ -17,7 +17,7 @@ By reading the title you already know what this is about, so lets go for it.
 
 ## New laptop
 
-![Asus Vivobook S15](/assets/img/blogs/2022-06-15-vivobook-laptop.jpg)
+{% include img.html image="/assets/img/blogs/2022-06-15-vivobook-laptop.jpg" caption="My new laptop in its desk 😎" %}
 
 I've used a fairly old laptop for a while, it has served me really well and I don't really have complaints, other than the hardware being quite damaged. The laptop fell and a corner is pretty much busted, alongside 2 USB ports. I've done fine with a dongle, but it was really annoying. The hinge was broken too. It was flimsy and whenever I opened the lid it would turn on by itself, or turn off if I moved the screen a bit too much.
 
