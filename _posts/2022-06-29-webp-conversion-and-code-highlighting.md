@@ -3,7 +3,7 @@ title: WebP conversion and code highlighting
 header: WebP conversion and code highlighting
 description: I had been careless about image formats on my website, but I decided to put some work and convert them all to WebP. Also, I got the Nord color scheme to work on my code!
 tags: webdev jekyll
-permalink: /blog/webp-conversion-and-code-highlighting/
+permalink: /blog.jpg-conversion-and-code-highlighting/
 layout: post
 date: 2022-06-29 16:49:25 -0500
 host: benign.town
@@ -15,7 +15,7 @@ When I started this website I actually tried for a while to compress my images w
 
 # Converting images to WebP
 
-I decided to fix that today, by installing the [WebP tools provided by Google](https://developers.google.com/speed/webp/download), and available in some repos (not Fedora, for some reason) and with some very simple bash scripts which pretty much did this:
+I decided to fix that today, by installing the [WebP tools provided by Google](https://developers.google.com/speed.jpg/download), and available in some repos (not Fedora, for some reason) and with some very simple bash scripts which pretty much did this:
 
  ```bash
 $IMGFILES="/path/to/assets"
@@ -25,19 +25,19 @@ for f in $FILES
 do
   echo "Processing $f file..."
   # take action on each file. $f store current file name
-  cwebp -q 85 "$f" -o "${f%.*}.webp";
+  .jpg -q 85 "$f" -o "${f%.*}.jpg";
   #cat "$f"
 done
 
-sed -i 's/.jpg/.webp/g' $POSTS/*
-sed -i 's/.png/.webp/g' $POSTS/*
+sed -i 's/.jpg/.jpg/g' $POSTS/*
+sed -i 's/.png/.jpg/g' $POSTS/*
 ```
 
 I would not recommend running this script. I actually had to take care of some posts that mentioned `.png` or `.jpg` somewhere without actually using an image, such as other scripts and stuff like that. I also had some images that were in other subfolders and such, so this took a couple extra minutes.
 
 It really was nothing special though, the changes were done pretty quickly and now my website is overall lighter than before, which I guess its a good thing.
 
-I was quite inspired by [this post](https://1mb.club/blog/batch-webp-conversion/) by [Bradley Taunt](https://tdarb.org/), so go check him out too, although you probably already know him if you are into web development and such.
+I was quite inspired by [this post](https://1mb.club/blog/batch.jpg-conversion/) by [Bradley Taunt](https://tdarb.org/), so go check him out too, although you probably already know him if you are into web development and such.
 
 # Enabling Code Highlighting on my website
 

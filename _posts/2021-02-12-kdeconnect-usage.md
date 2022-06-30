@@ -21,7 +21,7 @@ I kinda liked how it worked, so I used it for a while, but then I changed my dis
 After that, I stopped using it for a while, because I thought it wasn't possible to use on something other than KDE or GNOME. But I was wrong. I saw [Brodie's video](https://www.youtube.com/watch?v=xMm_gtVKDpg) on it, decided to search it on the repos, and after some setting up, it worked almost flawlessly.
 
 <figure>
-  <img alt="kde connect utilities" src="/assets/img/blogs/2021-02-12-kde-connect.webp" />
+  <img alt="kde connect utilities" src="/assets/img/blogs/2021-02-12-kde-connect.jpg" />
   <figcaption>The different applications provided by KDEConnect</figcaption>
 </figure>
 I added it to my config file, so it runs when the WM opens for the first time, and despite some hiccups where it sometimes does not connect automatically, it is almost flawless and as useful as in any full DE. I want to note that if you want to get an applet on your systray you have to start the `kdconnect-indicator` command.
@@ -33,7 +33,7 @@ Adding to this, I recently found a very interesting [browser add-on](https://git
 In order to sync my laptop with the phone, I needed to install the app, which is available on [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/). after that, setting it up is quite simple.
 
 <figure>
-  <img alt="kde connect on android" src="/assets/img/blogs/2021-02-12-kdephone.webp" />
+  <img alt="kde connect on android" src="/assets/img/blogs/2021-02-12-kdephone.jpg" />
   <figcaption>Android interface of KDEConnect</figcaption>
 </figure>
 

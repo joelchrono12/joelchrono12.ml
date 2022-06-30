@@ -32,7 +32,7 @@ It has been 3 days, and I have already done 30+ icons for different applications
 It has been super fun, and pretty crazy, but somehow I managed to get myself into another hobby and keep working decently as a son and a University student, I even did a blog in the middle of everything. So yeah, my whole workflow might tumble as soon as a new crazy school assignment arrives, but so far, no problem, I actually felt pretty productive yesterday during class, since I didn't open Inkscape during the whole thing!
 
 <figure>
-<img src="/assets/img/blogs/2021-06-10-icon-showcase.webp">
+<img src="/assets/img/blogs/2021-06-10-icon-showcase.jpg">
 <figcaption>I have made 30+ icons, here are 21 of them!</figcaption>
 </figure>
 

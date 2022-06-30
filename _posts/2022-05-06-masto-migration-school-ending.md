@@ -8,7 +8,7 @@ layout: post
 date: 2022-05-06 11:50:36 -0500
 host: fosstodon.org
 username: joel
-image: "assets/img/blogs/2022-05-06-time-ticking.webp"
+image: "assets/img/blogs/2022-05-06-time-ticking.jpg"
 com_id: 108256206805712451
 ---
 
@@ -26,7 +26,7 @@ Also I kinda wanted to add some pictures to my feed, I know its bloated, but its
 
 
 <figure>
-<img alt="Time is ticking!" src="/assets/img/blogs/2022-05-06-time-ticking.webp"/>
+<img alt="Time is ticking!" src="/assets/img/blogs/2022-05-06-time-ticking.jpg"/>
 <figcaption>Photo by <a href="https://unsplash.com/@alexandar_todov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexandar Todov</a> on <a href="https://unsplash.com/s/photos/clock-ticking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
 </figure>
 

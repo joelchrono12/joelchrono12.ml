@@ -21,7 +21,7 @@ Months later, I tried [AntennaPod](https://antennapod.org/), a free and open sou
 
 They recently got a very nice redesign that gets rid of the Holo interface for something based on current Material design guidelines (still a bit rough around the edges, as most FOSS projects). And I have been listening to more podcasts lately, so I wanted to share this app because it is quite fantastic. 
 
-![antennapod](/assets/img/blogs/2021-02-17-antennapod.webp)
+![antennapod](/assets/img/blogs/2021-02-17-antennapod.jpg)
 
 I keep a backup of the full database thanks to Syncthing, similarly of [how I manage my RSS feeds](/rss-usage/). but it allows to export to simple OPML files too, but I like the stats it gives me, so saving them for everytime I [reboot my phone](/changing-android-rom) is quite nice.
 

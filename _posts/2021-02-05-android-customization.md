@@ -29,7 +29,7 @@ It has every function you can imagine. It's gesture system is like no other, and
 
 This is my current setup, although I change it pretty often
 <center>
-<img src="/assets/img/blogs/2021-02-05-nova-setup.webp" alt="Screenshot of my nova setup" width="500">
+<img src="/assets/img/blogs/2021-02-05-nova-setup.jpg" alt="Screenshot of my nova setup" width="500">
 </center>
 
 ## [KISS Launcher](https://kisslauncher.com/)
@@ -39,7 +39,7 @@ Now, this is another launcher that I use sometimes, in fact, after the mentioned
 This is how I am rocking it today, as you can see, pretty minimalistic
 
 <center>
-<img src="/assets/img/blogs/2021-02-05-kiss-setup.webp" alt="Screenshot of my KISS launcher setup" width="500">
+<img src="/assets/img/blogs/2021-02-05-kiss-setup.jpg" alt="Screenshot of my KISS launcher setup" width="500">
 </center>
 
 

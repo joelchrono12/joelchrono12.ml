@@ -5,7 +5,7 @@ description: Last week, I got back to school, and I also got a Raspberry Pi. Let
 tags: coding tech linux foss school raspberrypi webdev
 permalink: /blog/getting-a-raspberry-pi-to-play-with/
 layout: post
-image: "assets/img/blogs/2021-08-07-raspi.webp"
+image: "assets/img/blogs/2021-08-07-raspi.jpg"
 date: 2021-08-17 15:19:28 -0500
 host: fosstodon.org
 username: joeligj12
@@ -18,7 +18,7 @@ So, going back to school was not as I expected, I thought I was going to be able
 But of course, I had to get a Raspberry Pi, and I just cannot stop being distracted by it. During the first couple of days I decided to try and move my website to it, self host a few things and try some new programs. 
 
 <figure>
-  <img alt="My Raspberry Pi setup" src="/assets/img/blogs/2021-08-07-raspi.webp" />
+  <img alt="My Raspberry Pi setup" src="/assets/img/blogs/2021-08-07-raspi.jpg" />
   <figcaption>My Raspberry Pi setup</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ After failing to use my Pi as a web server, I decided to at least use it as an l
 Setting it up was extremely simple, I only had to run a simple script and then configure my router to use my Raspi as its main DNS. I added a few more host lists, blocked some specific domains, set up dark mode for the web UI, and voilá! 
 
 <figure>
-  <img alt="Pi-hole's web interface" src="/assets/img/blogs/2021-08-17-pihole.webp" />
+  <img alt="Pi-hole's web interface" src="/assets/img/blogs/2021-08-17-pihole.jpg" />
   <figcaption>Pi-hole's web interface</figcaption>
 </figure>
 

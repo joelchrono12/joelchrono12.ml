@@ -25,6 +25,6 @@ Anyways, I saved a screenshot of the old site just to keep it alive somehow, Sim
 
 This is day 48 of [#100DaysToOffload](https://100DaysToOffload.com), RIP old stylesheet, you will live as a comment in my html website source.
 
-![The old website's design](/assets/img/blogs/2021-07-07-website-simplecss.webp)
+![The old website's design](/assets/img/blogs/2021-07-07-website-simplecss.jpg)
 
 

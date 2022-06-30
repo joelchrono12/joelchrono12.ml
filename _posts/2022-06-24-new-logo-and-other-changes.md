@@ -31,10 +31,7 @@ I was a little inspired by Kev Quirk's logo design, where its pretty much just h
 
 However, I wanted to have something that was a bit more representative of me and what I liked. At first, I went a little too crazy, and started with something like this:
 
-<figure>
-  <img alt="My initial logo idea" width="512px" align="center" src="/assets/img/blogs/2022-06-24-favicon_v1.webp" />
-  <figcaption>I can't believe I thought this was decent enough to export</figcaption>
-</figure>
+{% include img.html image="/assets/img/blogs/2022-06-24-favicon_v1.jpg" width="512px" alt="My initial logo idea" caption="I can't believe I thought this was decent enough to export" %}
 
 it has too many colors and it would never have worked as a favicon. ~~Un~~fortunately I lost the original file, since I was working on top of it during some time and eventually got lost in the undo history.
 
@@ -42,20 +39,13 @@ In this design I used the C from Chrono Trigger's title screen, since I've said 
 
 The J is from my name, and the font comes [from here](http://www.thealmightyguru.com/GameFonts/Series-ChronoTrigger.html). Its based on the font used in the game text boxes and dialogues, so I thought it was quite fitting. Eventually ending up this logo, which I actually pushed to my site for a few hours before this article was written.
 
-<figure>
-  <img alt="My initial logo idea" width="512px" align="center" src="/assets/img/blogs/2022-06-24-favicon_v2.webp" />
-  <figcaption>I was pretty happy with how this one turned out!</figcaption>
-</figure>
+{% include img.html image="/assets/img/blogs/2022-06-24-favicon_v2.jpg" width="512px" alt="An improved and simplified version" caption="I was pretty happy with this one, not gonna lie!" %}
 
 However, while the pixel art font was cool and all, and I can justify it with my love for emulation and retro games, I kinda wanted to have something different and simpler, more minimal.
 
 I decided to look for some fonts that kinda looked like origami, and I stumbled upon [this one](https://creiden.com/free-origami-letters/). So I downloaded it and pasted that J in its place, and ended up with my (for now) current logo!
 
-
-<figure>
-  <img alt="Current logo" width="512px" align="center" src="/assets/img/logo.webp" />
-  <figcaption>My current choice, maybe it'll change in the future again...</figcaption>
-</figure>
+{% include img.html image="/assets/img/logo.jpg" width="512px" alt="Current logo" caption="My current choice, maybe it'll change in the future again..." %}
 
 
 # Conclusion

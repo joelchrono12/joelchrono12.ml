@@ -17,7 +17,7 @@ username: joeligj12
 On my journey towards being googleless, there is one service that has no match: Youtube. This site has the biggest catalog of videos. But, as great as it is, it also represents one of the main ways for Google to get revenue, serve ads and collect data from it's users, which is  big problem for people like me, looking for a way to stop them from getting every bit they can about my life.
 
 <figure>
-  <img alt="Youtube on a laptop in the dark" src="/assets/img/blogs/2021-02-07-youtube.webp" />
+  <img alt="Youtube on a laptop in the dark" src="/assets/img/blogs/2021-02-07-youtube.jpg" />
   <figcaption><span>Photo by <a href="https://unsplash.com/@leon_bublitz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Leon Bublitz</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> </figcaption>
 </figure>
 Even if you don't consume its content with entertainment purposes, you will probably need it for tutorials, or streaming events, or to sub to your friend's channel.
@@ -43,7 +43,7 @@ After that, I decided to categorize them. Newpipe currently has a limited suppor
 
 
 <figure>
-  <img alt="Youtube on a laptop in the dark" src="/assets/img/blogs/2021-02-07-newpipe.webp" />
+  <img alt="Youtube on a laptop in the dark" src="/assets/img/blogs/2021-02-07-newpipe.jpg" />
   <figcaption>Sub to ChrisWere btw </figcaption>
 </figure>
 ## No more notifications 🔔 

@@ -25,11 +25,11 @@ The next tutorial is actually an ongoing [series](https://www.youtube.com/playli
 
 So I decided to get started with the UI, it is kinda basic, but it looks pretty minimal and nice, if I do say so myself. I added some glyphs, rounded corners, and of course, the nord color scheme
 
-![UI of the game, terminal-like since its text based](/assets/img/blogs/2021-02-23-gui.webp)
+![UI of the game, terminal-like since its text based](/assets/img/blogs/2021-02-23-gui.jpg)
 
 I also decided to make some simple commands which can be seen on the picture. They work in quite a simple way. Here you can see how they work. The text language is in Spanish (and some English because my mind is weird) since thats the language we speak here. But you can get the idea, and I might translate it all anyways.
 
-![UI of the game, terminal-like since its text based](/assets/img/blogs/2021-02-23-commands.webp)
+![UI of the game, terminal-like since its text based](/assets/img/blogs/2021-02-23-commands.jpg)
 
 # I will keep you updated
 As of now, that's basically it, I am going to make a repo and I will also share my progress as I go on with this adventure. This was day 19 of [#100DaysToOffload](https://100daystooffload.com)

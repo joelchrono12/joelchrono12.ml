@@ -6,14 +6,10 @@ description: This archive contains pics of some origami models, both original of
 permalink: /origami/
 ---
 
-
 {% comment %}
 This is reversed order, if you want to start from the beginning
 {% assign postsByYear = site.posts | reverse | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% endcomment %}
-
-
-<div>
 
  <table>
   <tr>
@@ -31,11 +27,13 @@ This is reversed order, if you want to start from the beginning
     {% else%}
     <td>No</td>
     {% endif %}
-    <td style="text-align: right"><img width="210px" src="{{ origami.image }}" alt="{{ origami.description }}" title="{{ origami.description }}"></td>
+    <td style="text-align: right">
+    {% capture origami_pic %} {{ origami.image }} {% endcapture %}
+    {% capture origami_desc %} {{ origami.description }} {% endcapture %}
+    {% include img.html image=origami_pic width='210px' alt=origami_desc %}
+    </td>
   </tr>
 {% endfor %}
 </table> 
-
-</div>
 
 This site page is still work in progress. More models will be added in the future! Thanks for keeping up with me.

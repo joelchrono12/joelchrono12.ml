@@ -34,7 +34,7 @@ So this is my current navigation bar, I decided to add my recent profile
 picture, and the navbar is closer to the title, you can also see that my
 sections are all the same color.
 
-![My navbar before the changes](/assets/img/blogs/2021-06-04-nav-before.webp)
+![My navbar before the changes](/assets/img/blogs/2021-06-04-nav-before.jpg)
 
 In Jekyll, if you followed Kev's tutorial about how to make a blog, you might
 already have the file `~/_data/navigation.yml`, with a structure similar to
@@ -73,7 +73,7 @@ The key of all of this is the class `nav-current`, which can be used to
 customize the CSS of your element in any way you prefer. In my case, the webiste
 ended up looking like this:
 
-![My navbar before the changes](/assets/img/blogs/2021-06-04-nav-after.webp)
+![My navbar before the changes](/assets/img/blogs/2021-06-04-nav-after.jpg)
 
 I decided to simplify the design, get rid of the svg separators and change the
 color of the site's title, as well as the obvious changes to the nav items.

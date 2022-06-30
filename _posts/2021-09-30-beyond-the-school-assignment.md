@@ -21,7 +21,7 @@ So, I started to modify a script I had to print tables from a database, and I ad
 
 After a few failed attempts, missing tags and some coding errors, I managed to make that work. And a nice table was displayed. I also added my website's stylesheet!
 
-![Parking lot database table](/assets/img/blogs/2021-09-30-database-table.webp)
+![Parking lot database table](/assets/img/blogs/2021-09-30-database-table.jpg)
 
 Next, I wanted to be able to run specific sections of that python script based on which button was pressed, so I can allow cars to enter or exit the parking lot successfully.
 
@@ -29,7 +29,7 @@ For that, the easiest route for me would be using external arguments, that come 
 
 After messing around with Python, I was now able to recognize user input and update the page according to it thanks to arguments sent by PHP. That section looked like this!
 
-![Parking lot database table](/assets/img/blogs/2021-09-30-database-input.webp)
+![Parking lot database table](/assets/img/blogs/2021-09-30-database-input.jpg)
 
 The cool thing about this is that not only was I displaying all this information on the website, I also did stuff in the real world, my servo opened and closed, and I setup a speaker to output when there were no spots available, or in case you are entering, which spot you were assigned to use.
 

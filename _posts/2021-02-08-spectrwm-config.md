@@ -54,9 +54,9 @@ I just run it inside of the bar script, so it updates at the same time.
 I really love how spectrwm is so easy to configure in general, as you saw with the little snippet I shared, Spectrwm does not need any specific programming language to understand what is going on, just a bit of text formatting and some help from the manpage, and everything ends up working out. In the end, I have this is my current setup. 
 
 <figure>
-  <img alt="spectrwm setup" src="/assets/img/blogs/2021-02-08-spectrwm1.webp" />
+  <img alt="spectrwm setup" src="/assets/img/blogs/2021-02-08-spectrwm1.jpg" />
   <figcaption>Typora, alacritty, pcmanfm </figcaption>
-  <img alt="spectrwm setup" src="/assets/img/blogs/2021-02-08-spectrwm2.webp" />
+  <img alt="spectrwm setup" src="/assets/img/blogs/2021-02-08-spectrwm2.jpg" />
   <figcaption>Firefox, htop, kristall </figcaption>
 </figure>
 

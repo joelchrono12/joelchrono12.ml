@@ -7,7 +7,7 @@ permalink: /blog/ublock-origin-cosmetic-filtering/
 layout: post
 date: 2022-05-08 18:35:26 -0500
 host: benign.town
-image: "assets/img/blogs/2022-05-08-element-blocker.webp"
+image: "assets/img/blogs/2022-05-08-element-blocker.jpg"
 username: joel
 com_id: 108269199539638291
 ---
