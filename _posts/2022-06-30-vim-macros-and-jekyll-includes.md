@@ -22,7 +22,7 @@ Implementing this was not difficult at all. I created a file inside of my `_incl
 <figure class="{{ include.class | default: 'img' }}">
   <picture>
     <source srcset="{{ include.image | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' | replace: '.gif','.webp' }}" type="image/webp">
-      <source srcset="{{ include.image }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png" {%elsif include.image contains '.gif'%}type="image/gif"{% endif %}>
+    <source srcset="{{ include.image }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png" {%elsif include.image contains '.gif'%}type="image/gif"{% endif %}>
     <img class="mx-auto" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
   </picture>
   {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif -%}
