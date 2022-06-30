@@ -8,7 +8,7 @@ layout: post
 date: 2022-06-30 10:53:30 -0500
 host: benign.town
 username: joel
-com_id: idcomments
+com_id: 108567468892960945
 ---
 
 Yesterday I talked about converting all my images to WebP, because it would help keep the file sizes smaller, improving loading times. However I have to say I agree with [@isa](https://citrus.farm/@isa) when she mentioned how annoying it is to not have a jpg or png file available to download since webp is still not as supported by Image viewers and the like, or if you dislike file formats that stick out from the standard.
