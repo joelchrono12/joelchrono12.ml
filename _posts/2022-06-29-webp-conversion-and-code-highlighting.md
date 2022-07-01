@@ -3,7 +3,8 @@ title: WebP conversion and code highlighting
 header: WebP conversion and code highlighting
 description: I had been careless about image formats on my website, but I decided to put some work and convert them all to WebP. Also, I got the Nord color scheme to work on my code!
 tags: webdev jekyll
-permalink: /blog.jpg-conversion-and-code-highlighting/
+permalink: /blog/jpg-conversion-and-code-highlighting/
+redirect_from: /blog.jpg-conversion-and-code-highlighting/
 layout: post
 date: 2022-06-29 16:49:25 -0500
 host: benign.town
