@@ -9,7 +9,7 @@ layout: post
 date: 2021-07-01 07:54:58 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: a
+com_id: 106508311181665121
 ---
 
 This day has been kinda tiresome, but also quite successful, I learned a ton of stuff, and I am happy for it.

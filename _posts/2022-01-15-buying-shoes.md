@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-15 20:13:58 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107629850131456331
 ---
 
 So a few days ago my parents let us know me and my sister that we were going to buy shoes today, in my family group (still Whatsapp, I am so sorry) the chat was flooded with stickers and excitement because, well, we are getting some shoes!

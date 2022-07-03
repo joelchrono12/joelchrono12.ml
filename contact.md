@@ -13,15 +13,16 @@ layout: default
 - **✉️ [Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](/pgp), I would appreciate if you use said encryption.
 - **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and easier to self-host than Matrix. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly since Matrix notifications are less reliable for me. 
     <details>
-  <summary><b>Show OMEMO fingerprints</b></summary>
+    <summary><b>Show OMEMO fingerprints</b></summary>
     <b>Mobile</b>
     <pre>
-27dcd308 ba884796 9f12364a 42a20515
-78e570d7 52e6b532 491b1759 258a5023</pre>
+    27dcd308 ba884796 9f12364a 42a20515
+    78e570d7 52e6b532 491b1759 258a5023
+    </pre>
     <b>Desktop</b>
     <pre>
-a2e007a6 c8330775 10a8b94f 3f61686c
-faf00f15 b4cef5f4 2f42c75c 59376214
+    2427d105 6e367ee9 72c96c61 c231a052
+    8db3e512 a37adce0 2597fb5a 7113f56d
     </pre>
     </details>
 

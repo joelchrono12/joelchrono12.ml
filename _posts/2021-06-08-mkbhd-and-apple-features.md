@@ -2,13 +2,13 @@
 title: A rant about Apple features, MKBHD and standards
 header: A rant about Apple features, MKBHD and standards
 description: After a new bunch of features and software announced at the latest Apple event, I rant a little bit about their ecosystem and features the build for themselves
-tags: ramble thoughts apple android 
-permalink: /blog/mkbhd-and-apple-features/ 
-layout: post 
-date: "2021-06-08 19:14:01 -0500" 
-host: fosstodon.org 
-username: joeligj12 
-com_id: a 
+tags: ramble thoughts apple android
+permalink: /blog/mkbhd-and-apple-features/
+layout: post
+date: "2021-06-08 19:14:01 -0500"
+host: fosstodon.org
+username: joeligj12
+com_id: 106378054136599033
 --- 
 
 

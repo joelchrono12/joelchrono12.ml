@@ -8,7 +8,6 @@ layout: post
 date: 2021-11-04 20:10:10 -0500
 host: fosstodon.org
 username: joeligj12
-com_id: idcomments
 ---
 
 After a little bit of thought, I actually had a lot of free time during all of last month, but I have been using it for other things, including of course, wasting some time scrolling my Mastodon timeline or watching YouTube videos, going to class, getting distracted during class, etc.

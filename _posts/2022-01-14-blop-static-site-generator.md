@@ -8,7 +8,7 @@ layout: post
 date: 2022-01-14 20:12:58 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107624156249951887
 ---
 
 So, I have been part of a Tilde community for a while, a public unix server known as [tilde.cafe](https://tilde.cafe).

@@ -8,7 +8,6 @@ layout: post
 date: 2022-01-23 21:49:54 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
 ---
 
 This is a quick list of the most important and used apps I decided to keep in my device when I switched my custom rom. I decided to do something quick like this because I am going to sleep after finishing this. I might write in more detail in a future blog, or I may not.

@@ -8,7 +8,7 @@ layout: post
 date: 2022-02-10 08:53:20 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 107774459002310041
 ---
 
 Now that I am done with *#100DaysToOffload*, I was a little confused as to what to write about, now that I don't have a reason to write something quick and constantly, I have felt a bit more inspired to do a different kind of writing. Nothing too serious, but maybe more personal and planned. 
