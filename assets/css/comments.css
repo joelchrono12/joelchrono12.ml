@@ -6,37 +6,32 @@ img.avatar{
     float: left;
 }
 
-.comment-date{
-    /*float: right;*/
-    padding-right: 1rem;
-    padding-top: 1rem;
+div.comment-content{
+    grid-gap: 1rem;
+    text-decoration: none;
+    align-items: center;
+    border: 1px solid transparent;
+    display: grid;
+    grid-template-columns: auto 80px;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 0.2rem .2rem;
+    transition: .2s;
+    /*color: #8f949d;*/
 }
-.comment-content{
-    /*font-size: .9rem;*/
-    /*float: left;*/
-    /*font-weight: 700;*/
-    /*padding: 1rem 1rem .2rem .2rem;*/
-    /*overflow: auto;*/
-    /*[>text-overflow:ellipsis;<]*/
-    /*white-space: nowrap;*/
-    /*max-width: 32ch;*/
-    /*scrollbar-width: none; [> Firefox <]*/
-    /*-ms-overflow-style: none;  [> Internet Explorer 10+ <]*/
-    display: block;
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-.comment-author,.comment-date{
-    font-size: .9rem;
-    padding-right: 1rem;
-    padding-top: 1rem;
 
+div.comment-content .comment-author{
+    font-size: 1.2rem;
+    margin: .4rem 0;
 }
-.comment-date{
-    float: right;
+
+div.comment-content .comment-date{
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 400;
+    text-align: center;
 }
+
 
 /*p.mastodon-comment-content{*/
 .mastodon-comment{
@@ -48,11 +43,11 @@ img.avatar{
 }
 .mastodon-comment-content{
     text-decoration: none;
-    font-size: .85rem;
+    /*font-size: .85rem;*/
     padding-left: 80px;
     /*padding-top: 3rem;*/
     /*padding-bottom: .4rem;*/
-    padding-right: .4rem;
+    padding-right: 25px;
     padding-bottom: .6rem;
 }
 
@@ -61,7 +56,7 @@ img.avatar{
   border-radius: 5px;
   display: inline-block;
   background: var(--accent);
-  font-size: 1rem;
+  /*font-size: 1rem;*/
   color: var(--bg);
   text-decoration: none;
   padding: .7rem .9rem;
