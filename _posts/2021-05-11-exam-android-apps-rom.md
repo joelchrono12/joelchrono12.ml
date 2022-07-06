@@ -1,17 +1,15 @@
 ---
 title: MauiKit apps, school exams, switching rom
-header: MauiKit apps, school exams, switching rom 
+header: MauiKit apps, school exams, switching rom
 description: I found some pretty interesting cross-platform apps, I did pretty poorly for an exam and I am ready to flash a new rom!
-tags: android linux foss lifestyle school 
-permalink: /blog/exam-android-apps-rom/ 
-layout: post 
-date: "2021-05-11 18:01:34 -0500" 
+tags: android linux foss lifestyle school apps
+permalink: /blog/exam-android-apps-rom/
+layout: post
+date: 2021-05-11 18:01:34 -0500
 host: fosstodon.org 
 username: joeligj12 
 com_id: 106222238122135384
-
 --- 
-
 # Trying apps built  MauiKit
 
 So, I was watching Distrotube's [latest video](https://youtu.be/LRqCe61yU30),

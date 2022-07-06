@@ -2,7 +2,7 @@
 title: Listening Podcasts on Antennapod
 header: Listening Podcasts on Antennapod
 date: "2021-02-17 13:09:00 -0600"
-tags: android foss podcasts
+tags: android foss podcasts apps
 description: "My favorite podcast app, open source and customizable"
 permalink: /blog/antenna-podcasts/
 layout: post
