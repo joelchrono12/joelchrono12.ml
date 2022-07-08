@@ -2,7 +2,7 @@
 title: Putting a price to my work
 header: Putting a price to my work
 description: Graphic design quickly became a great hobby for me since I started contributing to Arcticons, and I have been able to contribute to other projects too, but it still feels wrong when I make money out of it 
-tags: design foss personal ramble
+tags: design foss personal ramble thoughts
 permalink: /blog/putting-a-price-to-my-work/
 layout: post
 date: 2022-07-08 16:48:17 -0500
@@ -13,7 +13,7 @@ com_id: 108614164053305932
 
 I have to say, I don't know how this didn't cross my mind when I talked about [my opinion on Impostor Syndrome](/blog/on-feeling-like-an-impostor/), since when it comes to Graphic Design, I do have quite a lot of mixed feelings.
 
-It's so weird. How can I dare to design 400+ icons for free for Arcticons, and then ask for a commission after doing a profile pic that might as well be another icon? How did it cross my mind to give a free icon to some random indie dev making an app that isn't even FOSS, and then request money from open source projects that just need some graphics for a website.
+It's so weird. How can I dare to design 400+ icons for free for Arcticons, and then ask for a commission after doing a profile pic that might as well be another icon? How did it cross my mind to give a free icon to an indie dev making an app that isn't even FOSS but I liked a lot, and then request money from open source projects that just need some graphics for a website.
 
 I feel like a hypocrite.
 
