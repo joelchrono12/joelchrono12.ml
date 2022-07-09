@@ -13,7 +13,7 @@ com_id: 108614164053305932
 
 I have to say, I don't know how this didn't cross my mind when I talked about [my opinion on Impostor Syndrome](/blog/on-feeling-like-an-impostor/), since when it comes to Graphic Design, I do have quite a lot of mixed feelings.
 
-It's so weird. How can I dare to design 400+ icons for free for Arcticons, and then ask for a commission after doing a profile pic that might as well be another icon? How did it cross my mind to give a free icon to an indie dev making an app that isn't even FOSS but I liked a lot, and then request money from open source projects that just need some graphics for a website.
+It's so weird. How can I dare to design 400+ icons for free for Arcticons, and then ask for a commission after doing a profile pic that might as well be another icon? How did it cross my mind to give a free icon to an indie dev making an app that isn't even FOSS but I liked a lot, and then request money from open source projects that just need some graphics for a website?
 
 I feel like a hypocrite.
 
