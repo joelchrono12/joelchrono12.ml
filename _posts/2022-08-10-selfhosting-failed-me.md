@@ -2,7 +2,7 @@
 title: Selfhosting failed me
 header: Selfhosting failed me
 description: This was pretty much my fault, but let it be a tale about how not being cautious about backups could be terrible if you are careless like me
-tags: storytime ramble
+tags: storytime ramble selfhost webdev raspberry
 permalink: /blog/selfhosting-failed-me/
 layout: post
 date: 2022-08-10 12:23:50 -0500
