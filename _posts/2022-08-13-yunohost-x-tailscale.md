@@ -17,12 +17,12 @@ Its more bloated than DietPi, but it works, and it provides a lot more applicati
 
 The only problem is that it was asking me for a domain from the start. Since I already have a domain I just used it, but it provided me with self-signed certificates. This was fine, I could trust them, but I wanted to get my own certificates going.
 
-I use Porkbun as a domain provider, it works great and has its own certificates, which I can use no problem. You can get your ssl certificate from a link like this, once you log-in: `https://porkbun.com/account/ssl/yourdomain.com`
+I use Porkbun as a domain provider, it works great and has its own certificates, which I can use no problem. You can get your ssl certificate from a link like this, once you log in: `https://porkbun.com/account/ssl/yourdomain.com`
 
-I pretty much followed [this guide to use custom certificates](https://yunohost.org/en/certificate_custom), except that most of it explains how to turn the files to the `.pem` format which is already provided by Porkbun, so I don't have to fiddle too much with the `openssl` and `wget` commands used in the guide, I simply used scp and renamed them to be how Yunohost expects them.
+I pretty much followed [this guide to use custom certificates](https://yunohost.org/en/certificate_custom), except that most of it explains how to turn the files to the `.pem` format which is already provided by Porkbun, so I don't have to fiddle too much with the `openssl` and `wget` commands used in the guide, I simply used `scp` and renamed them to be how Yunohost expects them.
 
 Porkbun provides these certificates but they expire in 3 months, but since I am the only one using my stuff, I just download them again from them if I need.
 
 One thing I really liked here is the Single Sign-On feature, so I use a single login screen and gain access to all the services I need, its just great.
 
-Oh, I almost forgot, Tailscale can't be installed from the web interface, but you I can ssh into my pi and its pretty much vanilla Debian 11. The installation was as simple as it gets, and now I can access my stuff from outside my local network!
+Oh, I almost forgot, Tailscale can't be installed from the web interface, but I can ssh into my pi and, since the distro its pretty much vanilla Debian 11, the installation is as simple as it gets, so accessing my stuff from outside my local network is now possible.
