@@ -11,7 +11,7 @@ username: joel
 com_id: 108889854813355502
 ---
 
-So there was a post I read on my RSS feed, by fellow fosstodon user, [Nathan Byers](https://fosstodon.org/@nathandyer), about [what you actually need to build a local music collection](https://nathandyer.me/2022/06/13/music-library.html). I found it quite a nice read, and it made me think about my current setup, using Navidrome (previously Jellyfin, but since I moved to Yunohost I still haven't done it) to stream music to my device.
+So there was a post I read on my RSS feed, by fellow fosstodon user, [Nathan Dyer](https://fosstodon.org/@nathandyer), about [what you actually need to build a local music collection](https://nathandyer.me/2022/06/13/music-library.html). I found it quite a nice read, and it made me think about my current setup, using Navidrome (previously Jellyfin, but since I moved to Yunohost I still haven't done it) to stream music to my device.
 
 Then I realized something that was quite revealing.
 
