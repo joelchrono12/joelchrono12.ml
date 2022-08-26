@@ -2,7 +2,7 @@
 title: How to stream music to Android with MPD 
 header: How to stream music to Android with MPD 
 description: A quick and dirty guide on how to do music streaming from your desktop (or any device with a music folder) to Android with MPD 
-tags: linux tutorial foss android 
+tags: linux tutorial foss android music
 permalink: /blog/mpd-android-streaming/ 
 layout: post 
 date: "2021-04-09 19:46:47 -0500" 
