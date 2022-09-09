@@ -2,7 +2,7 @@
 title: August 2022 Summary
 header: August 2022 Summary
 description: After going back to school, I did reduce my media consumption just a little bit. Here's how August went.
-tags: monthly music podcast manga
+tags: monthly music podcasts manga
 permalink: /blog/august-2022-summary/
 layout: post
 date: 2022-09-01 06:49:01 -0500

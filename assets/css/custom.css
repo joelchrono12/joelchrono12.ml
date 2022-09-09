@@ -9,27 +9,45 @@
     /* Line height is set to the "Golden ratio" for optimal legibility */
     --line-height: 1.618;
     /*This is my dark themed color scheme*/
-    --bg: #FFFFFF;
-    --accent-bg: #F2F4F8;
-    --text: #4c566a;
-    --text-light: #4c566a;
-    --border: #3b4252;
-    --accent: #5e81ac;
-    --accent-light: #5e81ac;
-    --code: #2e3440;
-    --code-bg: #e5e9f0;
+    /*--bg: #FFFFFF;*/
+    /*--accent-bg: #F2F4F8;*/
+    /*--text: #4c566a;*/
+    /*--text-light: #4c566a;*/
+    /*--border: #3b4252;*/
+    /*--accent: #5e81ac;*/
+    /*--accent-light: #5e81ac;*/
+    /*--code: #2e3440;*/
+    /*--code-bg: #e5e9f0;*/
+    --bg: #32344a;
+    --accent-bg: #f7768e;
+    --text:#9ece6a;
+    --text-light: #e0af68;
+    --border:   #7aa2f7;
+    --accent:#ad8ee6;
+    --accent-light: #449dab;
+    --code:#787c99;
+
 }
 @media (prefers-color-scheme:dark) {
     :root {
-        --bg: #242933;
-        --accent-bg: #3b4252;
-        --text: #eceff4;
-        --text-light: #d8dee9;
-        --border: #88c0d0;
-        --accent: #a3be8c;
-        --accent-light: #bf616a;
-        --code: #ebcb8b;
+        /*--bg: #242933;*/
+        /*--accent-bg: #3b4252;*/
+        /*--text: #eceff4;*/
+        /*--text-light: #d8dee9;*/
+        /*--border: #88c0d0;*/
+        /*--accent: #a3be8c;*/
+        /*--accent-light: #bf616a;*/
+        /*--code: #ebcb8b;*/
         --code-bg: #2e3440;
+        --bg: #1a1b26;
+        --accent-bg: #32344a;
+        --text:#a9b1d6;
+        --text-light: #e0af68;
+        --border:   #7aa2f7;
+        --accent:#9ece6a;
+        --accent-light: #449dab;
+        --code:#787c99;
+        --code-bg: #32344a;
     }
 }
 
