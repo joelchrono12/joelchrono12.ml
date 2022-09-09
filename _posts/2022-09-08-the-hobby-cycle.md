@@ -8,7 +8,7 @@ layout: post
 date: 2022-09-09 15:15:00 -0500
 host: fosstodon.org
 username: joel
-com_id: 108970298650468531
+com_id: 108970300866371744
 ---
 
 I've always been a very active person, I can't be quiet for more than a few minutes, unless I find myself in an ideal environment.
