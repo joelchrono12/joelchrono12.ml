@@ -17,11 +17,11 @@ It all started with just basic fidgeting of pencils, rubberbands or paper. As a 
 
 I was going to talk about the story of how I learned each of my hobbies and stuff, but honestly each of them could be a whole article by themselves. So I will just mention this fun fact about me which you may already understand with the title.
 
-Each year, or perhaps even every season, I tend to rediscover a hobby once more, be it magic, origami, retrogaming, speedcubing and even some subsets of them too. You may remember a time where I kepts spamming pictures of origami, and even added a new section for it on my website. Well, as you can see by now, I've not really updated that bit with new folded models. Right now I got into playing on my PSP again, specifically Monster Hunter Portable 3rd. So I am not really back into gaming, I am more into a specific game.
+Each year, or perhaps even every season, I tend to rediscover a hobby once more, be it magic, origami, retrogaming, speedcubing and even some subsets of them too. You may remember a time where I kept spamming pictures of origami in my social media feed, and even added a new section for it on my website. Well, as you can see by now, I've not really uploaded any new pictures of new models. Right now I got into playing on my PSP again, specifically Monster Hunter Portable 3rd. So I am not really back into gaming, I am more into a specific game.
 
 I also brought my deck of cards with me yesterday for a bit to see if it sticks again. But I realized I can't really force that stuff. Eventually I'll come across some interesting video or news that pulls me back into that hobby.
 
-I kinda feel like this semester has been kinda wild, I said to myself that I need to have the best grades of my whole career, and its almost as if my brains translated that as "try to go back into as many hobbies as you can and try to keep up with school too".
+I kinda feel like this semester has been kinda wild, I said to myself that I need to have the best grades of my whole career, and its almost as if my brain translated that as "try to go back into as many hobbies as you can and try to keep up with school too".
 
 So yeah, this usually happens naturally as I consume content or meet new people who happen to be into the same thing. I expect game development to make a comeback one of these days, but I still don't know how to predict whats coming next.
 
