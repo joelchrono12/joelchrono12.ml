@@ -1,7 +1,7 @@
 ---
 title: Starting a trend by accident
 header: Starting a trend by accident
-description: I just shared a picture of my watch I had, from there Casio showed up, and now a small trend started on Fosstodon for some reason. It now out of my control but I am here for it...
+description: I just shared a picture of my watch, from there Casio showed up, and now a small trend started on Fosstodon for some reason. It's now out of my control but I am here for it...
 tags: community personal fediverse ramble
 permalink: /blog/starting-a-trend-by-accident/
 layout: post
