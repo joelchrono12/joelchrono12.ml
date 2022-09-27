@@ -2,13 +2,13 @@
 title: Starting a trend by accident
 header: Starting a trend by accident
 description: I just shared a picture of my watch I had, from there Casio showed up, and now a small trend started on Fosstodon for some reason. It now out of my control but I am here for it...
-tags: mastodon linux
+tags: community personal fediverse ramble
 permalink: /blog/starting-a-trend-by-accident/
 layout: post
 date: 2022-09-27 11:43:08 -0500
 host: fosstodon.org
 username: joel
-com_id: 109071517080463111
+com_id: 109071525660103606
 ---
 
 I really love the way trends can take shape when it comes to Mastodon. There is no algorithm that shapes your view of a topic, and the local timeline is quite a lively community, at least on Fosstodon and similar places.
