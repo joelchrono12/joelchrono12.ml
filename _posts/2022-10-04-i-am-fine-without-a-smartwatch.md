@@ -9,6 +9,7 @@ date: 2022-10-04 11:24:26 -0500
 host: fosstodon.org
 username: joel
 com_id: 
+image: "assets/img/blogs/2022-10-04-casiof91w.jpg"
 ---
 
 I already mentioned how a small trend got started on Fosstodon regarding Casio watches and such. But today's story starts weeks earlier before all this mess.
@@ -34,3 +35,5 @@ So, currently, I have 2 casios, 2 analog watches and a Mi Band 7, I gave my prev
 I've also gotten a bit more conscious about my clothing and looks. I don't really care about current fashion trends and stuff, but I've been trying to look a bit more presentable and I've even let my sisters pick some outfits for me and stuff like that. I guess I care a bit more about the impression I give to people, I am growing a beard too, which is going quite well, if I do say so myself.
 
 The plan I have for now is to wear whatever watch I want (I am rocking my F-91W while typing all this), have my smartband with me to keep track of steps, wear it at night to keep track of sleep, rinse and repeat. I really don't feel the need to have constant heart tracking and stuff. If I excercise, I can just wear it during those moments. I haven't really been able to excercise constantly, I want to do it but I just don't give myself the time for it, I still have to work a bit more to get my life in order.
+
+{% include img.html alt="The Casio F-91W I bought" image="/assets/img/blogs/2022-10-04-casiof91w.jpg" caption='My Casio F-91W looking fine on my wrist.' %}
