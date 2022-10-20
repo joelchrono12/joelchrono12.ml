@@ -8,7 +8,7 @@ layout: post
 date: 2022-10-18 13:37:42 -0500
 host: fosstodon.org
 username: joel
-com_id: 109198135893834842
+com_id: 109198161700340744 
 image: "assets/img/blogs/2022-10-19-edc.jpg"
 ---
 
