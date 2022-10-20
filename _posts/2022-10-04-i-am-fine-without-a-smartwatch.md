@@ -8,7 +8,7 @@ layout: post
 date: 2022-10-04 11:24:26 -0500
 host: fosstodon.org
 username: joel
-com_id: 
+com_id: 109111276028507717
 image: "assets/img/blogs/2022-10-04-casiof91w.jpg"
 ---
 
