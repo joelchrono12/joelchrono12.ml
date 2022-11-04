@@ -5,10 +5,10 @@ description: What I did this month, sorry for the delay!
 tags: monthly movies manga podcasts
 permalink: /blog/october-2022-summary/
 layout: post
-date: 2022-11-04 08:06:46 -0500
+date: 2022-11-01 08:06:46 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109286263340371768
 ---
 
 Not a lot of free time this time. So this is it for now.
