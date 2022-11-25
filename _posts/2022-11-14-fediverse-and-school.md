@@ -70,3 +70,4 @@ I decided to log in to my Google Account since I wanted to access some paid apps
 I am now waiting for Android 13 roms to become more stable, so I can degoogle my life again. Or maybe not, notifications are quite nice to be honest.
 
 
+{% include reply.html %}

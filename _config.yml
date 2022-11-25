@@ -9,6 +9,7 @@ plugins:
 # SEO Stuff
 title: "Joelchrono12"
 author: "joelchrono12"
+email: "joel.chrono@disroot.org"
 url: "https://joelchrono12.xyz"
 baseurl: ""
 #include: [".well-known"]
