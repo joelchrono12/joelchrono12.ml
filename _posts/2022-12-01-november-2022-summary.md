@@ -35,9 +35,15 @@ I am up to date with season 3 of __Mob Psycho 100__. It is absolutely fantastic 
 
 I had abandoned __My Dress Up Darling__ for a while but I watched two episodes of it, only the ending left.
 
+# Books
+
+I want to at least read 12 books by the end of the year, I had a goal but 30 but there's no way.
+
+I am reading __Denouement__ by HexDSL, a YouTuber I quite enjoy that used to do Linux on his channel, although he does whatever he likes and I respect that. He started writing a while ago and I kinda like this SF novel of his, very cool so far I am already at 58%, follow my progress on by following me on [BookWyrm](https://bookrastinating.com/@joel)
+
 # Manga
 
-I've mostly stuck with what I already love. Because of the World Cup I catched up on a dozen or so chapters of __BlueLock__.
+I've mostly stuck with what I already love. Because of the World Cup I catched up on a dozen or so chapters of __Blue Lock__.
 
 __Komi Can't Communicate__ is getting quite fun with bringing back a certain character with quite a fun plot.
 
