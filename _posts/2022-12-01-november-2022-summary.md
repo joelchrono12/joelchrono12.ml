@@ -37,7 +37,7 @@ I had abandoned __My Dress Up Darling__ for a while but I watched two episodes o
 
 # Books
 
-I want to at least read 12 books by the end of the year, I had a goal but 30 but there's no way.
+I want to at least read 12 books by the end of the year, I had a goal of 30 but there's no way.
 
 I am reading __Denouement__ by HexDSL, a YouTuber I quite enjoy that used to do Linux on his channel, although he does whatever he likes and I respect that. He started writing a while ago and I kinda like this SF novel of his, very cool so far, I am already at 58%. You can [follow me on BookWyrm](https://bookrastinating.com/@joel) if you want to see if I can fulfill my goal!
 
