@@ -63,7 +63,7 @@ Fuzzy Control was not the subject I thought would become my favorite of the seme
 
 He did a full proper course, some days it was theory, others we only solved problems. Every exam was good and had a good difficulty level, the options he gave for extra points were also quite reasonable. I participated in the Science Fair because he encouraged us to try it. 
 
-Because of that I managed to get 30 extra points over my final score. This made it so I didn't really need to do homework at all, which was great because the only thing I hated about the class was the very repetitive problems we had to solve, even if they were kinda relaxing, since it was just developing simple calculations.
+Because of that I managed to get 30 extra points on top of my final score. This made it so I didn't really need to do homework at all, which was great because the only thing I hated about the class was the very repetitive problems we had to solve, even if they were kinda relaxing, since it was just developing simple calculations.
 
 By the end I actually got a score of 94+30, because I did great in my exams, I could have skipped doing the science fair project and gotten a good score anyway, that's how much I loved this class, very interesting stuff.
 
