@@ -37,7 +37,7 @@ I think what saved me the most was the lack of exams and that I had taken notes 
 
 # 😴 The boring classes
 
-My Digital Signal Processing teacher was incredibly chill, and a little too relaxed. Sadly this meant his teaching was also incredibly boring. There were times where he wrote down a problem to solve, spent the whole class developing it and slowly but surely, he told us "this result is not what I had in my notebook, I am not sure why I got it wrong, let's leave it for next time".
+My Digital Signal Processing teacher was incredibly chill, and a little too relaxed. Sadly this meant his teaching was also incredibly boring. There were times where he wrote down a problem to solve, spent the whole class developing it and slowly but surely, he told us "this result is not what I had in my notebook, I am not sure why I got it wrong, let's leave it for next time."
 
 This happened multiple times, and every time there were new concepts he introduced and only managed to confuse me more. The homework was easy enough, and he didn't really care about exams much. The couple times he gave one he just arrived to the classroom, said: "so here are the problems, send me your solutions by the end of the day" and just *left us there.* I am sure I don't need to explain why everyone got good grades on this one, I got a 100.
 
