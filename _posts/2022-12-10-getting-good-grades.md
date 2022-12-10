@@ -88,4 +88,4 @@ I think I will still consider making a thesis but I am not sold on it yet, even 
 
 Anyways, until my next post. Or you know, follow me on social media if you want more of me.
 
-{{ include reply.html }}
+{% include reply.html %}

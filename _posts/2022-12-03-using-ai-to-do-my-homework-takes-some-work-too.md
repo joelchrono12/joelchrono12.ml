@@ -45,3 +45,5 @@ Guys, **this is insane**. I actually did all of the things I mentioned and now I
 How cool is this? How freaky? This is a game changer. Seriously. I am so scared and so excited to play around with this thing. I wonder how many people noticed the weird writing style. Funnily enough I was able to tell the assistant to reword some things and avoid mentioning other bits. It had a weird obsesion with mentioning how my professor was impressed even though I haven't even shown him this code yet.
 
 Anyway, I am so impressed and I will be back sometime soon. I will fully write the next post myself though, *trust me*.
+
+{% include reply.html %}
