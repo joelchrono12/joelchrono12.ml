@@ -8,7 +8,7 @@ layout: post
 date: 2022-12-20 21:49:17 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109549906419786932
 ---
 
 So, a friend of mine wanted me to install an office program on an old netbook he was planning to give away to someone else.
