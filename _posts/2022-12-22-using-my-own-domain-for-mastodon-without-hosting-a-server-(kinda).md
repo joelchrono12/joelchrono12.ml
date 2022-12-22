@@ -8,7 +8,7 @@ layout: post
 date: 2022-12-22 17:17:49 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109559951580325890
 ---
 
 This whole tutorial is based on [another blog by Scott Hanselman](https://www.hanselman.com/blog/use-your-own-user-domain-for-mastodon-discoverability-with-the-webfinger-protocol-without-hosting-a-server/), he also links to a bunch of other resources that I don't really need to repeat here..
@@ -17,7 +17,7 @@ Basically, what I mean with this title is that you will be able to look me up as
 
 This quick tutorial is focused on Jekyll, but you should be able to figure it out using this [guide too](https://guide.toot.as/guide/use-your-own-domain/#5-static-files).
 
-Pretty much paste this into the root of your website and call it a day. Mastodon will do the rest.
+Pretty much paste this into a file in the root of your website and call it a day. Mastodon will do the rest.
 
 ```json
 ---
