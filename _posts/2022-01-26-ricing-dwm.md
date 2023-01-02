@@ -2,7 +2,7 @@
 title: Ricing dwm
 header: Ricing DWM
 description: "I enjoy tiling window managers, and I've used DWM in the past, but after a few weeks on XFCE, I decided to go back to basics"
-tags: suckless ricing linux foss config
+tags: ricing linux foss dotfiles
 permalink: /blog/ricing-dwm-2022/
 layout: post
 date: 2022-01-26 12:09:03 -0600

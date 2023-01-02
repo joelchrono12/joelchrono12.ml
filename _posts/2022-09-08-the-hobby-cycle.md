@@ -2,7 +2,7 @@
 title: The Hobby Cycle
 header: The Hobby Cycle
 description: There is a bit of a thing with me that has evolved as times goes on. I love learning new hobbies, but I also can't avoid rediscovering my love for old ones, but lately its been a little crazy and it looks like each day I am doing something different.
-tags: linux cubing origami webdev gaming
+tags: linux hobbies webdev gaming
 permalink: /blog/the-hobby-cycle/
 layout: post
 date: 2022-09-09 15:15:00 -0500

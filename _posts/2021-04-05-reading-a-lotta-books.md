@@ -2,7 +2,7 @@
 title: Reading books once again 
 header: Reading books once again 
 description: I have been trapped into a new book series and I have never read so much in years. My favorite genre and some related thoughts 
-tags: reading lifestyle thoughts ramble 
+tags: hobbies reading lifestyle thoughts ramble 
 permalink: /blog/reading-a-lotta-books/ 
 layout: post 
 com_id: 106018619139281939

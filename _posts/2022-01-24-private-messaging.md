@@ -2,7 +2,7 @@
 title: Private messaging
 header: Private messaging
 description: A quick overview into some of the ways I've used to communicate with family, friends and the internet in a secure and private way
-tags: android communication internet privacy security foss
+tags: android internet privacy security foss
 permalink: /blog/private-messaging/
 layout: post
 date: 2022-01-24 18:05:32 -0600
