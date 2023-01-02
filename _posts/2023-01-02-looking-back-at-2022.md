@@ -8,7 +8,7 @@ layout: post
 date: 2023-01-02 16:43:19 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109622231632622902
 ---
 
 I did a lot of stuff last year. Its actually kinda insane, so this will be just a list of bullet points to keep it short, I'll see if I can do a top 50 like [@hyde](https://lazybear.social/@hyde)
