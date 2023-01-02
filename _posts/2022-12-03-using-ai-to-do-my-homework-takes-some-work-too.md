@@ -2,7 +2,7 @@
 title: Using AI to do my homework
 title: Using AI to do my homework
 description: So, OpenAI ChatGPT is a beast, it really is. This is the process I used to make my homework with it!
-tags: coding school
+tags: coding school productivity
 permalink: /blog/using-ai-to-do-my-homework/
 layout: post
 date: 2022-12-03 21:17:06 -0500

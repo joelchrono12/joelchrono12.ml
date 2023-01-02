@@ -15,7 +15,7 @@ layout: default
 {% endfor %} 
 </div>
 <p style="text-align: right" ><a href="/blog">View full archive</a></p>
-<hr>
+<!--<hr>-->
 
 # Support me
 
@@ -38,11 +38,4 @@ If you want to, I guess Bitcoin is fine too:
 bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
 </pre>
 </details>
-***
 
-# Tag cloud
-<center>
-{% for tag in site.tags %}
-<a href="/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.2;font-size: {{ tag[1] | size | times: 1.4 | plus: 12 }}px;">{{ tag[0] }}</a> 
-{% endfor %}
-</center>

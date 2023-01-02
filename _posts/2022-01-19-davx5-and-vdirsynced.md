@@ -2,7 +2,7 @@
 title: DAVx5 and vdirsynced
 header: DAVx5 and vdirsynced
 description: I have been using Nextcloud to manage contacts and calendar events, but I wanted to talk about what I do to access them both in my laptop and android devices
-tags: sync foss email linux android unix
+tags: foss email linux android unix selfhost
 permalink: /blog/davx5-and-vdirsynced/
 layout: post
 date: 2022-01-19 11:00:04 -0600

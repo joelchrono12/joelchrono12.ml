@@ -2,7 +2,7 @@
 title: My Every Day Carry because why not
 header: My Every Day Carry because why not
 description: As a student I get quite interested in EDC videos and similar content quite often, but they often tend to have pretty expensive stuff. So I wanted to share what I carry with me in a more realistic and pragmatic manner. 
-tags: personal lifestyle
+tags: personal lifestyle productivity
 permalink: /blog/every-day-carry-because-why-not/
 layout: post
 date: 2022-10-18 13:37:42 -0500

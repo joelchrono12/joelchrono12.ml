@@ -15,6 +15,13 @@ layout: default
 * Do not remove this line (it will not be displayed)
 {:toc}
 
+## Tag cloud
+<center>
+{% for tag in site.tags %}
+<a href="/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.1;font-size: {{ tag[1] | size | times: 1.3 | plus: 12 }}px;">{{ tag[0] }}</a> 
+{% endfor %}
+</center>
+
 ## By alphabetical order
 
 <div class="posts">

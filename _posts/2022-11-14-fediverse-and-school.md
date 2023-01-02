@@ -2,7 +2,7 @@
 title: The Fediverse and school stuff
 header: The Fediverse and school stuff
 description: These last few weeks a lot of things have happened. The Fediverse is growing, I did a Science Fair project, the last days of school are ending and I have some free time to mess up my phone.
-tags: storytime blog school android fediverse internet
+tags: storytime blog school android fediverse internet productivity
 permalink: /blog/fediverse-and-school/
 layout: post
 date: 2022-11-14 15:49:44 -0500

@@ -2,7 +2,7 @@
 title: Not doing a thing
 header: Not doing a thing
 description: A poem after a long day of failing to do anything useful.
-tags: poetry
+tags: writing
 permalink: /blog/not-doing-a-thing/
 layout: post
 date: 2022-11-24 19:36:43 -0500
