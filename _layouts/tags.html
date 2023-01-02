@@ -3,7 +3,7 @@ layout: default
 ---
 {% for tag in site.tags%}
 	{% if page.tag-name == tag[0] %}
-	<h1>Tagged articles: {{ page.tag-name }} ({{ tag[1].size }})</h1>
+	<h1>Tagged articles: {{ page.tag-name }} ({{ tag[1].size }}) <a href="/feeds/{{ page.tag-name }}.xml/">RSS</a></h1>
 	{% endif %}
 {% endfor %}
 
@@ -11,7 +11,7 @@ layout: default
 <div class="posts">  
 {% for post in site.posts %}
 	{% if post.tags contains page.tag-name %}
-	<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
+	<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d %Y" }}</span></a>
 	{% endif %}
 {% endfor %}
 </div>

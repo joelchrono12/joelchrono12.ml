@@ -2,7 +2,7 @@
 title: I went for a run today
 header: I went for a run today
 description: Today I woke up early and decided to go running and test out GadgetBridge + FitoTrack
-tags: android fitness thoughts foss
+tags: android hobbies thoughts foss
 permalink: /blog/i-went-for-a-run-today/
 layout: post
 date: 2021-12-30 09:14:02 -0500
