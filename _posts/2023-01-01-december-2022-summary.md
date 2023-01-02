@@ -24,7 +24,7 @@ This one will be short, I'll share some more thoughts in another blogpost regard
 
 - Avatar: The Way Of Water: Its quite a visual spectacle, I liked it quite a bit, feels more like a setup than a fully fledged movie, I think its worth watching though, the world in it feels truly alive and well thought-out.
 - Guillermo del Toro's Pinocchio: A masterclass of animation and a wonderful re-imagination beyond the classical Disney version, and the original story. I loved it so much.
-- Start-Up: This is a korean series, quite a good one too. Its about many people who are trying to start a new businees and such, it has a lot of drama as it usually goes with these kinda shows.
+- Start-Up: This is a korean series, quite a good one too. Its about many people who are trying to start a new business and such, it has a lot of drama, love triangle and such, as it usually goes with these kinda shows. I watch it with my family, so it is what it is.
 
 # Books
 
