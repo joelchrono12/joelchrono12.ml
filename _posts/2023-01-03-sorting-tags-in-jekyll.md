@@ -8,7 +8,7 @@ layout: post
 date: 2023-01-03 17:31:39 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109628565442603434
 ---
 
 So tags are quite a useful feature to loosely categorize a posts in my blog. I've been using them for quite a while, but I never really liked the way they were shown in my website.
@@ -61,7 +61,7 @@ This one was a little trickier, but still quite simple to do.
 
 # Finishing up
 
-So, that's it. Did you expect me to explain it? This is not original material, I understand the first one maybe but idk what the `plus: 1000` does on the second snippet nor anything in that line. Regardless, it works just fine for me to be honest and mayhaps it could work for you.
+So, that's it. Did you expect me to explain it? This is not original material, I understand the first one maybe but I do not know what the `plus: 1000` does on the second snippet nor anything in that line. Regardless, it works just fine for me to be honest and perhaps it could work for you.
 
 I still find Jekyll to be quite enjoyable, it seems to me like most blogs nowadays are either Hugo or plain old WordPress. Maybe its just my own bias and its nothing like that.
 
