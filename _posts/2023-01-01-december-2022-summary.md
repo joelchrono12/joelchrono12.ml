@@ -75,3 +75,5 @@ My computer was on for 144 hours.
 # Wrapping up
 
 I would love to do a better summary for the whole of 2022, so I'll work on that for tomorrow if possible. Have a Happy New Year people!
+
+Also, this is day 1 of my second run of [#100DaysToOffload](https://100daystooffload.com).

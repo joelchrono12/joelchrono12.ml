@@ -69,3 +69,4 @@ To end this post I share some other things that happened this year. Until later!
 - Found and organized some old photos.
 - It was a nice year alright
 
+This is day 2 of my second run of [#100DaysToOffload](https://100daystooffload.com).
