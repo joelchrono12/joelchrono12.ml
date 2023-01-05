@@ -6,9 +6,9 @@ tags: blog tutorial coding bash linux git webdev blog
 permalink: /blog/sharing-my-blogs-to-the-fediverse-automatically/
 layout: post
 date: 2022-06-10 20:00:34 -0500
-host: benign.town
+host: fosstodon.org
 username: joel
-com_id: 108456248971546724
+com_id: 109634220509864173
 ---
 
 There are many problems that come when you don't use some CMS like Wordpress or Ghost, and this is one of them. When I [chose Mastodon as commenting system for my blog]({{ site.url }}/blog/how-to-add-mastodon-comments-to-jekyll-blog/) I realized it would be quite a process to share my post and get the comment section working. I had already [automated the blog creation process]({{ site.url }}/blog/rofi-automated-blog/), but I still had to do all this:
