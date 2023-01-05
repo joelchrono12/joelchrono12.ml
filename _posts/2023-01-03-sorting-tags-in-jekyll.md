@@ -11,7 +11,7 @@ username: joel
 com_id: 109628565442603434
 ---
 
-So tags are quite a useful feature to loosely categorize a posts in my blog. I've been using them for quite a while, but I never really liked the way they were shown in my website.
+So tags are quite a useful feature to loosely categorize posts in my blog. I've been using them for quite a while, but I never really liked the way they were shown in my website.
 
 I had been showcasing a *tag cloud* in my home page for quite a while, I don't know how many actually used it at all (let me know if you did please, I wanna know), but I decided to move it to my [tags](/tags) section, which has been there for a while. However, I also decided to try and sort them in a better way.
 

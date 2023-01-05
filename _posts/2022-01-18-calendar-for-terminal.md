@@ -2,7 +2,7 @@
 title: Calendar for terminal
 header: Calendar for terminal
 description: I spent a little bit too much time reading about terminal tools in my RSS reader, so I guess the calendar was next
-tags: terminal linux productivity short
+tags: linux productivity short
 permalink: /blog/calendar-for-terminal/
 layout: post
 date: 2022-01-18 11:35:00 -0600

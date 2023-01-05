@@ -3,7 +3,8 @@ title: February 2022 Summary
 header: February 2022 Summary
 description: An overview of what I did when it comes to consuming media and spending my free time during February 2022. 
 tags: anime manga lifestyle movies review monthly
-permalink: /blog/february-2022/
+permalink: /blog/february-2022-summary/
+redirect_from: /blog/february-2022/
 layout: post
 date: 2022-03-02 09:35:44 -0600
 host: fosstodon.org
