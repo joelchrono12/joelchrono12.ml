@@ -8,7 +8,7 @@ layout: post
 date: 2023-01-04 18:49:52 -0500
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109634200135847060
 ---
 
 Ricing my linux desktop, especially when you are a window manager user, is kind of the norm. This usually starts with choosing a theme for the terminal colors, which are usually also used when coding. [Nord](https://nordtheme.com) was always my go-to ever since I found it around two years ago. In fact, funnily enough, I had been using it for a while and its showcased in some screenshots from my 4th post of the first time doing [#100DaysToOffload](https://100daystooffload.com) (or blogging at all, to be fair), where I shared [my spectrwm ricing]({{ site.url }}/blog/spectrwm-setup).
