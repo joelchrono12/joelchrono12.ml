@@ -2,7 +2,7 @@
 title: FOSS Android apps I like
 header: FOSS Android apps I like
 description: We all know Newpipe and AntennaPod and Bromite, but sometimes, some apps don't get to shine as much, so I wanted to share a couple that I think deserve some love too
-tags: android foss review apps
+tags: android foss review
 permalink: /blog/foss-android-apps-i-like/
 layout: post
 date: 2022-07-05 15:59:50 -0500

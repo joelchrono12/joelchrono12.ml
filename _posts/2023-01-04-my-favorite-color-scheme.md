@@ -2,7 +2,7 @@
 title: My favorite color scheme
 header: My favorite color scheme
 description: For the longest time, Nord has been my favorite, but a few months ago I switched to something else. Tokyo Night is my new favorite!
-tags: ricing linux
+tags: ricing linux blog
 permalink: /blog/my-favorite-color-scheme/
 layout: post
 date: 2023-01-04 18:49:52 -0500

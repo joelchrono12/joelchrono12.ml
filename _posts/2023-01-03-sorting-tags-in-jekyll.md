@@ -2,7 +2,7 @@
 title: Sorting tags in Jekyll
 header: Sorting tags in Jekyll
 description: Jekyll allows you to make tags, which are quite useful. I've been working on reducing the amount of tags and changing the way I display them in my blog. So here's what's up
-tags: jekyll tutorial blog coding
+tags: jekyll tutorial blog coding webdev
 permalink: /blog/sorting-tags-in-jekyll/
 layout: post
 date: 2023-01-03 17:31:39 -0500

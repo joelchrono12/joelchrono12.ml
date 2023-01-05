@@ -2,7 +2,7 @@
 title: Apps I like
 header: Apps I like
 description: After updating to Android 12 I decided to cleanup some apps, and realized there are a few that have become quite important for me, here are some of them
-tags: android apps foss review
+tags: android foss review
 permalink: /blog/apps-i-like/
 layout: post
 date: 2022-01-23 21:49:54 -0600
