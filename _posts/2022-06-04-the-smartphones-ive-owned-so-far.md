@@ -99,3 +99,4 @@ There were other less important dumb phones I used too, but I didn't see the poi
 It has been fun to write all this, I was remembering stuff on the spot and many fun memories returned to me. It was quite a wordy post this time around, vacations seem to be going quite well.
 
 I hope more people try doing this, I got the idea from a post by [Ru](rusingh.com/), so maybe you'll be inspired too.
+{% include reply.html %}

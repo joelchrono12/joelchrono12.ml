@@ -22,3 +22,4 @@ Regardless, the point is, if you are following my RSS feed or something, please 
 At least my mirror [at my tilde community](https://chrono.tilde.cafe) will be fine :P
 
 This has been day 89 of [#100DaysToOffload](https://100daystooffload.com), thanks for reading.
+{% include reply.html %}

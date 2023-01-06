@@ -21,3 +21,4 @@ The only way to change the date format is by changing the System's region settin
 At a later point I realized that some of my apps were not working properly. Rofi would not launch with my shortcuts, Khard and Khal were showing errors. And it was due to these I realized that my locale settings were a mess. So basically my KDE settings broke my app launcher and email setup, which was pretty annoying.
 
 Of course, all I really had to do to fix this was export the locale environment variables in my .bash_profile file and call it a day. But how is it that simple things like that can still be so messy? The Linux Desktop experience still has a long way to go.
+{% include reply.html %}

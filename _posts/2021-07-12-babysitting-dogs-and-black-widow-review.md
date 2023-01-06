@@ -55,3 +55,4 @@ Although the overall package is kinda clumsy. Yeah I will give it a 6/10, would 
 It was a good bit of family time outside of our home. Also, its worth mentioning that, most of my "complaints" did not come up while watching the movie, I really don't mind to just enjoy the action and the popcorn most of the time, and I did so successfully in this case, which means the movie is pretty goot to me. Also, the tickets here cost the equivalent of 3 US dollars, so that's epic, I've heard that going to the movies in the US is quite expensive.
 
 Anyways, this has been day 49 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

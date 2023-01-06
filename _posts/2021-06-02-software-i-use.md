@@ -35,3 +35,4 @@ and I wanted to add some extra entries to  keep up with the
 rate I feel confident I will complete it in less than a year!.
 
 This has been day 40, almost halfway there! 
+{% include reply.html %}

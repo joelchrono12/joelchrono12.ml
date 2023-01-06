@@ -28,3 +28,4 @@ pinentry-program /usr/bin/pinentry-kwallet
 ```
 
 In my case I think I gave it permission to simply unlock after login, which is not ideal since I don't have to input my gpg password ever again. I should probably change that but I already invested quite a bit of time into fixing this little detail, we'll see.
+{% include reply.html %}

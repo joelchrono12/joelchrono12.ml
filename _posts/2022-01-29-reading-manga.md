@@ -44,3 +44,4 @@ Awesome art, a pretty cool story, if a bit random at times, nice characters and 
 I will probably mention some more mangas I've been reading or thinking about starting, but I have to be done for today since, well I want to keep reading some more. I am pretty hooked on Kingdom right now, so maybe later.
 
 This has been day 96 of [#100DaysToOffload](https://100daystooffload.com)
+{% include reply.html %}

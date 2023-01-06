@@ -26,3 +26,4 @@ Also, I have to work on a new way to finish each writing, I am not bad at conclu
 So, that's it for the moment, I hope you read me later!
 
 
+{% include reply.html %}

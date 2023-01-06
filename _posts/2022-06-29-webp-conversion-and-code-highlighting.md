@@ -51,3 +51,4 @@ pygmentize -S nord -f html -a .highlight
 You can pipe that into a CSS file, or paste it to your already existing file if you are lazy like me.
 
 I am so happy I took the time to do this since now my [coding]({{ site.url }}/tags/coding) blogs are going to look a lot better, which is awesome. Sadly I have to manually check which code snippets do not define which language is used, since those are not gonna get colored. That's a job for future me, I guess. If you check any post without syntax highlighting let me know by [contacting me!]({{ site.url }}/contact/)
+{% include reply.html %}

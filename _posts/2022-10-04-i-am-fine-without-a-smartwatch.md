@@ -37,3 +37,4 @@ I've also gotten a bit more conscious about my clothing and looks. I don't reall
 The plan I have for now is to wear whatever watch I want (I am rocking my F-91W while typing all this), have my smartband with me to keep track of steps, wear it at night to keep track of sleep, rinse and repeat. I really don't feel the need to have constant heart tracking and stuff. If I excercise, I can just wear it during those moments. I haven't really been able to excercise constantly, I want to do it but I just don't give myself the time for it, I still have to work a bit more to get my life in order.
 
 {% include img.html alt="The Casio F-91W I bought" image="/assets/img/blogs/2022-10-04-casiof91w.jpg" caption='My Casio F-91W looking fine on my wrist.' %}
+{% include reply.html %}

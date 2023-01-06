@@ -41,3 +41,4 @@ So, yeah, most of this adware is going to be allowed on the Play Store, and if a
 This is not the fault of those apps, of course, this happens because the Play Store is flawed by design. So yeah, unless that changes, I don't think that making such powerful apps FOSS will be a good thing, at least right now.
 
 This was day 16 of [#100DaystoOffload](https://100daystooffload.com).
+{% include reply.html %}

@@ -46,3 +46,4 @@ These are a few apps that are not really open source, but I am keeping for the s
 In my country, we will be back to University classes in a few days (Yes I have been on vacation up until now, kinda cool at first, but not really anymore, this blog is one of the few things keeping me sane). This means that I will have to use applications such as Google Classroom and Meet, and their Calendar too, but I am going to try and keep all of those Google programs away from my device, and in their own Firefox container (what a great add-on to be honest) from my laptop, since sadly they are unavoidable.
 
 So yeah!, this has been day 12 of [#100DaysToOffload](https://100daystooffload.com), please let me know if you are using any FOSS applications to stay away from Google and such, thanks for reading!
+{% include reply.html %}

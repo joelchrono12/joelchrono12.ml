@@ -67,3 +67,4 @@ Not every webiste will have the same styling as mine, so I don't think sharing e
 It is worth noting that if you are looking for a minimal website with minimal CSS, you could just add the `style` attribute to the code included in `navigation.html` which would make it so you dont need to configure a separate CSS file.
 
 This is day 42 of [#100DaystoOffload](https://100DaystoOffload.com)
+{% include reply.html %}

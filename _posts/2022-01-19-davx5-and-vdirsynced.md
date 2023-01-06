@@ -34,3 +34,4 @@ The UNIX philosophy is pretty interesting. Programs and tools dedicated to one t
 I am particularly amazed at how my contacts and calendars are now simply a set of files and folders in my Linux system, that can be integrated with these simple programs without too much trouble. I am really happy with how it works, no longer will I deal with random broken profiles and settings, *hopefully.* And its pretty easy to backup too!
 
 This has been day 88 of [#100DaysToOffload](https://100daystooffload.com)
+{% include reply.html %}

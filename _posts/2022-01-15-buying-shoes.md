@@ -32,3 +32,4 @@ Her and my mom went to another store, me and my dad waited outside for quite a w
 By the time we got there my sister didn't felt like buying those shoes anymore. We all walked for another while, but after 2 hours there, she did not get anything, and we had to return home.
 
 So, this was supposed to be short, but I guess I had a bit more to say than expected. This has been day 84 of [#100DaysToOffload](https://100daystooffload.com). Thanks for reading!
+{% include reply.html %}

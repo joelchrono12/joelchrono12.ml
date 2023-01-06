@@ -125,3 +125,4 @@ Remember all of the metadata is adapted to work with Jekyll, but it is easy to e
 Also, I am almost done with school, I did a couple more icons for the Arcticons icon pack, and I should be cleaning up my room today, I have visits soon and its quite a mess!
 
 This is day 47 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

@@ -59,3 +59,4 @@ YouTube is such an incredible tool, but it had turned into quite a problem for m
 I might still struggle to leave it behind, I know returning to its intended experience (minus the ads, clearly) is just a few clicks away for me, I could just keep using it as is, enjoy it, spend hours on it and tell nobody, but I really want to stop that.
 
 There are tons of Vanced users migrating to Newpipe and asking for ways to log in, leave comments and even get their recommendations tab back. I know I can't force anyone to stop depending on the algorithm, some might have legitimate reasons. But, regardless, this is what I chose to do, and I hope it helps others who are also struggling with this. Let us be the ones in control instead of delegating our consumption habits to some soulless algorithm.
+{% include reply.html %}

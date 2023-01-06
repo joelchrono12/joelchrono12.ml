@@ -67,3 +67,4 @@ I could explain these scripts but I was already unwilling to show them at all be
 
 This has been day 57 of [#100DaysToOffload](https://100DaysToOffload.com)
 
+{% include reply.html %}

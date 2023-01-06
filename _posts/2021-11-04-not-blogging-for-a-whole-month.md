@@ -27,3 +27,4 @@ This post is going to end up being quite short but I don't really have a lot of 
 Well that's a nice amount of lines I guess, this has been day 59 of [#100DaysToOffload](https://100DaysToOffload.com), I hope you enjoyed your read even if it is kind of pointless, I promise I'll make some worthy content soon enough!.
 
 
+{% include reply.html %}

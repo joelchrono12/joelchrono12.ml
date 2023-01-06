@@ -50,3 +50,4 @@ This meant that I would have to download it, and using the internet is not fun. 
 Now it was just a matter of installing the Nextcloud Desktop client and Tailscale on his computer, and he got a personal Nextcloud instance for himself and his family. I didn't have a chance to setup more devices though.
 
 This was quite a nice, challenging experience. I am glad it all worked out in the end and I felt pretty accomplished with what I did.
+{% include reply.html %}

@@ -35,3 +35,4 @@ During the time I've been part of the Linux and FOSS community, I have had the p
 I wonder if its possible to stick so close to someone purely based on online interactions, its already hard doing it in real life. I guess I should ask who is my friend in a Facebook post or something...
 
 Anyways, too much introspection for today. This has been day 99 of [#100DaysToOffload](https://100daystooffload.com), watch the video! It's really worth it.
+{% include reply.html %}

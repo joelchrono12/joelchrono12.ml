@@ -49,3 +49,4 @@ Among my favorite features is its 5 alarms that I've found more useful than I th
 In the end, the stuff I use is not really that special, but its the stuff I actually carry with me day to day. A lot of the little gadgets and things that those videos feature aren't really something I care about, like key holders or knives. If you like camping or handy work, or you have many keys I guess they make sense. But for me this is all fine. I do have a Rubik's cube keychain too, usually on my backpack, which is quite nice. That's all!
 
 {% include img.html alt="Some of the stuff I carry, I took the pic with my phone so" image="/assets/img/blogs/2022-10-19-edc.jpg" caption='The things I usually go with, I took the pic with my phone so its not there.' %}
+{% include reply.html %}

@@ -28,3 +28,4 @@ In the end I now have clean URLs in my [alternative site](https://chrono.tilde.c
 You can take a look at my fork, which is not really that different from the original in my [tildegit](https://tildegit.org/chrono/blop) repository.
 
 This has been day 83 of [#100DaysToOffload](https://100daystooffload.com)
+{% include reply.html %}

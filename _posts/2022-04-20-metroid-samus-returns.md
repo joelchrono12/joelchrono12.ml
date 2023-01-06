@@ -50,3 +50,4 @@ I also managed to play this while the time of a sister's Quinceañera was coming
 I like Metroid, I liked this game and I can't wait to try out Dread in a decade or so once I get a used Switch or something.
 
 
+{% include reply.html %}

@@ -30,3 +30,4 @@ So yeah, the PSP is not only a great emulation gaming machine, its also a pretty
 This has been day 77 of [#100DaysToOffload](https://100DaysToOffload.com)
 
 
+{% include reply.html %}

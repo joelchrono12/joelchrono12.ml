@@ -19,3 +19,4 @@ Anyways, it looks like this year could be not so terrible at all, it's only a ma
 
 Day 18 of [#100DaysToOffload](https://1000daystooffload.com)
 
+{% include reply.html %}

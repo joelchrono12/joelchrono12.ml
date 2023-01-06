@@ -46,3 +46,4 @@ limited the following weeks.
 {% include img.html image="/assets/img/blogs/2021-05-25-typing-progress.jpg" %}
 
 This was day 38 of [#100DaystoOffload](https://100DaystoOffload.com)
+{% include reply.html %}

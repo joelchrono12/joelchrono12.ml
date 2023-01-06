@@ -28,3 +28,4 @@ Now all I had to do was download the app for my phone that works like a VPN and 
 So yes, I now have my own instance of Nextcloud. Right now I'm only using my SD card to store everything, but I am planning on getting a 2TB external SSD to be able to mount it and get more storage for it. 
 
 This is day 66 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

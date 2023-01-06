@@ -70,3 +70,4 @@ Overall, I spent a total of 293 hours in my phone during February. Which is prob
 # Wrapping up
 
 I always have a hard time when getting into new hobbies, it happened with Rubik's cubes, where I spent whole days tracking my speed, when I got into trying out PSP mods and plugins, or the first time I flashed a custom ROM for my phone. This is only normal, at least for me, I know I should try to not interrupt my life that bad, but man, Kingdom was just too good to put aside.
+{% include reply.html %}

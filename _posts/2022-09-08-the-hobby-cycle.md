@@ -32,3 +32,4 @@ Anyway, that's pretty much it for today. I also started journaling since I want 
 
 
 
+{% include reply.html %}

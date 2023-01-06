@@ -27,3 +27,4 @@ My psp is quite beat up at this point due to the use, I am also considering to g
 This wasn't that big of a blog to be honest, so that's pretty much it today.
 
 {% include img.html alt="my psp" image="/assets/img/blogs/2022-08-28-psp.jpeg" %}
+{% include reply.html %}

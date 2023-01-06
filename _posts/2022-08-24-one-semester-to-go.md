@@ -72,3 +72,4 @@ I even actually surprised some folks when I solved my Rubik's cube in 20 seconds
 Overall, I hope I manage to get high grades on everything, it looks like all the teachers are good and I will also do my best to break my limits on this stuff.
 
 That's all folks.
+{% include reply.html %}

@@ -43,3 +43,4 @@ So, this one is really interesting, for some reason, F-Droid's has a custom Shar
 
 But yeah, this weekend has been kinda busy and I hope I manage to do everything I have to, and to be ready to go back to school. I shared a lot more than I expected, and I hope you find a good use to these apps, just like I did. This is day 15 of [#100DaystoOffload](https://100daystooffload.com).
 
+{% include reply.html %}

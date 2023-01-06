@@ -56,3 +56,4 @@ Also, the program barely works in tiling window managers, I will probably stick 
 In the end, I guess it's installed now, it completely messed up the folders and I don't even know how to uninstall it once the time comes, but I guess I'll be ready for that.
 
 This has been day 94 of [#100DaysToOffload](https://100daystooffload.com)
+{% include reply.html %}

@@ -87,3 +87,4 @@ Me, speaking as if I am some sort of wise old man, I guess I am kinda sus after 
 But no! Youngsters like me can teach lessons too! 
 
 Stop thinking less of yourself! You all *must* resist the temptation!
+{% include reply.html %}

@@ -77,3 +77,4 @@ I recently switched my hostname and I also moved to a window manager and there w
 - Used Alacritty for 11 hours.
 - Used Discord for 7 hours.
 - Played Minecraft for 4 hours.
+{% include reply.html %}

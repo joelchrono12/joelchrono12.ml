@@ -30,4 +30,3 @@ Maybe after this I will be starting<br>
 Be it homework, or a project, or a dream<br>
 
 {% include reply.html %}
-

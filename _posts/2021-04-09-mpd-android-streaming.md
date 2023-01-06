@@ -102,3 +102,4 @@ This has been day 31 of [#100DaystoOffload](https://100DaystoOffload.com)
 [^1]: [HexDSL tutorial here](https://hexdsl.co.uk/posts/i-setup-mpd-streaming.html)
 [^2]: [Joram's tutorial here](https://www.joram.io/blog/android-streaming-mpd/)
 [^3]: [MPD Tips and Tricks (Arch Wiki)](https://wiki.archlinux.org/index.php/Music_Player_Daemon/Tips_and_tricks#Music_streaming_with_the_satellite_setup)
+{% include reply.html %}

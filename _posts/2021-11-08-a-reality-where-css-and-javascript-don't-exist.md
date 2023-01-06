@@ -38,3 +38,4 @@ This is day 60 of [#100DaysToOffload](https://100DaysToOffload.com)
 - [https://uglyduck.ca/css-js-mistake/](https://uglyduck.ca/css-js-mistake/)
 - [https://kevq.uk/reality-without-css-javascript](https://kevq.uk/reality-without-css-javascript)
 - [https://degruchy.org/2021/11/08/a-world-without-css-or-javascript/](https://degruchy.org/2021/11/08/a-world-without-css-or-javascript/)
+{% include reply.html %}

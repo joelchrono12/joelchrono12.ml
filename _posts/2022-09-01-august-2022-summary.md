@@ -80,3 +80,4 @@ I had setup activity watch on my laptop for a while, but I had not added good ca
 So yeah that's pretty much it, expect me to play a lot more Minecraft soon since I got a server now.
 
 Read Blue Lock, read Eyeshield 21, they made wanna play sports again.
+{% include reply.html %}

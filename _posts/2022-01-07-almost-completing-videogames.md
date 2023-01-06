@@ -36,3 +36,4 @@ I didn't play some of these because the joystick on my PSP was faulty, but I rec
 Anyways, not a lot of structure this time, but I wanted to have something today, a bit late, but anyways.
 
 This has been day 76 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

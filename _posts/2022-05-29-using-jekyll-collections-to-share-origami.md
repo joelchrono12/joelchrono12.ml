@@ -79,3 +79,4 @@ image: /assets/img/origami/owl_nhc.jpg
 ```
 
 So, anyways, its pretty simple to do. I wanted to get back into writing since it had been a while, so this is pretty much it. Thanks for reading!
+{% include reply.html %}

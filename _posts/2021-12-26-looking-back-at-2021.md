@@ -63,3 +63,4 @@ I hope your year went great, or hey, if you had a bad time, be hopeful the next 
 You can see most of these mentioned topics being talked about in previous posts of my blog, so make sure to check all of them if you are interested and you have the time. Tags could also help you find them faster 😉.
 
 This has been day 65 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

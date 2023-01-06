@@ -64,3 +64,4 @@ This was day 27 of [#100DaysToOffload](https://100DaysToOffload.com). Dont you l
 If you want you can check more about this here:
 * [How to display raw Jekyll code in a Jekyll site](https://stackoverflow.com/questions/22044488/jekyll-code-in-jekyll#22045747)
 * [How to split posts by year and date](https://stackoverflow.com/questions/19086284/jekyll-liquid-templating-how-to-group-blog-posts-by-year)
+{% include reply.html %}

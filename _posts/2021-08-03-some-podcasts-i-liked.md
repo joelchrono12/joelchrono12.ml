@@ -96,3 +96,4 @@ I have quite a list of new podcasts compared to the last time I talked about the
 If you have not given podcasts a chance, I recommend you to just embrace them. You can take a look at my previous blog about it if you'd like to read some more of my suggestions, I did not went into a lot of detail there, but I think that I got a bit repetitive here, but I write whatever I want!
 
 This has been day 52 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

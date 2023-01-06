@@ -45,3 +45,4 @@ echo -e "# Previous metadata ...  \n--- ">> $path/$filename.md
 And as you can see, that little space in the end was messing it all up. The `sed` command used in the bash script was not finding the last `"---"` and it just went through the whole blog. After removing all of those spaces, everything started to work as intended, and now I have a new website, which is a mirror of this one, using my tilde.cafe domain, and you can [visit it here](https://chrono.tilde.cafe)
 
 This is day 46 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

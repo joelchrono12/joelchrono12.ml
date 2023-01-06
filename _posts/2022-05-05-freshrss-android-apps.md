@@ -29,3 +29,4 @@ I am a bit conflicted between a great but proprietary product, or a decent FOSS 
 However, the future is a bright one, I recently stumbled upon a new kid on the block that came out on F-Droid recently. [ReadYou](https://github.com/Ashinch/ReadYou) has a modern and beautiful UI (unless you don't like Material You), as well as an awesome list of upcoming features, including support for the APIs supported by FreshRSS, which is exactly what I am looking for.
 
 ReadYou is still implementing some basic features, so FreshRSS and sync support is still not being implemented, but the fact that its planned at all has given me hope. I decided to wait on it for now. However, it works locally just fine, so if you want to give it a go, I encourage you to try it out!
+{% include reply.html %}

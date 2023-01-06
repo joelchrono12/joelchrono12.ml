@@ -28,3 +28,4 @@ Or maybe, probably, *hopefully*, we'll stay again inside home due to the rise of
 Whatever the case, for now, I don't like writing on paper, and I don't want to go back to classrooms during these times yet, but whatever happens, I'll have to deal with it.
 
 This has been day 97 of [#100DaysToOffload](https://100daystooffload.com).
+{% include reply.html %}

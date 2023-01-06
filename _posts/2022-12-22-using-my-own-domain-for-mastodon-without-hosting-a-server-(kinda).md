@@ -54,3 +54,4 @@ permalink: .well-known/webfinger
 Pretty easy right? Now after pushing that to your server you should be able to find yourself with ease, at least within Mastodon. I am not sure how it would work on Pleroma or other Fediverse tools. Still, it is quite cool.
 
 This won't change your username handle per se, it will just make it so you can search me by my domain. Which would also make it easier to switch instance without having to alter mentioning my username and stuff.
+{% include reply.html %}

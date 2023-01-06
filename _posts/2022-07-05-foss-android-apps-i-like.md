@@ -44,3 +44,4 @@ Openreads is, sadly, not a Bookwyrm client, but it allows you to keep track of t
 So yeah I just wanted to share some apps that I thought deserved a bit more recognition, they are not in any particular order but this is the end of the post so it doesn't really matter what I say now.
 
 Anyways, let me know if you would like me to do this again with some other apps or maybe some Linux programs too. Until later.
+{% include reply.html %}

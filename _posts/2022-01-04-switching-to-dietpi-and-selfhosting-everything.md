@@ -22,3 +22,4 @@ I have been adding stuff to my Jellyfin server, as well as installing apps on Ne
 Jellyfin is actually amazing, Nextcloud just works, it feels a lot faster now than my previous install too. I also switching from Zerotier to Tailscale, just because Wireguard is kinda cool, and Tailscale is based on it.
 
 Anyways, this has been day 73 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

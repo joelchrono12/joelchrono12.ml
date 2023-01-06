@@ -65,3 +65,4 @@ I used my laptop for a total of 116 hours during October, kinda crazy.
 # Wrapping up
 
 A very busy month, don't have time to explain, see ya later!
+{% include reply.html %}

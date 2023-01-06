@@ -87,3 +87,4 @@ I guess I got a little bit too excited about the concept of having everything in
 There is this interesting protocol which I think I've mentioned before known as [DecSync](https://github.com/39aldo39/DecSync), which works with Syncthing too and can sync calendars, contacts and RSS with simple folders shared across devices. It has not been updated for a while, but its concept is pretty cool and I have been thinking about giving it a fair chance one of these days.
 
 Well, that's a problem for future me. Thanks for reading.
+{% include reply.html %}

@@ -30,3 +30,4 @@ At the very least if something breaks, having everything separated should make i
 What was even the point anyways? I feel like this is nonsense, selfhosting rules, there are too many options sometimes but I still love doing it.
 
 This is day 78 of [#100DaysToOffload](https://100DaysToOffload.com).
+{% include reply.html %}

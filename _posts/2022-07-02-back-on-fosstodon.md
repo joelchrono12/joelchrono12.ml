@@ -23,3 +23,4 @@ So anyways I am back on Fosstodon for the time being, and I won't be hopping ins
 
 I've also been thinking about downloading the comments that have been done in my blog. In case any of the instances or posts that I use get lost at some point. So I will try to code something to have static comments, I guess.
 
+{% include reply.html %}

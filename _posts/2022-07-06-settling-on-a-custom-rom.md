@@ -19,3 +19,4 @@ This update they fixed plenty of bugs, the most annoying of which was one where 
 
 So yeah, I think I am staying on CR Droid for the time being, the support is great and everything works just fine. So I guess my ROM-hopping has ended when it comes to Android 12 roms. Let's wait for what 13 has to offer...
 
+{% include reply.html %}

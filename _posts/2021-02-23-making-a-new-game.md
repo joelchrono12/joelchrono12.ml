@@ -33,3 +33,4 @@ I also decided to make some simple commands which can be seen on the picture. Th
 
 # I will keep you updated
 As of now, that's basically it, I am going to make a repo and I will also share my progress as I go on with this adventure. This was day 19 of [#100DaysToOffload](https://100daystooffload.com)
+{% include reply.html %}

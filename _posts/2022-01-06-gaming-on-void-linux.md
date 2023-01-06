@@ -38,3 +38,4 @@ If games start failing again, I might have to consider switching away from Void 
 On a side note, I use Backloggd to keep track of games I am playing, is like Anilist of Letterboxd, but for games, so if you want to keep track of the titles you've played, you might want to try it out and also [check my profile!](https://www.backloggd.com/u/joelchrono12), 
 
 This has been day 75 of [#100DaysToOffload](https://100DaysToOffload.com).
+{% include reply.html %}

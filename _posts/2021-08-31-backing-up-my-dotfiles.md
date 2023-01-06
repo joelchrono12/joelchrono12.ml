@@ -146,3 +146,4 @@ The program does not check if a folder already exists or anything like that. So 
 [^2]: Other files, like `.bashrc`, are not in the `.config` folder, keep in mind that the path to use depends on where the program needs it to be. In this case, it would have to be placed in `~/dotfiles/stow_home/bash/.bashrc`.
 [^3]: If you are unsure about the paths you created, you can run the `-n` flag to *simulate* the output and see exactly where each symlink *would be* placed. That way you dont end up symlinking in the wrong place and doing weird stuff to your filesystem.
 [^4]: You can also move specific files of a configuration folder. For example, `tut`, a mastodon client, saves the account data (passwords, etc) inside of another file in its configuration folder. if thats the case. You should move only the files you want, instead of the whole directory. `stow` should manage the rest.
+{% include reply.html %}

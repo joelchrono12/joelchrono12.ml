@@ -52,3 +52,4 @@ And that was it! I actually managed to do it. I am not sure if I could make it e
 Also! I also made some changes to the font sizes of this blog, and other CSS things, just because I felt that everything was a little too big, and I didn't feel like scrolling that much just to get past the title. I think I still have to tweak it a little bit, but it is a good start.
 
 This was day 23 of [#100DaystoOffload](https://100daystooffload.com), let me know if you found this kinda useful for you too. Or if you have a better script or anything that you use to make your blog workflow better!
+{% include reply.html %}

@@ -41,3 +41,4 @@ Now I am going to share a little screenshot of how this setup looks, because why
 {% include img.html image="/assets/img/blogs/2021-03-02-nvim-to-write.jpg" caption="Is this some kind of blogception???" %}
 
 So, yeah this was not that hard to do, there are still some things I have to figure out, luckily, most of these tools will also be useful for my [homework workflow](/blog/doing-school-work/) so, that's a win for me! This has been day 21 of [#100DaystoOffload](https://100daystooffload.com)
+{% include reply.html %}

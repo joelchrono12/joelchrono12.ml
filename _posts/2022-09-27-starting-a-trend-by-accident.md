@@ -23,3 +23,4 @@ Regardless, every now and then I see more and more posts of people who got their
 To be honest, the trend took a life of its own and most people don't know where its coming from, and its perfectly fine as is. It was about time Casio watches had some love around these places, I don't know how long will it last, maybe a "Casiodon" instance is in the horizon, or maybe next week nobody will post their watches anymore. Its the nature of the Fediverse, and I am happy to be part of this little corner of the Internet.
 
 Sidenote, I've been quite busy on school, there were not a lot of posts this month so I hope I can make up for it in October, or maybe not, lets see how it goes...
+{% include reply.html %}

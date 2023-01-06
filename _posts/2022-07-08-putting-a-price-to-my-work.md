@@ -30,3 +30,4 @@ After all, I did put effort into learning how to work with Inkscape and its quir
 Excuse the random ramble, its been a while since I've left my feelings go wild in my writing so, thanks for putting up with me.
 
 Also **If you have a commission let me know!** But please treat me nicely ;)
+{% include reply.html %}

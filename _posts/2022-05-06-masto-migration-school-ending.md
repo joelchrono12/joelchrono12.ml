@@ -26,3 +26,4 @@ Also I kinda wanted to add some pictures to my feed, I know its bloated, but its
 
 {% include img.html alt="Time is ticking!" image="/assets/img/blogs/2022-05-06-time-ticking.jpg" caption='Photo by <a href="https://unsplash.com/@alexandar_todov">Alexandar Todov</a> on <a href="https://unsplash.com">Unsplash</a>' %}
 
+{% include reply.html %}

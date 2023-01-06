@@ -49,3 +49,4 @@ Anyways, this was day 26 of [#100DaystoOffload](https://100DaystoOffload.com). I
 # Also change ur editor if you so wish
 alias vb='cd ~/path/to/blogs && nvim $(ls -a | sort -r | head -n 1)'
 ```
+{% include reply.html %}

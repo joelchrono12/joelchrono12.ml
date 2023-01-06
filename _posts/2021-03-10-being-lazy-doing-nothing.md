@@ -37,3 +37,4 @@ Well, this felt like some kind of journal, but its my blog, I do whatever. This 
 
 
 
+{% include reply.html %}

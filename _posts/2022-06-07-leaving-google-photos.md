@@ -63,3 +63,4 @@ Looks like rclone retried the download and its downloading them just fine. Anywa
 According to Google itself, I only use around 2GB of Google Photos, that's quite interesting, because it means that most of my backup is as big as it is (around 10GB) *because* of those freaking wallpapers. Also a lot of photos for that one time I logged in to my mom's phone, quite painful.
 
 I am still downloading things, so I will do another post later, maybe in the same day, I don't know.
+{% include reply.html %}

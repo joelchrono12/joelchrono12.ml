@@ -77,3 +77,4 @@ Despite what my description said, I think there might still be something you can
 So this was everything I did to add comments to my site. Once again, huge thanks to [Aristath](https://aristath.github.io/), for sharing quite a great resource, and [Abhinav](https://distrotoot.com/@abhi), who let me know of it. 
 
 This was day 7 of [#100DaystoOffload](https://100daystooffload.com/), and I am quite happy with the final results. Let me know what do you think in the comments! (I was eager to write that, and I hope you can stop whining about this [marrero171](https://marrero171.itch.io/))
+{% include reply.html %}

@@ -57,3 +57,4 @@ I made other small changes here and there in my website, I am always fiddling ar
 Anyways, that's all for today folks.
 
 
+{% include reply.html %}

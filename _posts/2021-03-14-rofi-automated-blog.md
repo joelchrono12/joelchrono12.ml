@@ -92,3 +92,4 @@ done
 Now, the script might look a bit weird here because of the kinda broken CSS (working on it), so if you wanna take a better look at it, check [here](https://gist.github.com/ChronoTriggered/7d0f360b38192af03221573586f12c69)
 
 This has been day 25 of [#100DaystoOffload](https://100DaystoOffload.com)
+{% include reply.html %}

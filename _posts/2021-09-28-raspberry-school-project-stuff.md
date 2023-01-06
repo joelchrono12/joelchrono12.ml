@@ -26,3 +26,4 @@ For example, when a car exits, I need to know the space it used, and I don't wan
 It was quite a nice experience, I also had to help half a dozen of classmates who are still not used to the Raspberry Pi and are unwilling to learn Vim for some weird reason. Anyways, I have had a lot of homework and a new *exam* coming up pretty soon, which will be quite a nightmare for me, since it looks like this semester I am only good at Embedded Systems...
 
 Anyways, this was post number 56 for [#100DaysToOffload](https://100DaysToOffload.com), I hope you enjoyed this quick post which almost feels like a mastodon thread, but anyways, have a nice day!
+{% include reply.html %}

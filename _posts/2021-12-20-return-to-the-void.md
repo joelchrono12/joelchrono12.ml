@@ -56,3 +56,4 @@ With nothing installed, I was finally born again, Void was even more beautiful t
 
 This has been day 64 of [#100DaysToOffload](https://100DaysToOffload.com)
 
+{% include reply.html %}

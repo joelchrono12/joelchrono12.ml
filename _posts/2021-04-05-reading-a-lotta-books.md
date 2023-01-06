@@ -74,3 +74,4 @@ I hope you try and find some time to read something soon too, and if you still t
 This has been day 29 of [#100DaystoOffload](https://100DaystoOffload.com). I hope you enjoyed the blog, have a nice day.
 
 Drink a lot of water, stay safe out there, **read**.
+{% include reply.html %}

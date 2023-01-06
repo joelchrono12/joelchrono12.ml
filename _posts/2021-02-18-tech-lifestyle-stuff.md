@@ -59,3 +59,4 @@ I think I just wanted to spread the cards and see the way I am currently working
 
 Sometimes I just want to not care about anything and do whatever I want to do, as well as let other go on. But at the same time I don't want to look like a victim, or as if I am suffering because of taking this path. I want more people to know about this, not to stay away from it. I dont even know what I am saying now. This has been day 14 of [#100DaystoOffload](https://100daystooffload.com), and I hope that I talk about some of these topics at some point in a way that makes better sense.
 
+{% include reply.html %}

@@ -26,3 +26,4 @@ I am finishing this already at home, we left early, I wonder what will happen. M
 *Or maybe everyone is actually taking extreme care of themselves and its just me who only goes out like 10 hours per month and it just so happens that when I am outside everyone becomes careless, I don't know what's happening anymore*
 
 Day 17 of [#100DaysToOffload](https://1000daystooffload.com)
+{% include reply.html %}

@@ -28,3 +28,4 @@ This is day 48 of [#100DaysToOffload](https://100DaysToOffload.com), RIP old sty
 {% include img.html image="/assets/img/blogs/2021-07-07-website-simplecss.jpg" %}
 
 
+{% include reply.html %}

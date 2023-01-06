@@ -26,3 +26,4 @@ Sadly, we did not manage to beat it with four lives. However, you're allowed to 
 {% include img.html image="/assets/img/blogs/2021-12-27-brawl_win.jpg" %}
 
 This has been day 67 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

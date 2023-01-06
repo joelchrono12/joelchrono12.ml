@@ -41,3 +41,4 @@ Initially, this was one of those applications I didn't use that often, but the f
 This has been day 8 of [#100DaystoOffload](https://100daystooffload.com), A little rushed, but honest work. 
 
 If you are reading this, let me know if you are using KDEConnect, or if you have found programs that work better for your workflow. I am willing to try more stuff out for this, especially the tab sync since I feel like there should be a way to do it that doesn't require kdeconnect and its also browser independent
+{% include reply.html %}

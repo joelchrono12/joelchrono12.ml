@@ -60,3 +60,4 @@ I really love how spectrwm is so easy to configure in general, as you saw with t
 There is still work to do, but I am really happy with the results,  I am stilll playing around with other scripts and things. If you wanna get my current dotfiles, you can do so [here](https://tildegit.org/chrono/dotfiles). 
 
 Day 4 of [#100DaystoOffload](https://100daystooffload.com/)
+{% include reply.html %}

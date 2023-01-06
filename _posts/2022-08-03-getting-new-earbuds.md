@@ -53,3 +53,4 @@ Also, the case has a semi-transparent lid, which looks pretty cool in my humble 
 Overall it was a really satisfying purchase that fits my needs quite perfectly.
 
 {% include img.html image="/assets/img/blogs/2022-08-03-sony-earbuds.jpeg" caption="My pair of earbuds on top of my laptop." %}
+{% include reply.html %}

@@ -61,3 +61,4 @@ I guess doing macros is pretty much its own artform, I've seen some uses for the
 # Finishing thoughts
 
 If I am honest, I still don't know how I feel about it making use of includes in this way, since making the changes here was kinda annoying. But, thinking about it, it only took me like half an hour to do. I don't know, maybe simply using something like `xclip` or `xdotool` to quickly access the plain HTML template would be a lot better to keep my markdown platform agnostic. I will think about it, but for now Jekyll is still my platform of choice.
+{% include reply.html %}

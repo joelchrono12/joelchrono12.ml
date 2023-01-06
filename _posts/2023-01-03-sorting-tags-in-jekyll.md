@@ -68,3 +68,4 @@ I still find Jekyll to be quite enjoyable, it seems to me like most blogs nowada
 Besides, **[Void Linux itself](https://github.com/void-linux/void-linux.github.io/), the one above all**, uses Jekyll. Therefore, I will do my duty and stay loyal to it... until I get bored, or something.
 
 Also, this is gonna be day 3 of my second run of [#100DaysToOffload](https://100daystooffload.com), *always has been*.
+{% include reply.html %}

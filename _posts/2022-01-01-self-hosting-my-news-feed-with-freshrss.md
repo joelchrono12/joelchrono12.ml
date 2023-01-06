@@ -28,3 +28,4 @@ So yeah, I have now switched to a self-hosted RSS provider, and it is actually q
 I am still probably going to move to a 64 bit distro, so I'll keep you updated on that.
 
 This has been day 72 of [#100DaysToOffload](https://100DaysToOffload.com)
+{% include reply.html %}

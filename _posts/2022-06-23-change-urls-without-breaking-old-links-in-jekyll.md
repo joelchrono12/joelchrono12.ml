@@ -42,3 +42,4 @@ Even in those old articles I link to some more posts that are still using a diff
 
 
 
+{% include reply.html %}

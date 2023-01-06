@@ -26,3 +26,4 @@ Porkbun provides these certificates but they expire in 3 months, but since I am 
 One thing I really liked here is the Single Sign-On feature, so I use a single login screen and gain access to all the services I need, its just great.
 
 Oh, I almost forgot, Tailscale can't be installed from the web interface, but I can ssh into my pi and, since the distro its pretty much vanilla Debian 11, the installation is as simple as it gets, so accessing my stuff from outside my local network is now possible.
+{% include reply.html %}

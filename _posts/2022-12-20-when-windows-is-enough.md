@@ -53,3 +53,4 @@ But again, the problem was that this device was not for me. So I had to settle.
 I installed Microsoft Office 2010, because LibreOffice had some missing libraries and I could not bother to fix it. I also installed 7-Zip and VLC, to at least have some free software running on that device, and I called it a day.
 
 I would love to try this device a bit more, but after all its not for me and without and SSD to use with it, even the simplest tasks were a bit of a chore when running modern software with it. Maybe some other day I will get a Thinkpad or something. Until next time!
+{% include reply.html %}

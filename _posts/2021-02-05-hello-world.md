@@ -12,3 +12,4 @@ redirect_from:
 
 This is just a simple attempt at doing a blog, it's not really something I
 understand completely, but I wanted to try it out anyways
+{% include reply.html %}

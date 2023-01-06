@@ -11,3 +11,4 @@ layout: post
 ## Jekyll is not as hard as I thought
 
 You can ignore this post since its just a test, and hey, if you are seeing it, it worked!
+{% include reply.html %}
