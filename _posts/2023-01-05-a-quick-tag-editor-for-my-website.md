@@ -45,4 +45,5 @@ That filename is parsed, using grep, head and awk. a new temporary file containi
 It is rather simple, and I think it could be done better. So please, I beg you to give me any suggestions to improve it. I tried my best to understand stuff like `getopts` and the like, to have arguments and flags but I just didn't really get it.
 
 
+Regardless, this is day 5 of my second attempt at [#100DaysToOffload](https://100daystooffload.com)
 
