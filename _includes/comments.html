@@ -27,11 +27,12 @@ document.getElementById('load-comment').addEventListener("click", async () => {
 
 function createCommentEl(response){
     let user = document.createElement('div');
+    let userData = document.createElement('div');
+    userData.classList.add('mastodon-username');
     user.classList.add('mastodon-comment');
     let userAvatar = document.createElement('img');
     userAvatar.classList.add('avatar');
     userAvatar.setAttribute('height', 60 ); userAvatar.setAttribute('width', 60 ); userAvatar.setAttribute('src',response.account.avatar_static);
-    user.appendChild(userAvatar);
     let userLink = document.createElement('a');
     userLink.setAttribute('href',response.account.url);
     userLink.classList.add('comment-author');
@@ -51,8 +52,10 @@ function createCommentEl(response){
     comment.classList.add( 'comment-content' );
 
     user.appendChild( comment );
-    comment.appendChild( userLink );
-    comment.appendChild(commentDate);
+    comment.appendChild(userAvatar);
+    comment.appendChild( userData )
+    userData.appendChild( userLink );
+    userData.appendChild(commentDate);
     user.appendChild( commentContents );
     return user;
 }
