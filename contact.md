@@ -10,7 +10,7 @@ layout: default
 
 
 - **🐘 [Mastodon](/mastodon)** - This is my main social media of choice, I post often and I am quite active too. You are probably already following me, but if you arent, make sure to do so!
-- **✉️ [Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](/pgp), I would appreciate if you use said encryption.
+- **✉️ [Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
 - **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and easier to self-host than Matrix. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly since Matrix notifications are less reliable for me. 
     <details>
     <summary><b>Show OMEMO fingerprints</b></summary>

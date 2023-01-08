@@ -19,7 +19,7 @@ layout: default
 
 # Support me
 
-You can support me in many ways, either via [Paypal](/paypal) or [Liberapay](https://liberapay.com/joelchrono12/donate), as well as other options like cryptocurrencies.
+You can support me in many ways, either via [Paypal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW) or [Liberapay](https://liberapay.com/joelchrono12/donate), as well as other options like cryptocurrencies.
 
 This site also is [verified with Brave Rewards](https://brave.com/), so it's the easiest way to help me out, you can tip me some BAT by enabling the option on your browser.
 
