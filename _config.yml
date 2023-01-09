@@ -27,6 +27,7 @@ collections:
     output: true
 
 include:
+  - tags
   - _redirects
 
 excludes:
