@@ -1,9 +1,9 @@
 ---
-title: Packaging an update for Void Linux
-header: Packaging an update for Void Linux
+title: Updating a package for Void Linux
+header: Updating a package for Void Linux
 description: This is not a tutorial, I only share my experience and side quests that led me to commiting a package for Void Linux, the distro I use, with relative success
 tags: linux git foss distro
-permalink: /blog/packaging-an-update-for-void-linux/
+permalink: /blog/updating-a-package-for-void-linux/
 layout: post
 date: 2023-01-10 13:00:21 -0500
 host: fosstodon.org
