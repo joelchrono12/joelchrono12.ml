@@ -34,11 +34,11 @@ I think one of my goals this year will be to understand Neomutt more, for stuff 
 
 # Reviving memories
 
-In other news, I read a couple of old email threads once again, reliving moments like the first time I sent an encrypted email, that one time I sent an email to Kev [and I didn't refer to him as Kev (mistake)](https://kevquirk.com/we-need-to-talk-about-kevin/)), as well as those few times I've gotten emails related to my blogposts (and not [how borked my website is sometimes]({{ site.url }}/blog/i-somehow-broke-my-blog-(but-i-fixed-it))).
+In other news, I read a couple of old email threads once again, reliving moments like the first time I sent an encrypted email, that one time I sent an email to Kev [and I didn't refer to him as Kev (mistake)](https://kevquirk.com/we-need-to-talk-about-kevin/), as well as those few times I've gotten emails related to my blogposts (and not [how borked my website is sometimes]({{ site.url }}/blog/i-somehow-broke-my-blog-(but-i-fixed-it))).
 
 So yeah, Neomutt, Claws Mail, whatever. Everytime I mention email there's always someone mentioning its outdated and insecure.
 
-Look. For me, there's something about reading old threads, with a subject, with a good posting style and a simple plain text view, without feeling forced to reply as soon as I open it, that makes it quite appealing to me from time to time. I know, I know.
+Look. For me, there's something about reading old threads, with a subject, with a good bottom posting nicely quoted style and a simple plain text view, without feeling forced to reply as soon as I open it, that makes it quite appealing to me from time to time. I know, I know.
 
 You don't know how many good conversations I've lost in my phone, for so long I ignorantly used WhatsApp, still the king of messaging in my country, and many times I ended up losing conversations, that I'll admit, are probably super cringe for me today, but still memories I would like to have back. Email is just there, and we even got subject lines and stuff. Just plain cool.
 
