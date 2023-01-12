@@ -8,7 +8,7 @@ layout: post
 date: 2023-01-11 20:21:17 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109674598293618095
 ---
 
 Since some friends will visit us soon enough, I was going to clean my bedroom, since that's were they'll stay for a few days. I was doing a decent job at it, if a little relaxed.
