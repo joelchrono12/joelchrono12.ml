@@ -2,7 +2,7 @@
 title: My domain shall be eternal
 header: My domain shall be eternal
 description: So, you guys are awesome, after being kinda sad because my domain was about to expire, friends from all over the Fediverse went ahead and didn't let me die alone, or at all
-tags: thoughts foss linux community mastodon thanks
+tags: thoughts foss linux community fediverse thanks
 permalink: /blog/my-domain-shall-be-eternal/
 layout: post
 date: 2022-01-21 15:15:15 -0600
