@@ -1,14 +1,13 @@
-#!/usr/bin/bash
-#
-file=$1
+#!/usr/bin/env bash
 
-oldtags=$(cat $1 | grep "tags:" | head -1 | awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}')
+edittags(){
+    posts="/home/chrono/git/joelchrono12.ml/_posts/"
+    file=$(/usr/bin/ls ${posts} | rofi -dmenu -p "Pick post")
+    oldtags=$(cat ${posts}${file} | grep "tags:" | head -1 | awk '{for (i=2; i<NF; i++) printf $i " "; print $NF}')
+    newtags=$(rofi -dmenu -p "Tags" -filter "$oldtags")
+    sed -i "s/$oldtags/$newtags/g" "${posts}${file}"
 
-echo $oldtags > /tmp/tagedit-$file
-vim /tmp/tagedit-$file
+}
 
-newtags=$(cat /tmp/tagedit-$file)
 
-rm -f /tmp/tagedit
-
-sed -i "s/$oldtags/$newtags/g" "$file"
+edittags
