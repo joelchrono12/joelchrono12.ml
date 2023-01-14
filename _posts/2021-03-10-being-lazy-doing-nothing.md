@@ -4,7 +4,7 @@ header: I wanted to bike, I had homework, I did nothing
 date: "2021-03-10 21:49:00 -0600"
 tags: lifestyle ramble thoughts
 description:  Yesterday I got my bike fixed, and today I wanted to use it, but I guess that everyday does not go the way you expect it to go
-permalink: /blog/biking-doing-nothing
+permalink: /blog/biking-doing-nothing/
 layout: post
 com_id: 105869138201600680
 username: joeligj12
