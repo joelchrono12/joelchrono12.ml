@@ -1,12 +1,8 @@
 - name: RSS
   link: /feed.xml
-- name: Telegram
-  link: https://t.me/joelchrono12
-- name: Mastodon
-  link: /mastodon
 - name: GitHub
   link: https://github.com/joelchrono12
 - name: Itch.io
   link: https://joelchrono12.itch.io
-- name: Tildeverse
-  link: https://chrono.tilde.cafe/
+#- name: Tildeverse
+  #link: https://chrono.tilde.cafe/
