@@ -201,6 +201,26 @@ input[type="button"] {
   transition: .4s;
 }
 
+.button{
+  border: none;
+  border-radius: 5px;
+  display: inline-block;
+  background: var(--accent);
+  /*font-size: 1rem;*/
+  color: var(--bg);
+  text-decoration: none;
+  padding: .7rem .9rem;
+  margin: .5rem .1rem;
+  transition: .4s;
+}
+button a:visited, 
+button a:hover, 
+a.button:visited, 
+a.button:hover{
+    color: var(--bg);
+}
+
+
 button:hover, .button:hover, svg:hover{
     opacity: .8;
     cursor: pointer;

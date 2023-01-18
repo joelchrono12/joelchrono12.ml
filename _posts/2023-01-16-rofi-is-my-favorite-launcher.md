@@ -32,4 +32,5 @@ I have a few posts sharing scripts, some of them [using rofi](/blog/rofi-automat
 
 I actually recently changed the [script to edit tags](/blog/a-quick-tag-editor-for-my-website/) to use just rofi. You can see some it, as well as some more of my rofi scripts [in my dotfiles](https://tildegit.org/chrono/dotfiles/src/branch/main/stow_home/rofi/.config/rofi)
 
+
 This is day 16 of [#100DaysToOffload](https://100daystooffload.com)

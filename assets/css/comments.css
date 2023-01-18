@@ -41,25 +41,6 @@ div.comment-content{
     padding-bottom: .6rem;
 }
 
-.button{
-  border: none;
-  border-radius: 5px;
-  display: inline-block;
-  background: var(--accent);
-  /*font-size: 1rem;*/
-  color: var(--bg);
-  text-decoration: none;
-  padding: .7rem .9rem;
-  margin: .5rem .1rem;
-  transition: .4s;
-}
-button a:visited, 
-button a:hover, 
-a.button:visited, 
-a.button:hover{
-    color: var(--bg);
-}
-
 div.mastodon-username{
   justify-content: space-between;
   display: flex;
