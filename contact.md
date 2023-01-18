@@ -9,9 +9,7 @@ layout: default
 
 
 
-- **🐘 [Mastodon](/mastodon)** - This is my main social media of choice, I post often and I am quite active too. You are probably already following me, but if you arent, make sure to do so!
-- **✉️ [Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
-- **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and easier to self-host than Matrix. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly since Matrix notifications are less reliable for me. 
+- 🗨️ **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and faster than Matrix, in my experience. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly.
     <details>
     <summary><b>Show OMEMO fingerprints</b></summary>
     <b>Mobile</b>
@@ -25,8 +23,14 @@ layout: default
     b065a3e7 1f4c7765 0049a88eb 9af425e
     </pre>
     </details>
+- 🐘 **[Mastodon](https://fosstodon.org/@joel)** - This is my main social media presence, I post often and I am quite active. You are probably already following me if you are in this website, but if you arent, make sure to do so!
+- ✉️ **[Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
+- 💬 **[Threema](https://threema.id/WKM6NCSE)** - As of beginnings of 2023, Threema was a bit of a rough spot, but according to them, [everything has been resolved](https://threema.ch/en/blog/posts/news-alleged-weaknesses-statement), and I quite like Threema, to be honest. If it wasn't for it being paid, it would be number 1 for me. If you have it, let's talk!
+- **✉️ [Signal](https://signal.org/es/download/)** - I use Signal for more private and comfortable communication. Ask me for my number via any of the other encrypted ways you can contact me.
 
-- **🕹 [Itch.io](https://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.
-- **🛩 [Telegram](https://t.me/joelchrono12)** -If you want to have a chat with me, this is where I am at. It is not the most private messaging service in the world, I know, but it still has a lot of features, and you can contact me without having to share phone numbers.
-- **💻 [GitHub](https://github.com/joelchrono12)** - Here you can check out some of my projects, there are not a lot, but I still would love to try stuff out and contribute however I can. I have done a lot of icons for the Arcticons icon pack.
+- 🛩 **[Telegram](https://t.me/joelchrono12)** - This is not the most private messaging service in the world, I know, but it still has a lot of features and I am part of my groups within it, you can contact me without having to share phone numbers, which you may like.
+- 🟩 **[Matrix](https://matrix.to/#/@joelchrono12:matrix.org)** - I am not the biggest fan of Matrix, but I may as well use it if you want to talk, I can't promise I will get a notification of your chat request though.
+<!--- **🕹 [Itch.io](https://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.-->
+<!--- **💻 [GitHub](https://github.com/joelchrono12)** - Here you can check out some of my projects, there are not a lot, but I still would love to try stuff out and contribute however I can. I have done a lot of icons for the Arcticons icon pack.-->
+
 
