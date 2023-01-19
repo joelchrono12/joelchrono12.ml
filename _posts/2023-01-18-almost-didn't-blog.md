@@ -3,12 +3,13 @@ title: Almost didn't blog!
 header: Almost didn't blog!
 description: I spent the day ricing my desktop and I also went to school, its all right! And my ricing rocks!
 tags: short ricing school
-permalink: /blog/almost-didn't-blog-/
+permalink: /blog/almost-didn't-blog/
 layout: post
 date: 2023-01-18 23:45:54 -0600
 host: fosstodon.org
 username: joel
 com_id: 109714315169001561
+image: "/assets/img/blogs/2023-01-18-tauon.png"
 ---
 
 Ok so I have 15 minutes to write something before the day ends.
