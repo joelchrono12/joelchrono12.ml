@@ -27,7 +27,7 @@ In terms of length, this is the longest podcast I've listened to. As the name im
 
 # 3. Your Own Backyard
 
-This is a serious one, a true crime story that only recently found some sense of closure. Its the story of the disappearance of Kristin Smart, and how incredibly convoluted the investigation of he case went. Even if there really seems to be a single suspect. Its a really interesting series, which you may want to give a listen to if you are into true crime. The host is Chris Lambert, and he did such a wonderful job, approaching with victims and witnesses in a very respectful manner and professionalism. Full of twists and turns, I am glad I got to know this story that finally reached its end, even if its not a truly happy one.
+This is a serious one, a true crime story that only recently found some sense of closure. Its the story of the disappearance of Kristin Smart, and how incredibly convoluted the investigation of the case went. Even if there really seems to be a single suspect. Its a really interesting series, which you may want to give a listen to if you are into true crime. The host is Chris Lambert, and he did such a wonderful job, approaching with victims and witnesses in a very respectful manner and professionalism. Full of twists and turns, I am glad I got to know this story that finally reached its end, even if its not a truly happy one.
 
 [Website Link](https://www.yourownbackyardpodcast.com/) | [RSS Feed](https://yourownbackyard.libsyn.com/rss)
 
