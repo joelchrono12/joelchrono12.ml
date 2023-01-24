@@ -13,7 +13,7 @@ com_id: 109742297998202872
 
 I honestly had to idea of what to write today so this will have to do.
 
-I've been reading quite a bit. My goal is to read at least 15 books this year. You can track my progress by following me on my [Bookwrym account](https://bookrastinating.com/user/joel). The truth is, that I got back into gaming a bit more. I've enjoyed playing [Brawl Stars for quite a while]({{ site.url }}/blog/my-first-brawl-stars-challenge-win/) and a recent update that removed a lot of the gambling aspets that plague so many of today's mobile videogames, got actually removed!
+I've been reading quite a bit over the years. My goal is to read at least 15 books this year. You can track my progress by following me on my [Bookwrym account](https://bookrastinating.com/user/joel). The truth is, that I got back into gaming a bit more. I've enjoyed playing [Brawl Stars for quite a while]({{ site.url }}/blog/my-first-brawl-stars-challenge-win/) and a recent update that removed a lot of the gambling aspects that plague so many of today's mobile videogames, got actually removed!
 
 This made it so I started playing a lot more often, from only weekends to 15 or 30 minutes per day. I wouldn't say it was the reason I stopped reading but it definitely didn't help.
 
