@@ -8,7 +8,7 @@ layout: post
 date: 2023-01-23 22:19:03 -0600
 host: fosstodon.org
 username: joel
-com_id: 109742297998202872
+com_id: 109748180370147375
 ---
 
 I honestly had to idea of what to write today so this will have to do.
