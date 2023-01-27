@@ -34,7 +34,5 @@ I can't really judge much at this moment though, since there is quite a bit of a
 
 
 
-
-
 This is day 26 of [#100DaysToOffload](https://100daystooffload.com)
 {% include reply.html %}
