@@ -38,4 +38,3 @@ If you want to, I guess Bitcoin is fine too:
 bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
 </pre>
 </details>
-

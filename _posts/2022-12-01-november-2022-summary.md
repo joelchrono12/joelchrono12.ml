@@ -2,7 +2,7 @@
 title: November 2022 Summary
 header: November 2022 Summary
 description: What I've done this month of November, as usual
-tags: monthly podcast movies manga anime
+tags: monthly podcasts movies manga anime
 permalink: /blog/november-2022-summary/
 layout: post
 date: 2022-12-01 12:00:40 -0500
