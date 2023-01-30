@@ -73,7 +73,7 @@ Sometimes, like me, you will not fetch the things you intended to. You may have 
 
 ## Full article content?
 
-Of course, XPath works to fetch the items and basic metadata from whatever list, feed or archive is used by the website you are scraping. I did a different blogpost if case you want to learn how to get the full article content too, using FreshRSS's CSS selector feature. [I wrote a tutorial for it too]({{ site.url }}/blog/fetch-full-article-content-freshrss/). Since then, a couple extra features, such as ignoring some sections of the contents has been added. So please explore the features of FreshRSS, its fun. Feel free to check [other posts I did related to RSS]({{ site.url }}/tags/rss)
+Of course, XPath works to fetch the items and basic metadata from whatever list, feed or archive is used by the website you are scraping. In case you want to learn how to get the full article content too, using FreshRSS's CSS selector feature, [I wrote a tutorial for that too]({{ site.url }}/blog/fetch-full-article-content-freshrss/). Since then, a couple extra features, such as ignoring some sections of the contents has been added. So please explore the features of FreshRSS, its fun. Feel free to check [other posts I did related to RSS]({{ site.url }}/tags/rss)
 
 {% include img.html image="/assets/img/blogs/2023-01-30-newsboat-freshrss.png" alt="Newsboat query feed and the inspector view of the Casio website" caption="Newsboat query feed and the inspector view of the Casio website in a sick thumnail I edited with GIMP" %}
 
