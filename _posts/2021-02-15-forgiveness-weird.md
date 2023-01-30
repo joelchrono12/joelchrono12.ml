@@ -3,7 +3,7 @@ title: Asking for forgiveness due to simple things
 header: Asking for forgiveness due to simple things 
 date: "2021-02-15 09:58:00 -0600"
 description: Why is it so weird to ask for forgiveness when doing something wrong when its not considered a big deal?
-tags: lifestyle thoughts
+tags: lifestyle thoughts personal
 permalink: /blog/request-forgiveness-for-small-things/
 redirect_from: /request-forgiveness-for-small-things/
 layout: post
