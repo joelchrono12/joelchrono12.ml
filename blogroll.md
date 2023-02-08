@@ -16,13 +16,7 @@ Last updated: 2023-02-07
 <ul>
 {% for item in site.data.blogroll %}
 <!--<li><a href="{{ item.url }}">{{ item.name }}</a> - [<a href="{{ item.rss }}">RSS feed</a>]</li>-->
-<li><a href="{{item.url}}"><b>{{ item.name }}</b></a> - <a class="post-date" href="{{ item.rss }}">RSS Feed</a></li>
+<li><a href="{{item.link}}"><b>{{ item.name }}</b></a> - <a class="post-date" href="{{ item.rss }}">RSS Feed</a></li>
 {% endfor %}
 </ul>
 
-# More on this site
-
-Some of the things I do are more than a single blogpost, be it projects or art or some hobbies I keep track of. Here are some links you may want to check out:
-
-- [My origami folds](/origami/)
-- [Personal projects](/projects/)
