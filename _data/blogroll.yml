@@ -1,0 +1,90 @@
+- name: Adamsdesk
+  link: https://www.adamsdesk.com/
+  rss: https://www.adamsdesk.com/blogs.xml
+
+- name: Andy Bell
+  link: https://andy-bell.co.uk
+  rss: https://andy-bell.co.uk/feed
+
+- name: Benjamin Hollon
+  link: https://benjaminhollon.com/
+  rss: https://benjaminhollon.com/musings/feed/
+
+- name: Bobby Hiltz
+  link: https://bbbhltz.codeberg.page
+  rss: https://bbbhltz.codeberg.page/rss.xml
+
+- name: Bradley Taunt
+  link: https://bt.ht
+  rss: https://bt.ht/atom.xml
+
+- name: Brian Benner
+  link: https://blog.ohheybrian.com
+  rss: https://blog.ohheybrian.com/feeds/all.atom.xml
+
+- name: Chris Wiegman
+  link: https://chriswiegman.com
+  rss: https://chriswiegman.com/feed
+
+- name: Clayton Errington
+  link: https://claytonerrington.com/
+  rss: https://claytonerrington.com/feed.xml
+
+- name: Chris O'Donnell
+  link: https://odonnellweb.com/
+  rss: https://odonnellweb.com/pelican/feeds/all.atom.xml
+
+- name: Heavy Consulting
+  link: https://heavyconsulting.net/blog
+  rss: https://heavyconsulting.net/blog/feed.atom
+
+- name: Hund
+  link: https://hunden.linuxkompis.se/
+  rss: https://hunden.linuxkompis.se/feed.xml
+
+- name: Ilyess
+  link: https://ilyess.cc/
+  rss: https://ilyess.cc/index.xml
+
+- name: Klaus Zimmermann
+  link: https://kzimmermann.0x.no/
+  rss: https://kzimmermann.0x.no/articles/atom.xml
+
+- name: Lazybear
+  link: https://lazybear.io/
+  rss: https://lazybear.io/index.xml
+
+- name: Mike Stone
+  link: https://mikestone.me
+  rss: https://mikestone.me/feed.xml
+
+- name: moddedBear
+  link: https://moddedbear.com/
+  rss: https://moddedbear.com/index.xml
+
+- name: RL_Dane
+  link: https://rldane.space/
+  rss: https://rldane.space/index.php/feed
+
+- name: Rach Smith
+  link: https://rachsmith.com
+  rss: https://rachsmith.com/rss
+
+- name: Robert Winter
+  link: https://robert.winter.ink
+  rss: https://robert.winter.ink/feed
+
+- name: Ru Singh
+  link: https://rusingh.com
+  rss: https://rusingh.com/feed.xml
+
+- name: The Art Of Not Asking Why
+  link: https://taonaw.com
+  rss: https://taonaw.com/rss
+
+- name: www-gem
+  link: https://www-gem.bearblog.dev/
+  rss: https://www-gem.bearblog.dev/feed/
+
+
+

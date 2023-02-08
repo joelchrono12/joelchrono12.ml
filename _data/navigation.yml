@@ -2,15 +2,11 @@
   link: /blog/
 - name: Tags
   link: /tags/
-- name: Origami
-  link: /origami/
 - name: About
   link: /about/
 - name: Contact
   link: /contact/
 - name: Uses
   link: /uses/
-- name: Reading
-  link: /reading/
-- name: Projects
-  link: /projects/
+- name: More
+  link: /more/
