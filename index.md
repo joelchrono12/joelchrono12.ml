@@ -1,10 +1,12 @@
 ---
 title: Home | joelchrono12
 header: Welcome to my digital garden
-description: Hello! I am Joel, you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href='/origami/'>origami</a>. I hope you enjoy your visit!
+description: Ramblings and thoughts about tech, free software, and hobbies of my life, shared bit by bit.
 permalink: /
 layout: default
 ---
+
+I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href='/origami/'>origami</a>. I hope you enjoy your visit!
 
 # Latest blogs 
 
