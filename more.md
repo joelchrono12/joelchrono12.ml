@@ -18,7 +18,7 @@ layout: default
 
 - **[Blogroll.org](https://blogroll.org/)**: Kind of like the blogroll I have but on a much bigger scale, go add yours to the list!
 - **[Tildeverse](https://tildeverse.org/)**: If you want to learn about using SSH, join a tilde! Free access to a community server, you usually get an email and simple web hosting too.
-- **[562kb.club](https://512kb.club)**: Is your website light enough? Join me and others to this club!
+- **[512kb.club](https://512kb.club)**: Is your website light enough? Join me and others to this club!
 - **[100DaysToOffload](https://100daystooffload.com)**: The challenge that got me started with blogging on a regular basis, I've beaten it once already!
 - **[Wiby.me](https://wiby.me/)**: An old school search engine with websites submitted by humans. Full of classic and beautiful websites to explore.
 
