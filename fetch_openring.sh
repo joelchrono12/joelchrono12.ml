@@ -6,6 +6,7 @@ openring \
 -s https://bbbhltz.codeberg.page/rss.xml \
 -s https://www.bjoreman.com/rss.rss \
 -s https://nayak.io/index.xml \
+-s https://www.thiswildcuriosity.com/feed/ \
 -s https://rachsmith.com/rss/ \
 -s https://www-gem.bearblog.dev/feed/ \
 -s https://moddedbear.com/blog/index.xml\
