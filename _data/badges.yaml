@@ -1,0 +1,43 @@
+- text: "Member of the 512KB Club Green's team" 
+  url: "https://512kb.club"
+  src: "/assets/img/badges/512kb.gif"
+
+- text: "RSS feed"
+  url: "/feed.xml" 
+  src: "/assets/img/badges/rss.gif"  
+
+- text: "Join 100 Days To Offload with me!"
+  url: "https://100daystooffload.com"
+  src: "/assets/img/badges/100Days.gif"
+
+- text: "Anything but Chrome"
+  url: "https://firefox.com"
+  src: "/assets/img/badges/firefox4.gif"
+
+- text: "Follow me on Fosstodon!"
+  url: "https://fosstodon.org/@joel" 
+  src: "/assets/img/badges/mastodon_button_3.gif" 
+
+- text: "Wiby: the search engine for the classic web!"
+  url: "https://wiby.me" 
+  src: "/assets/img/badges/Wiby.gif" 
+
+- text: "Say no to web3"
+  url: "https://thewebisfucked.com" 
+  src: "/assets/img/badges/web3.gif" 
+
+- text: "Made with neovim"
+  url: "https://neovim.io" 
+  src: "/assets/img/badges/neovim.gif"
+
+- text: "Switch to Void Linux" 
+  url: "https://voidlinux.org" 
+  src: "/assets/img/badges/void.webp"
+
+- text: "Add my badge to your website! I'll add yours back!"
+  url: "https://joelchrono12.xyz"
+  src: "/assets/img/badges/joelchrono12.png"
+
+- text: "Join my Bookwyrm instance (Its not actually owned by me)" 
+  url: "https://bookrastinating.com" 
+  src: "/assets/img/badges/bookrastinating.png"

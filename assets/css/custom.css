@@ -120,6 +120,18 @@ main img{
   border-radius: 8px;
 }
 
+img.badge{
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
+    /*image-rendering: crisp-edges;*/
+    height: 31px;
+    opacity: 1;
+    border-radius: 0px;
+}
+
 code {
     font-size:16px;
     /* Word wrap is optional if you plan to have long inline code snippets */

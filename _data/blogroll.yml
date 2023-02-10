@@ -34,6 +34,10 @@
   link: https://odonnellweb.com/
   rss: https://odonnellweb.com/pelican/feeds/all.atom.xml
 
+- name: Dusan Mitrovic
+  link: https://dusanmitrovic.xyz/
+  rss: https://dusanmitrovic.xyz/rss
+
 - name: Heavy Consulting
   link: https://heavyconsulting.net/blog
   rss: https://heavyconsulting.net/blog/feed.atom
