@@ -8,7 +8,7 @@ layout: post
 date: 2023-02-09 21:34:02 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109838668051985107
 image: "/assets/img/blogs/2023-02-09-badges.jpg"
 ---
 
