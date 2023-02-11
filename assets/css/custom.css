@@ -73,6 +73,7 @@ a:hover {
         background-size: cover;
         background-attachment: fixed;
         background-position: center center;
+        background-color: var(--bg);
     color:var(--text); }
     a {color: var(--accent);}
     a:visited {color: var(--accent);}
