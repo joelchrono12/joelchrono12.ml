@@ -9,7 +9,7 @@ date: 2023-02-10 22:24:08 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
-image: "/home/chrono/git/joelchrono12.ml/assets/img/blogs/2023-02-09-redesign1.webp"
+image: "/assets/img/blogs/2023-02-09-redesign1.webp"
 ---
 
 Alright, so, again, inspired by many of the websites I saw during my tour of the indie web and the like. I revamped my website quite a bit, changing some things, making it more fun and personal for me.
