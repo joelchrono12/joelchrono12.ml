@@ -1,5 +1,5 @@
 {% for item in site.data.badges %}
-<a href={{ item.url }} target="_blank"><img src={{ item.src }} class="badge" alt={{ item.text }}></a>
+<a href={{ item.url }} target="_blank"><img title="{{ item.text }}" src={{ item.src }} class="badge" alt="{{ item.text }}"></a>
 {% endfor %}
 
 <!--<a href="https://512kb.club" target="_blank"><img alt="Member of the 512KB Club Green's team" src="/assets/img/badges/512kb.gif" /></a> -->

@@ -7,19 +7,19 @@ layout: default
 {% capture time_words %}
 {{count_words | divided_by: 5}}
 {% endcapture %}
-<small>Published {{ page.date | date_to_string }}, {{ count_words }} words, ~{{ time_words | divided_by: 60 }} min. read.
-    <br> Tags:</small>
-<small class="scrollmenu">
+<div class="wrapper blog-data">
+	<span>📆 {{ page.date | date_to_string }}</span><span> 🔖 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
+	<span>🏷️ 
 	{% for tag in page.tags %}
-	<a href="/tags/{{ tag }}">{{ tag }}</a> |
+	<a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>
 	{% endfor %}
-</small>
-
-<hr>
+	</span>
+</div>
+<div class="wrapper">
 
 {{ content }}
 
-<hr>
+</div>
 
 <p>If you have something to say, leave a comment, or <a href="/contact">contact me</a> ✉️ instead</p>
 

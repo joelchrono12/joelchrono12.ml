@@ -6,20 +6,31 @@ permalink: /
 layout: default
 ---
 
-I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href='/origami/'>origami</a>. I hope you enjoy your visit!
+<div markdown="1" class="wrapper">
 
-# Latest blogs 
+I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is [origami](/origami). I hope you enjoy your visit!
 
-
-<div class="posts">
-{% for post in site.posts limit:5 %}
-<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
-{% endfor %} 
 </div>
+
+
+# Latest blogs
+
+<!--<div markdown="1" class="wrapper">-->
+{% for post in site.posts limit:3 %}
+<div class="posts wrapper">
+<a class="post" href="{{ post.url }}">
+<h3 class="post-title">{{ post.title }}</h3>
+<span class="post-date">{{ post.date | date: "%b %d" }}</span>
+</a>
+<p>{{ post.excerpt }}
+</p>
+</div>
+{% endfor %} 
 <p style="text-align: right" ><a href="/blog">View full archive</a></p>
-<!--<hr>-->
+<!--</div>-->
 
 # Support me
+<div markdown="1" class="wrapper">
 
 You can support me in many ways, either via [Paypal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW) or [Liberapay](https://liberapay.com/joelchrono12/donate), as well as other options like cryptocurrencies.
 
@@ -40,3 +51,4 @@ If you want to, I guess Bitcoin is fine too:
 bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
 </pre>
 </details>
+</div>

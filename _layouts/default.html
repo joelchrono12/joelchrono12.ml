@@ -9,6 +9,7 @@
       <!--<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">-->
       <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/feed.xml">
       <link rel="stylesheet" href="/assets/css/custom.css">
+      <!--<link rel="stylesheet" href="/assets/css/style.css">-->
       <link rel="icon" href="/assets/img/favicon.png" />
       {% if page.image %}
       <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
@@ -38,16 +39,14 @@
           {{ content }}
 
       </main>
-      <!--<hr>-->
+      <hr>
      <section id="sidebar">
-          <hr><center>
-          {% include links.html %}
+          <center>
+          <!--{% include links.html %}-->
+          {% include badges_footer.html %}
           </center>
-          <!--<hr>-->
-          {% include out.html %}
-
-          <!--<hr>-->
           {% include recentposts.html %}
+          {% include out.html %}
       </section>
       <footer>
         <center>
@@ -62,11 +61,9 @@
             <a href="https://xn--sr8hvo.ws">IndieWeb</a> 🕸💍
             <a href="https://xn--sr8hvo.ws/%F0%9F%8D%8B%F0%9F%8C%8A%F0%9F%91%B6/next">→</a>
           </p>
-          {% include badges_footer.html %}
           <small>
-
           <p>This site was created by <a rel="me" href="https://fosstodon.org/@joel">joelchrono12</a> and was made using <a href="https://jekyllrb.com">Jekyll</a>.</p>
-          <p>This blog is licensed under <b>CC BY-SA 4.0</b> unless otherwise stated.</p>
+          <!--<p>This blog is licensed under <b>CC BY-SA 4.0</b> unless otherwise stated.</p>-->
           <p><a class="button" href="#top">Back to top</a></p>
           </small>
         </center>

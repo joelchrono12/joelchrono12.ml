@@ -11,7 +11,7 @@ username: joel
 com_id: 109826485975096955
 ---
 
-Every once in a while my website layout or design has to change. This time it was a relatively simple change.
+Every once in a while my website layout or design has to change. This time it was a relatively simple one, but still worth noting.
 
 First of all, I added my own __[blogroll](/blogroll/)__, where I will feature some of my favorite websites and blogs I follow, usually via RSS. A few of them are also doing [#100DaysToOffload](https://100daystooffload.com) like me!
 
