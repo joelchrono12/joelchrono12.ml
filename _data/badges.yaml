@@ -34,10 +34,10 @@
   url: "https://voidlinux.org" 
   src: "/assets/img/badges/void.webp"
 
-- text: "Add my badge to your website! I'll add yours back!"
-  url: "https://joelchrono12.xyz"
-  src: "/assets/img/badges/joelchrono12.png"
-
 - text: "Join my Bookwyrm instance (Its not actually owned by me)" 
   url: "https://bookrastinating.com" 
   src: "/assets/img/badges/bookrastinating.png"
+
+- text: "This blog is licensed under CC BY-SA 4.0 unless otherwise stated."
+  url: "https://creativecommons.org/licenses/by-sa/4.0/"
+  src: "/assets/img/badges/cc_by_sa.png"

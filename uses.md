@@ -7,9 +7,15 @@ description: This page is a quick overview of the tech I love and use, which ser
 permalink: /uses/
 ---
 
-**Last updated: December 22th 2022**
+**Last updated: February 10, 2023**
 
 # Software
+
+<div class="wrapper" markdown=1>
+
+I split this section between desktop (mostly Free Software and available on Linux), android apps and also cross-platform.
+
+## Desktop
 
 - [Void Linux](https://voidlinux.org/), a unique distro that is not a fork, its super light, fast and customizable.
 - [Neovim](https://neovim.io/): A terminal text editor where I write my blogs, edit files and scripts.
@@ -23,15 +29,6 @@ permalink: /uses/
 - [Pass](https://passwordstore.org): Minimal password manager that I still use with some scripts.
 - [Pcmanfm](https://wiki.archlinux.org/title/PCManFM): Simple graphical file manager.
 - [khard](https://github.com/lucc/khard), [khal](https://lostpackets.de/khal/), [vdirsynced](https://github.com/pimutils/vdirsyncer): Contacts and calendar CLIs that can sync via DAV.
-
-## Cross-platform software
-- [ActivityWatch](https://activitywatch.net): A great tool to keep track of your desktop and android usage
-- [Element](https://element.io): The only Matrix client that it's worth using.
-- [Joplin](https://joplinapp.com): Cross-platform Markdown note taking app.
-- [KDEConnect](https://kdeconnect.kde.org/): Great tool to connect my phone and computer.
-- [Syncthing](https://syncthing.org): Sync files accross multiple devices.
-<!--- [GNU Image Manipulator Program](https://gimp.org/): An image editor similar to Photoshop.-->
-
 
 ## Android only
 - [CrDroid](https://crdroid.net): A custom rom for Android devices.
@@ -48,6 +45,15 @@ permalink: /uses/
 <!--- [GadgetBridge](https://gadgetbridge.org/): Connect with my smartwatch without giving away my data.-->
 <!--- [FitoTrack](https://codeberg.org/jannis/FitoTrack): A fitness tracker, integrates with GadgetBridge.-->
 
+## Cross-platform software
+
+- [ActivityWatch](https://activitywatch.net): A great tool to keep track of your desktop and android usage
+- [Element](https://element.io): The only Matrix client that it's worth using.
+- [Joplin](https://joplinapp.com): Cross-platform Markdown note taking app.
+- [KDEConnect](https://kdeconnect.kde.org/): Great tool to connect my phone and computer.
+- [Syncthing](https://syncthing.org): Sync files accross multiple devices.
+- [GNU Image Manipulator Program](https://gimp.org/): An image editor similar to Photoshop.
+
 ## Self-hosted
 
 - [YunoHost](https://yunohost.org): the current distro on my Raspberry Pi that houses my services.
@@ -55,8 +61,11 @@ permalink: /uses/
 - [Jellyfin](https://jellyfin.org) A pretty good media management server.
 - [Komga](https://komga.org): A media server with a focus on Manga and comics.
 - [Nextcloud](https://nextcloud.com): A self-hosted cloud with a lot of extensions too, like syncing my podcasts and such.
+- [The Lounge](https://thelounge.chat/): IRC web client that stays online, so it keeps the chat history and the like.
 
+</div>
 # Hardware
+<div class="wrapper" markdown=1>
 
 My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these specs:
 
@@ -74,6 +83,7 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 - Phone: Xiaomi Redmi Note 8
 - Earphones: Sony WF-C500
 - Microcomputer: Raspberry Pi 4B 8GB
+</div>
 
 <!--# Previously used-->
 

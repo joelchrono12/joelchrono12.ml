@@ -6,6 +6,7 @@ permalink: /projects/
 layout: default
 ---
 
+<div class="wrapper" markdown="1">
 * [FreshRSS Nord's Theme](https://github.com/joelchrono12/freshrss-nord-theme)  
     A simple, basic theme you can work on top of to have the Nord color scheme in your FreshRSS instance. WIP.
 * [Arcticons Icon Pack](https://github.com/Donnnno/Arcticons)  
@@ -18,3 +19,4 @@ layout: default
     Yet another 2D platformer, but you have to complete the levels in 12 seconds or less, how? By stopping time!, how? by hanging on... cliffs?
 * [Only Spaceship](https://joelchrono12.itch.io/only)  
     A rushed out game that is kinda wonky and broken. A spaceshooter where you survive as long as its not unfair.
+</div>

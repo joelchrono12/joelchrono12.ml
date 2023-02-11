@@ -1,14 +1,16 @@
-<div class="widget-area">
+<!--<div class="widget-area">-->
     {% if page.permalink != '/' and page.permalink != '/blog/'%}
-    <div class="col-left">
-        <section class="box">
-            <h2>Recent Posts</h2>
-            <ul>
+    <!--<div class="col-left">-->
+        <!--<section class="box">-->
+            <h3>Recent Posts</h3>
+            <ul class="wrapper">
             {% for post in site.posts limit:4 %}
+            {% if page.title != post.title %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
             {% endfor %}
-            <ul>
-        </section>
-    </div>
+            </ul>
+        <!--</section>-->
+    <!--</div>-->
     {% endif %}
-</div>
+<!--</div>-->

@@ -7,7 +7,11 @@ layout: default
 ---
 
 
+- ✉️ **[Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
 
+# Instant Messaging
+
+<div class="wrapper" markdown="1">
 
 - 🗨️ **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and faster than Matrix, in my experience. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly.
     <details>
@@ -23,8 +27,6 @@ layout: default
     b065a3e7 1f4c7765 0049a88eb 9af425e
     </pre>
     </details>
-- 🐘 **[Mastodon](https://fosstodon.org/@joel)** - This is my main social media presence, I post often and I am quite active. You are probably already following me if you are in this website, but if you arent, make sure to do so!
-- ✉️ **[Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
 - 💬 **[Threema](https://threema.id/WKM6NCSE)** - As of beginnings of 2023, Threema was a bit of a rough spot, but according to them, [everything has been resolved](https://threema.ch/en/blog/posts/news-alleged-weaknesses-statement), and I quite like Threema, to be honest. If it wasn't for it being paid, it would be number 1 for me. If you have it, let's talk!
 - **✉️ [Signal](https://signal.org/es/download/)** - I use Signal for more private and comfortable communication. Ask me for my number via any of the other encrypted ways you can contact me.
 
@@ -33,4 +35,13 @@ layout: default
 <!--- **🕹 [Itch.io](https://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.-->
 <!--- **💻 [GitHub](https://github.com/joelchrono12)** - Here you can check out some of my projects, there are not a lot, but I still would love to try stuff out and contribute however I can. I have done a lot of icons for the Arcticons icon pack.-->
 
+</div>
 
+# Social Networks
+
+<div class="wrapper" markdown="1">
+- 🐘 **[@joel@fosstodon.org](https://fosstodon.org/@joel)** - This is my main social media presence, I post often and I am quite active. You are probably already following me if you are in this website, but if you arent, make sure to do so!
+- 🐘 **[@joel@misskey.ai](https://misskey.ai/@joel)** - I love misskey, I don't use this account much, so treat is as a backup, I'll use it sometimes if I feel like it.
+- 🐘 **[@joelchrono12@linuxrocks.online](https://linuxrocks.online/@joelchrono12)** - Mastodon account, backup whenever Fosstodon fails from time to time.
+- 📖 **[@joel@boorkastinating.com](https://bookrastinating.com/@joel)** - This is a website to keep track of my read books and stuff, it also happens to be a federated social network.
+</div>

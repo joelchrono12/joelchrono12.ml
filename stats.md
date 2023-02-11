@@ -5,9 +5,14 @@ header: Statistics
 description: Statistics such as posts count and word count, etc.
 permalink: /stats/
 ---
-I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why not, he probably got them from somewhere else, viva Open Source!
 
-## General stats
+<div class="wrapper" markdown="1">
+I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why not, he probably got them from somewhere else, viva Open Source!
+</div>
+
+# General stats
+<div class="wrapper" markdown="1">
+
 	{% assign totalWords = 0 %}
 	{% assign dateOb = '' %}
 
@@ -24,7 +29,10 @@ I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why n
 **Average words per post:** {{ avgWords }} <br>
 **Total tags:** {{ site.tags.size }}
 
-## Posts by year
+</div>
+
+# Posts by year
+<div class="wrapper" markdown="1">
 <ul class="posts">
   {% assign posts_per_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for post in site.posts %}
@@ -37,11 +45,14 @@ I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why n
     {% assign last_year = year %}
   {% endfor %}
 </ul>
+</div>
 
-## Tag cloud
+# Tag cloud
+<div class="wrapper" markdown="1">
 <center>
 {% for tag in site.tags %}
 <a href="/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.1;font-size: {{ tag[1] | size | times: 1.3 | plus: 12 }}px;">{{ tag[0] }}</a> 
 {% endfor %}
 </center>
 
+</div>

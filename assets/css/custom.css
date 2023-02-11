@@ -62,15 +62,30 @@ a:hover {
 }
 /* Dark mode */
 /*@media (prefers-color-scheme: dark) {*/
-    @media not print {
-        html {
-        background:var(--bg);
-         color:var(--text); }
-        a {color: var(--accent);}
-        a:visited {color: var(--accent);}
-        a:hover,a:focus{color: var(--accent-light);}
-    }
+@media not print {
+    html {
+        background:
+        /* top, transparent black, faked with gradient */ 
+        linear-gradient(
+        rgba(0, 0, 0, 0.6), 
+        rgba(0, 0, 0, 0.6)
+        ),url("/assets/img/bg_slow.webp");
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center center;
+    color:var(--text); }
+    a {color: var(--accent);}
+    a:visited {color: var(--accent);}
+    a:hover,a:focus{color: var(--accent-light);}
+}
 /*}*/
+@media (prefers-reduced-motion) {
+    html{
+        background:var(--bg);
+    }
+  /* styles to apply if the user's settings are set to reduced motion */
+}
+
 
 
 
@@ -120,6 +135,20 @@ main img{
   border-radius: 8px;
 }
 
+
+.wrapper{
+    background-color: var(--code-bg);
+    padding: .1rem 1rem;
+    padding-bottom: .7rem;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+ul.wrapper{
+    padding-left: 2rem;
+
+}
+
+
 img.badge{
     image-rendering: -moz-crisp-edges;
     image-rendering: -moz-crisp-edges;
@@ -134,11 +163,10 @@ img.badge{
 
 code {
     font-size:16px;
-    /* Word wrap is optional if you plan to have long inline code snippets */
     word-wrap:break-word;
 }
 pre {
-    background-color: var(--code-bg);
+    background-color: var(--bg);
     /*background-color: var(232433);*/
     color: #d8dee9;
     border-radius: 8px;
@@ -211,6 +239,37 @@ input[type="button"] {
   padding: .7rem .9rem;
   margin: .5rem .1rem;
   transition: .4s;
+}
+
+
+.blog-data span {
+    display: block;
+}
+
+@media screen and (min-width: 600px) {
+    .blog-data{
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+
+.tag, .tag:visited {
+  border: none;
+  border-radius: 5px;
+  background: var(--border);
+  font-size: 1rem;
+  color: var(--bg);
+  text-decoration: none;
+  text-align: center;
+  padding: .1rem .3rem;
+  margin: .5rem .1rem;
+  transition: .2s;
+}
+.tag:hover {
+  color: var(--border);
+  background: var(--bg);
+  transition: .2s;
 }
 
 .button{
@@ -308,7 +367,7 @@ a.post .post-date {
 
 a.post:hover{
     transition: .2s;
-    background-color: var(--code-bg);
+    background-color: var(--bg);
     border-radius: 8px;
 }
 

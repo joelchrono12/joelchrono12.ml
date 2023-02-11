@@ -6,13 +6,16 @@ permalink: /blogroll/
 layout: default
 ---
 
+<div class="wrapper" markdown="1">
 I follow a lot of websites via RSS, so I decided to do a quick list of the personal blogs and digital gardens I enjoy reading whenever they appear on my feed.
 
 I will try to categorize them further in the future, but for now this will do.
 
-Last updated: 2023-02-10
+__Last updated: 2023-02-10__
+</div>
 
-## My blogroll
+# My blogroll
+<div class="wrapper" markdown="1">
 
 <ul>
 {% for item in site.data.blogroll %}
@@ -20,7 +23,10 @@ Last updated: 2023-02-10
 <li><a href="{{item.link}}"><b>{{ item.name }}</b></a> - <a class="post-date" href="{{ item.rss }}">RSS Feed</a></li>
 {% endfor %}
 </ul>
-## Featured buttons
+</div>
+# Featured buttons
+
+<div class="wrapper" markdown="1">
 
 These blogs and personal websites have cool buttons, so I added them. Send me your button and I'll add it too!
 
@@ -40,5 +46,5 @@ Feel free to add my button to your site using this snippet (do not [hotlink](htt
 ```html
 <a href="https://joelchrono12.xyz" target="_blank"><img alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12_2.gif"/></a>
 ```
-
+</div>
 
