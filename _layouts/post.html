@@ -8,7 +8,7 @@ layout: default
 {{count_words | divided_by: 5}}
 {% endcapture %}
 <div class="wrapper blog-data">
-	<span>📆 {{ page.date | date_to_string }}</span><span> 🔖 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
+	<span>📆 {{ page.date | date_to_string }}</span><span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
 	<span>🏷️ 
 	{% for tag in page.tags %}
 	<a class="tag" href="/tags/{{ tag }}">{{ tag }}</a>

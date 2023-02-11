@@ -81,7 +81,7 @@ a:hover {
 }
 /*}*/
 @media (prefers-reduced-motion) {
-    html{
+    body{
         background:var(--bg);
     }
   /* styles to apply if the user's settings are set to reduced motion */
