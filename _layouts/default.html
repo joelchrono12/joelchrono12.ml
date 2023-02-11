@@ -20,13 +20,14 @@
       {% endif %}
   </head>
   <body>
+    <button style="position:fixed; top:20px; right:20px; text-align:center; box-shadow: 2px 2px 3px #999;"class="button js" id="toggleButton" onclick="toggleAnimation()">Toggle Animated BG</button>
+
     <header>
       <center class="home-top"><a href="/">
           <img width="100px" class="logo" src="/assets/img/logo.svg" alt="~joelchrono12">
         </a></center>
         <center>
           {% include navigation.html %}
-          <button class="tag js" id="toggleButton" onclick="toggleAnimation()">Toggle Animated BG</button>
         </center>
         <script src="/assets/js/toggleAnimation.js"></script>
         <noscript>

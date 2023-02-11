@@ -11,10 +11,10 @@ function setAnimation(animate) {
   let toggleButton = document.getElementById("toggleButton");
   if (animate === 'true') {
     document.body.style.removeProperty('background-image');
-    toggleButton.innerHTML = "Disable Animation";
+    toggleButton.innerHTML = "Motion ON";
   } else {
     document.body.style.backgroundImage="url('/assets/img/bg_slow_still.webp')";
-    toggleButton.innerHTML = "Enable Animation";
+    toggleButton.innerHTML = "Motion OFF";
   }
 }
 

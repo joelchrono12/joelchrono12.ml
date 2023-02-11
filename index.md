@@ -6,16 +6,27 @@ permalink: /
 layout: default
 ---
 
-<div markdown="1" class="wrapper">
-
-I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is [origami](/origami). I hope you enjoy your visit!
-
+<div markdown="1" class="blog-data">
+  <div class="wrapper" style="margin: 1rem;">
+    <p>
+    I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href="/origami"> origami</a>. 
+    I hope you enjoy your visit!
+    </p>
+  </div>
+  <div class=wrapper style="min-width: 40%; margin: 1rem; padding: 1rem;" >
+    <img style="opacity: 1;" src="/assets/img/chill_chrono_trigger.gif">
+  </div>
 </div>
 
 
-# Latest blogs
+
+<div class="blog-data" style="padding-bottom: .5rem;align-items: first baseline;">
+<h1>Latest blogs</h1>
+<a class=button href="/blog">Full archive</a>
+</div>
 
 <!--<div markdown="1" class="wrapper">-->
+
 {% for post in site.posts limit:3 %}
 <div class="posts wrapper">
 <a class="post" href="{{ post.url }}">
@@ -26,7 +37,6 @@ I am Joel, hi! you are visiting my personal website. Here you can see some of my
 </p>
 </div>
 {% endfor %} 
-<p style="text-align: right" ><a href="/blog">View full archive</a></p>
 <!--</div>-->
 
 # Support me
