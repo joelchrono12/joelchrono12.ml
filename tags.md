@@ -17,7 +17,7 @@ layout: default
 
 ## By alphabetical order
 
-<div class="posts">
+<div class="wrapper posts" style="background-color: var(--bg);">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
@@ -31,7 +31,7 @@ layout: default
 
 ## By post quantity
 
-<div class="posts">
+<div class="wrapper posts" style="background-color: var(--bg);">
 {% capture tags %}
 {% for tag in site.tags %}
 {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}

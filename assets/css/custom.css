@@ -69,7 +69,7 @@ a:hover {
         linear-gradient(
         rgba(0, 0, 0, 0.6), 
         rgba(0, 0, 0, 0.6)
-        ),url("/assets/img/chronotrigger_warp_slow2.gif");
+        ),url("/assets/img/bg_slow.webp");
         background-size: cover;
         background-attachment: fixed;
         background-position: center center;
@@ -246,7 +246,7 @@ input[type="button"] {
     display: block;
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 600px) {
     .blog-data{
         display: flex;
         justify-content: space-between;
@@ -367,7 +367,7 @@ a.post .post-date {
 
 a.post:hover{
     transition: .2s;
-    background-color: var(--code-bg);
+    background-color: var(--bg);
     border-radius: 8px;
 }
 

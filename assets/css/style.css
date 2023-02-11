@@ -1,0 +1,37 @@
+@media (prefers-color-scheme: dark) {
+    body{background:#1a1b26;filter:invert(1);}
+    img,.cp_embed_wrapper,pre{filter:invert(1);}
+}
+
+*{
+  font-family: "mononoki Nerd Font";
+}
+
+body{
+  margin: 0 auto;
+  max-width: 45rem;
+}
+
+img{
+  max-width: 40rem;
+}
+img.badge{
+  height: 31px;
+}
+
+code {
+    font-size:16px;
+    /* Word wrap is optional if you plan to have long inline code snippets */
+    word-wrap:break-word;
+}
+pre {
+    background-color: #24283b;
+    /*background-color: var(232433);*/
+    color: #d8dee9;
+    border-radius: 8px;
+    overflow:auto;
+    line-height: 1.245rem;
+    padding: 1rem;
+}
+
+
