@@ -8,11 +8,15 @@ layout: post
 date: 2023-02-10 22:24:08 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109846493956959761
 image: "/assets/img/blogs/2023-02-09-redesign1.webp"
 ---
 
+
 Alright, so, again, inspired by many of the websites I saw during my tour of the indie web and the like. I revamped my website quite a bit, changing some things, making it more fun and personal for me.
+
+> UPDATE: 
+> For the sake of accessibility, I added a button that uses javascript to disable the animation. Other metods to do so without it are mentioned below
 
 I spent so much time doing so many changes and fixes, that I am honestly too tired to do a proper explanation of everything I did. I was also so lazy that I worked on a single commit all the time just amending the changes I was doing on it. Don't worry, I also did a good branch to test all the changes being done. I kind of want to figure out how to merge certain commits to a different branch and such, to, for example, move this article to a different branch but not move all the CSS and layout changes I've done.
 

@@ -63,7 +63,7 @@ a:hover {
 /* Dark mode */
 /*@media (prefers-color-scheme: dark) {*/
 @media not print {
-    html {
+    body {
         background:
         /* top, transparent black, faked with gradient */ 
         linear-gradient(

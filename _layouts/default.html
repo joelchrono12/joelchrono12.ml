@@ -29,7 +29,32 @@
           <!--<hr>-->
           <center>
           {% include navigation.html %}
+          <button id="js" class="js" onclick="changeColor()">Toggle background animation (WIP)</button>
           </center>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function(){
+        const isGrey = localStorage.getItem('noAnimation')
+        if (isGrey) {
+          document.body.style.backgroundImage="url('/assets/img/bg_slow_still.webp')";
+        }
+      });
+
+      function changeColor() {
+        localStorage.setItem('noAnimation', true)
+        document.body.style.backgroundImage="url('/assets/img/bg_slow_still.webp')";
+      }
+
+    </script>
+    <noscript>
+      <style>
+      button.js {display:none;}
+      </style>
+      <small>If you wish to disable the animation background you can do it easily with javascript. You can block media elements with UBlock origin or do it <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion#user_preferences">manually</a></small>
+    </noscript>
+
+
+
           <!--<hr>-->
           <h1>{{ page.header }}</h1>
           <p>{{ page.description }}</p>
