@@ -13,7 +13,7 @@ function setAnimation(animate) {
     document.body.style.removeProperty('background-image');
     toggleButton.innerHTML = "Motion ON";
   } else {
-    document.body.style.backgroundImage="url('/assets/img/bg_slow_still.webp')";
+    document.body.style.backgroundImage="none";
     toggleButton.innerHTML = "Motion OFF";
   }
 }
