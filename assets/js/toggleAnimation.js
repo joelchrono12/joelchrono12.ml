@@ -11,10 +11,10 @@ function setAnimation(animate) {
   let toggleButton = document.getElementById("toggleButton");
   if (animate === 'true') {
     document.body.style.removeProperty('background-image');
-    toggleButton.innerHTML = "Motion ON";
+    toggleButton.innerHTML = "BG: ON";
   } else {
     document.body.style.backgroundImage="none";
-    toggleButton.innerHTML = "Motion OFF";
+    toggleButton.innerHTML = "BG: OFF";
   }
 }
 

@@ -42,23 +42,22 @@ layout: default
 # Support me
 <div markdown="1" class="wrapper">
 
-You can support me in many ways, either via [Paypal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW) or [Liberapay](https://liberapay.com/joelchrono12/donate), as well as other options like cryptocurrencies.
+You can support me in many ways, either via 
 
-This site also is [verified with Brave Rewards](https://brave.com/), so it's the easiest way to help me out, you can tip me some BAT by enabling the option on your browser.
+<a class="button" href="https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW">Paypal</a>
+<a class="button" href="https://liberapay.com/joelchrono12/donate">Liberapay</a>
+<a class="button" href="https://ko-fi.com/joelchrono12">Ko-Fi</a>
+
+I don't use crypto personally, but if you want to give me some, there is the option too. My domain provider actually lets me renew it with that! So it doesn't go to waste :P
+
+This site also is [verified with Brave Rewards](https://brave.com/), so it's the easiest way to help me out, even if it doesn't really have any value lol. You can tip me some BAT by enabling the option on your browser.
 
 <details>
 <summary>Monero</summary>
-You can also <b>tip me with Monero</b> if you want something anonymous and privacy respecting!
+I only use <b>Monero</b> since at least its something anonymous and privacy respecting!
 <pre>
 45Y7FRc1SfrB8YsoJKnoWqTxRaLdFRghaB5EvVaLhs3BMmr3mT5jsooKVVefyF6m4Hg3CyM24q7Ck6TrnbhWmmEMLVJmc1e
 </pre>
 <center><img src="./assets/img/monero"/></center>
-</details>
-<details>
-<summary>Bitcoin</summary>
-If you want to, I guess Bitcoin is fine too:
-<pre>
-bc1qhgpzq9x3lvnzm5nszqwr8a38mhcnu5y9vg3uhf
-</pre>
 </details>
 </div>

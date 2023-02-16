@@ -69,7 +69,7 @@ a:hover {
         linear-gradient(
         rgba(0, 0, 0, 0.6), 
         rgba(0, 0, 0, 0.6)
-        ),url("/assets/img/bg_slow.webp");
+        ),url("/assets/img/hd_bg.webp");
         background-size: cover;
         background-attachment: fixed;
         background-position: center center;
