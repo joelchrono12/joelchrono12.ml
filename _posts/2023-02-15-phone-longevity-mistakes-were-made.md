@@ -8,7 +8,7 @@ layout: post
 date: 2023-02-15 21:52:57 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 109872733929331743
 image: "/assets/img/blogs/2023-02-15-phone-charging.webp"
 ---
 
