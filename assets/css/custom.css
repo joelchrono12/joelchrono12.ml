@@ -64,16 +64,11 @@ a:hover {
 /*@media (prefers-color-scheme: dark) {*/
 @media not print {
     body {
-        background:
-        /* top, transparent black, faked with gradient */ 
-        linear-gradient(
-        rgba(0, 0, 0, 0.6), 
-        rgba(0, 0, 0, 0.6)
-        ),url("/assets/img/hd_bg.webp");
-        background-size: cover;
-        background-attachment: fixed;
-        background-position: center center;
         background-color: var(--bg);
+        /*background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)),url("/assets/img/hd_bg.webp");*/
+        /*background-size: cover;*/
+        /*background-attachment: fixed;*/
+        /*background-position: center center;*/
     color:var(--text); }
     a {color: var(--accent);}
     a:visited {color: var(--accent);}
@@ -84,13 +79,7 @@ a:hover {
     body{
         background:var(--bg);
     }
-  /* styles to apply if the user's settings are set to reduced motion */
 }
-
-
-
-
-/*html {font-size: 100%;} [>16px<]*/
 
 body {
     font-family: var(--sans-font);
@@ -136,7 +125,6 @@ main img{
   border-radius: 8px;
 }
 
-
 .wrapper{
     background-color: var(--code-bg);
     padding: .1rem 1rem;
@@ -148,7 +136,6 @@ ul.wrapper{
     padding-left: 2rem;
 
 }
-
 
 img.badge{
     image-rendering: -moz-crisp-edges;
@@ -185,19 +172,11 @@ table th, table td {
     padding: 10px 20px;
 }
 table td span {
-    /*color: dimgrey;*/
-    /*display: none;*/
-    /*font-size: 10px;*/
-    /*font-weight: bold;*/
     padding: 5px;
-    /*position: absolute;*/
 }
 
 /* Format tables */
 table {
-  /*border-collapse: collapse;*/
-  /*display: block;*/
-  /*margin: 1.5rem 0;*/
   overflow: auto;
   width: 100%;
   border-radius: 13px;
@@ -217,7 +196,6 @@ th {
 }
 
 tr:nth-child(even) {
-  /* Set every other cell slightly darker. Improves readability. */
   background: var(--code-bg);
 }
 

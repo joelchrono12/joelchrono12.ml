@@ -1,6 +1,6 @@
 - text: "Member of the 512KB Club Green's team" 
   url: "https://512kb.club"
-  src: "/assets/img/badges/512kb.gif"
+  src: "/assets/img/badges/512kb.webp"
 
 - text: "RSS feed"
   url: "/feed.xml" 
@@ -8,19 +8,19 @@
 
 - text: "Join 100 Days To Offload with me!"
   url: "https://100daystooffload.com"
-  src: "/assets/img/badges/100Days.gif"
+  src: "/assets/img/badges/100days.webp"
 
 - text: "Anything but Chrome"
   url: "https://firefox.com"
-  src: "/assets/img/badges/firefox4.gif"
+  src: "/assets/img/badges/firefox.webp"
 
-- text: "Follow me on Fosstodon!"
-  url: "https://fosstodon.org/@joel" 
-  src: "/assets/img/badges/mastodon_button_3.gif" 
+- text: "Join me on the Fediverse!"
+  url: "https://fediverse.party" 
+  src: "/assets/img/badges/fediverse.png" 
 
 - text: "Wiby: the search engine for the classic web!"
   url: "https://wiby.me" 
-  src: "/assets/img/badges/Wiby.gif" 
+  src: "/assets/img/badges/wiby.webp" 
 
 - text: "Say no to web3"
   url: "https://thewebisfucked.com" 

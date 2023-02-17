@@ -6,17 +6,17 @@ permalink: /
 layout: default
 ---
 
-<div markdown="1" class="blog-data">
-  <div class="wrapper" style="margin: 1rem;">
-    <p>
-    I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href="/origami"> origami</a>. 
-    I hope you enjoy your visit!
-    </p>
-  </div>
-  <div class=wrapper style="min-width: 40%; margin: 1rem; padding: 1rem;" >
-    <img style="opacity: 1;" src="/assets/img/chill_chrono_trigger.gif">
-  </div>
+<!--<div markdown="1" class="blog-data">-->
+<div class="wrapper">
+  <p>
+  I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href="/origami"> origami</a>. 
+  I hope you enjoy your visit!
+  </p>
 </div>
+  <!--<div class=wrapper style="min-width: 40%; margin: 1rem; padding: 1rem;" >-->
+    <!--<img style="opacity: 1;" src="/assets/img/chill_chrono_trigger.gif">-->
+  <!--</div>-->
+<!--</div>-->
 
 
 
