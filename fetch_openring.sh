@@ -4,6 +4,7 @@ openring \
 -s https://lazybear.io/index.xml \
 -s https://mattthequick.bearblog.dev/feed/ \
 -s https://bbbhltz.codeberg.page/rss.xml \
+-s https://taonaw.com/feed.xml \
 -s https://www.bjoreman.com/rss.rss \
 -s https://nayak.io/index.xml \
 -s https://www.thiswildcuriosity.com/feed/ \
