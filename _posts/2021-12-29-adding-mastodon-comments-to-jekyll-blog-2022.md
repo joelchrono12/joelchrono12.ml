@@ -15,7 +15,7 @@ As it usually is, I have already talked about this topic before, but I recently
 did some changes both to the code and the styling of it, to make it better than
 before, if I do say so myself.
 
-First of all, I am going to credit every source of inspiration I got this from.
+First, I am going to credit every source of inspiration I got this from.
 The original form of my commenting system was based on GitHub, I got it from
 [an amazing post](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
 by [Aristath](https://github.com/aristath). This is where most of my
@@ -28,21 +28,17 @@ in [Carl Schwan's post about it](https://carlschwan.eu/2020/12/29/adding-comment
 
 After a while, Mastodon comments proved to be a lot more common and easy to set
 up, and I eventually stopped using GitHub, because it also required quite a lot
-of steps to setup, compared to just posting in Mastodon. 
+of steps to set it up, compared to just posting in Mastodon. 
 
 At some point, I decided to rewrite Mastodon's commenting code with a structure
-similat to GitHub's, and I landed on this.
+similar to GitHub's, and I landed on this.
 
 
 # Jekyll set up
 
-First of all I created a `comments.html` file inside of the `_includes` directory 
-which is part of Jekyll's structure. This way, you could add it to your layouts
-folder, or any section of your blog, and just add `{% raw %}{% include
-comments.html %}{% endraw %}`, to tell Jekyll to insert that bit of code in there.
+To get started, I created a `comments.html` file inside the `_includes` directory which is part of Jekyll's structure. This way, you could add it to your `_layouts`folder, or any section of your blog, and just add `{% raw %}{% include comments.html %}{% endraw %}`, to tell Jekyll to insert that bit of code in there.
 
-In order for said code to work, we are also going to need some metadata located
-inside of the front matter of each blogpost, in this case, we add the this:
+In order for said code to work, we are also going to need some metadata located inside of the front matter of each markdown file, in this case, we add the this:
 
 ```yaml
 host: fosstodon.org
@@ -55,7 +51,7 @@ by every post we make!
 
 # Front end
 
-Edit `comments.html`, and place these lines first:
+Edit `comments.html` and place the following lines:
 
 ```html
 <link rel="stylesheet" href="/assets/css/comments.css">
@@ -78,7 +74,7 @@ will work properly on your site.
 Secondly, we have some `div` elements that are not really that important, it is
 up to your CSS too.
 
-Last, we call a couple of script elements that will contain the main javascript
+Last, we call a couple of script elements that will contain the main JavaScript
 code we'll use.
 
 # The good stuff
@@ -159,7 +155,7 @@ from the JSON, we assign classes, child elements, and such.
 In fact, the only thing I kept from Schwan's version is the way to call the API
 and the basic structure, which I turned into Aristath's syntax.
 
-I am no expert when it comes to Javascript, but I think this is pretty readable
+I am no expert when it comes to JavaScript, but I think this is pretty readable
 overall. At least a bit more than the code I based this from, or maybe I am now
 used to this code since I've worked on it for a while.
 

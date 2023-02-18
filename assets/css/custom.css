@@ -364,6 +364,38 @@ a.post:hover{
     }
 }
 
+aside, details, progress {
+  background-color: var(--border);
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+
+details {
+  padding: 0.7rem 1rem;
+  color: var(--bg);
+}
+
+summary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: 0.7rem 1rem;
+  margin: -0.7rem -1rem;
+  word-break: break-all;
+}
+
+details[open] > summary + * {
+  margin-top: 0;
+}
+
+details[open] > summary {
+  margin-bottom: 0.5rem;
+}
+
+details[open] > :last-child {
+  margin-bottom: 0;
+}
+
 /*Tokyo Night Color Scheme*/
 pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
