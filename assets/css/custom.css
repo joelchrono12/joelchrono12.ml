@@ -365,7 +365,7 @@ a.post:hover{
 }
 
 aside, details, progress {
-  background-color: var(--border);
+  background-color: var(--accent-bg);
   border-radius: 5px;
   margin-bottom: 1rem;
 }
@@ -373,7 +373,7 @@ aside, details, progress {
 
 details {
   padding: 0.7rem 1rem;
-  color: var(--bg);
+  color: var(--text);
 }
 
 summary {
