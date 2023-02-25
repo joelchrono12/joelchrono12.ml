@@ -17,13 +17,13 @@ layout: default
 
 ## By alphabetical order
 
-<div class="wrapper posts" style="background-color: var(--bg);">
+<div class="wrapper posts">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
 <a class="post" href="/tags/{{ tag[0] }}/">
-<h3 class="post-title">{{ tag[0]}}</h3>
+<b class="post-title">{{ tag[0]}}</b>
 <span class="post-date">{{ tag[1] | size }} posts</span>
 </a>
 {% endfor %}
@@ -31,7 +31,7 @@ layout: default
 
 ## By post quantity
 
-<div class="wrapper posts" style="background-color: var(--bg);">
+<div class="wrapper posts">
 {% capture tags %}
 {% for tag in site.tags %}
 {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -40,6 +40,6 @@ layout: default
 {% assign sortedtags = tags | split:' ' | sort %}
 {% for tag in sortedtags reversed %}
 {% assign tagitems = tag | split: '#' %}
-<a class="post" href="/tags/{{ tagitems[1] }}/"><h3 class="post-title">{{ tagitems[1]}}</h3> <span class="post-date">{{ tagitems[2] }} posts</span></a> 
+<a class="post" href="/tags/{{ tagitems[1] }}/"><b class="post-title">{{ tagitems[1]}}</b> <span class="post-date">{{ tagitems[2] }} posts</span></a> 
 {% endfor %}
 </div>

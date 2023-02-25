@@ -21,7 +21,7 @@ This is reversed order, if you want to start from the beginning
 <h2>{{ month.name }}</h2>
 <div class="wrapper posts">
   {% for post in month.items  %}
-   <a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
+   <a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
   {% endfor %}
 </div>
 {% endfor %}

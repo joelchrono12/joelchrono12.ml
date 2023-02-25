@@ -29,12 +29,9 @@ layout: default
 
 {% for post in site.posts limit:3 %}
 <div class="posts wrapper">
-<a class="post" href="{{ post.url }}">
-<h3 class="post-title">{{ post.title }}</h3>
-<span class="post-date">{{ post.date | date: "%b %d" }}</span>
-</a>
-<p>{{ post.excerpt }}
-</p>
+
+  <p class="blog-data"><a href="{{ post.url }}"><b>{{ post.title }}</b></a><i>{{ post.date | date: "%Y-%m-%d" }}</i></p>
+  <p>{{ post.excerpt }}</p>
 </div>
 {% endfor %} 
 <!--</div>-->

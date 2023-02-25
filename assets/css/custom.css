@@ -5,9 +5,9 @@
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
     --base-fontsize: 1rem;
     /* Major third scale progression - see https://type-scale.com/ */
-    --header-scale: 1.185;
+    --header-scale: 1.2;
     /* Line height is set to the "Golden ratio" for optimal legibility */
-    --line-height: 1.618;
+    --line-height: 1.75;
     /*This is my dark themed color scheme*/
     /*--bg: #FFFFFF;*/
     /*--accent-bg: #F2F4F8;*/
@@ -210,7 +210,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   border: none;
-  border-radius: 5px;
+  border-radius: 12px;
   background: var(--accent);
   /*font-size: 1rem;*/
   color: var(--bg);
@@ -253,7 +253,7 @@ input[type="button"] {
 
 .button{
   border: none;
-  border-radius: 5px;
+  border-radius: 12px;
   display: inline-block;
   background: var(--accent);
   /*font-size: 1rem;*/
@@ -288,7 +288,7 @@ nav a {
 nav a.nav-current {
     background: var(--border);
     color: var(--bg) !important;
-    font-weight: 700;
+    font-weight: bold;
     opacity: 1;
 }
 nav a:hover {
@@ -333,14 +333,12 @@ a.post{
 
 a.post .post-title{
     display: grid;
-    font-size: 1.2rem;
     margin: .4rem 0;
 }
 
 a.post .post-date {
     display: block;
     font-size: 0.8rem;
-    font-weight: 400;
     text-align: center;
 }
 
@@ -366,7 +364,7 @@ a.post:hover{
 
 aside, details, progress {
   background-color: var(--accent-bg);
-  border-radius: 5px;
+  border-radius: 12px;
   margin-bottom: 1rem;
 }
 
