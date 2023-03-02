@@ -13,11 +13,12 @@
     <a class="button" href="mailto:joel.chrono@disroot.org?subject=Re: {{ page.title | uri_escape }}"><b>Reply via email</b></a>
     <!--<a class="button" href="https://{{page.host}}/@{{ page.username }}/{{ page.com_id }}">View on Mastodon</a><br>-->
     <a class="button" id="load-comment">Load comments</a> 
-    <details style="display:inline;">
+    <details>
         <summary>Reply via Fediverse</summary>
         <p>You can reply on any Fediverse (Mastodon, Pleroma, etc.) client by pasting this URL into the search field of your client:
             <br>
             <pre><a href="https://{{ page.host }}/@{{ page.username }}/{{ page.com_id }}">https://{{ page.host }}/@{{ page.username }}/{{ page.com_id }}</a></pre>
+            <!--<pre>https://{{ page.host }}/@{{ page.username }}/{{ page.com_id }}</pre>-->
         </p>
     </details>
 
