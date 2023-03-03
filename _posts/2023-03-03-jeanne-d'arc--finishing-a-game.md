@@ -1,7 +1,7 @@
 ---
 title: "Jeanne D'Arc: a review"
 header: "Jeanne D'Arc: a review"
-description: A small review of a game I started around 4 years ago. I am glad its done!
+description: A small review of a game I started around 4 years ago. Jeanne D'Arc is a tactics JRPG similar to Fire Emblem, I am glad I finally finished it! Here are some thoughts on it
 tags: gaming review
 permalink: /blog/jeanne-d'arc-review/
 layout: post
@@ -9,6 +9,7 @@ date: 2023-03-03 09:51:11 -0600
 host: fosstodon.org
 username: joel
 com_id: 109960410418164021
+image: '/assets/img/blogs/2023-03-03-cover-art-of-the-game.webp'
 ---
 
 For one reason or another, I don't talk about gaming as often as I could. I would say its because I am busy doing more important things but honestly most of the time I just do things that are just as unproductive as playing videogames. Around a year ago I wrote about how I [struggle to complete videogames](/blog/almost-completing-videogames/). I actually mentioned the game I'll talk about today!
