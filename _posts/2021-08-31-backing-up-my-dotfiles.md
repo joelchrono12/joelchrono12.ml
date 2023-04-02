@@ -140,7 +140,7 @@ stow -vt ~ $1
 
 The program does not check if a folder already exists or anything like that. So feel free to send any suggestions and changes to it in a comment or using [git send-email](https://git-send-email.io/) to my email address.
 
----
+***
 
 [^1]: You can just use dotfiles as is without a folder inside it, but if you want to be able to quickly deploy everything using `*`, you must make a folder where README and other files you don't want to symlink won't interfere .
 [^2]: Other files, like `.bashrc`, are not in the `.config` folder, keep in mind that the path to use depends on where the program needs it to be. In this case, it would have to be placed in `~/dotfiles/stow_home/bash/.bashrc`.
