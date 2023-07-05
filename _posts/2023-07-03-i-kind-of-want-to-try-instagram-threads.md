@@ -8,7 +8,7 @@ layout: post
 date: 2023-07-03 21:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 110653734019666713
 ---
 
 There is a lot of hate towards Meta, Facebook and everything related with them, and that is absolutely understandable, I take part on that sentiment for the most part, but there are a couple of things that make me somewhat willing to see what Threads brings to the table.

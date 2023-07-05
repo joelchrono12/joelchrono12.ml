@@ -8,7 +8,7 @@ layout: post
 date: 2023-07-04 21:50:59 -0600
 host: fosstodon.org
 username: joel
-com_id: 
+com_id: 110661097120688978
 ---
 
 So yeah, here are some short things that caught my interest but I didn't really feel like digging deeper into them myself and write more about them, but just share some links to them in case you find them interesting, maybe videos, podcasts or interesting software that I think deserves a mention in my blog, although not a fully fleshed out blogpost (have I ever done anything "fleshed out" at all anyway?).
@@ -49,8 +49,6 @@ I somehow never mentioned I had started watching Smallville, a show that started
 
 [RSS Feed](https://feeds.megaphone.fm/WWO4962799290)
 
-This is day of [#100DaysToOffload](https://100daystooffload.com)
-
 # Other sites that do stuff like this!
 
 Well I wanted to finish this first part (yeah I decided along the way I should do this more often) featuring other websites that also do this kinda stuff, simply sharing some thoughts on stuff they found on the web!
@@ -64,6 +62,6 @@ Well I wanted to finish this first part (yeah I decided along the way I should d
 
 I feel like I have come across more posts like this in my feed but I just could not find them and I have other things to do, so this will have to do for now, maybe in the next post of this kind I'll mention others.
 
-For now, this is day 51 of [#100DaysToOffload](https://100daystooffload.com)
+For now, this is day 51 of [#100DaysToOffload](https://100daystooffload.com).
 
 {% include reply.html %}
