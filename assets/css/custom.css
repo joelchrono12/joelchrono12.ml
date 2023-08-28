@@ -394,6 +394,26 @@ details[open] > :last-child {
   margin-bottom: 0;
 }
 
+/*TABLE OF CONTENTS*/
+
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    list-style: decimal;
+    border-radius: 16px;
+    background-color: var(--accent-bg);
+}
+
+
+
 /*Tokyo Night Color Scheme*/
 pre { line-height: 125%; }
 td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
