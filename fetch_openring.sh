@@ -13,5 +13,6 @@ openring \
 -s https://www.adamsdesk.com/feed/blog.xml \
 -s https://www.bjoreman.com/rss.rss \
 -s https://www.thiswildcuriosity.com/feed/ \
+-s https://noisydeadlines.net/feed/ \
 < "/home/chrono/git/joelchrono12.ml/_includes/in.html"  \
 > "/home/chrono/git/joelchrono12.ml/_includes/out.html"
