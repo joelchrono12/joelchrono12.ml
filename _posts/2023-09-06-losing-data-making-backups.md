@@ -3,7 +3,9 @@ title: Losing data, making backups
 header: Losing data, making backups
 description: I deleted a bunch of data using the rm command, thankfully, a happy coincidence made my pain a lot more bearable
 tags: linux psp tech
-permalink: /blog/losing-data--making-backups/
+permalink: /blog/losing-data-making-backups/
+redirect_from:
+- /blog/losing-data--making-backups/
 layout: post
 date: 2023-09-06 20:56:34 -0600
 host: fosstodon.org
