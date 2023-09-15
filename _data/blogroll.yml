@@ -2,6 +2,10 @@
   link: https://www.adamsdesk.com/
   rss: https://www.adamsdesk.com/blogs.xml
 
+- name: Allison Parrish
+  link: https://posts.decontextualize.com/
+  feed: https://posts.decontextualize.com/rss.xml
+
 - name: Andy Bell
   link: https://andy-bell.co.uk
   rss: https://andy-bell.co.uk/feed
@@ -58,6 +62,14 @@
   link: https://lazybear.io/
   rss: https://lazybear.io/index.xml
 
+- name: Lynn Fisher
+  link: https://lynnandtonicblog.com/
+  rss: https://lynnandtonicblog.com/feed/feed.xml
+
+- name: Macarena Quiroga
+  link: https://macarenaquiroga.netlify.app/
+  rss: https://macarenaquiroga.netlify.app/index.xml
+
 - name: Mike Stone
   link: https://mikestone.me
   rss: https://mikestone.me/feed.xml
@@ -65,6 +77,10 @@
 - name: moddedBear
   link: https://moddedbear.com/
   rss: https://moddedbear.com/index.xml
+
+- name: Noisy Deadlines
+  link: https://noisydeadlines.net/
+  rss: https://noisydeadlines.net/feed/
 
 - name: RL_Dane
   link: https://rldane.space/
@@ -82,9 +98,21 @@
   link: https://rusingh.com
   rss: https://rusingh.com/feed.xml
 
+- name: Silvia Maggi
+  link: https://silviamaggidesign.com/
+  rss: https://silviamaggidesign.com/feed.xml
+
 - name: The Art Of Not Asking Why
   link: https://taonaw.com
   rss: https://taonaw.com/rss
+
+- name: The Skeptical Hermit
+  link: https://theskepticalhermit.wordpress.com/
+  rss: https://theskepticalhermit.wordpress.com/feed/
+
+- name: Veronica Explains
+  link: https://vkc.sh/
+  rss: https://vkc.sh/feed/
 
 - name: www-gem
   link: https://www-gem.bearblog.dev/
