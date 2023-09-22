@@ -28,11 +28,11 @@ layout: default
 <!--<div markdown="1" class="wrapper">-->
 
 {% for post in site.posts limit:3 %}
-<div class="posts wrapper">
-
-  <p class="blog-data"><a href="{{ post.url }}"><b>{{ post.title }}</b></a><i>{{ post.date | date: "%Y-%m-%d" }}</i></p>
-  <p>{{ post.excerpt }}</p>
-</div>
+<article class="posts wrapper">
+  <p class="blog-data"><a href="{{ post.url }}"><b>{{ post.title }}</b></a></p>
+  <div>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 28 }}</div>
+  <small>{{ post.date | date: "%B %d, %Y" }}</small>
+</article>
 {% endfor %} 
 <!--</div>-->
 

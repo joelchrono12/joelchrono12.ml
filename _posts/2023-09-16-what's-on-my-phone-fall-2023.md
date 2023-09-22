@@ -5,7 +5,7 @@ description: I decided to write about the stuff that I have running on my phone 
 tags: android foss
 permalink: /blog/what-is-on-my-phone-fall-2023/
 layout: post
-date: 2023-09-16 20:32:02 -0600
+date: 2023-09-18 08:32:02 -0600
 host: fosstodon.org
 username: joel
 com_id: 111089839152598256
