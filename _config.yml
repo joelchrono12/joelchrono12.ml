@@ -10,7 +10,7 @@ plugins:
 title: "Joelchrono12"
 author: "joelchrono12"
 email: "joel.chrono@disroot.org"
-url: "https://joelchrono12.xyz"
+url: "https://joelchrono.xyz"
 baseurl: ""
 timezone: "America/Mexico_City"
 #include: [".well-known"]
