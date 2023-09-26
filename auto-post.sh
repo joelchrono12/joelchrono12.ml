@@ -10,7 +10,7 @@ if git rev-parse --git-dir > /dev/null 2>&1; then
     #getdesc=$(grep "description:" $lastpost | cut -d " " -f2-)
     geturl=$(grep "permalink:" $lastpost | cut -d " " -f2-)
     #gettags=$(grep "tags:" $lastpost | cut -d " " -f2- | sed -r 's/([^ ]+)/#\1/g')
-    post=$(echo -e "$1\n\nhttps://joelchrono12.xyz${geturl}")
+    post=$(echo -e "$1\n\nhttps://joelchrono.xyz${geturl}")
     posturl=$(toot post "$post" | cut -d/ -f5)
     echo $posturl
     sed -i "s/idcomments/$posturl/g" "$lastpost"
