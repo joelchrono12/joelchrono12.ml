@@ -1,7 +1,6 @@
 openring \
--s https://www.adamsdesk.com/feed/blog.xml \
+-s https://0xdstn.site/index.xml \
 -s https://bbbhltz.codeberg.page/rss.xml \
--s https://warmedal.se/~bjorn/atom.xml \
 -s https://kevquirk.com/feed.xml \
 -s https://lazybear.io/index.xml \
 -s https://manuelmoreale.com/feed/rss \
@@ -11,6 +10,7 @@ openring \
 -s https://noisydeadlines.net/feed/ \
 -s https://rachsmith.com/rss/ \
 -s https://taonaw.com/feed.xml \
+-s https://warmedal.se/~bjorn/atom.xml \
 -s https://wilw.dev/rss.xml \
 -s https://www.adamsdesk.com/feed/blog.xml \
 -s https://www.bjoreman.com/rss.rss \
