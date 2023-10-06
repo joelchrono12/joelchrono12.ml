@@ -1,6 +1,7 @@
 openring \
 -s https://0xdstn.site/index.xml \
 -s https://bbbhltz.codeberg.page/rss.xml \
+-s https://claytonerrington.com/feed.xml \
 -s https://kevquirk.com/feed.xml \
 -s https://lazybear.io/index.xml \
 -s https://manuelmoreale.com/feed/rss \
