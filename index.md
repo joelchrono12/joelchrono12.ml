@@ -30,7 +30,7 @@ layout: default
 {% for post in site.posts limit:3 %}
 <article class="posts wrapper">
   <p class="blog-data"><a href="{{ post.url }}"><b>{{ post.title }}</b></a></p>
-  <div>{{ post.excerpt | strip_html | strip_newlines | truncatewords: 28 }}</div>
+  <div>{{ post.description | strip_html | strip_newlines }}</div>
   <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </article>
 {% endfor %} 
