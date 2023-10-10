@@ -4,7 +4,7 @@ header: Still using Gboard
 layout: post
 tags: android productivity apps
 date: 2023-10-10 10:30:00 -0600
-description: 
+description: A brief history of the different keyboards I've tried on my phone, and how I ended up using GBoard despite it all.
 permalink: /blog/still-using-gboard/
 ---
 
