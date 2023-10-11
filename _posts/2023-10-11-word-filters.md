@@ -4,7 +4,7 @@ header: Word filters are great
 layout: post
 tags: android productivity apps
 date: 2023-10-10 12:30:00 -0600
-description:  Word filters are a pretty useful feature to have, both FreshRSS and your trustworthy Fediverse social media of choice.
+description:  Word filters are a pretty useful feature to have, both on your feed reader and your social media of choice.
 permalink: /blog/word-filters/
 ---
 
