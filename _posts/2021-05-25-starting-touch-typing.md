@@ -5,7 +5,7 @@ description: A few days ago I decided to learn how to type faster. I still have 
 tags: lifestyle ramble productivity 
 permalink: /blog/starting-touch-typing/ 
 layout: post 
-date: "2021-05-25 19:09:21 -0500" 
+date: 2021-05-25 19:09:21 -0500
 host: fosstodon.org 
 username: joeligj12 
 com_id: 106298868625188758

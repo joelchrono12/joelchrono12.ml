@@ -128,7 +128,6 @@ main img{
 .wrapper{
     background-color: var(--code-bg);
     padding: .1rem 1rem;
-    padding-bottom: .7rem;
     border-radius: 12px;
     margin-bottom: 1rem;
 }

@@ -32,7 +32,7 @@ It was not until I used `blop` to with my current posts that I noticed that most
 author: Me
 title: Title
 summary: A summary
-date: YY-MM-DD HH:MM
+date: YYYY-MM-DD HH:MM
 ---
 ```
 

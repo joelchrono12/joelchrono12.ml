@@ -1,7 +1,7 @@
 ---
 title: My spectrwm setup
 header: My spectrwm setup
-date: "2021-02-08 12:09:00 -0600"
+date: 2021-02-08 12:09:00 -0600
 description: Why spectrwm is my tiling window manager of choice. 
 tags: linux foss ricing
 permalink: /blog/spectrwm-setup/

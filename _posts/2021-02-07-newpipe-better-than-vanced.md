@@ -1,7 +1,7 @@
 ---
 title: Is Newpipe better than YouTube / Vanced?
 header: Is Newpipe better than Youtube / Vanced?
-date: "2021-02-07 15:00:00 -0600"
+date: 2021-02-07 15:00:00 -0600
 description: I started using Newpipe, I gave it a serious try, and I am sharing some of the things I did to deal with its shortcomings
 tags: android degoogle foss
 permalink: /blog/newpipe-over-vanced/

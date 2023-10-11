@@ -6,6 +6,22 @@ description: "This archive contains all of my blogs, ordered and divided by date
 permalink: /blog/
 ---
 
+
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+{% for year in postsByYear %}
+  <details>
+    <summary>{{ year.name }}'s posts ({{ year.items | size }} posts)</summary>
+      {% assign totalYearPostCount = 0 %}
+      {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+      <ul>
+      {% for month in postsByMonth %}
+            <li><a href="#{{ month.name }} {{ year.name }}">{{ month.name }} ({{ month.items | size }} posts)</a></li>
+      {% endfor %}
+      </ul>
+  </details>
+{% endfor %}
+
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
 {% comment %}
@@ -18,7 +34,7 @@ This is reversed order, if you want to start from the beginning
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 
 {% for month in postsByMonth %}
-<h2>{{ month.name }}</h2>
+<h2 id="{{ month.name }} {{year.name}}">{{ month.name }}</h2>
 <div class="wrapper posts">
   {% for post in month.items  %}
    <a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
