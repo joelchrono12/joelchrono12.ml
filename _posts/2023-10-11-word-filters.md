@@ -2,10 +2,13 @@
 title: Word filters are great
 header: Word filters are great
 layout: post
-tags: android productivity apps
+tags: rss internet thoughts
 date: 2023-10-10 12:30:00 -0600
 description:  Word filters are a pretty useful feature to have, both on your feed reader and your social media of choice.
 permalink: /blog/word-filters/
+host: fosstodon.org
+username: joel
+com_id: 111217791678651585
 ---
 
 With the quantity of information we expose ourselves to everyday, I think word filters are a great idea, be it on your feed reader or social media of choice, they're pretty useful!
