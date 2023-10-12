@@ -6,6 +6,9 @@ tags: personal ramble
 date: 2023-10-09 15:00:00 -0600
 description: Just a bunch of random thoughts and things I did during the weekend, feel free to skip maybe.
 permalink: /blog/this-week-so-far/
+host: fosstodon.org
+username: joel
+com_id: 111207127022226606
 ---
 
 This is a blogpost being written on my phone, I've done this before in the past, not only to test what's up but because time is of the essence, there's less than 3 months left to finish 100 posts in a year!

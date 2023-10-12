@@ -6,6 +6,9 @@ tags: android productivity apps
 date: 2023-10-10 10:30:00 -0600
 description: A brief history of the different keyboards I've tried on my phone, and how I ended up using GBoard despite it all.
 permalink: /blog/still-using-gboard/
+host: fosstodon.org
+username: joel
+com_id: 111211702741047931
 ---
 
 Yesterday's post was written on my phone, and that's the case today. It honestly doesn't take that much time to do it here compared to my laptop, because what limits my typing speed is not how fast I type, but how much time I spend thinking on what to write next.
