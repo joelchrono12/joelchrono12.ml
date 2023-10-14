@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stats
+title: stats | joelchrono
 header: Statistics
 description: Statistics such as posts count and word count, etc.
 permalink: /stats/

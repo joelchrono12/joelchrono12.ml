@@ -1,5 +1,5 @@
 ---
-title: Blogroll | Joelchrono12
+title: blogroll | joelchrono
 header: Blogroll
 description: A list of blogs and digital gardens I enjoy reading on my free time.
 permalink: /blogroll/

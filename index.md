@@ -1,5 +1,5 @@
 ---
-title: Home | joelchrono12
+title: home | joelchrono
 header: Welcome to my digital garden
 description: Ramblings and thoughts about tech, free software, and hobbies of my life, shared bit by bit.
 permalink: /

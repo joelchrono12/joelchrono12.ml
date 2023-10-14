@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Uses | joelchrono12
+title: uses | joelchrono
 header:  👨‍💻 The Things I Use
 description: This page is a quick overview of the tech I love and use, which serve me well for my work and hobbies, most software here is FOSS, some may not be, but I probably won't promote those.
 

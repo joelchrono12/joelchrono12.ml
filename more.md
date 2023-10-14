@@ -1,5 +1,5 @@
 ---
-title: More links | Joelchrono12
+title: more | joelchrono
 title: More links
 description: Some other sections of my website as well as other useful links you may like.
 permalink: /more/

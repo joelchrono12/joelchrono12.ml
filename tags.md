@@ -1,5 +1,5 @@
 ---
-title: Tags | joelchrono12
+title: tags | joelchrono
 header: Tags
 description: These are the current available tags, as well as the RSS feed of each of them, in case you want to follow certain topics, they are sorted too!
 permalink: /tags/

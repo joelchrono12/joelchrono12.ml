@@ -1,5 +1,5 @@
 ---
-title: Reading | joelchrono12
+title: reading list | joelchrono
 header: Reading
 description: I started reading books again and I decided to create this section to keep track of the ones I've read so far.
 permalink: /reading/
