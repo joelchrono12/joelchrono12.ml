@@ -10,7 +10,6 @@ openring \
 -s https://nayak.io/index.xml \
 -s https://noisydeadlines.net/feed/ \
 -s https://rachsmith.com/rss/ \
--s https://taonaw.com/feed.xml \
 -s https://warmedal.se/~bjorn/atom.xml \
 -s https://wilw.dev/rss.xml \
 -s https://www.adamsdesk.com/feed/blog.xml \

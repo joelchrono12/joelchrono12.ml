@@ -11,12 +11,12 @@ permalink: /blog/
 
 {% for year in postsByYear %}
   <details>
-    <summary>{{ year.name }}'s posts ({{ year.items | size }} posts)</summary>
+    <summary>{{ year.name }} ({{ year.items | size }} posts)</summary>
       {% assign totalYearPostCount = 0 %}
       {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
       <ul>
       {% for month in postsByMonth %}
-            <li><a href="#{{ month.name }} {{ year.name }}">{{ month.name }} ({{ month.items | size }} posts)</a></li>
+      <li><a href="#{{ month.name }} {{ year.name }}"> {{ month.name }} ({{ month.items | size }} {% if month.items.size == 1 %} post{% else %} posts{% endif %}) </a></li>
       {% endfor %}
       </ul>
   </details>

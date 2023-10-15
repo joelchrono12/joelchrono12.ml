@@ -1,6 +1,6 @@
 ---
 title: more | joelchrono
-title: More links
+header: More links
 description: Some other sections of my website as well as other useful links you may like.
 permalink: /more/
 layout: default
