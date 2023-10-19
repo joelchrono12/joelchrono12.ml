@@ -11,7 +11,7 @@ username: joel
 com_id: 111250636882047512
 ---
 
-Right when I was going to start this blogpost, Kev published [Blogging for the hell of it](https://kevquirk.com/blogging-for-the-hell-of-it), which seems to be about the same thing—so I decided not to read it until I'm done writing this.
+Right when I was going to start this blogpost, ~~Kev published [Blogging for the hell of it](https://kevquirk.com/blogging-for-the-hell-of-it)~~ (update: The blog was actually written by [Whiona](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/), Kev's post is a short response to it!), which seems to be about the same thing—so I decided not to read it until I'm done writing this.
 
 I started this blog in February of 2021, I did so, because I stumbled upon yet another blogpost by Kev, about [setting up a website with Jekyll and SimpleCSS](https://kevquirk.com/how-to-build-jekyll-site-simple-css), I didn't even understand how CSS worked—not saying I do now—but that website and other blogs, as well as Mastodon, made me aware of the "small web" and a new community to be a part of.
 
