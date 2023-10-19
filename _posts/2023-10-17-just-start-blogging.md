@@ -6,6 +6,9 @@ tags: personal blog small-web community ramble
 date: 2023-10-17 07:30:00 -0600
 description:  Even if you think you have nothing new to say, you can still blog about the old things.
 permalink: /blog/just-start-blogging/
+host: fosstodon.org
+username: joel
+com_id: 111250636882047512
 ---
 
 Right when I was going to start this blogpost, Kev published [Blogging for the hell of it](https://kevquirk.com/blogging-for-the-hell-of-it), which seems to be about the same thing—so I decided not to read it until I'm done writing this.

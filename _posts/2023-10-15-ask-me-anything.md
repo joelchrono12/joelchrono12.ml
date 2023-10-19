@@ -19,15 +19,15 @@ As I said, I still have quite a bit of things to do today, but I'll answer some 
 
 - **[Benjamin Hollon asks](benjaminhollon.com/): Favorite kind of tea or herbal tea?**
 
-    *Well, coffee is technically a tea, but if that doesn't count, mint. Not much of a tea guy.*
+    Well, coffee is technically a tea, but if that doesn't count, mint. Not much of a tea guy.
 
 - **[Bahadir asks](https://fosstodon.org/@Bahadir) what was your first starter Pokemon?**
 
-    *Squirtle, on Pokemon Fire Red for the GBA, playing from my HTC ChaChaCha using the My Boy emulator around 2015.*
+    Squirtle, on Pokemon Fire Red for the GBA, playing from my HTC ChaChaCha using the My Boy emulator around 2015.
 
 - **[Adamsdesk asks](https://www.adamsdesk.com/) What's the next Origami?**
 
-    *I haven't posted origami pictures in ages, I don't know what will be my next one, probably a frog—I haven't done frogs in ages.*
+    I haven't posted origami pictures in ages, I don't know what will be my next one, probably a frog—I haven't done frogs in ages.
 
 Alright, the rest of the questions will be answered later. This is enough for post 72 of [#100DaysToOffload](https://100daystooffload.com)—don't forget to leave your questions!
 {% include reply.html %}
