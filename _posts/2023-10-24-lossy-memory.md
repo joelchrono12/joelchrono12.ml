@@ -6,6 +6,9 @@ tags: personal ramble
 date: 2023-10-24 12:30:00 -0600
 description: Sometimes I forget I already blogged about something, but I tend to realize soon enough, but it'll happen one day right, should I be ok with that?
 permalink: /blog/lossy-memory/
+com_id: 111291708256865978
+host: fosstodon.org
+username: joel
 ---
 
 Alright, I think it's finally time for me to write a review of my most expensive purchase ever. Yes, I'm talking about my Nintendo Switch!
