@@ -2,9 +2,9 @@
 title: Lossy Memory
 header: Lossy Memory
 layout: post
-tags: ask-me-anything personal gaming tech psp blog
+tags: personal ramble
 date: 2023-10-24 12:30:00 -0600
-description:  Sometimes I forget I already blogged about something, but I tend to realize soon enough, but it'll happen one day right, should I be ok with that?
+description: Sometimes I forget I already blogged about something, but I tend to realize soon enough, but it'll happen one day right, should I be ok with that?
 permalink: /blog/lossy-memory/
 ---
 
