@@ -6,7 +6,7 @@ tags: ask-me-anything personal gaming tech psp blog
 date: 2023-10-18 16:30:00 -0600
 description:  Answers to the questions some of my readers had about me, why not?
 permalink: /blog/ama-responses-1/
-com_id: commentsid
+com_id: 111261550449331000
 host: fosstodon.org
 username: joeligj12
 ---
