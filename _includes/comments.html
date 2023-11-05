@@ -47,20 +47,31 @@ function createCommentEl(response){
     let userData = document.createElement('div');
     userData.classList.add('mastodon-username');
     user.classList.add('mastodon-comment');
+		response.account.reply_class = response.in_reply_to_id == "{{ page.com_id }}" ? "reply-original" : "reply-child";
+    user.classList.add(response.account.reply_class);
     let userAvatar = document.createElement('img');
     userAvatar.classList.add('avatar');
-    userAvatar.setAttribute('height', 60 ); userAvatar.setAttribute('width', 60 ); userAvatar.setAttribute('src',response.account.avatar_static);
-    let userLink = document.createElement('a');
-    userLink.setAttribute('href',response.account.url);
-    userLink.classList.add('comment-author');
+    /*userAvatar.setAttribute('height', 60 );
+    userAvatar.setAttribute('width', 60 );*/
+    userAvatar.setAttribute('src',response.account.avatar_static);
+    let userName = document.createElement('div');
+    let userLink = document.createElement('div');
+    userLink.classList.add('comment-date'); 
+    let userDisplay = document.createElement('a');
+    userName.classList.add('comment-author');
+    userDisplay.setAttribute('href',response.account.url);
     for (let j = 0; j < response.account.emojis.length;j++){
         let emoji = response.account.emojis[j];
         response.account.display_name = response.account.display_name.replace(`:${emoji.shortcode}:`, `<img src="${emoji.static_url}" alt="Emoji ${emoji.shortcode}" height="16px" width="16px" />`);
     }
-    userLink.innerHTML = response.account.display_name + ' @' + response.account.username;
+    userDisplay.innerHTML = response.account.display_name;
+    userLink.innerHTML = "@"+response.account.username;
 
-    let commentDate = document.createElement('a');
-    commentDate.classList.add('comment-date'); commentDate.setAttribute('href',response.url); commentDate.innerHTML = response.created_at.substr(0,10);
+    let commentDate = document.createElement('div');
+    let commentLink = document.createElement('a');
+    commentDate.classList.add('comment-date'); 
+    commentLink.setAttribute('href',response.url); 
+    commentLink.innerHTML = response.created_at.substr(0,10);
 
     let commentContents = document.createElement('p');
     commentContents.classList.add('mastodon-comment-content'); commentContents.innerHTML = response.content;
@@ -68,11 +79,15 @@ function createCommentEl(response){
     let comment = document.createElement('div');
     comment.classList.add( 'comment-content' );
 
+
     user.appendChild( comment );
     comment.appendChild(userAvatar);
     comment.appendChild( userData )
-    userData.appendChild( userLink );
-    userData.appendChild(commentDate);
+    userData.appendChild( userName );
+        userName.appendChild(userDisplay);
+        userName.appendChild(userLink);
+        userName.appendChild(commentDate);
+        commentDate.appendChild( commentLink );
     user.appendChild( commentContents );
     return user;
 }
