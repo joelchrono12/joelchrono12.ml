@@ -2,13 +2,13 @@
 title: October 2023 Summary
 header: October 2023 Summary
 description: The monthly stats of the content and media I consumed this month! Very quick and kinda late, I am so sorry.
-tags: 
+tags: gaming podcasts monthly reading manga
 permalink: /blog/october-2023-summary/
 layout: post
 date: 2023-11-04 21:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 111355763356832385
 image: '/assets/img/blogs/2023-11-04-october-summary.png'
 ---
 
