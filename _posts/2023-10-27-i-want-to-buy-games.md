@@ -6,6 +6,9 @@ tags: gaming tech ramble
 date: 2023-10-27 11:30:00 -0600
 description: Getting games on my switch gives me a great way to play them everywhere however I want, but being unable to just put the games I already own on it is frustrating me a lot.
 permalink: /blog/i-want-to-buy-games/
+user: joel
+host: fosstodon.org
+com_id: 111308186796986205
 ---
 
 When this year started I had never spent more than 100 bucks total on games of any kind.
