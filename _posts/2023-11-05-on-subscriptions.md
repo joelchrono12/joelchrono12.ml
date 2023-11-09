@@ -8,7 +8,7 @@ layout: post
 date: 2023-11-07 20:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 111372647217343217
 ---
 
 I'll be honest, I have always been the kind of guy who will try to get stuff for free and work around whatever I don't want to pay for.
