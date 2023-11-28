@@ -8,7 +8,7 @@ layout: post
 date: 2023-11-20 17:33:31 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 111445965153863334
 ---
 
 I got a job now, and since I was given some time off, I decided to finish some paperwork at University and get cross off as many tasks from my to-do list as possible, I came across some friends, got a hit of nostalgia and walked more than expected, but I am hopeful of what's to come.
