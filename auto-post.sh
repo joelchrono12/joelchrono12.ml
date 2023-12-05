@@ -7,11 +7,11 @@ if git rev-parse --git-dir > /dev/null 2>&1; then
 
     # All markdown files start with YYYY-MM-DD
     lastpost=$(/usr/bin/ls ~/git/joelchrono12.ml/_posts/*.md | sort -r | head -n 1) 
-    #getdesc=$(grep "description:" $lastpost | cut -d " " -f2-)
+    getdesc=$(grep "description:" $lastpost | cut -d " " -f2-)
     geturl=$(grep "permalink:" $lastpost | cut -d " " -f2-)
     #gettags=$(grep "tags:" $lastpost | cut -d " " -f2- | sed -r 's/([^ ]+)/#\1/g')
     post=$(echo -e "$1\n\nhttps://joelchrono.xyz${geturl}")
-    posturl=$(toot post "$post" | cut -d/ -f5)
+    posturl=$(toot post "$description $post" | cut -d/ -f5)
     echo $posturl
     sed -i "s/idcomments/$posturl/g" "$lastpost"
 
