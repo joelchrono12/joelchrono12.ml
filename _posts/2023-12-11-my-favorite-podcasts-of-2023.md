@@ -1,7 +1,7 @@
 ---
 title: My Favorite Podcasts of 2023
 header: My Favorite Podcasts of 2023
-description: AntennaPod added their own alternative to Spotify Wrapped and I decided to take the chance to talk about my Podcast statistics in 2023
+description: AntennaPod added their own alternative to Spotify Wrapped and I decided to take the chance to talk about my favorite podcasts in 2023.
 tags: podcasts review
 permalink: /blog/my-favorite-podcasts-of-2023/
 layout: post
@@ -9,6 +9,7 @@ date: 2023-12-11 19:30:29 -0600
 host: fosstodon.org
 username: joel
 com_id: 111565665816311112
+image: 'assets/img/blogs/2023-12-11-podcasts.webp'
 ---
 
 Maybe this year I will actually follow up on my promise of doing a "My favorite _blank_ of 2023" series, unlike in 2022, so here we go!
