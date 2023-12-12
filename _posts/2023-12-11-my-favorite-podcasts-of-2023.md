@@ -14,30 +14,29 @@ image: 'assets/img/blogs/2023-12-11-podcasts.webp'
 
 Maybe this year I will actually follow up on my promise of doing a "My favorite _blank_ of 2023" series, unlike in 2022, so here we go!
 
-I decided to write a couple different lists instead of what I did last year.
+I decided to write a couple different lists instead of what I did last year where I just shared 5 podcasts and called it a day.
 
 # Most played podcasts
 
-These are just the stats I got from AntennPod, they are the podcasts I listened to the most for a variety of reasons. Neither of them are bad at all, so you might enjoy them!
+These are just the stats I got from AntennaPod, they recently launched AntennaPodEcho, their response to Spotify Wrapped, and I really liked it. Here are the podcasts I listened to the most for a variety of reasons. Neither of them are bad at all, so you might enjoy them!
 
 ## 5. Trash Taste
 
 Time played: 52 hours.
 
-This show is some of the funniest stuff I listen to regularly, hosted by 3 YouTubers (CDawg, the Anime Man and Garnt) living in Japan, they usually just talk about a variety of topics like japanese culture, videogames, traveling, random life stories and also anime and manga.
+This show is some of the funniest stuff I listen to regularly, hosted by 3 YouTubers (CDawg, the Anime Man and Garnt) living in Japan, they usually just talk about a variety of topics including, but not limited to: Japanese culture, videogames, traveling, random life stories, anime and manga, among other things.
 
 ## 4. Retro Game Time Machine
 
 Time played: 62 hours
 
-This podcast is hosted by two strangers from the internet, AndyTheAndroid and MashTheNewton, they just talk about one game per episode and have little sections for questions and current news, I enjoy their videos and they can be quite nice. I do think their discussions don't last as long or don't go as deep as I would like, but its still a fun show for me while I do chores and even go to sleep.
+This podcast is hosted by two strangers from the internet, AndyTheAndroid and MashTheNewton, they just talk about one game per episode and have little sections for questions, current news and what they've been playing. They also talk about what was going on at the time of the game's release, which is always amusing. I do think their discussions about the games themselves don't last as long or don't go as deep as I would like, but it's still a fun show for me while I do chores and prepare to sleep.
 
 ## 3. Dungeons and Daddies
 
 Time played: 85 hours
 
-This is the show I put the most attention to, because it is episodic and has a plot that keeps going every episode. This is a Dungeons and Dragons podcast and the second season features the grandsons of the first season's protagonists. I have to say the second session went a little too dark at times but I'm still enjoying it nonetheless and listening to it makes me laugh like crazy everytime, it makes me somewhat annoyed because I end up laughing out loud during the bus trips to work and I feel like everyone stares at me because of it. Regardless, great hosts and great moments to be had on this one.
-
+This is the show I put the most attention to, because it is episodic and has a plot that keeps going every episode. This is a Dungeons and Dragons podcast and the second season features the grandsons of the first season's protagonists. I think they went a little too dark for my taste this time around, during a certain period, but they recently went back to being more light-hearted and I'm enjoying it a lot again. This show doesn't fail to make me laugh like crazy; it makes me somewhat annoyed, since I feel like I get stared at during the bus trips to work because of it. Regardless, great hosts and great moments to be had on this one.
 
 
 ## 2. Into The Aether
@@ -50,19 +49,19 @@ This show features some more prominent figures in the gaming world, Brendon Bigl
 
 Time played: 130 hours
 
-This podcast is great, its a fictional radio show from a town where everything just happens and its just part of everyday life. From non-existing Angels, to parallel dimensions and conspiracies of all kinds, as well as the fantastic Weather forecast of every episode. Just go blind and start from wherever you feel like doing so, the audio is absolutely fantastic and the host's voice is simply superb. I honestly listen to it while sleeping (only 15 minutes or so using a sleep timer) and its fantastic.
+This podcast is great, it's a fictional radio show from a town where everything just happens and it's just part of everyday life. From non-existing Angels, to parallel dimensions and conspiracies of all kinds, as well as the fantastic Weather forecast of every episode. Just go blind and start from wherever you feel like doing so, the audio is absolutely great and the host's voice is simply superb. I listen to it before going to sleep (I use a 20 minutes sleep timer) and it does the job very well.
 
 # The Hidden Gems
 
-Here are some podcasts I really enjoyed, but they might have been a little too short, or maybe I just didn't listen to enough episodes, or I listened to a whole season but it wasn't enough to show up at the top. Regardless, they're good!
+Here are some podcasts I really enjoyed, but they might have been a little too short, or maybe I just didn't listen to enough episodes, or I listened to a whole season, but it wasn't enough to show up at the top. Regardless, they're good!
 
 ## Revolutions
 
-This is a history podcast that talks about the different revolutions in the world. Every season is a whole series focusing on a single Revolution and the events leading to them. It really gets down to the details but it was really interesting and engaging for me, I highly recommend it.
+This is a history podcast that talks about the different revolutions in the world. Every season is an entire series focusing on a single Revolution and the events leading to them. It really gets down to the details but it was a great way to learn about past in a very entertaing manner for me, I highly recommend it.
 
 ## Midst
 
-A really weirdly narrated story that is just too intersting to miss. I haven't finished it yet but its very unique and interesting to listen to. Three narrators and a very strange word. Just give it a listen honestly.
+A really weirdly narrated story that is just too interesting to miss. I haven't finished it yet but its format is quite unique and interesting to listen to. Three narrators and a very strange world. Just give it a listen honestly.
 
 ## Radio Rental
 
@@ -71,15 +70,15 @@ Real life stories about bizarre, spooky and weird events of life, the presentati
 
 ## Eye of The Duck
 
-I listened to a couple "series" of this podcast, its all about finding the scene that makes the movie what it is. Not a movie review podcasts, but something else, and its great. The hosts really know what they're talking about and I just enjoy their voices a lot too.
+I listened to a couple "series" of this podcast, it's all about finding the scene that makes the movie what it is. Not a movie review podcasts, but something else, and it's great. The hosts really know what they're talking about and I just enjoy their voices a lot too.
 
 ## Ars Paradoxica
 
-Time travel science fiction drama. A scientist from the 21st century ends up stuck in the 1940s, World War 2 is still a thing, and a fantastic story develops from there. Great characters and a fantastic use of the time travel trope, feels really grounded and the format is great, as the story is shown in recorded tapes, not always in the right order, and its just fantastic. Don't miss out on this one, please.
+Time travel science fiction drama. A scientist from the 21st century ends up stuck in the 1940s, World War 2 is still a thing, and a fantastic story develops from there. Great characters and a remarkable use of the time travel trope, feels really grounded and the format is great, as the story is shown in recorded tapes, not always in the right order, and it makes the story a lot more engaging. Don't miss out on this one, please.
 
 ## Already Gone
 
-This is my favorite true crime podcast, pretty well researched. There are many true crime podcasts out there but since I like to listen to them while sleeping, I find the usage of random sounds or stuff like phone recordings to annoy me a lot. This podcast hosted by Nina Innsted is quite light on SFX and her voice is very soothing for me, so I love it.
+This is my favorite true-crime podcast, pretty well researched. There are many true crime podcasts out there but since I like to listen to them while sleeping, I find the usage of random sounds or stuff like phone recordings to annoy me a lot. This podcast hosted by Nina Innsted is quite light on SFX and her voice is very soothing for me, so I love it.
 
 # The Obvious Mentions
 
