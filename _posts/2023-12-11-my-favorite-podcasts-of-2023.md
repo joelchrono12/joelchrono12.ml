@@ -82,9 +82,7 @@ This is my favorite true-crime podcast, pretty well researched. There are many t
 
 # The Obvious Mentions
 
-Of course, there's a plethora of other shows I listened to quite often too but they're just clearly there so I don't want to say much about them
-
-Certainly! Here's a categorized breakdown of the podcast list you provided:
+Of course, there's a plethora of other shows I listened to quite often too but they're just clearly there so I don't want to say much about them. Heres a short list:
 
 ### Linux/Tech:
 1. Late Night Linux Family
