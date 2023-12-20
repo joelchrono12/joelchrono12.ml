@@ -7,6 +7,9 @@ date: 2023-12-13
 description: Let's now talk about the books that I read this year and what I thought about each of them! Both finished and on hold, of course.
 permalink: /blog/my-favorite-books-of-2023/
 image: 'assets/img/blogs/2023-12-13-books.webp'
+com_id: 111576570899460011
+host: fosstodon.org
+user: joel
 ---
 
 This year I had a fairly realistic goal of reading 15 books in a year, and I utterly failed to fulfill it once again. Honestly I didn’t expect to read only like 6 books. Although taking into account the amount of manga I read, it does explain why I lacked the time to read proper textbooks.
