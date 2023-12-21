@@ -42,6 +42,10 @@
   link: https://dusanmitrovic.xyz/
   rss: https://dusanmitrovic.xyz/rss
 
+- name: Garrit Franke
+  link: https://garrit.xyz/
+  rss: https://garrit.xyz/rss.xml
+
 - name: Heavy Consulting
   link: https://heavyconsulting.net/blog
   rss: https://heavyconsulting.net/blog/feed.atom
@@ -115,8 +119,8 @@
   rss: https://vkc.sh/feed/
 
 - name: www-gem
-  link: https://www-gem.bearblog.dev/
-  rss: https://www-gem.bearblog.dev/feed/
+  link: https://www-gem.codeberg.page/
+  rss: https://www-gem.codeberg.page/feed.atom
 
 
 
