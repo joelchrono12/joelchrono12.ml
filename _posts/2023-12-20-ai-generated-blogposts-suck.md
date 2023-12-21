@@ -8,7 +8,7 @@ layout: post
 date: 2023-12-20 22:43:43 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 111616654621117276
 ---
 
 I was not looking forward to ever mention AI again in this blog, but I just wanted to update a little bit on my views on this topic.
