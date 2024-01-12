@@ -5,7 +5,7 @@ description: I can't believe another year passed by, but here are some of the th
 tags: personal ramble review thoughts
 permalink: /blog/looking-back-at-2023/
 layout: post
-date: 2024-01-06 10:28:06 -0600
+date: 2024-01-09 22:30:06 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
