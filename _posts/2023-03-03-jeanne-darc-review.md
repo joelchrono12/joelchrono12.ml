@@ -35,7 +35,7 @@ Jeanne and a few other characters are armed with divine bracelets that allows th
 
 ## Storyline
 
-The story itself is rather good in my opinion, and it sticks to the historical aspect, at least for the first half.
+The story itself is rather good in my opinion, and it sticks to the historical aspect decently well, with some elements like magic, demonic enemies and stuff added in the mix. The second half of the story goes a little more light on its accuracy though, but it doesn't mean its bad at all.
 
 Once Jeanne's hometown gets invaded by demons sent by England's monarchy, she receives a special bracelet from a fallen knight and obtains the ability to transform into a sick armor, enhance her powers and fight against evil. She decides its her destiny to save France and finish the war along her friends Lianne and Roger, and so the adventure begins.
 
