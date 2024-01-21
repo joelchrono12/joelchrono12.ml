@@ -21,14 +21,14 @@ These aliens, known as the Overlords, do not come to cause havoc, but they seem 
 
 How this is done, and the events that develop in the novel, are something that I think you should simply read, it flies by, really quickly. The ideas displayed here are really, really interesting. For a book published in 1953, maybe the most aged thing---that is quite charming still---is how TV and radio are the main way information is delivered to people.
 
-The commentary on humanity, consummerism, religion, racism, art, transportation, education, work, politics, and many other topics regarding Earth and how it lives its life under the guidance of the Overlords, is simple super interesting. I had never read a novel by Clarke, but I can see why he remains relevant to this day.
+The commentary on humanity, consummerism, religion, racism, art, transportation, education, work, politics, and many other topics regarding Earth and how it lives its life under the guidance of the Overlords, is  simply super interesting. I had never read a novel by Clarke, but I can see why he remains relevant to this day.
 
 The ideas on display, about humanity, about alien life, about space---and beyond. They are just incredible. The novel was full of moments where I could not believe what I was reading, every time I turned my page there was something happening that only raised the mystery behind the Overlord's true form, their true motives, the consequences of humanity living in a constant state of peace. The novel is not the longest I've read by any means, but its content is really thought-provoking and it just makes you question the things we take for granted even today. 
 
 I would dare say it is the most quotable book I've read in ages, the statements, the events, those last few chapters. I wasn't worried about the stakes at hand, I could not even comprehend, I could not even grasp what happened, I could not even get mad. I could only read.
 
 
-I am so glad I read this blid. Simply a great book.
+I am so glad I went into this blind. Simply a great book.
 
 > It is a bitter thought, but you must face it. The planets you may one day possess. But the stars are not for Man.
 >
