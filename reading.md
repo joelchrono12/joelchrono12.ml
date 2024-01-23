@@ -1,21 +1,23 @@
 ---
-title: reading list | joelchrono
+title: booklog| joelchrono
 header: Reading
-description: I started reading books again and I decided to create this section to keep track of the ones I've read so far.
-permalink: /reading/
+description: I quite like reading science fiction and other things, here's a log of the books I've read divided by year.
+permalink: /booklog/
 layout: default
+redirect_from: /reading/
 ---
 
 You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!
 
 # 👤 Books Read
 
+{% comment %}
 <table>
   <thead>
     <tr>
       <th>Title</th>
-      <th>Start Date</th>
-      <th>Finish Date</th>
+      <th>Started</th>
+      <th>Finished</th>
     </tr>
   </thead>
   <tbody>
@@ -28,6 +30,119 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 {% endfor %}
   </tbody>
 </table>
+{% endcomment %}
+
+<style>
+  .responsive-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 2rem;
+  }
+
+  .book-cover-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .book-cover {
+    background-color: var(--code-bg);
+    background-size: cover;
+    background-position: center;
+    border: 1px solid var(--code-bg);
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    height: 250px;
+  }
+
+  .content {
+    display: flex;
+    flex-grow: 1;
+    padding: 0 .8rem;
+    transition: opacity 0.3s ease;
+    overflow: auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .info {
+    font-size: 14px;
+  }
+
+  .title {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  .artist {
+    font-size: 14px;
+  }
+
+  .dates {
+    font-size: 12px;
+    white-space: pre-line;
+    overflow: visible;
+  }
+
+  @media screen and (max-width: 600px) {
+    .responsive-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .book-cover-container {
+      flex-direction: row;
+    }
+
+    .book-cover {
+      height: auto;
+      flex: 0 0 100px;  
+      margin-right: 10px;
+    }
+
+    .content {
+    flex-grow: 1;
+    min-height: 0px;
+    align-items: right;
+    text-align: right;
+    justify-content: right;
+    }
+    .dates {
+    display: inline;
+    }
+  }
+</style>
+
+{% if site.data.books %}
+  {% assign books_by_year = site.data.books | sort: 'end' | group_by_exp: "item", "item.end | date: '%Y'" %}
+  {% for year_group in books_by_year reversed %}
+  <h2>{{ year_group.name }}</h2>
+  <div class="responsive-grid">
+  {% for item in year_group.items reversed %}
+  <div class="book-cover-container">
+  <img class="book-cover" src="{{ item.cover }}">
+  <!--<div class="book-cover" style="background-image: url('{{ item.cover }}');"></div>-->
+  <div class="content">
+  <div class="info">
+  <div class="title"><i>{{ item.title }}</i></div>
+  <div class="artist">{{ item.author }}</div>
+  <div class="dates">Started: {{ item.start }}</div>
+  <div class="dates">Finished: {{ item.end }}</div>
+  </div>
+  </div>
+  </div>
+      {% endfor %}
+  </div>
+  {% endfor %}
+{% endif %}
+
+
+
+
+
+
 
 ## Books I've read before
 

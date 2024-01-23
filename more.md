@@ -12,7 +12,7 @@ layout: default
 
 - __[Blogroll](/blogroll)__: A list of blogs I follow and I recommend you to check out. Not all of them maybe of your liking, but they're of mine.
 - __[Origami pictures](/origami)__: I like origami, and I share pictures sometimes, here is a collection of them.
-- __[Reading list](/reading/)__: Books I've read. Check [my Bookwyrm account](https://bookrastinating.com/user/joel) for faster updates.
+- __[Booklog](/booklog/)__: Books I've read. Check [my Bookwyrm account](https://bookrastinating.com/user/joel) for faster updates.
 - __[Projects](/projects)__: Games and projects I've made for fun.
 - __[Statistics](/stats)__: Fun statistics about my blog.
 </div>
