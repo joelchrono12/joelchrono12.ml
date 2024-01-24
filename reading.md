@@ -36,24 +36,26 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
   .responsive-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-    gap: 2rem;
+    gap: 1rem;
   }
 
   .book-cover-container {
+    background-color: var(--code-bg);
+    padding: .6rem;
+    padding-top: 1rem;
+    border-radius: 12px;
     display: flex;
     flex-direction: column;
   }
 
   .book-cover {
-    background-color: var(--code-bg);
     background-size: cover;
     background-position: center;
-    border: 1px solid var(--code-bg);
     border-radius: 10px;
     overflow: hidden;
     position: relative;
     text-align: center;
-    height: 250px;
+    height: 230px;
   }
 
   .content {
@@ -93,11 +95,12 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     }
 
     .book-cover-container {
-      flex-direction: row;
+    flex-direction: row;
+    padding: .6rem;
     }
 
     .book-cover {
-      height: auto;
+      height: 170px;
       flex: 0 0 100px;  
       margin-right: 10px;
     }
@@ -122,12 +125,13 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
   <div class="responsive-grid">
   {% for item in year_group.items reversed %}
   <div class="book-cover-container">
+  <div class="book-cover">
   <img class="book-cover" src="{{ item.cover }}">
-  <!--<div class="book-cover" style="background-image: url('{{ item.cover }}');"></div>-->
+  </div>
   <div class="content">
   <div class="info">
   <div class="title"><i>{{ item.title }}</i></div>
-  <div class="artist">{{ item.author }}</div>
+  <div class="artist">by {{ item.author }}</div>
   <div class="dates">Started: {{ item.start }}</div>
   <div class="dates">Finished: {{ item.end }}</div>
   </div>
