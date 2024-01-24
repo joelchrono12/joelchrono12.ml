@@ -1,6 +1,6 @@
 ---
-title: booklog| joelchrono
-header: Reading
+title: booklog | joelchrono
+header: Booklog
 description: I quite like reading science fiction and other things, here's a log of the books I've read divided by year.
 permalink: /booklog/
 layout: default
@@ -9,7 +9,7 @@ redirect_from: /reading/
 
 You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!
 
-# 👤 Books Read
+# 👤 Books I read
 
 {% comment %}
 <table>
@@ -148,7 +148,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
 
 
-## Books I've read before
+## Books I read at some point
 
 I have not read a ton of books, but up until now, I didn't keep track of dates or anything, so these are books that I read at some point between 2010 and 2021 (or maybe earlier).
 
