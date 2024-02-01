@@ -1,6 +1,6 @@
 ---
 title: home | joelchrono
-header: Welcome to my digital garden
+header: Welcome to my website!
 description: Ramblings and thoughts about tech, free software, and hobbies of my life, shared bit by bit.
 permalink: /
 layout: default

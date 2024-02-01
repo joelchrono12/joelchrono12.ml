@@ -4,10 +4,10 @@
   <section class="articles">
     {{range .Articles}}
     <div class="article">
-      <h4 class="title">
+      <h4 class="title" dir="auto">
         <a href="{{.Link}}" target="_blank" rel="noopener">{{.Title}}</a>
       </h4>
-      <p class="summary">{{.Summary}}</p>
+      <p class="summary" dir="auto">{{.Summary}}</p>
       <small class="source">
         via <a href="{{.SourceLink}}">{{.SourceTitle}}</a>
       </small>

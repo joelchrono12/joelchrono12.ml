@@ -7,7 +7,7 @@ layout: default
 ---
 # 👤 About me 
 
- <img src="/assets/img/pfp.webp" alt="My profile pic" class="img" style="display: block; margin-left: auto; margin-right: auto; width: 35%; border-radius:50%; opacity:.95"> 
+ <img src="/assets/img/pfp2.png" alt="My profile pic" class="img" style="display: block; border-radius:20%;margin-left: auto; margin-right: auto; width: 45%; opacity:.95"> 
 
  <div markdown="1" class="wrapper">
 
