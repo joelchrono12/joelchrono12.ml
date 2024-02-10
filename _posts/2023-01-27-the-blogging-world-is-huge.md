@@ -2,7 +2,7 @@
 title: So many feeds to follow
 header: So many feeds to follow
 description: I love blogs, I love digital gardens. Since I started this journey I keep finding site after site and I recently added so many new ones to my feed, I decided to write about it.
-tags: internet blog lifestyle
+tags: internet blog lifestyle rss
 permalink: /blog/so-many-feeds-to-follow/
 layout: post
 date: 2023-01-27 10:03:16 -0600
