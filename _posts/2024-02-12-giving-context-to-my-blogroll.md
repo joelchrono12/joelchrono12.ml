@@ -11,7 +11,7 @@ username: joel
 com_id: 111920108563608582
 ---
 
-[Simone Silvestri](https://sonomu.club/@m2m) inspired me to improve my blogroll with [this post](https://minutestomidnight.co.uk/blog/giving-context-to-a-blogroll/) months ago, but things got in the way, and I promptly forgot about it, until now!
+[Simone Silvestroni](https://sonomu.club/@m2m) inspired me to improve my blogroll with [this post](https://minutestomidnight.co.uk/blog/giving-context-to-a-blogroll/) months ago, but things got in the way, and I promptly forgot about it, until now!
 
 [A thread](https://hachyderm.io/@molly0xfff/111908268704676868) by Molly White, ended up being the nail in the head where I decided to update my blogroll and make it better, adding context and a nicer design than before.
 
