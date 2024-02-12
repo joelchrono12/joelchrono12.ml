@@ -85,13 +85,13 @@ These blogs and personal websites have cool buttons, so I added them. Send me yo
 
 Feel free to add my button to your site using this snippet (do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking) it though).
 
-<a href="https://joelchrono12.xyz" target="_blank"><img class= "badge" alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12.gif" /></a>
+<a href="{{ site.url }}" target="_blank"><img class= "badge" alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12.gif" /></a>
 ```html
-<a href="https://joelchrono12.xyz" target="_blank"><img alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12.gif" /></a>
+<a href="{{ site.url }}" target="_blank"><img alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12.gif" /></a>
 ```
-<a href="https://joelchrono12.xyz" target="_blank"><img src="/assets/img/badges/joelchrono12_2.gif" class="badge" alt="Add my badge to your website! I'll add yours back!" /></a>
+<a href="{{ site.url }}" target="_blank"><img src="/assets/img/badges/joelchrono12_2.gif" class="badge" alt="Add my badge to your website! I'll add yours back!" /></a>
 ```html
-<a href="https://joelchrono12.xyz" target="_blank"><img alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12_2.gif"/></a>
+<a href="{{ site.url }}" target="_blank"><img alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12_2.gif"/></a>
 ```
 </div>
 
