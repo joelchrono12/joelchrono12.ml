@@ -1,0 +1,18 @@
+---
+layout: null
+---
+
+{% assign sorted_blogroll = site.data.blogroll | sort: 'name' %}
+
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Blogroll OPML</title>
+  </head>
+  <body>
+    {% for blogger in sorted_blogroll %}
+      <outline text="{{ blogger.name }}" title="{{ blogger.name }}" type="rss" xmlUrl="{{ blogger.rss }}" htmlUrl="{{ blogger.link }}" />
+    {% endfor %}
+  </body>
+</opml>
+
