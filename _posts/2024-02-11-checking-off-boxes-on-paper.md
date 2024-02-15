@@ -18,7 +18,7 @@ Anyway, sometimes my mom would give me her old barely used agendas and I would f
 
 On and off I have used notebooks to take notes, to write about books I've read or just because school wanted me to write down short stories, essays, or any tasks I had to do.
 
-Nowadays I don't really write much with pen and paper I mean, and I do most of my productivity and tracking on my phone---mostly *only* tracking. I use [Letterboxd](https://letterboxd.com) for movies, [Backloggd](https://backloggd.com) for videogames, [Bookrastinating](https://bookrasstinating.com) for books, [Anilist](https://anilist.co) for anime and manga, and [ActivityWatch](https://activitywatch.net) for device and app usage.
+Nowadays I don't really write much with pen and paper I mean, and I do most of my productivity and tracking on my phone---mostly *only* tracking. I use [Letterboxd](https://letterboxd.com) for movies, [Backloggd](https://backloggd.com) for videogames, [Bookrastinating](https://bookrastinating.com) for books, [Anilist](https://anilist.co) for anime and manga, and [ActivityWatch](https://activitywatch.net) for device and app usage.
 
 Recently, probably because I read a bunch of [Analogue Office's](https://analogoffice.net/) archives, I got the itch to do something that I could keep track of on paper. Funnily enough, I had a goal to read the New Testament from the Bible in 90 days, using a Bible app plan. So, I happened to find [a PDF printable](https://media.swncdn.com/cms/pdf/CROSSCARDS-304-90dayNewTestamentplan.pdf) to use instead, and see if I would find it useful.
 
