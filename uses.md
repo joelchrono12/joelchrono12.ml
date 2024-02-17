@@ -49,7 +49,7 @@ I split this section between desktop (mostly Free Software and available on Linu
 
 - [ActivityWatch](https://activitywatch.net): A great tool to keep track of your desktop and android usage
 - [Element](https://element.io): The only Matrix client that it's worth using.
-- [Joplin](https://joplinapp.com): Cross-platform Markdown note taking app.
+- [Joplin](https://joplinapp.org): Cross-platform Markdown note taking app.
 - [KDEConnect](https://kdeconnect.kde.org/): Great tool to connect my phone and computer.
 - [Syncthing](https://syncthing.org): Sync files accross multiple devices.
 - [GNU Image Manipulator Program](https://gimp.org/): An image editor similar to Photoshop.
