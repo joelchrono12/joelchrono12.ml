@@ -1,5 +1,5 @@
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-sitemap
   #- jekyll-webring
   - jekyll-redirect-from
@@ -8,8 +8,10 @@ plugins:
 
 # SEO Stuff
 title: "Joelchrono's Blog"
-author: "joelchrono"
-email: "joel.chrono@disroot.org"
+author: 
+  name: "joelchrono"
+  twitter: "https://twitter.com/@joel"
+  email: "joel.chrono@disroot.org"
 url: "https://joelchrono.xyz"
 baseurl: ""
 timezone: "America/Mexico_City"
