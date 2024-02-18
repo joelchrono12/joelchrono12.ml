@@ -13,7 +13,8 @@ layout: none
         <name>{{ site.author.name }}</name>
         <email>{{ site.author.email }}</email>
     </author>
-    {% for post in site.posts %}
+    {% assign feed_items = site.feed_items | default: 10 %}
+    {% for post in site.posts limit:feed_items %}
     <entry>
         <title type="html">{{ post.title | xml_escape }}</title>
         <link href="{{ post.url | absolute_url}}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}"/>
