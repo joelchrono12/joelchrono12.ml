@@ -12,11 +12,6 @@
     the blog because of that, and I stayed for the content. Although there is
     no dark theme here, the book reviews, technology and retro-related content
     might just be enough to redeem it."
-
-#- name: Allison Parrish
-  #link: https://posts.decontextualize.com/
-  #feed: https://posts.decontextualize.com/rss.xml
-
 - name: Analog Office
   desc: "By Anna Havron, this site is a love letter to analog office supplies
     and organization methods, untethered from the digital world. This blog
@@ -30,7 +25,6 @@
   desc: "Andy doesn't post very often, but when he does, its usually about CSS
     shenanigans and web design stuff that I usually just copy and paste if it's
     shiny and fun. Lovely website—but it doesn't have a dark mode."
-
 - name: Benjamin Hollon
   link: https://benjaminhollon.com/
   rss: https://benjaminhollon.com/musings/feed/
@@ -38,7 +32,6 @@
     and tinker with everything his hands can reach. Only God knows how many
     coding and writing projects he's working on. He blogs about those projects
     and makes me feel I'm wasting my life."
-
 - name: BBBHLTZ
   link: https://bbbhltz.codeberg.page
   rss: https://bbbhltz.codeberg.page/rss.xml
@@ -46,8 +39,6 @@
     automations he comes up with avoid working on things more than he needs to.
     Tools like pandoc, claws mail and similar things. I've found or
     rediscovered such tools, because of him!"
-
-
 - name: Bradley Taunt
   link: https://btxx.org/
   rss: https://btxx.org/index.rss
@@ -55,7 +46,6 @@
     always remains interesting and fun. With a focus on web development and
     many projects and clubs under his belt, you should just start following him
     already!"
-
 - name: Oh Hey Brian
   link: https://blog.ohheybrian.com
   rss: https://blog.ohheybrian.com/feeds/all.atom.xml
@@ -63,7 +53,6 @@
     his students by making them actually learn things and writing about his
     methodologies and things. He also writes about normal stuff like, life, or
     books."
-
 - name: Chris Wiegman
   link: https://chriswiegman.com
   rss: https://chriswiegman.com/feed
@@ -71,7 +60,6 @@
     life stuff. He is just real and I enjoy his short posts whenever they show
     up, it is always rather delightful. Except when Apple products show up, but
     I'll allow it."
-
 - name: Clayton Errington
   link: https://claytonerrington.com/
   rss: https://claytonerrington.com/feed.xml
@@ -79,7 +67,6 @@
     guy that writes about programming, writing and technology in general. He
     also still likes to play Wordle and shares his analytics. I never read
     those, but the rest is good!"
-
 - name: Chris O'Donnell
   link: https://odonnellweb.com/pelican/
   rss: https://odonnellweb.com/pelican/feeds/all.atom.xml
@@ -87,7 +74,6 @@
     alive, and it keeps on going! He posts every couple weeks and checking his
     archives is very fun. He shares some of those in his Mastodon account and
     many times they still hold up!"
-
 - name: Dusan Mitrovic
   link: https://dusanmitrovic.xyz/
   rss: https://dusanmitrovic.xyz/rss
@@ -95,7 +81,6 @@
     self-hosting, life and software development. Sometimes he goes analog, like
     with cassette tapes! Which is fun. A little less active but every blogpost
     is always a nice surprise."
-
 - name: Garrit Franke
   link: https://garrit.xyz/
   rss: https://garrit.xyz/rss.xml
@@ -103,12 +88,6 @@
     simple and he writes about whatever he likes. Books, random thoughts and a
     variety of other tech-related topics!—he still doesn't fulfill his promise
     to read The Mote in God's Eye though."
-
-#- name: Heavy Consulting
-  #link: https://heavyconsulting.net/blog
-  #rss: https://heavyconsulting.net/blog/feed.atom
-  #desc: "Niclas is a bit of a newer addition for me"
-
 - name: Hund
   link: https://hunden.linuxkompis.se/blog
   rss: https://hunden.linuxkompis.se/feed.xml
@@ -116,15 +95,6 @@
     software, tips and tricks for his blog and his workflow. Super interesting
     stuff if you like Linux, minimalist software, life in the terminal and tech
     in general. No dark theme, sad."
-
-#- name: Ilyess
-  #link: https://ilyess.cc/
-  #rss: https://ilyess.cc/index.xml
-
-#- name: Klaus Zimmermann
-  #link: https://kzimmermann.0x.no/
-  #rss: https://kzimmermann.0x.no/articles/atom.xml
-
 - name: Lazybear
   link: https://lazybear.io/
   rss: https://lazybear.io/index.xml
@@ -132,7 +102,6 @@
     he even notices my existence and writes his articles in reply to mine. He
     also writes about technology, books and whatever he does during the month.
     He's done #100DaysToOffload many times too!"
-
 - name: Lynnandtonic Blog
   link: https://lynnandtonicblog.com/
   rss: https://lynnandtonicblog.com/feed/feed.xml
@@ -140,7 +109,6 @@
   whatever she likes. Most of the time: movies, or pets. Very fun and full of
     pictures of movie scenes or food, or stickers, or pets. I can recommend it
     if you want something that isn't tech and webdev"
-
 - name: Macarena Quiroga
   link: https://macarenaquiroga.netlify.app/
   rss: https://macarenaquiroga.netlify.app/index.xml
@@ -148,7 +116,6 @@
     don't really understand. Research, education and other things using R and
     the like. If you are interested in learning R, and you know Spanish, you
     should check out her content!"
-
 - name: Mike Stone
   link: https://mikestone.me
   rss: https://mikestone.me/feed.xml
@@ -156,7 +123,6 @@
     blog, but he usually has something interesting to say to keep us updated on
     his life and rants about whatever tech he uses. A very busy person it seems
     to me."
-
 - name: Minutes to Midnight
   link: https://minutestomidnight.co.uk
   rss: https://minutestomidnight.co.uk/feed.xml
@@ -164,7 +130,6 @@
     things. He's the reason I started to add these descriptions to all the
     people in my Blogroll, actually, so you can thank him for my snarky
     comments on everyone here."
-
 - name: moddedBear
   link: https://moddedbear.com/
   rss: https://moddedbear.com/index.xml
@@ -172,7 +137,6 @@
     writes about Linux, the games he plays, and many other tech-related topics,
     kind of similar to me I think, which means you'll like his content! Right?
     Even if you don't like me, give him a chance."
-
 - name: Noisy Deadlines
   link: https://noisydeadlines.net/
   rss: https://noisydeadlines.net/feed/
@@ -180,7 +144,6 @@
     bunch of reflections and thoughts on life. There is as regular updates on
     whatever happens in the author's personal life , as well as monthly book
     reviews and recommendations."
-
 - name: RL_Dane
   link: https://rldane.space/
   rss: https://rldane.space/index.php/feed
@@ -188,7 +151,6 @@
     blog is not very new, but his content is still very well written. The
     topics covered are pretty varied, from terminal tools to opinions and
     thoughts about life, software and philosophy."
-
 - name: Rach Smith
   link: https://rachsmith.com
   rss: https://rachsmith.com/rss
@@ -196,7 +158,6 @@
     delightful surprise, sticking to the content fetched by whatever RSS reader
     you use is a disservice! She writes about life, tech, productivity and
     blogging. A ton of variety here!"
-
 - name: Robert Winter
   link: https://robert.winter.ink
   rss: https://robert.winter.ink/feed
@@ -204,7 +165,6 @@
     me! He also writes very professionally and about a variety of things.
     Technology, work life, leadership, and the like! He's a doctor, what else
     did you expect?"
-
 - name: Ru Singh
   link: https://rusingh.com
   rss: https://rusingh.com/feed.xml
@@ -212,7 +172,6 @@
     to check out, and whenever a new post shows up on my feed it is always good.
     Personal updates, quite a bit of tech-related articles and many opinions on
     things."
-
 - name: Silvia Maggi
   link: https://silviamaggidesign.com/
   rss: https://silviamaggidesign.com/feed.xml
@@ -220,7 +179,6 @@
     design and similar artsy content, you will enjoy her blog! There's also
     quite a bit of personal updates and posts you might like! Wonderful site
     design, despite the lack of a dark theme."
-
 - name: The Art Of Not Asking Why
   link: https://taonaw.com
   rss: https://taonaw.com/rss
@@ -228,12 +186,6 @@
     reading and tech-related opinions. I have to admit I find his use of
     micro.blog annoying because proper articles and short posts are not
     separated in any way. Still, a bunch of good stuff in here!" 
-
-#- name: The Skeptical Hermit
-  #link: https://theskepticalhermit.wordpress.com/
-  #rss: https://theskepticalhermit.wordpress.com/feed/
-  #desc: ""
-
 - name: Veronica Explains
   link: https://vkc.sh/
   rss: https://vkc.sh/feed/
@@ -241,7 +193,6 @@
     few articles she shares are kind of interesting. There's quite a few
     articles about Linux, software and technology, as well as some personal
     updates from time to time."
-
 - name: www-gem
   link: https://www-gem.codeberg.page/
   rss: https://www-gem.codeberg.page/feed.atom
@@ -249,8 +200,6 @@
     coding and similar things. The website design is also super simple and it
     has a dark theme! There is a bunch of useful content here if you are
     interested in those topics."
-
-
 - name: Robb Knight
   link: https://rknight.me/
   rss: https://rknight.me/rss.xml
@@ -258,7 +207,6 @@
     interesting content regarding technology, development and also food. He is
     also a the reason this blogroll has an OPML file too! Very inspiring site
     design too, a lot of personality."
-
 - name: Scott Banwart
   link: https://https://scottbanwart.com
   rss: https://scottbanwart.com/blog/feed/atom.xml
@@ -266,7 +214,6 @@
     probably, but the day such an event comes, I would probably be worried
     about his wellbeing. The site has no dark theme either, but it's quite 
     minimal at least!"
-
 - name: Jack Baty
   link: https://baty.net/
   rss: https://baty.net/feed
@@ -274,7 +221,6 @@
     everything in a lot of websites. His main blog is more than enough for
     many, including me. He writes about organization, technology and blogging
     platforms!"
-
 - name: Tahimik
   link: https://tahimik.com/journal
   rss: https://tahimik.com/journal.rss
@@ -296,3 +242,20 @@
     Anyway, he enjoys writing fiction, learning many things and doing many
     things. I don't visit his site very often but when his posts show up on my
     feed are quite nice. Not the best dark theme but good enough."
+#- name: Allison Parrish
+  #link: https://posts.decontextualize.com/
+  #feed: https://posts.decontextualize.com/rss.xml
+#- name: Heavy Consulting
+  #link: https://heavyconsulting.net/blog
+  #rss: https://heavyconsulting.net/blog/feed.atom
+  #desc: "Niclas is a bit of a newer addition for me"
+#- name: Ilyess
+  #link: https://ilyess.cc/
+  #rss: https://ilyess.cc/index.xml
+#- name: Klaus Zimmermann
+  #link: https://kzimmermann.0x.no/
+  #rss: https://kzimmermann.0x.no/articles/atom.xml
+#- name: The Skeptical Hermit
+  #link: https://theskepticalhermit.wordpress.com/
+  #rss: https://theskepticalhermit.wordpress.com/feed/
+  #desc: ""
