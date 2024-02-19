@@ -1,0 +1,18 @@
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>{{ page.title }}</title>
+	<meta name="description" content="{{ page.description }}" />
+	{% feed_meta %}
+	<link rel="stylesheet" href="/assets/css/custom.css"/>
+	<link rel="icon" href="{{ site.url }}/assets/img/favicon.webp"/>
+	{% if page.image %}
+	<meta property="og:image" content="{{ site.url }}/{{ page.image }}"/>
+	<meta name="twitter:image" content="{{ site.url }}/{{ page.image }}"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	{% else %}
+	<meta property="og:image" content="{{ site.url }}/assets/img/banner.png"/>
+	<meta name="twitter:image" content="{{ site.url }}/assets/img/banner.png"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+	{% endif %}
+</head>

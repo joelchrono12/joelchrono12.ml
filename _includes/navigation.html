@@ -6,6 +6,8 @@
     <a href="{{ item.link }}">{{ item.name }}</a>
     {% endif %}
 {% endfor %}
+{% if page.layout != "none" %}
     <a class="js" id="toggleButton" onclick="toggleAnimation()">BG: OFF</a>
+{% endif %}
 </nav>
 
