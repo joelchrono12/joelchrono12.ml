@@ -54,7 +54,7 @@ The watch seemed pretty much identical to me, after having the original on hand,
 - A more low-pitched beeping sound.
 - Worse printing, especially the weekday indicator.
 - A more shiny finish.
-- Scratched display.
+- Scratched crystal, probably salvaged?
 - The buttons portrude more, and have a shiny finish, also the screws.
 - The buckle is shinier and the engraving is worse.
 - The strap is flimsier and the mold is worse.
