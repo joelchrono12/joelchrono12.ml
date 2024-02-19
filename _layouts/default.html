@@ -1,25 +1,6 @@
 <!doctype html>
 <html lang="en-US">
-    <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>{{ page.title }}</title>
-      <meta name="description" content="{{ page.description }}" />
-      {% feed_meta %}
-      <!--<link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">-->
-      <link rel="stylesheet" href="/assets/css/custom.css">
-      <!--<link rel="stylesheet" href="/assets/css/style.css">-->
-      <link rel="icon" href="{{ site.url }}/assets/img/favicon.webp" />
-      {% if page.image %}
-      <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
-      <meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
-      <meta name="twitter:card" content="summary_large_image">
-      {% else %}
-      <meta property="og:image" content="{{ site.url }}/assets/img/banner.png">
-      <meta name="twitter:image" content="{{ site.url }}/assets/img/banner.png">
-      <meta name="twitter:card" content="summary_large_image">
-      {% endif %}
-  </head>
+  {% include head.html %}
   <body>
     <header>
       <center class="home-top"><a href="/">
@@ -55,30 +36,6 @@
         {% include recentposts.html %}
         {% include out.html %}
       </section>
-      <footer>
-        <center>
-          <p>
-            <b>This site is member of many webrings! Check some other geeky websites here!</b><br>
-            <a href="https://fediring.net/previous?host=joelchrono12.xyz">←</a>
-            <a href="https://fediring.net/">Fediring</a>
-            <a href="https://fediring.net/random">🎲</a>
-            <a href="https://fediring.net/next?host=joelchrono12.xyz">→</a>
-          <br>
-            <a href="https://xn--sr8hvo.ws/%F0%9F%8D%8B%F0%9F%8C%8A%F0%9F%91%B6/previous">←</a>
-            <a href="https://xn--sr8hvo.ws">IndieWeb</a> 🕸💍
-            <a href="https://xn--sr8hvo.ws/%F0%9F%8D%8B%F0%9F%8C%8A%F0%9F%91%B6/next">→</a>
-          <br>
-            <a href="http://geekring.net/site/249/previous">←</a>
-            <a href="http://geekring.net">Geekring</a>
-            <a href="http://geekring.net/site/249/random">🎲</a>
-            <a href="http://geekring.net/site/249/next">→</a>
-          </p>
-          <small>
-            <p>This site was created by <a rel="me" href="https://fosstodon.org/@joel">joelchrono12</a> and was made using <a href="https://jekyllrb.com">Jekyll</a>.</p>
-            <p><a class="button" href="#top">Back to top</a>
-            </p>
-          </small>
-        </center>
-      </footer>
+      {% include footer.html %}
   </body>
 </html>

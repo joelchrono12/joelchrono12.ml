@@ -1,14 +1,12 @@
 - name: Blog
   link: /blog/
-- name: Tags
-  link: /tags/
 - name: About
   link: /about/
 - name: Contact
   link: /contact/
-- name: Uses
-  link: /uses/
 - name: Now
   link: /now/
 - name: More
   link: /more/
+- name: RSS
+  link: /feed.xml
