@@ -9,6 +9,7 @@ date: 2024-02-16 22:10:29 -0600
 host: fosstodon.org
 username: joel
 com_id: 111954842753997338
+image: '/assets/img/blogs/2024-02-18-casio-ga-2100.webp'
 ---
 
 So, I bought a fake Casio watch, or at the very least, not a new one. Here's how I found out.
