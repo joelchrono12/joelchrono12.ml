@@ -41,8 +41,10 @@ layout: default
 # Social Networks
 
 <div class="wrapper" markdown="1">
+- 📺 **[YouTube Channel](https://youtube.com/@joelchrono)** - I post very rarely, but the day I do, you'll know!
 - 🐘 **[@joel@fosstodon.org](https://fosstodon.org/@joel)** - This is my main social media presence, I post often and I am quite active. You are probably already following me if you are in this website, but if you arent, make sure to do so!
-- 🐘 **[@joel@misskey.ai](https://misskey.ai/@joel)** - I love misskey, I don't use this account much, so treat is as a backup, I'll use it sometimes if I feel like it.
-- 🐘 **[@joelchrono12@linuxrocks.online](https://linuxrocks.online/@joelchrono12)** - Mastodon account, backup whenever Fosstodon fails from time to time.
+- 🦉 **[@joelchrono@alpha.polymaths.social](https://alpha.polymaths.social/@joelchrono)** - A GoToSocial instance I use quite often, not my main account though.
 - 📖 **[@joel@boorkastinating.com](https://bookrastinating.com/@joel)** - This is a website to keep track of my read books and stuff, it also happens to be a federated social network.
+<!--- 🐘 **[@joel@misskey.ai](https://misskey.ai/@joel)** - I love misskey, I don't use this account much, so treat is as a backup, I'll use it sometimes if I feel like it.-->
+<!--- 🐘 **[@joelchrono12@linuxrocks.online](https://linuxrocks.online/@joelchrono12)** - Mastodon account, backup whenever Fosstodon fails from time to time.-->
 </div>

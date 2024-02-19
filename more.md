@@ -11,7 +11,9 @@ layout: default
 <div class="wrapper" markdown="1">
 
 - __[Blogroll](/blogroll)__: A list of blogs I follow and I recommend you to check out. Not all of them maybe of your liking, but they're of mine.
-- __[Origami pictures](/origami)__: I like origami, and I share pictures sometimes, here is a collection of them.
+- __[Uses](/uses)__: The software, hardware and other tools I use in my life. Be it for work or hobbies, everything's here.
+- __[Tags](/tags)__: See all the tags I use for my blogposts, alongside their RSS feeds!
+- __[Origami](/origami)__: I like origami, and I share pictures sometimes, here is a collection of them.
 - __[Booklog](/booklog/)__: Books I've read. Check [my Bookwyrm account](https://bookrastinating.com/user/joel) for faster updates.
 - __[Projects](/projects)__: Games and projects I've made for fun.
 - __[Statistics](/stats)__: Fun statistics about my blog.
