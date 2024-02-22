@@ -13,7 +13,7 @@ com_id: 111960871815998664
 
 Playing around with Jekyll is great, or with any static site generator in general! But there can also be many ways to do things wrong! And while this is not really a problem most of the time, you could end up making a mess for your future self, like I've done this time.
 
-However, I don't see this as a failure, but as a way to keep improving myself, and something to write about in the process! So, I corrected the way I a reply via email (and fediverse) link, and my RSS feed human-readable too!
+However, I don't see this as a failure, but as a way to keep improving myself, and something to write about in the process! So, I corrected the way I add a "reply via email (and fediverse) link" to each feed item, and also made my feed human-readable!
 
 # Adding Reply via Email (and Fediverse!) properly
 
