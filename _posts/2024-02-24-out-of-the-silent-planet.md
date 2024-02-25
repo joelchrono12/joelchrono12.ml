@@ -19,13 +19,13 @@ The story has a rather simple protagonist, who finds himself taken by, basically
 
 The beginning is rather strange, but it hooked me nonetheless, I was never quite sure of what was next. There really wasn't a clear route to take other than to try and survive once they land on the planet's surface.
 
-C. S. Lews, more commonly known for his work in The Chronicles of Narnia, writes about the intricacies and differences of this planet's biomes and creatures, and the way they all interact with each other.
+C. S. Lewis, more commonly known for his work in The Chronicles of Narnia, writes about the intricacies and differences of this planet's biomes and creatures, and the way they all interact with each other.
 
 From this, we get to know some of the way of life and the worldview of the planet's inhabitants, as well as the differences with Humanity's behaviour. The clash between science and logic, with a more spiritual and inter-connected one, where there's no being worth more than the other, no need to fight, or to be afraid of each other.
 
 It was a glad surprise that only took me longer to read because of the amount of work that I've had lately. I really need to get back into reading before bed, but for that I may have to start collecting physical book or get an e-ink reader because my phone is too distracting at home.
 
-Anyway, this book was great, and quite an interesting continuation after what [Childhood's End](/blog/childhoods-end) think of alien life and humanity itself.
+Anyway, this book was great, and quite an interesting continuation after what [Childhood's End](/blog/childhoods-end-review) think of alien life and humanity itself.
 
 
 
