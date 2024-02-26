@@ -6,42 +6,49 @@ description: "Here is what I'm up to right now"
 permalink: /now/
 ---
 
-**Last updated: February 9th, 2024**.
+**Last updated: February 25th, 2024**.
 
 Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
 **Location**: Living in Mexico with my family.
 
 ## What I'm reading
-
+<div markdown="1" class="wrapper">
 {{ site.data.books[0].title }} by {{ site.data.books[0].author }}. Started: {{ site.data.books[0].start }}.
+</div>
 
 ## What I'm watching
-- I recently begun a challenge to stop watching YouTube as much, so yeah.
-- Solo Leveling, the anime.
+<div markdown="1" class="wrapper">
+- I just finished the Avatar live action series and I thought it was pretty alright.
+</div>
+
 
 ## What I'm listening
-<!--<iframe width="100%" height="180" frameborder="no" color="black" background="gray" scrolling="no" seamless src=""></iframe>-->
 
-- Long Game, Short Game, Infinite Game, from Into The Aether.
-- The Legend of Zelda: Twilight Princess | Bonus, from Into The Aether.
-- S2 Ep.48 - Next to Normal, from Dungeons and Daddies
+<div markdown="1" class="wrapper">
+- Episode 13 of SCP: Find Us Alive, a podcast sci-fi audio drama.
+- The shine comes off the Vision Pro, from the Vergecast.
+- The Songhai Empire - Africa's Age of Gold, from Civilizations podcast.
+</div>
 
 ## What I'm playing
-- Yoshi's Island.
-- Lumines Remastered
+<div markdown="1" class="wrapper">
+- Balatro, a roguelike poker game, super fun, learned about it from [here](https://wavelengths.online/posts/balatro-the-best-deckbuilding-roguelike-in-years)
+- The Legend of Zelda: Breath of The Wild: did a couple more shrines at last!
+</div>
 
 ## What I'm enjoying
 
-- Cleaning up my RSS feeds and adding new ones.
-- Learning new things at my job.
-- Writing at a steady pace of 2-4 blogposts per week.
+<div markdown="1" class="wrapper">
+- Just had my graduation and it was a good time.
+- Integrating some new workstations for a company's project.
+- Exchanging emails with friends and internet people.
 - Repeating the [#100DaysToOffload](https://100daystooffload.com) challenge for the third time.
 
+</div>
 ## What I'm working on
-- Got a couple commissions at last and I should be working on them.
+<div markdown="1" class="wrapper">
+- Doing a commission for a Mastodon friend and getting some more.
 - A final project I need to do got get my degree.
-- Waiting for more info about my graduation and chatting to fellow graduates.
-- Avoiding YouTube as much as possible, not more than one hour per day, except for weekends maybe.
-- Getting things ready for work travel, I'll take some training courses outside my city!
 - Balancing the urge to buy more Switch games while saving money for a car.
+</div>

@@ -25,8 +25,7 @@ From this, we get to know some of the way of life and the worldview of the plane
 
 It was a glad surprise that only took me longer to read because of the amount of work that I've had lately. I really need to get back into reading before bed, but for that I may have to start collecting physical book or get an e-ink reader because my phone is too distracting at home.
 
-Anyway, this book was great, and quite an interesting continuation after what [Childhood's End](/blog/childhoods-end-review) think of alien life and humanity itself.
-
+Anyway, this book was great, and quite an interesting continuation after the ideas [Childhood's End](/blog/childhoods-end-review) showed about alien life and humanity itself.
 
 
 This is day 17 of [#100DaysToOffload](https://100daystooffload.com)
