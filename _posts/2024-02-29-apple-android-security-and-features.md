@@ -26,7 +26,7 @@ Recently Kyle did an editorial piece on Apple, which is, in my opinion, quite in
 
 This is going to be a bit of a rant, I ain't gonna lie, but sometimes, you have to correct things you know are wrong. But hey, maybe I am not correct in many things either so, feel free to respond to this too.
 
-Kyle, I am very grateful for everything you do for Nova Launcher and also co-administrating a [pretty cozy instance](https://allthingstech.social) on Mastodon, but this article didn't really have that many good points---in the opinion of an Android fanboy such as me, lol.
+Kyle, I am very grateful for everything you as a developer, and also co-administrating a [pretty cozy instance](https://allthingstech.social) on Mastodon, but this article didn't really have that many good points---in the opinion of an Android fanboy such as me, lol.
 
 So, since this is my blog, I'll just write the reasons I consider many of the arguments brought up in this case are wrong---from a certain point of view.
 
