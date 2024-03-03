@@ -28,11 +28,11 @@ layout: default
     </pre>
     </details>
 - 💬 **[Threema](https://threema.id/WKM6NCSE)** - As of beginnings of 2023, Threema was a bit of a rough spot, but according to them, [everything has been resolved](https://threema.ch/en/blog/posts/news-alleged-weaknesses-statement), and I quite like Threema, to be honest. If it wasn't for it being paid, it would be number 1 for me. If you have it, let's talk!
-- **✉️ [Signal](https://signal.org/es/download/)** - I use Signal for more private and comfortable communication. Ask me for my number via any of the other encrypted ways you can contact me.
+- **✉️ [Signal](https://signal.org/es/download/)** - I use Signal for more private and comfortable communication. You can contact me in any other way, and I'll send you an link to chat with me on Signal!
 
 - 🛩 **[Telegram](https://t.me/joelchrono12)** - This is not the most private messaging service in the world, I know, but it still has a lot of features and I am part of my groups within it, you can contact me without having to share phone numbers, which you may like.
 - 🟩 **[Matrix](https://matrix.to/#/@joelchrono12:matrix.org)** - I am not the biggest fan of Matrix, but I may as well use it if you want to talk, I can't promise I will get a notification of your chat request though.
-- 🟩 **[Discord](https://discord.com)** - I use Discord more for communities, but its a pretty decent chat application too, so you can contact me there and, my username is **@joelchrono**
+- 🟩 **[Discord](https://discord.com)** - I use Discord more for communities, but its a pretty decent chat application too, so you can contact me there and, my username is **@joelchrono**.
 <!--- **🕹 [Itch.io](https://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.-->
 <!--- **💻 [GitHub](https://github.com/joelchrono12)** - Here you can check out some of my projects, there are not a lot, but I still would love to try stuff out and contribute however I can. I have done a lot of icons for the Arcticons icon pack.-->
 
