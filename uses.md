@@ -11,7 +11,7 @@ permalink: /uses/
 
 # Software
 
-<div class="wrapper" markdown=1>
+<article markdown=1>
 
 I split this section between desktop (mostly Free Software and available on Linux), android apps and also cross-platform.
 
@@ -63,9 +63,9 @@ I split this section between desktop (mostly Free Software and available on Linu
 - [Nextcloud](https://nextcloud.com): A self-hosted cloud with a lot of extensions too, like syncing my podcasts and such.
 - [The Lounge](https://thelounge.chat/): IRC web client that stays online, so it keeps the chat history and the like.
 
-</div>
+</article>
 # Hardware
-<div class="wrapper" markdown=1>
+<article markdown=1>
 
 My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these specs:
 
@@ -83,7 +83,7 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 - Phone: Xiaomi Redmi Note 8
 - Earphones: Sony WF-C500
 - Microcomputer: Raspberry Pi 4B 8GB
-</div>
+</article>
 
 <!--# Previously used-->
 

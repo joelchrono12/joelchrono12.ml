@@ -11,7 +11,7 @@ layout: default
 
 # Instant Messaging
 
-<div class="wrapper" markdown="1">
+<article markdown="1">
 
 - 🗨️ **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and faster than Matrix, in my experience. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly.
     <details>
@@ -36,15 +36,15 @@ layout: default
 <!--- **🕹 [Itch.io](https://joelchrono12.itch.io/)** - This is my itch page. Itch.io its a website used to host games and game jams. You can access all of my games, which are not masterpieces, but still a bit of fun. Follow me there if you are interested in following updates and releases of my game projects.-->
 <!--- **💻 [GitHub](https://github.com/joelchrono12)** - Here you can check out some of my projects, there are not a lot, but I still would love to try stuff out and contribute however I can. I have done a lot of icons for the Arcticons icon pack.-->
 
-</div>
+</article>
 
 # Social Networks
 
-<div class="wrapper" markdown="1">
+<article markdown="1">
 - 📺 **[YouTube Channel](https://youtube.com/@joelchrono)** - I post very rarely, but the day I do, you'll know!
 - 🐘 **[@joel@fosstodon.org](https://fosstodon.org/@joel)** - This is my main social media presence, I post often and I am quite active. You are probably already following me if you are in this website, but if you arent, make sure to do so!
 - 🦉 **[@joelchrono@alpha.polymaths.social](https://alpha.polymaths.social/@joelchrono)** - A GoToSocial instance I use quite often, not my main account though.
 - 📖 **[@joel@boorkastinating.com](https://bookrastinating.com/@joel)** - This is a website to keep track of my read books and stuff, it also happens to be a federated social network.
 <!--- 🐘 **[@joel@misskey.ai](https://misskey.ai/@joel)** - I love misskey, I don't use this account much, so treat is as a backup, I'll use it sometimes if I feel like it.-->
 <!--- 🐘 **[@joelchrono12@linuxrocks.online](https://linuxrocks.online/@joelchrono12)** - Mastodon account, backup whenever Fosstodon fails from time to time.-->
-</div>
+</article>

@@ -7,43 +7,27 @@ layout: default
 ---
 
 <!--<div markdown="1" class="blog-data">-->
-<div class="wrapper">
-  <p>
-  I am Joel, hi! you are visiting my personal website. Here you can see some of my thoughts and ramblings about tech, gaming and other hobbies, my favorite of which is <a href="/origami"> origami</a>. 
-  I hope you enjoy your visit!
-  </p>
-</div>
-  <!--<div class=wrapper style="min-width: 40%; margin: 1rem; padding: 1rem;" >-->
-    <!--<img style="opacity: 1;" src="/assets/img/chill_chrono_trigger.gif">-->
-  <!--</div>-->
-<!--</div>-->
+<article markdown="1">
+I am Joel, hi! you are visiting my personal website. Here you can see some of
+my thoughts and ramblings about tech, gaming and other hobbies, my favorite of
+which is [origami](/origami). I hope you enjoy your visit!
+</article>
 
-
-
-<div class="blog-data" style="padding-bottom: .5rem;align-items: first baseline;">
-<h1>Latest blogs</h1>
-<a class=button href="/blog">Full archive</a>
-</div>
-
-<!--<div markdown="1" class="wrapper">-->
+# Latest blogs
 
 {% for post in site.posts limit:3 %}
-<article class="posts wrapper">
-  <p class="blog-data"><a href="{{ post.url }}"><b>{{ post.title }}</b></a></p>
+<article >
+  <b><a href="{{ post.url }}">{{ post.title }}</a></b>
   <div>{{ post.description | strip_html | strip_newlines }}</div>
   <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </article>
 {% endfor %} 
-<!--</div>-->
+<a href="/blog/">All articles</a>
 
 # Support me
-<div markdown="1" class="wrapper">
 
-You can support me in many ways, either via 
-
-<a class="button" href="https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW">Paypal</a>
-<a class="button" href="https://liberapay.com/joelchrono12/donate">Liberapay</a>
-<a class="button" href="https://ko-fi.com/joelchrono12">Ko-Fi</a>
+<article markdown="1" >
+You can support me in many ways, either via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW), [Liberapay](https://liberapay.com/joelchrono12/donate) or [Ko-fi](https://ko-fi.com/joelchrono)
 
 I don't use crypto personally, but if you want to give me some, there is the option too. My domain provider actually lets me renew it with that! So it doesn't go to waste :P
 
@@ -57,4 +41,4 @@ I only use <b>Monero</b> since at least its something anonymous and privacy resp
 </pre>
 <center><img src="./assets/img/monero"/></center>
 </details>
-</div>
+</article>
