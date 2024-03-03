@@ -332,6 +332,7 @@ blockquote{
 
 article.post, a.post{
     display: flex;
+    gap: 1rem;
     color: var(--accent) !important;
     justify-content: space-between;
     text-decoration: none;
@@ -345,6 +346,7 @@ article.post, a.post{
 }
 
 a.post .post-date {
+    white-space: nowrap;
     font-size: 0.8rem;
     text-align: center;
 }
