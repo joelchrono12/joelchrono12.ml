@@ -34,7 +34,9 @@
   }
 }
 
-
+*, *::before, *::after {
+    box-sizing: border-box;
+}
 
 
 a,
@@ -216,26 +218,8 @@ input[type="button"] {
     .blog-data{
         display: flex;
         justify-content: space-between;
+        align-items: center;
     }
-}
-
-
-.tag, .tag:visited {
-  border: none;
-  border-radius: 5px;
-  background: var(--border);
-  font-size: 1rem;
-  color: var(--bg);
-  text-decoration: none;
-  text-align: center;
-  padding: .1rem .3rem;
-  margin: .5rem .1rem;
-  transition: .2s;
-}
-.tag:hover {
-  color: var(--border);
-  background: var(--bg);
-  transition: .2s;
 }
 
 .button{
@@ -262,6 +246,27 @@ button:hover, .button:hover, svg:hover{
     opacity: .8;
     cursor: pointer;
 }
+
+nav ul {
+    padding: 0;
+}
+
+nav.tags{
+    display: flex;
+    align-items: center;
+}
+nav ul, nav ul li{
+    display: inline;
+    align-items: center;
+    margin: 0;
+}
+
+nav ul li a{
+    margin: .2rem .1rem;
+    font-size: 1rem;
+    padding: .1rem .3rem;
+}
+
 nav a {
     background: var(--code-bg);
     margin: .7rem .3rem; 
@@ -272,18 +277,18 @@ nav a {
     text-decoration: none;
     transition: .4s;
 }
-nav a.nav-current {
-    background: var(--border);
-    color: var(--bg) !important;
-    font-weight: bold;
-    opacity: 1;
-}
 nav a:hover {
     color: var(--bg) !important;
     border-color: var(--border);
     background: var(--border);
 }
 
+nav a.nav-current {
+    background: var(--border);
+    color: var(--bg) !important;
+    font-weight: bold;
+    opacity: 1;
+}
 figure {
   margin: 0;
   text-align: center;
@@ -306,7 +311,6 @@ blockquote{
 
 article.post, a.post{
     display: flex;
-    box-sizing: border-box;
     justify-content: space-between;
     text-decoration: none;
     align-items: center;

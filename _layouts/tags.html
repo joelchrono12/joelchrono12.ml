@@ -8,10 +8,11 @@ layout: default
 {% endfor %}
 
 
-<div class="posts">  
+<article>  
 {% for post in site.posts %}
 	{% if post.tags contains page.tag-name %}
-	<a class="post" href="{{ post.url }}"><h3 class="post-title">{{ post.title }}</h3><span class="post-date">{{ post.date | date: "%b %d %Y" }}</span></a>
+	<a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b>
+		<span class="post-date">{{ post.date | date: "%b %d %Y" }}</span></a>
 	{% endif %}
 {% endfor %}
-</div>
+</article>
