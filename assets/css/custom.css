@@ -10,18 +10,7 @@
     --line-height: 1.75;
     /*This is my dark themed color scheme*/
 
-    --accent-bg: #32344a;
-    --accent-light: #449dab;
-    --accent:#9ece6a;
-    --bg: #1a1b26;
-    --border: #7aa2f7;
-    --code-bg: #232433;
-    --code:#787c99;
-    --text-light: #e0af68;
-    --text:#a9b1d6;
 
-
-    @media (prefers-color-scheme: light){
         --accent-bg: #f0f0f0;
         --accent-light: #7aa2f7;
         --accent: #3d59a1;
@@ -31,11 +20,20 @@
         --code: #333333;
         --text-light: #666666;
         --text: #333333;
-  }
-  pre {
-      background-color: #232433;
+
+    @media (prefers-color-scheme: dark){
+    --accent-bg: #32344a;
+    --accent-light: #449dab;
+    --accent:#9ece6a;
+    --bg: #1a1b26;
+    --border: #7aa2f7;
+    --code-bg: #232433;
+    --code:#787c99;
+    --text-light: #e0af68;
+    --text:#a9b1d6;
   }
 }
+
 
 
 
@@ -144,8 +142,8 @@ code {
     word-wrap:break-word;
 }
 pre {
-    background-color: var(--bg);
-    /*background-color: var(232433);*/
+    /*background-color: var(--bg);*/
+    background-color: #232433;
     color: #d8dee9;
     border-radius: 8px;
     overflow:auto;
