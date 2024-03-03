@@ -42,7 +42,7 @@ document.getElementById('load-comment').addEventListener("click", async () => {
 });
 
 function createCommentEl(response){
-    let user = document.createElement('div');
+    let user = document.createElement('article');
     let userData = document.createElement('div');
     userData.classList.add('mastodon-username');
     user.classList.add('mastodon-comment');
@@ -72,7 +72,7 @@ function createCommentEl(response){
     commentLink.setAttribute('href',response.url); 
     commentLink.innerHTML = response.created_at.substr(0,10);
 
-    let commentContents = document.createElement('p');
+    let commentContents = document.createElement('div');
     commentContents.classList.add('mastodon-comment-content'); commentContents.innerHTML = response.content;
 
     let comment = document.createElement('div');

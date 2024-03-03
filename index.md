@@ -6,14 +6,17 @@ permalink: /
 layout: default
 ---
 
-<!--<div markdown="1" class="blog-data">-->
+## Enjoy your stay here!
+
 <article markdown="1">
 I am Joel, hi! you are visiting my personal website. Here you can see some of
 my thoughts and ramblings about tech, gaming and other hobbies, my favorite of
 which is [origami](/origami). I hope you enjoy your visit!
+
+Take your time and explore the many sections you can see in the navigation bar! You can find other links in the [more](/more) section.
 </article>
 
-# Latest blogs
+## Latest blogs
 
 {% for post in site.posts limit:3 %}
 <article >
@@ -22,9 +25,9 @@ which is [origami](/origami). I hope you enjoy your visit!
   <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </article>
 {% endfor %} 
-<a href="/blog/">All articles</a>
 
-# Support me
+
+## Support me
 
 <article markdown="1" >
 You can support me in many ways, either via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW), [Liberapay](https://liberapay.com/joelchrono12/donate) or [Ko-fi](https://ko-fi.com/joelchrono)

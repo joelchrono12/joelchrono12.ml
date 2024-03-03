@@ -1,43 +1,7 @@
-<style>
-.wrapper .wrapper{
-  border: 3px solid var(--border);
-  margin: 2rem;
-  margin-top: 3rem;
-}
-  .bloggers {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  a.button {
-    display: inline;
-    align-items: center;
-  }
-
-  .blog-title{
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-    margin-top: .6rem;
-  }
-  .blog-title h4{
-    margin: 0;
-  }
-  .embbeded-post{
-    margin: 1.5rem;
-  }
-
-</style>
-<div class="wrapper">
-  <div class="embbeded-post">
-    <div class="blog-title">
-      <h4 class="title" dir="auto">{{ include.title }}</h4>
-    </div>
+<article>
+  <div>
+    <h2>{{ include.title }}</h2>
     <p><i>{{ include.description }}</i></p>
-    <p> 
-    <a href="include.url">Read the Full Post</a>
-      by <a href="{{ include.author_url }}">{{ include.author }}</a> on <a href="{{ include.url }}">{{ include.site }}</a></p>
+    <p><a href="include.url">Read the Full Post</a> by <a href="{{ include.author_url }}">{{ include.author }}</a> on <a href="{{ include.url }}">{{ include.site }}</a></p>
   </div>
-</div>
-{{end}}
+</article>
