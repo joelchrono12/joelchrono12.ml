@@ -9,10 +9,14 @@ layout: default
 
 
 <article>  
-{% for post in site.posts %}
-	{% if post.tags contains page.tag-name %}
-	<a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b>
-		<span class="post-date">{{ post.date | date: "%b %d %Y" }}</span></a>
-	{% endif %}
-{% endfor %}
+	<nav class=posts>
+		<ul>
+		{% for post in site.posts %}
+		{% if post.tags contains page.tag-name %}
+		<li><a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b>
+				<span class="post-date">{{ post.date | date: "%b %d %Y" }}</span></a></li>
+		{% endif %}
+		{% endfor %}
+		</ul>
+	</nav>
 </article>

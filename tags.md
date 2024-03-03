@@ -17,21 +17,27 @@ layout: default
 
 ## By alphabetical order
 
-<article class="posts">
+<article>
+<nav class="posts">
+<ul>
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-<a class="post" href="/tags/{{ tag[0] }}/">
+<li><a class="post" href="/tags/{{ tag[0] }}/">
 <b class="post-title">{{ tag[0]}}</b>
 <span class="post-date">{{ tag[1] | size }} posts</span>
-</a>
+</a></li>
 {% endfor %}
+</ul>
+</nav>
 </article>
 
 ## By post quantity
 
-<article class="posts">
+<article>
+<nav class="posts">
+<ul>
 {% capture tags %}
 {% for tag in site.tags %}
 {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -40,6 +46,8 @@ layout: default
 {% assign sortedtags = tags | split:' ' | sort %}
 {% for tag in sortedtags reversed %}
 {% assign tagitems = tag | split: '#' %}
-<a class="post" href="/tags/{{ tagitems[1] }}/"><b class="post-title">{{ tagitems[1]}}</b> <span class="post-date">{{ tagitems[2] }} posts</span></a> 
+<li><a class="post" href="/tags/{{ tagitems[1] }}/"><b class="post-title">{{ tagitems[1]}}</b> <span class="post-date">{{ tagitems[2] }} posts</span></a></li>
 {% endfor %}
+</ul>
+</nav>
 </article>

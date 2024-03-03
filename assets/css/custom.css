@@ -247,21 +247,41 @@ button:hover, .button:hover, svg:hover{
     cursor: pointer;
 }
 
-nav ul {
+nav{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.posts{
+    display: block;
+}
+
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline;
+    margin: 0;
     padding: 0;
 }
 
-nav.tags{
+span ul {
+    padding: 0;
+}
+
+span.tags{
     display: flex;
     align-items: center;
 }
-nav ul, nav ul li{
+span ul, span ul li{
     display: inline;
     align-items: center;
     margin: 0;
 }
 
-nav ul li a{
+span ul li a{
     margin: .2rem .1rem;
     font-size: 1rem;
     padding: .1rem .3rem;
@@ -269,18 +289,17 @@ nav ul li a{
 
 nav a {
     background: var(--code-bg);
-    margin: .7rem .3rem; 
-    color: var(--border) !important;
     border-radius: 8px;
+    color: var(--border) !important;
     display: inline-block;
+    margin: .7rem .3rem; 
     padding: .3rem .6rem;
     text-decoration: none;
     transition: .4s;
 }
 nav a:hover {
-    color: var(--bg) !important;
-    border-color: var(--border);
     background: var(--border);
+    color: var(--bg) !important;
 }
 
 nav a.nav-current {
@@ -311,12 +330,16 @@ blockquote{
 
 article.post, a.post{
     display: flex;
+    color: var(--accent) !important;
     justify-content: space-between;
     text-decoration: none;
     align-items: center;
     margin-left: -1rem;
     margin-right: -1rem;
     padding: 0 1rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: 0;
 }
 
 a.post .post-date {
@@ -327,6 +350,7 @@ a.post .post-date {
 a.post:hover{
     transition: .2s;
     background-color: var(--bg);
+    color: var(--accent-light) !important;
 }
 
 @media (prefers-color-scheme:light) {

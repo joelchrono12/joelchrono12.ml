@@ -1,13 +1,15 @@
 <nav>
+    <ul>
 {% for item in site.data.navigation %}
     {% if item.link == page.url %}
-    <a class="nav-current" href="{{ item.link }}">{{ item.name }}</a>
+    <li><a class="nav-current" href="{{ item.link }}">{{ item.name }}</a></li>
     {% elsif page.url != item.link %}
-    <a href="{{ item.link }}">{{ item.name }}</a>
+    <li><a href="{{ item.link }}">{{ item.name }}</a></li>
     {% endif %}
 {% endfor %}
 {% if page.layout != "none" %}
     <a class="js" id="toggleButton" onclick="toggleAnimation()">BG: OFF</a>
 {% endif %}
+    </ul>
 </nav>
 

@@ -9,6 +9,7 @@ permalink: /blog/
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 
+<article>
 {% for year in postsByYear %}
   <details>
     <summary>{{ year.name }} ({{ year.items | size }} posts)</summary>
@@ -21,9 +22,9 @@ permalink: /blog/
       </ul>
   </details>
 {% endfor %}
+</article>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-
 {% comment %}
 This is reversed order, if you want to start from the beginning
 {% assign postsByYear = site.posts | reverse | group_by_exp:"post", "post.date | date: '%Y'" %}
@@ -36,9 +37,18 @@ This is reversed order, if you want to start from the beginning
 {% for month in postsByMonth %}
 <h2 id="{{ month.name }} {{year.name}}">{{ month.name }}</h2>
 <article>
+<nav class="posts">
+<ul>
   {% for post in month.items  %}
-   <a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b><span class="post-date">{{ post.date | date: "%b %d" }}</span></a>
+   <li>
+   <a class="post" href="{{ post.url }}">
+   <b class="post-title">{{ post.title }}</b>
+   <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
+   </a>
+   </li>
   {% endfor %}
+</ul>
+</nav>
 </article>
 {% endfor %}
 {% endfor %}
