@@ -21,7 +21,9 @@
         --text-light: #666666;
         --text: #333333;
 
-    @media (prefers-color-scheme: dark){
+}
+@media (prefers-color-scheme: dark){
+    :root{
     --accent-bg: #32344a;
     --accent-light: #449dab;
     --accent:#9ece6a;
@@ -31,7 +33,7 @@
     --code:#787c99;
     --text-light: #e0af68;
     --text:#a9b1d6;
-  }
+    }
 }
 
 *, *::before, *::after {
