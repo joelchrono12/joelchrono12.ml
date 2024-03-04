@@ -23,11 +23,11 @@
 @media (prefers-color-scheme: dark){
     :root{
     --accent-bg: #32344a;
+    --code-bg: #232433;
     --accent-light: #449dab;
     --accent:#9ece6a;
     --bg: #1a1b26;
     --border: #7aa2f7;
-    --code-bg: #232433;
     --code:#787c99;
     --text-light: #e0af68;
     --text:#a9b1d6;
@@ -533,3 +533,17 @@ footer {
 text-transform: lowercase;
 }
 
+/*article article{*/
+  /*border: solid 3px var(--text);*/
+
+  /*background: var(--code-bg);*/
+  /*[>background: -moz-linear-gradient(top,  var(--accent-bg) 0%, var(--code-bg) 100%);<]*/
+  /*[>background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, var(--accent-bg)), color-stop(100%, var(--code-bg)));<]*/
+  /*[>background: -webkit-linear-gradient(top,  var(--accent-bg) 0%, var(--code-bg) 100%);<]*/
+  /*[>background: -o-linear-gradient(top,  var(--accent-bg) 0%, var(--code-bg) 100%);<]*/
+  /*[>background: -ms-linear-gradient(top,  #04009d 0%,#06004d 100%);<]*/
+  /*background: linear-gradient(to bottom,  var(--accent-bg) 0%, var(--bg) 100%);*/
+  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='var(--accent-bg)', endColorstr='var(--code-bg)',GradientType=0 );*/
+
+  /*border-radius: 12px;*/
+/*}*/

@@ -16,6 +16,10 @@
 </p>
 <small>
 	<p>This site was made with ♥ by <a rel="me" href="https://fosstodon.org/@joel">joelchrono</a> using <a href="https://jekyllrb.com">Jekyll</a>.</p>
-	<p><a class="button" href="#top">Back to top</a>
+	<p>
+		<a class="button" href="#top">Back to top</a>
+		{% if page.layout != "none" %}
+		<a class="button js" id="toggleButton" onclick="toggleAnimation()">BG: OFF</a>
+		{% endif %}
 	</p>
 </small>
