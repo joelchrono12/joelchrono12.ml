@@ -3,7 +3,8 @@ layout: default
 title: stats | joelchrono
 header: Statistics
 description: Statistics such as posts count and word count, etc.
-permalink: /stats/
+permalink: /more/stats/
+redirect_from: /stats/
 ---
 
 <article markdown="1">

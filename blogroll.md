@@ -2,7 +2,8 @@
 title: blogroll | joelchrono
 header: Blogroll
 description: A list of blogs and digital gardens I enjoy reading on my free time.
-permalink: /blogroll/
+permalink: /more/blogroll/
+redirect_from: /blogroll/
 layout: default
 ---
 

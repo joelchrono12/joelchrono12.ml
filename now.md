@@ -6,7 +6,7 @@ description: "Here is what I'm up to right now"
 permalink: /now/
 ---
 
-**Last updated: February 25th, 2024**.
+**Last updated: March 4th, 2024**.
 
 Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
@@ -19,36 +19,34 @@ Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
 ## What I'm watching
 <article markdown="1">
-- I just finished the Avatar live action series and I thought it was pretty alright.
+- Recently watched Dune Part Two, it was awesome.
+- Recently watched The Lion King movie, the original of course.
+- How a Reddit Post Changed My Life, Pewdiepie video.
 </article>
 
 
 ## What I'm listening
 
 <article markdown="1">
-- Episode 13 of SCP: Find Us Alive, a podcast sci-fi audio drama.
-- The shine comes off the Vision Pro, from the Vergecast.
-- The Songhai Empire - Africa's Age of Gold, from Civilizations podcast.
+- We Took Over the Podcast! - Waveform Podcast.
+- Linux Sucks... And We Know Who To Blame - The WAN Show.
 </article>
 
 ## What I'm playing
 <article markdown="1">
 - Balatro, a roguelike poker game, super fun, learned about it from [here](https://wavelengths.online/posts/balatro-the-best-deckbuilding-roguelike-in-years)
-- The Legend of Zelda: Breath of The Wild: did a couple more shrines at last!
 </article>
 
 ## What I'm enjoying
 
 <article markdown="1">
-- Just had my graduation and it was a good time.
-- Integrating some new workstations for a company's project.
-- Exchanging emails with friends and internet people.
+- Redesigning a bunch of things in my website.
 - Repeating the [#100DaysToOffload](https://100daystooffload.com) challenge for the third time.
 
 </article>
 ## What I'm working on
 <article markdown="1">
-- Doing a commission for a Mastodon friend and getting some more.
+- Doing commisions and trying not to procrastinate.
 - A final project I need to do got get my degree.
 - Balancing the urge to buy more Switch games while saving money for a car.
 </article>

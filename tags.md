@@ -2,7 +2,8 @@
 title: tags | joelchrono
 header: Tags
 description: These are the current available tags, as well as the RSS feed of each of them, in case you want to follow certain topics, they are sorted too!
-permalink: /tags/
+permalink: /more/tags/
+redirect_from: /tags/
 layout: default
 ---
 
@@ -23,7 +24,7 @@ layout: default
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
 {% assign posts = tag | last %}
-<li><a class="post" href="/tags/{{ tag[0] }}/">
+<li><a class="post" href="/more/tags/{{ tag[0] }}/">
 <b class="post-title">{{ tag[0]}}</b>
 <span class="post-date">{{ tag[1] | size }} posts</span>
 </a></li>
@@ -43,7 +44,7 @@ layout: default
 {% assign sortedtags = tags | split:' ' | sort %}
 {% for tag in sortedtags reversed %}
 {% assign tagitems = tag | split: '#' %}
-<li><a class="post" href="/tags/{{ tagitems[1] }}/"><b class="post-title">{{ tagitems[1]}}</b> <span class="post-date">{{ tagitems[2] }} posts</span></a></li>
+<li><a class="post" href="/more/tags/{{ tagitems[1] }}/"><b class="post-title">{{ tagitems[1]}}</b> <span class="post-date">{{ tagitems[2] }} posts</span></a></li>
 {% endfor %}
 </ul>
 </article>

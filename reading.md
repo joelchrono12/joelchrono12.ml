@@ -2,9 +2,10 @@
 title: booklog | joelchrono
 header: Booklog
 description: I quite like reading science fiction and other things, here's a log of the books I've read divided by year.
-permalink: /booklog/
+permalink: /more/booklog/
 layout: default
 redirect_from: /reading/
+redirect_from: /booklog/
 ---
 
 You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!

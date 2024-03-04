@@ -2,7 +2,8 @@
 title: projects | joelchrono
 header: Games & Projects
 description: I have worked in some games made in Godot as entries for different game jams, I've also done translations or documentation in a few projects. I also designed icons for apps and icons packs. Here is some of my work!
-permalink: /projects/
+permalink: /more/projects/
+redirect_from: /projects/
 layout: default
 ---
 
