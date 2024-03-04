@@ -2,7 +2,7 @@
 title: Inbox Zero But RSS
 header: Inbox Zero But RSS
 description: So, I accidentally marked as read every single feed in my FreshRSS instance, but I decided to make the best of it!
-tags: rss blogging reading internet
+tags: rss blog reading internet
 permalink: /blog/inbox-zero-but-rss/
 layout: post
 date: 2024-02-09 17:07:03 -0600

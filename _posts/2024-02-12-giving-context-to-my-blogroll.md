@@ -2,7 +2,7 @@
 title: Giving context to my blogroll
 header: Giving context to my blogroll
 description: I decided to turn my grocery list style blogroll, into something more meaningful, and rather cool!
-tags: blogging community jekyll
+tags: blog community jekyll
 permalink: /blog/giving-context-to-my-blogroll/
 layout: post
 date: 2024-02-12 12:34:00 -0600
