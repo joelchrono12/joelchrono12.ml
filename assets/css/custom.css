@@ -9,17 +9,15 @@
     /* Line height is set to the "Golden ratio" for optimal legibility */
     --line-height: 1.75;
     /*This is my dark themed color scheme*/
-
-
-        --accent-bg: #f0f0f0;
-        --accent-light: #7aa2f7;
-        --accent: #3d59a1;
-        --bg: #ffffff;
-        --border: #242933;
-        --code-bg: #f5f5f5;
-        --code: #333333;
-        --text-light: #666666;
-        --text: #333333;
+    --accent-bg: #f0f0f0;
+    --accent-light: #7aa2f7;
+    --accent: #3d59a1;
+    --bg: #ffffff;
+    --border: #242933;
+    --code-bg: #f5f5f5;
+    --code: #333333;
+    --text-light: #666666;
+    --text: #333333;
 
 }
 @media (prefers-color-scheme: dark){
@@ -74,9 +72,7 @@ body {
     font-family: var(--sans-font);
     font-weight: 400;
     line-height: 1.75;
-    max-width: 80ch;
-    margin: 0 auto;
-    padding: 18px;
+    margin: 0;
     font-size:20px;
 }
 
@@ -116,6 +112,13 @@ hr{
 }
 
 small, .text_small {font-size: 0.833rem;}
+
+main {
+    display: block;
+    padding: 0 1rem;
+    max-width: 80ch;
+    margin: 0 auto;
+}
 
 main img{
   max-width: 100%;
@@ -165,6 +168,11 @@ table th, table td {
 }
 table td span {
     padding: 5px;
+}
+
+thead{
+    position: sticky;
+    top: 0;
 }
 
 /* Format tables */
@@ -255,16 +263,17 @@ nav{
     margin: 0;
 }
 
-.posts{
-    display: block;
-}
-
-nav ul{
+ul.posts {
     padding: 0;
     margin: 0;
+    list-style: none;
 }
-nav ul li{
-    display: inline;
+ul.posts ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.posts li{
     margin: 0;
     padding: 0;
 }
@@ -287,6 +296,19 @@ span ul li a{
     margin: .2rem .1rem;
     font-size: 1rem;
     padding: .1rem .3rem;
+}
+
+nav ul{
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+
+nav ul li{
+    display: inline;
 }
 
 nav a {
@@ -342,13 +364,18 @@ article.post, a.post{
     padding: 0 1rem;
     margin-top: 0;
     margin-bottom: 0;
-    border-radius: 0;
 }
 
 a.post .post-date {
     white-space: nowrap;
     font-size: 0.8rem;
-    text-align: center;
+}
+a.post .post-title {
+    font-weight: bold;
+}
+
+a.post span {
+    text-wrap: balance;
 }
 
 a.post:hover{
@@ -358,9 +385,7 @@ a.post:hover{
 }
 
 @media (prefers-color-scheme:light) {
-    header center.home-top{
-        border-radius: 8px;
-        padding: 1rem;
+    .header-container {
         background-color: #242933;
     }
 }
@@ -376,6 +401,7 @@ article {
     padding: 1rem;
     border-radius: 12px;
     margin-bottom: 1rem;
+    width: 100%
 }
 aside {
     background-color: var(--code-bg);
@@ -428,4 +454,24 @@ details[open] > :last-child {
     list-style: decimal;
     border-radius: 16px;
     background-color: var(--accent-bg);
+}
+
+.header-container{
+	display: block;
+  background-color: var(--code-bg);
+	padding: 1rem 1rem;
+}
+
+svg.logo {
+    display: grid;
+    margin: 0 auto;
+}
+
+footer {
+	margin-top: 5rem;
+	padding: 1rem 0;
+	text-align: center;
+	font-size: 0.9rem;
+	background-color: var(--code-bg);
+	border-top: var(--border);
 }
