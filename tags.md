@@ -18,8 +18,7 @@ layout: default
 ## By alphabetical order
 
 <article>
-<nav class="posts">
-<ul>
+<ul class="posts">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
 {% assign t = tag | first %}
@@ -30,14 +29,12 @@ layout: default
 </a></li>
 {% endfor %}
 </ul>
-</nav>
 </article>
 
 ## By post quantity
 
 <article>
-<nav class="posts">
-<ul>
+<ul class="posts">
 {% capture tags %}
 {% for tag in site.tags %}
 {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -49,5 +46,4 @@ layout: default
 <li><a class="post" href="/tags/{{ tagitems[1] }}/"><b class="post-title">{{ tagitems[1]}}</b> <span class="post-date">{{ tagitems[2] }} posts</span></a></li>
 {% endfor %}
 </ul>
-</nav>
 </article>

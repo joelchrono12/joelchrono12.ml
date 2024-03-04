@@ -12,12 +12,14 @@ This is reversed order, if you want to start from the beginning
 {% endcomment %}
 
  <table>
+ <thead>
   <tr>
     <th>Model</th>
     <th>Author</th>
     <th>Tutorial</th>
     <th style="text-align: right">Photo</th>
   </tr>
+ </thead>
 {% for origami in site.origami reversed %}
   <tr>
     <td><a href="{{ origami.url }}">{{ origami.title }}</a></td>

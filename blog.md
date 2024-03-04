@@ -33,22 +33,21 @@ This is reversed order, if you want to start from the beginning
 {% for year in postsByYear %}
 <h1>{{ year.name }}'s posts</h1>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-
+<ul class="posts">
 {% for month in postsByMonth %}
-<h2 id="{{ month.name }} {{year.name}}">{{ month.name }}</h2>
+<li><h2 id="{{ month.name }} {{year.name}}">{{ month.name }}</h2></li>
 <article>
-<nav class="posts">
 <ul>
-  {% for post in month.items  %}
-   <li>
-   <a class="post" href="{{ post.url }}">
-   <b class="post-title">{{ post.title }}</b>
-   <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
-   </a>
-   </li>
-  {% endfor %}
+{% for post in month.items  %}
+<li>
+<a class="post" href="{{ post.url }}">
+<b class="post-title">{{ post.title }}</b>
+<span class="post-date"> {{ post.date | date: "%b %d" }}</span>
+</a>
+</li>
+{% endfor %}
 </ul>
-</nav>
 </article>
 {% endfor %}
+</ul>
 {% endfor %}
