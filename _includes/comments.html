@@ -1,18 +1,18 @@
 <link rel="stylesheet" href="/assets/css/comments.css">
-<div class="article-content">
-
-    <div id="comments-list"></div>
-    <noscript>
-        <p>You need JavaScript to view comments here.</p>
-        <style>
-#load-comment{
-    display: none;
-}
-        </style>
+<div id="comments-list"></div>
+<div class="comment-options">
+<noscript>
+    <p>You need JavaScript to view comments here.</p>
+    <style>
+    #load-comment{
+        display: none;
+    }
+    </style>
     </noscript>
     <a class="button" href="mailto:joel.chrono@disroot.org?subject=Re: {{ page.title | uri_escape }}"><b>Reply via email</b></a>
     <!--<a class="button" href="https://{{page.host}}/@{{ page.username }}/{{ page.com_id }}">View on Mastodon</a><br>-->
     <a class="button" id="load-comment">Load comments</a> 
+</div>
     <details>
         <summary>Reply via Fediverse</summary>
         <p>You can reply on any Fediverse (Mastodon, Pleroma, etc.) client by pasting this URL into the search field of your client:
@@ -91,4 +91,3 @@ function createCommentEl(response){
     return user;
 }
     </script>
-</div>

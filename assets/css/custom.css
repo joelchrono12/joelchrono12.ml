@@ -322,10 +322,11 @@ nav ul li{
     display: inline;
 }
 
-nav a {
+nav a, nav a:visited{
     background: var(--code-bg);
     border-radius: 8px;
-    color: var(--border) !important;
+    color: var(--border);
+    border: solid 1px var(--border);
     display: inline-block;
     margin: .7rem .3rem; 
     padding: .3rem .6rem;
@@ -334,12 +335,12 @@ nav a {
 }
 nav a:hover {
     background: var(--border);
-    color: var(--bg) !important;
+    color: var(--bg);
 }
 
 nav a.nav-current {
     background: var(--border);
-    color: var(--bg) !important;
+    color: var(--bg);
     font-weight: bold;
     opacity: 1;
 }
@@ -468,7 +469,7 @@ details[open] > :last-child {
   justify-content: space-between;
   align-items: center;
   background-color: var(--code-bg);
-	padding: 1rem 2rem;
+	padding: 1rem 4rem;
 }
 
 svg.logo {
@@ -489,3 +490,46 @@ footer {
 	background-color: var(--code-bg);
 	border-top: var(--border);
 }
+
+.breadcrumb ul li a {
+    background: none;
+    border-radius: none;
+    border: none;
+    color: var(--accent);
+    display: inline;
+    margin: 0; 
+    padding: 0;
+    text-decoration: underline;
+    transition: .4s;
+}
+.breadcrumb ul li a:hover {
+    text-decoration: none;
+}
+
+.breadcrumb {
+  padding: 1rem 0;
+  justify-content: left;
+}
+
+.breadcrumb ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumb a, .breadcrumb a:hover{
+    background: none;
+    padding: none;
+}
+
+.breadcrumb li:not(:last-child)::after {
+  display: inline-block;
+  margin: 0 .25rem;
+  content: "→";
+}
+.breadcrumb li{
+text-transform: lowercase;
+}
+

@@ -23,3 +23,16 @@ div.mastodon-username{
   margin-left: 3rem;
 }
 
+.comment-options{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+
+.comment-options *{
+  text-align: center;
+  width: 100%;
+  margin-bottom: 1rem;
+}
