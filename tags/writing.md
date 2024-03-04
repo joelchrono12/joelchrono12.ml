@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: writing
-permalink: /tags/writing/
+permalink: /more/tags/writing/
 ---

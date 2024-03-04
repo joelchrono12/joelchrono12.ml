@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: review
-permalink: /tags/review/
+permalink: /more/tags/review/
 ---

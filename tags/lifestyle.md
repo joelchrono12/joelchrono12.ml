@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: lifestyle
-permalink: /tags/lifestyle/
+permalink: /more/tags/lifestyle/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: book
-permalink: /tags/book/
+permalink: /more/tags/book/
 ---

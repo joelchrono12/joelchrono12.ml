@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: productivity
-permalink: /tags/productivity/
+permalink: /more/tags/productivity/
 ---

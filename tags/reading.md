@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: reading
-permalink: /tags/reading/
+permalink: /more/tags/reading/
 ---

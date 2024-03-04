@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: unix
-permalink: /tags/unix/
+permalink: /more/tags/unix/
 ---

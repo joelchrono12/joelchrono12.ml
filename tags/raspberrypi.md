@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: raspberrypi
-permalink: /tags/raspberrypi/
+permalink: /more/tags/raspberrypi/
 ---

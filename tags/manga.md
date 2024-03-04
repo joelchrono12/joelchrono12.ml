@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: manga
-permalink: /tags/manga/
+permalink: /more/tags/manga/
 ---

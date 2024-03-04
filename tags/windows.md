@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: windows
-permalink: /tags/windows/
+permalink: /more/tags/windows/
 ---

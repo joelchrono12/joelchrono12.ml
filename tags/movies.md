@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: movies
-permalink: /tags/movies/
+permalink: /more/tags/movies/
 ---

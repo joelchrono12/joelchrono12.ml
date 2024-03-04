@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: distro
-permalink: /tags/distro/
+permalink: /more/tags/distro/
 ---

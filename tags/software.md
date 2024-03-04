@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: software
-permalink: /tags/software/
+permalink: /more/tags/software/
 ---

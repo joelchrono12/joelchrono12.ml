@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: monthly
-permalink: /tags/monthly/
+permalink: /more/tags/monthly/
 ---

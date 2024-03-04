@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: selfhost
-permalink: /tags/selfhost/
+permalink: /more/tags/selfhost/
 ---

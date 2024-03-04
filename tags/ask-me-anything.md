@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: ask-me-anything
-permalink: /tags/ask-me-anything/
+permalink: /more/tags/ask-me-anything/
 ---

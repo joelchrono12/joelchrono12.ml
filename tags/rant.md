@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: rant
-permalink: /tags/rant/
+permalink: /more/tags/rant/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: gamedev
-permalink: /tags/gamedev/
+permalink: /more/tags/gamedev/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: ricing
-permalink: /tags/ricing/
+permalink: /more/tags/ricing/
 ---

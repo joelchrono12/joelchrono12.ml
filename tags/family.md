@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: family
-permalink: /tags/family/
+permalink: /more/tags/family/
 ---

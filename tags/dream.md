@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: dream
-permalink: /tags/dream/
+permalink: /more/tags/dream/
 ---

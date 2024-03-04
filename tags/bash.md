@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: bash
-permalink: /tags/bash/
+permalink: /more/tags/bash/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: gaming
-permalink: /tags/gaming/
+permalink: /more/tags/gaming/
 ---

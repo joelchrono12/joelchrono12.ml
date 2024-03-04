@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: apple
-permalink: /tags/apple/
+permalink: /more/tags/apple/
 ---

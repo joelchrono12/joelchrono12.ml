@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: hobbies
-permalink: /tags/hobbies/
+permalink: /more/tags/hobbies/
 ---

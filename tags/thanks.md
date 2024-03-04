@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: thanks
-permalink: /tags/thanks/
+permalink: /more/tags/thanks/
 ---

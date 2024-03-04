@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: coding
-permalink: /tags/coding/
+permalink: /more/tags/coding/
 ---

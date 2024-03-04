@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: project
-permalink: /tags/project/
+permalink: /more/tags/project/
 ---

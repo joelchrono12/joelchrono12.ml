@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: emulation
-permalink: /tags/emulation/
+permalink: /more/tags/emulation/
 ---

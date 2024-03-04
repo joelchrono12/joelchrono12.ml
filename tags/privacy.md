@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: privacy
-permalink: /tags/privacy/
+permalink: /more/tags/privacy/
 ---

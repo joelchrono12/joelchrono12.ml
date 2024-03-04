@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: community
-permalink: /tags/community/
+permalink: /more/tags/community/
 ---

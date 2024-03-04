@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: detox
-permalink: /tags/detox/
+permalink: /more/tags/detox/
 ---

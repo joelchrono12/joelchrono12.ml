@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: psp
-permalink: /tags/psp/
+permalink: /more/tags/psp/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: school
-permalink: /tags/school/
+permalink: /more/tags/school/
 ---

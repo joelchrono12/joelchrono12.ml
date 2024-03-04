@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: anime
-permalink: /tags/anime/
+permalink: /more/tags/anime/
 ---

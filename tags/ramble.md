@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: ramble
-permalink: /tags/ramble/
+permalink: /more/tags/ramble/
 ---

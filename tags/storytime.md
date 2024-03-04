@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: storytime
-permalink: /tags/storytime/
+permalink: /more/tags/storytime/
 ---

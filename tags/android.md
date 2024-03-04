@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: android
-permalink: /tags/android/
+permalink: /more/tags/android/
 ---

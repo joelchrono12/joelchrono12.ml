@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: fediverse
-permalink: /tags/fediverse/
+permalink: /more/tags/fediverse/
 ---

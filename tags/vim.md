@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: vim
-permalink: /tags/vim/
+permalink: /more/tags/vim/
 ---

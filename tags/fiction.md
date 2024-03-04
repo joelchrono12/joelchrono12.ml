@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: fiction
-permalink: /tags/fiction/
+permalink: /more/tags/fiction/
 ---

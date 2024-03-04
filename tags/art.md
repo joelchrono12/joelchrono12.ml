@@ -1,5 +1,5 @@
 ---
 layout: tags
 tag-name: art
-permalink: /tags/art/
+permalink: /more/tags/art/
 ---
