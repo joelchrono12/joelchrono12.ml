@@ -9,8 +9,7 @@ layout: default
 
 
 <article>  
-	<nav class=posts>
-		<ul>
+	<ul class=posts>
 		{% for post in site.posts %}
 		{% if post.tags contains page.tag-name %}
 		<li><a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b>
@@ -18,5 +17,4 @@ layout: default
 		{% endif %}
 		{% endfor %}
 		</ul>
-	</nav>
 </article>
