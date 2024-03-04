@@ -34,6 +34,13 @@
     }
 }
 
+@media (prefers-color-scheme:light) {
+
+    .header-container {
+        background-color: #242933;
+    }
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
 }
@@ -225,9 +232,13 @@ input[type="button"] {
 }
 
 @media screen and (min-width: 600px) {
+    .header-container{
+        display: flex !important;
+    }
     .blog-data{
         display: flex;
         justify-content: space-between;
+        gap: 1rem;
         align-items: center;
     }
 }
@@ -384,11 +395,6 @@ a.post:hover{
     color: var(--accent-light) !important;
 }
 
-@media (prefers-color-scheme:light) {
-    .header-container {
-        background-color: #242933;
-    }
-}
 
 aside, details, progress {
   background-color: var(--accent-bg);
@@ -401,7 +407,6 @@ article {
     padding: 1rem;
     border-radius: 12px;
     margin-bottom: 1rem;
-    width: 100%
 }
 aside {
     background-color: var(--code-bg);
@@ -456,13 +461,22 @@ details[open] > :last-child {
     background-color: var(--accent-bg);
 }
 
+
 .header-container{
 	display: block;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
   background-color: var(--code-bg);
-	padding: 1rem 1rem;
+	padding: 1rem 2rem;
 }
 
 svg.logo {
+    background-color: #232433;
+    padding: .3rem;
+    width: 82px;
+    height: 82px;
+    border-radius: 12px;
     display: grid;
     margin: 0 auto;
 }
