@@ -136,6 +136,7 @@ main img{
 
 ul{
     padding-left: 2rem;
+    list-style: square;
 
 }
 
@@ -318,8 +319,8 @@ nav ul{
 
 }
 
-nav ul li{
-    display: inline;
+article ul li{
+    display: list-item;
 }
 
 nav a, nav a:visited{
@@ -547,3 +548,49 @@ text-transform: lowercase;
 
   /*border-radius: 12px;*/
 /*}*/
+/* minimal dropdown CSS */
+/* resets */
+ul.dropdown {
+    background-color: var(--accent-bg);
+    border: solid 1px var(--border);
+    border-radius: 8px;
+    list-style: none; 
+    margin: 0rem .3rem; 
+    padding: .3rem 0;
+    display: grid;
+}
+
+ul.dropdown a{
+    border: none;
+    color: var(--accent);
+    background: none;
+    text-align: left;
+    text-decoration: underline;
+    transition: .4s;
+    margin: 0;
+    padding: 0 1rem;
+}
+ul.dropdown a:hover {
+    background: none;
+    text-decoration: none;
+    color: var(--accent-light);
+}
+
+ul li { 
+    display: inline-block; 
+    position: relative; 
+}
+/* minimal dropdown CSS */
+ul li > ul.dropdown {
+    left: -300rem;
+    position: absolute;
+    visibility: hidden;
+}
+ul li:hover > ul.dropdown, ul li:focus-within > ul.dropdown {
+    left: 0rem;
+    visibility: visible;
+}
+
+ul.dropdown li:hover{
+    background-color: var(--bg);
+}
