@@ -12,7 +12,7 @@ layout: default
 	<ul class=posts>
 		{% for post in site.posts %}
 		{% if post.tags contains page.tag-name %}
-		<li><a class="post" href="{{ post.url }}"><b class="post-title">{{ post.title }}</b>
+		<li><a class="post" href="{{ post.url }}"><span class="post-title">{{ post.title }}</span>
 				<span class="post-date">{{ post.date | date: "%b %d %Y" }}</span></a></li>
 		{% endif %}
 		{% endfor %}

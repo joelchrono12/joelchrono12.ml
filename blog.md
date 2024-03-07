@@ -41,7 +41,7 @@ This is reversed order, if you want to start from the beginning
 {% for post in month.items  %}
 <li>
 <a class="post" href="{{ post.url }}">
-<b class="post-title">{{ post.title }}</b>
+<span class="post-title">{{ post.title }}</span>
 <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
 </a>
 </li>
