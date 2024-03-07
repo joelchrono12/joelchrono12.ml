@@ -246,19 +246,6 @@ input[type="button"] {
 	padding: 1rem 3rem;
 }
 
-@media screen and (max-width: 600px) {
-    header nav ul li a,
-    header nav ul li a:visited{
-        border: none;
-        background: none;
-        padding: .1rem .3rem;
-        margin: 0;
-    }
-    .header-container{
-        display: block;
-    }
-}
-
 
 .button{
   border: none;
@@ -340,6 +327,22 @@ header nav a.nav-current {
     color: var(--bg);
     text-decoration: underline;
 }
+@media screen and (max-width: 600px) {
+    header nav ul{
+        margin-top: 1rem;
+    }
+    header nav ul li a,
+    header nav ul li a:visited{
+        border: none;
+        background: none;
+        padding: .1rem .3rem;
+        margin: 0;
+    }
+    .header-container{
+        display: block;
+    }
+}
+
 
 figure {
   margin: 0;
