@@ -6,12 +6,13 @@ tags: opinion ramble webdev short
 permalink: /blog/reality-without-css-or-javascript/
 layout: post
 date: 2021-11-08 17:12:17 -0500
+updated: 2023-03-05
 host: fosstodon.org
 username: joeligj12
 com_id: 107244175652529202
 ---
 
-So far [UglyDuck and many other bloggers](#post-inspired-by) have started to talk about the way the Web has changed significantly ever since it became a thing.
+So far [Bradley Taunt and many other bloggers](#post-inspired-by) have started to talk about the way the Web has changed significantly ever since it became a thing.
 
 It's funny to see how the same topics come back and forth every time, there is no right answer, the Fediverse is unable to find that balance point. One day everybody has their own Gemini capsule, the next one everybody loves Vivaldi's feature-rich browser. One day people hate on Signal, the next Matrix is considered an FBI honeypot!
 
@@ -35,7 +36,7 @@ In conclusion, I like CSS because it allows me to have bad posts like this one w
 This is day 60 of [#100DaysToOffload](https://100DaysToOffload.com)
 
 ## Post inspired by:
-- [https://uglyduck.ca/css-js-mistake/](https://uglyduck.ca/css-js-mistake/)
+- [https://btxx.org/css-js-mistake/](https://uglyduck.ca/css-js-mistake/)
 - [https://kevq.uk/reality-without-css-javascript](https://kevq.uk/reality-without-css-javascript)
 - [https://degruchy.org/2021/11/08/a-world-without-css-or-javascript/](https://degruchy.org/2021/11/08/a-world-without-css-or-javascript/)
 {% include reply.html %}
