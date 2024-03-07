@@ -1,6 +1,6 @@
 :root {
     /* Set sans-serif & mono fonts */
-    --sans-font: -apple-system,BlinkMacSystemFont,Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
+    --sans-font: -apple-system,BlinkMacSystemFont,"IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
     --mono-font: "Mononoki Nerd Font","IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
     --base-fontsize: 1rem;
@@ -80,7 +80,7 @@ body {
     font-weight: 400;
     line-height: 1.75;
     margin: 0;
-    font-size:20px;
+    font-size: 20px;
 }
 
 p {
@@ -134,11 +134,6 @@ main img{
   border-radius: 8px;
 }
 
-ul{
-    padding-left: 2rem;
-    list-style: square;
-
-}
 
 img.badge{
     image-rendering: -moz-crisp-edges;
@@ -153,8 +148,8 @@ img.badge{
 }
 
 code {
-    font-size:16px;
-    word-wrap:break-word;
+    font-size: 16px;
+    word-wrap: break-word;
 }
 pre {
     /*background-color: var(--bg);*/
@@ -233,9 +228,6 @@ input[type="button"] {
 }
 
 @media screen and (min-width: 600px) {
-    .header-container{
-        display: flex !important;
-    }
     .blog-data{
         display: flex;
         justify-content: space-between;
@@ -243,6 +235,30 @@ input[type="button"] {
         align-items: center;
     }
 }
+
+.header-container{
+	display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--code-bg);
+	padding: 1rem 3rem;
+}
+
+@media screen and (max-width: 600px) {
+    header nav ul li a,
+    header nav ul li a:visited{
+        border: none;
+        background: none;
+        padding: .1rem .3rem;
+        margin: 0;
+    }
+    .header-container{
+        display: block;
+    }
+}
+
 
 .button{
   border: none;
@@ -253,7 +269,6 @@ input[type="button"] {
   color: var(--bg);
   text-decoration: none;
   padding: .7rem .9rem;
-  margin: .5rem .1rem;
   transition: .4s;
 }
 button a:visited, 
@@ -269,89 +284,70 @@ button:hover, .button:hover, svg:hover{
     cursor: pointer;
 }
 
-nav{
-    display: flex;
-    justify-content: center;
-    margin: 0;
+ul{
+    padding-left: 2rem;
 }
 
-ul.posts {
-    padding: 0;
-    margin: 0;
+ul.posts, ul.posts ul{
     list-style: none;
-}
-ul.posts ul{
     padding: 0;
     margin: 0;
-    list-style: none;
-}
-ul.posts li{
-    margin: 0;
-    padding: 0;
 }
 
-span ul {
-    padding: 0;
-}
-
-span.tags{
+.tags{
     display: flex;
     align-items: center;
 }
-span ul, span ul li{
-    display: inline;
-    align-items: center;
-    margin: 0;
-}
 
-span ul li a{
-    margin: .2rem .1rem;
-    font-size: 1rem;
-    padding: .1rem .3rem;
-}
-
-nav ul{
+header nav{
+    display: flex;
     justify-content: center;
     text-align: center;
-    list-style: none;
+}
+
+header nav, header nav ul, .tags ul{
     padding: 0;
     margin: 0;
-
 }
 
-article ul li{
-    display: list-item;
+header nav ul li{
+    display: inline;
 }
 
-nav a, nav a:visited{
-    background: var(--code-bg);
-    border-radius: 8px;
-    color: var(--border);
-    border: solid 1px var(--border);
+span.tags, span.tags *{
+    display: inline;
+}
+
+header nav a, nav a:visited{
     display: inline-block;
-    margin: .7rem .3rem; 
-    padding: .3rem .6rem;
+    background: var(--code-bg);
+    color: var(--border);
     text-decoration: none;
+    border-radius: 8px;
+    border: solid 1px var(--border);
+    margin: .2rem 0;
+    padding: .1rem 1rem;
     transition: .4s;
 }
-nav a:hover {
-    background: var(--border);
+
+header nav a:hover {
+    background-color: var(--border);
     color: var(--bg);
 }
 
-nav a.nav-current {
-    background: var(--border);
+header nav a.nav-current {
+    background-color: var(--border);
     color: var(--bg);
-    font-weight: bold;
-    opacity: 1;
+    text-decoration: underline;
 }
+
 figure {
   margin: 0;
   text-align: center;
 }
 
 figcaption {
-  font-size: 0.9rem;
+  font-size: small;
   color: var(--text-light);
   margin-bottom: 1rem;
 }
@@ -362,13 +358,12 @@ blockquote{
     font-style: italic;
     margin: 0 0 1.2rem;
     position: relative;
-
 }
 
 article.post, a.post{
     display: flex;
     gap: 1rem;
-    color: var(--accent) !important;
+    color: var(--accent);
     justify-content: space-between;
     text-decoration: none;
     align-items: center;
@@ -381,20 +376,17 @@ article.post, a.post{
 
 a.post .post-date {
     white-space: nowrap;
-    font-size: 0.8rem;
+    font-size: small;
 }
 a.post .post-title {
     font-weight: bold;
-}
-
-a.post span {
     text-wrap: balance;
 }
 
 a.post:hover{
-    transition: .2s;
     background-color: var(--bg);
-    color: var(--accent-light) !important;
+    color: var(--accent-light);
+    transition: .2s;
 }
 
 
@@ -464,14 +456,6 @@ details[open] > :last-child {
 }
 
 
-.header-container{
-	display: block;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  background-color: var(--code-bg);
-	padding: 1rem 4rem;
-}
 
 svg.logo {
     background-color: #232433;
@@ -487,7 +471,7 @@ footer {
 	margin-top: 5rem;
 	padding: 1rem 0;
 	text-align: center;
-	font-size: 0.9rem;
+	font-size: small;
 	background-color: var(--code-bg);
 	border-top: var(--border);
 }
@@ -532,65 +516,4 @@ footer {
 }
 .breadcrumb li{
 text-transform: lowercase;
-}
-
-/*article article{*/
-  /*border: solid 3px var(--text);*/
-
-  /*background: var(--code-bg);*/
-  /*[>background: -moz-linear-gradient(top,  var(--accent-bg) 0%, var(--code-bg) 100%);<]*/
-  /*[>background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, var(--accent-bg)), color-stop(100%, var(--code-bg)));<]*/
-  /*[>background: -webkit-linear-gradient(top,  var(--accent-bg) 0%, var(--code-bg) 100%);<]*/
-  /*[>background: -o-linear-gradient(top,  var(--accent-bg) 0%, var(--code-bg) 100%);<]*/
-  /*[>background: -ms-linear-gradient(top,  #04009d 0%,#06004d 100%);<]*/
-  /*background: linear-gradient(to bottom,  var(--accent-bg) 0%, var(--bg) 100%);*/
-  /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='var(--accent-bg)', endColorstr='var(--code-bg)',GradientType=0 );*/
-
-  /*border-radius: 12px;*/
-/*}*/
-/* minimal dropdown CSS */
-/* resets */
-ul.dropdown {
-    background-color: var(--accent-bg);
-    border: solid 1px var(--border);
-    border-radius: 8px;
-    list-style: none; 
-    margin: 0rem .3rem; 
-    padding: .3rem 0;
-    display: grid;
-}
-
-ul.dropdown a{
-    border: none;
-    color: var(--accent);
-    background: none;
-    text-align: left;
-    text-decoration: underline;
-    transition: .4s;
-    margin: 0;
-    padding: 0 1rem;
-}
-ul.dropdown a:hover {
-    background: none;
-    text-decoration: none;
-    color: var(--accent-light);
-}
-
-ul li { 
-    display: inline-block; 
-    position: relative; 
-}
-/* minimal dropdown CSS */
-ul li > ul.dropdown {
-    left: -300rem;
-    position: absolute;
-    visibility: hidden;
-}
-ul li:hover > ul.dropdown, ul li:focus-within > ul.dropdown {
-    left: 0rem;
-    visibility: visible;
-}
-
-ul.dropdown li:hover{
-    background-color: var(--bg);
 }
