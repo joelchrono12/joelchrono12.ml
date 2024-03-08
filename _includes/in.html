@@ -5,9 +5,9 @@
     {{range .Articles}}
     <li>
       <a class="post" href="{{.Link}}" target="_blank" rel="noopener">
-        <span>
-          <span class="post-title">{{.Title}}</span>
-          <div class="post-date"><i>via {{.SourceTitle}}</i></div>
+        <span class="post-title">{{.Title}}</br>
+          <i class="post-author">via {{.SourceTitle}}</i>
+        </span>
         </span>
         <span class="post-date">{{.Date | datef "Jan 02"}}</span>
       </a>

@@ -381,12 +381,14 @@ article.post, a.post{
     margin-bottom: 0;
 }
 
-a.post .post-date {
+a.post .post-date, a.post .post-author{
     white-space: nowrap;
     font-size: small;
+    font-weight: normal;
 }
 a.post .post-title {
     font-weight: bold;
+    line-height: 1.4;
     text-wrap: balance;
 }
 

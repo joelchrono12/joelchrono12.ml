@@ -42,6 +42,8 @@ I only use <b>Monero</b> since at least its something anonymous and privacy resp
 <pre>
 45Y7FRc1SfrB8YsoJKnoWqTxRaLdFRghaB5EvVaLhs3BMmr3mT5jsooKVVefyF6m4Hg3CyM24q7Ck6TrnbhWmmEMLVJmc1e
 </pre>
-<center><img src="./assets/img/monero"/></center>
+<div style="display: flex;justify-content: center">
+<img src="./assets/img/monero"/>
+</div>
 </details>
 </article>
