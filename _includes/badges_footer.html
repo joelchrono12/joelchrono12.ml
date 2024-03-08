@@ -1,6 +1,6 @@
-<h1>Cool badges</h1>
-<center>
+<h2>Cool badges</h2>
+<section>
 {% for item in site.data.badges %}
 <a href={{ item.url }} target="_blank"><img title="{{ item.text }}" src={{ item.src }} class="badge" alt="{{ item.text }}"></a>
 {% endfor %}
-</center>
+</section>

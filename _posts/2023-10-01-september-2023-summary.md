@@ -1,15 +1,23 @@
 ---
-title: etembe,  2023 Summary
+title: September 2023 Summary
 header: September 2023 Summary
-description: What I' done this month when it comes to media consumption and other things I want to talk about: tags: monthly movies podcasts gaming manga, permalink: /blog/september-2023-summary/
-layout: post: te: 2023-10-01 06:53:05 -0600
+description: What I've done this month when it comes to media consumption and other things I want to talk about
+tags: monthly movies podcasts gaming manga
+permalink: /blog/september-2023-summary/
+layout: post
+date: 2023-10-01 06:53:05 -0600
 host: fosstodon.org
-username: joel: m_id: 111159998910414736
+username: joel
+com_id: 111159998910414736
 ---
-So, there's been, like always, quite a lot of stuff that I've:one this month,.
-The most noticeable for you, or maybe not noticeable at all, is that I changed my website domain! it used to be `joelchrono12.xyz` and its now `joelchrono.xyz`. It is fairly easy to forget, since I'm sure most of you only type the first couple letters and hit enter (or read this from an RSS feed).: Nextcloud
 
-So yeah, it should now be easier to type and remember. Its quite wild compared to how much I struggled back when I started this blog, since I didn't have any money to spare on t: ., Regardless, I should be going with what I consumed this month!
+So, there's been, like always, quite a lot of stuff that I've done this month.
+
+The most noticeable for you, or maybe not noticeable at all, is that I changed my website domain! it used to be `joelchrono12.xyz` and its now `joelchrono.xyz`. It is fairly easy to forget, since I'm sure most of you only type the first couple letters and hit enter (or read this from an RSS feed).
+
+So yeah, it should now be easier to type and remember. Its quite wild compared to how much I struggled back when I started this blog, since I didn't have any money to spare on this.
+
+Regardless, I should be going with what I consumed this month!
 
 ## Podcasts
 
@@ -36,7 +44,7 @@ I didn't read as much manga this month for multiple reasons. Including reading a
 - **My Adventure with Superman**: I finished this show and I liked the interesting rendition to Clark Kent and his relationship with Loise Lane. Its a pretty wholesome and romantic show but the action doesn't stay behind!
 
 
-# Books
+## Books
 
 - **The Mote in God's Eye**: This is a sci-fi book, and a pretty long one! I've managed to read around 60% of it, and its already the longest book I've read. I am going to finish it this month for sure. The book is about the first contact of humanity with alien life, a thousand or so years into the future. Surprisingly realistic and the aliens are very unique, compared to the common tropes, they feel like something out of Dr. Who and its awesome.
 
