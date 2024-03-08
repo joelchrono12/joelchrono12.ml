@@ -6,7 +6,7 @@ permalink: /more/
 layout: default
 ---
 
-# On this site
+## On this site
 
 <article markdown="1">
 
@@ -18,7 +18,8 @@ layout: default
 - __[Projects](/more/projects)__: Games and projects I've made for fun.
 - __[Statistics](/more/stats)__: Fun statistics about my blog.
 </article>
-# Fun places
+
+## Fun places
 
 <article markdown="1">
 - **[Blogroll.org](https://blogroll.org/)**: Kind of like the blogroll I have but on a much bigger scale, go add yours to the list!

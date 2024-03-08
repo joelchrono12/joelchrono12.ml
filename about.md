@@ -5,7 +5,7 @@ description: This page tells you a little bit about the human who did this, and 
 permalink: /about/
 layout: default
 ---
-# 👤 About me 
+## 👤 About me 
 
  <img src="/assets/img/pfp2.png" alt="My profile pic" class="img" style="display: block; border-radius:20%;margin-left: auto; margin-right: auto; width: 45%; opacity:.95"> 
 
@@ -45,7 +45,7 @@ I have made some videogames using the [Godot engine](https://godotengine.org), b
  Make sure to visit my [contact page](/contact/) to view all the ways to communicate with me.
 </article>
 
-# 📰 About this page
+## 📰 About this page
 
 <article markdown="1" >
 This page was the result of going into Mastodon and getting inspired by the Fosstodon community to start my own blog. Here I can share my thoughts without having to give away too much of me to companies such as Google or Facebook.

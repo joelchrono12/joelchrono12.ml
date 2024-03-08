@@ -18,7 +18,7 @@ __Last updated: February 12th,2024__
 
 </article>
 
-# My blogroll
+## My blogroll
 
 <style>
   a.button {
@@ -62,7 +62,7 @@ __Last updated: February 12th,2024__
 </article>
 {% endfor %}
 
-# Featured buttons
+## Featured buttons
 
 <article markdown="1">
 

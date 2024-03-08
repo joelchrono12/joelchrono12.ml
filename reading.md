@@ -10,7 +10,7 @@ redirect_from: /booklog/
 
 You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!
 
-# 👤 Books I read
+## 👤 Books I read
 
 {% comment %}
 <table>
@@ -122,7 +122,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 {% if site.data.books %}
   {% assign books_by_year = site.data.books | sort: 'end' | group_by_exp: "item", "item.end | date: '%Y'" %}
   {% for year_group in books_by_year reversed %}
-  <h2>{{ year_group.name }}</h2>
+  <h3>{{ year_group.name }}</h3>
   <div class="responsive-grid">
   {% for item in year_group.items reversed %}
   <div class="book-cover-container">

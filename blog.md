@@ -31,11 +31,11 @@ This is reversed order, if you want to start from the beginning
 {% endcomment %}
 
 {% for year in postsByYear %}
-<h1>{{ year.name }}'s posts</h1>
+<h2>{{ year.name }}'s posts</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 <ul class="posts">
 {% for month in postsByMonth %}
-<li><h2 id="{{ month.name }} {{year.name}}">{{ month.name }}</h2></li>
+<li><h3 id="{{ month.name }} {{year.name}}">{{ month.name }}</h3></li>
 <article>
 <ul>
 {% for post in month.items  %}

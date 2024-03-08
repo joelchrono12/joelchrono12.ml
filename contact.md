@@ -9,7 +9,7 @@ layout: default
 
 - ✉️ **[Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
 
-# Instant Messaging
+## Instant Messaging
 
 <article markdown="1">
 
@@ -38,7 +38,7 @@ layout: default
 
 </article>
 
-# Social Networks
+## Social Networks
 
 <article markdown="1">
 - 📺 **[YouTube Channel](https://youtube.com/@joelchrono)** - I post very rarely, but the day I do, you'll know!

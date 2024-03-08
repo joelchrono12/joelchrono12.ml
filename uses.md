@@ -9,13 +9,13 @@ redirect_from: /uses/
 
 **Last updated: March 04, 2024**
 
-# Software
+## Software
 
 <article markdown=1>
 
 I split this section between desktop (mostly Free Software and available on Linux), android apps and also cross-platform.
 
-## Desktop
+### Desktop
 
 - [Void Linux](https://voidlinux.org/), a unique distro that is not a fork, its super light, fast and customizable.
 - [Neovim](https://neovim.io/): A terminal text editor where I write my blogs, edit files and scripts.
@@ -30,7 +30,7 @@ I split this section between desktop (mostly Free Software and available on Linu
 - [Inkscape](https://inkscape.org): Vector based graphics design software, I design icons with it.
 - [khard](https://github.com/lucc/khard), [khal](https://lostpackets.de/khal/), [vdirsynced](https://github.com/pimutils/vdirsyncer): Contacts and calendar CLIs that can sync via DAV.
 
-## Android only
+### Android only
 - [ArrowOS](https://arrowos.net): A custom rom for Android devices.
 - [AntennaPod](https://antennapod.org/): Podcast aggregator.
 - [Droid-ify](https://github.com/Iamlooker/Droid-ify): A FOSS only client for the F-Droid store.
