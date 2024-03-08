@@ -296,12 +296,12 @@ header nav{
     text-align: center;
 }
 
-header nav, header nav ul, .tags ul{
+header nav, header nav ul, .tags ul, .badge-list{
     padding: 0;
     margin: 0;
 }
 
-header nav ul li{
+header nav ul li, ul.badge-list li{
     display: inline;
 }
 
