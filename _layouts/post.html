@@ -9,14 +9,14 @@ layout: default
 {% endcapture %}
 <aside class="blog-data">
 	<span>📆 {{ page.date | date_to_string }}</span><span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
-	<span class="tags">
-		<span>🏷️ </span>
+	<div class="tags">
 		<ul>
+			<li>🏷️</li>
 			{% for tag in page.tags %}
 			<li><a href="/more/tags/{{ tag }}">{{ tag }}</a></li>
 			{% endfor %}
 		</ul>
-	</span>
+	</div>
 </aside>
 
 <article>

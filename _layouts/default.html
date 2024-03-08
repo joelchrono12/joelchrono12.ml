@@ -34,7 +34,6 @@
             <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | lowercase }}</a></li>
           {% endif %}
           {% endfor %}
-          </a>
         </ul>
       </nav>
       {% endif %}

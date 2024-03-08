@@ -305,7 +305,7 @@ header nav ul li{
     display: inline;
 }
 
-span.tags, span.tags *{
+div.tags, div.tags *{
     display: inline;
 }
 
