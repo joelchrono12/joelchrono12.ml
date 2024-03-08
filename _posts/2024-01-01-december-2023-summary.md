@@ -16,7 +16,7 @@ December was packed with a lot of things I managed to do, Christmas happened, a 
 Thankfully, I got some vacation time, which allowed me to do do quite a lot, from listening to more podcasts while cleaning up my room, to playing a bunch more videogames, while watching movies too. Regardless, too many things to list, but I will still try.
 
 
-# Podcasts
+## Podcasts
 
 - **Into The Aether**: This lowkey videogame podcast was about to upload its GOTY episode, an Epic, with a duration of 6 hours. I could've finished a videogame while listening to it, and I am sad that I didn't. I listen to some previous episodes just to catch up a bit too.
 - **Retro Game Time Machine**: This podcast is just cozy and I keep listening to it quite a bit, but I didn't listen to their GOTY episode just yet, which is only 2 hours long or so.
@@ -24,7 +24,7 @@ Thankfully, I got some vacation time, which allowed me to do do quite a lot, fro
 - **Ars Paradoxica**: An audio drama that keeps on giving, I only listened to 3 or so episodes this month, but it was good.
 - **Dungeons and Daddies**: Just keeping up with the show, going good, give it a listen!
 
-# Movies
+## Movies
 
 I also watched quite a bit of movies this time around, and I also made sure to log them on Letterboxd. Here's some of them
 
@@ -35,7 +35,7 @@ I also watched quite a bit of movies this time around, and I also made sure to l
 - **Midnight**: A Korean thriller that follows a deaf woman threathened by a psycho killer. Quite a terrifying plot, not going to lie, tons of suspense. I originally wanted to just play on my Switch but it was just too good to miss.
 - **Spider-Man 2**: Classic movie that remains as one of the best examples of what a Superhero movie should be about, a complete masterpiece.
 
-# Videogames
+## Videogames
 
 As I mentioned in a previous blogpost, I started to record the playing times of games I own, which should give me quite a bit more data to add here too. For now, let's start as always.
 - **Citizen Sleeper**: I finished this game mid-December, it was a great, short story-driven RPG with a unique style and characters, I wrote a full review [here](/blog/citizen-sleeper/).
@@ -49,7 +49,7 @@ As I mentioned in a previous blogpost, I started to record the playing times of 
 - **Final Fantasy IV**: I decided to continue my adventure on this game on my PSP, I almost manage to escape from the Sealed Cave!
 - **Ninja Five-0**: This is a small arcade platformer game where I am a ninja fighting crime, the gameplay is surprisingly entertaining and the controls feel quite good.
 
-# Manga
+## Manga
 
 I read quite a bit of manga this month, right after I did my blog on my favorites of the year, one of these also became a favorite of mine.
 
@@ -58,15 +58,15 @@ I read quite a bit of manga this month, right after I did my blog on my favorite
 - **Weak Hero**: I finished this manhua, and what an ending. I didn't think a school nerd against the bullies story would work and develop like this one did. The art is great, and so is the plot and the fantastic characters, give it a read, there's a reason it was in my [favorites of the year](/blog/my-favorite-manga-of-2023/).
 - **Survival**: This also made it to the list of favorites, for good reason. A kid survives in the post-apocalyptic wilderness where 90% of the planet is now under-seas. This is his journey, read it.
 
-# Books
+## Books
 
 - **Ender's Game**: Because of the amount of other things I did, I only read bits and pieces of this book during some free time and commutes. I am still liking it a lot and I've read 60% of the story so far.
 
-# Device Usage
+## Device Usage
 
 This list doesn't really track my Nintendo Switch usage of course, which was quite high during my holiday vacations. Regardless, I would say the amount of games I listed is enough of an idea, so here's the rest of devices I used!
 
-## Laptop Usage
+### Laptop Usage
 
 I used my laptop for a total of 75 hours, and here's some of what I did!
 
@@ -76,7 +76,7 @@ I used my laptop for a total of 75 hours, and here's some of what I did!
 - Inkscape: 5 hours
 - Steam: 1 hour
 
-## Android Usage
+### Android Usage
 
 I used my phone for a total of 174 hours, thanks to the vacational period I guess.
 
@@ -87,7 +87,7 @@ I used my phone for a total of 174 hours, thanks to the vacational period I gues
 - Discord: 11 hours
 - Facebook 9 hours
 
-# Afterwords
+## Afterwords
 
 So, yeah, December was quite a busy month right? Remember you can always follow my [backloggd](https://backloggd.com/u/joelchrono) to check the games I've played!
 

@@ -14,13 +14,13 @@ com_id: 107888016571941182
 
 So, as I've said before, I wanted to keep track of my habits and media consumption, so I decided to track myself, and I since I have not made a blog in a while, I thought it would be a good idea to come back and do something simple like this. I really liked Lazybear's approach where he mentions points he enjoyed about the content he consumed, so I decided to do the same too, if only a bit.
 
-# Podcasts
+## Podcasts
 
 - Chrono Trigger Bonus Episode, by Into The Aether. This is my favorite game of all time, and a 3 and a half hours long listen to these guys talking about it was such a joy, I don't favorite a lot of episodes on AntennaPod, but this was one of them. I listened to 4 or so other episodes.
 - Avatar: Braving the Elements. A podcast reviewing every episode of this fantastic series, with Korra and Zuko's voice actors as hosts? What an amazing idea, the episode with Jack De Sena (Sokka's VA) has been my favorite so far. I listened to 3 or so other episodes.
 - Late Night Linux. These guys don't like to make titles for their episodes, and there was nothing too unique about each, but I listened to the weekly episodes of the month.
 
-# Manga
+## Manga
 
 I read quite a lot of manga, especially the last couple weeks ot February, I just scrolled through my anilist feed, but I should be able to automatically get this if I check their API for a bit. This is what I got manually so far.
 
@@ -34,13 +34,13 @@ I read quite a lot of manga, especially the last couple weeks ot February, I jus
 
 So, yeah I read quite a lot, but that's what happens when I start a new hobby, at least for me.
 
-# Anime
+## Anime
 
 - Ergo Proxy: Watched from episode 14 to 23 (Completed). I struggled to understand this one, it has a lot of stuff going on while at the same time explaining basically nothing, It can feel a bit pretentious but I don't think that's bad. Quite an interesting story, almost as confusing as Evangelion. Also Pino is wholesome.
 - Kill la Kill: Watched from episode 1 to 16. While not as deep as Ergo Proxy, this show is just fun and action all the time, It can even get serious at times, so I am liking it so far, made me laugh a lot.
 - Akira (1988): This movie classic  was nothing like I expected, but it was great to watch, and the animation is top notch, a fantastic piece of animation history.
 
-# Music
+## Music
 
 I didn't really listened to a lot of music this time, I tend to do so while sleeping, but lately I've felt like playing background raining sounds via another podcast that uploads such content (I also wanted to avoid messing up my Spotify stats).
 
@@ -48,11 +48,11 @@ I listened to a bunch of Halo's soundtrack while reading Kingdom, it fit quite n
 
 For some reason ListenBrainz is down while writing this, so yeah, I also listened to some of Evangelion's sountrack and Chrono Trigger's too.
 
-# Movies
+## Movies
 
 I rewatched Spiderman: Into the Spiderverse, because its a fantastic movie and I was trying out Jellyfin a bit.
 
-# Screen Time
+## Screen Time
 
 I keep track of these things with ActivityWatch, although it hasn't been updated in a while, it works just fine.
 
@@ -67,7 +67,7 @@ I won't really share all of my phone stats either, because I also don't really k
 
 Overall, I spent a total of 293 hours in my phone during February. Which is probably a lot of time, but I hope I can calm down this month.
 
-# Wrapping up
+## Wrapping up
 
 I always have a hard time when getting into new hobbies, it happened with Rubik's cubes, where I spent whole days tracking my speed, when I got into trying out PSP mods and plugins, or the first time I flashed a custom ROM for my phone. This is only normal, at least for me, I know I should try to not interrupt my life that bad, but man, Kingdom was just too good to put aside.
 {% include reply.html %}

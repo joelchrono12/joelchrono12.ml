@@ -13,7 +13,7 @@ com_id: 109793460412309010
 
 I went for 31 days straight posting semi-decent posts. By checking out my archive you can see how January tends to be the month with the most content published, but 31 days straight is quite a record for me, and with this summary, 32 posts in 32 days will be done. Its kind of awesome to be this consistent. Let's start then.
 
-# Podcasts
+## Podcasts
 
 I listened to podcasts for 73 hours during this month. I actually decided to listen a few podcasts in Spanish, due to the post I wrote about [most of my media consumption being not in my native language]({{ site.url }}/blog/struggling-to-consume-content-in-spanish/). They still didn't make it to the top of my stats this month, but still, nice progress.
 
@@ -30,24 +30,24 @@ Other podcasts I listened to were:
 - Retro Game Time Machine
 - Late Night Linux
 
-# Movies and Series
+## Movies and Series
 
 - __The Beast with a Million Eyes__: A [thread by Kevin Bowen](https://fosstodon.org/@kevinbowen/109770942541409186) on Fosstodon got me interested on watching some old films. One of the ones in that list was this one. It was a pretty bad one, I watched it in two sittings right before going to sleep. I kinda enjoyed it, not gonna lie, as cheesy and low budget as it is. The title and poster are lying, so have low expectations.
 
-# Books
+## Books
 
 - __1984 by George Orwell__: I finished it, as promised, I can't believe I had stopped reading it a few years ago when I gave it a try for the first time, right before the good stuff started! The last third of this book is a gem, I couldn't stop reading and that ending is so real. A must read, honestly.
 - __I Have No Mouth and I Must Scream by Harlan Ellison__: I can't believe I didn't finish this one yet. A collection of short stories that are all great, they are kind of sci-fi but the author doesn't like to categorize his works. Regardless, the ones I've read have all been really good, short and sweet.
 
 
 
-# Anime
+## Anime
 - __Fullmetal Alchemist: Brotherhood__: I finished it, and I really loved it. I get why its considered the best among them all. Awesome action, amazing characters and a beautifully scripted story. I think I will watch some more content of this soon enough.
 - __Princess Mononoke__: I have wanted to watch Studio Ghibli movies for a while, but I've been meaning to watch it with my family or friends. That finally came true this month when we watched this movie, I really, really enjoyed it a lot.
 - __Attack on Titan: The Final Season Part 2__: Yeah the way the later seasons are organized kind of sucks. But I watched 4 episodes of this one and it is quite great. I had read the manga up to 10 or so chapters before the ending, so I know most of what's happening here. Great stuff, I still miss the old animation style.
 - __My Dress Up Darling__: For some reason I hadn't watched the last episode of the first season of this anime, I did it at the beginning of the month, it was alright.
 
-# Manga
+## Manga
 
 I actually barely read anything. This time, I only read some chapters of series I've mentioned before:
 
@@ -56,11 +56,11 @@ I actually barely read anything. This time, I only read some chapters of series 
 - Komi Can't Communicate
 - Kingdom
 
-# Device usage
+## Device usage
 
 This month was a little weird, going back to school only a couple days a week, and an update to one of my favorite games really changed the way I usually use my devices this time.
 
-## Phone usage
+### Phone usage
 
 Used for a total of 204 hours. A bit less than December!
 
@@ -72,7 +72,7 @@ Used for a total of 204 hours. A bit less than December!
 - Bromite for 6 hours
 - Tachiyomi for 5 hours
 
-## Desktop usage
+### Desktop usage
 
 - Firefox for 120 hours
 - Alacritty for 38 hours
@@ -81,7 +81,7 @@ Used for a total of 204 hours. A bit less than December!
 - Minecraft for 2.5 hours
 
 
-# Wrapping up
+## Wrapping up
 
 Not a lot to say, this is the first post of February, tomorrow I am travelling, so it is likely that tomorrow I will break my streak, but I still have hope that it won't be the case.
 

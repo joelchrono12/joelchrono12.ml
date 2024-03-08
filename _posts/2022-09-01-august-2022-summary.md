@@ -13,7 +13,7 @@ com_id: 108929314269945407
 
 A lot happened this month, not a lot of new podcasts, not a lot of new manga, no books, maybe a couple movies and also playing some videogames. I will also do a completed and work in progress section for each category, since I feel it will be more organized, I will edit the older summaries accordingly once I get the time.
 
-# Podcasts
+## Podcasts
 
 This month I listened to 103 hours of podcasts. Here are some new additions to my feed.
 
@@ -22,15 +22,15 @@ This month I listened to 103 hours of podcasts. Here are some new additions to m
 Other than that, I've mostly listened to the next episodes of Podcasts I've mentioned already.
 
 
-# Manga
+## Manga
 
 Manga is really fast and easy to consume, it's one of my favorite ways of entertainment lately xD
 
-## Finished
+### Finished
 
 - [Eyeshield 21](https://anilist.co/manga/30043/Eyeshield-21/): This was awesome, pretty much all of my thoughts of this manga were shared in July, it was a joy to read, some really nerve-wracking moments were felt many times. All the characters and players are amazing. Just give it a read already.
 
-## In progress
+### In progress
 
 - [Blue Lock](https://anilist.co/manga/106130/Blue-Lock/): This is not your tipical soccer manga, and its not your tipical sports manga either. Blue Lock is a special training program made for the specific purpose of making Japan win a World Cup, by developing a single player out of 300 high schoolers, who will lead them to victory, a *striker*. 
 
@@ -43,28 +43,28 @@ Manga is really fast and easy to consume, it's one of my favorite ways of entert
 
 I am still catching up with a lot of the manga that is still being published, which I've mentioned in previous summaries.
 
-# Movies
+## Movies
 
 I watched the new Minions movie with my family, it was kinda funny and I appreciate it being an hour and a half, if you got kids or something I recommend it. Nothing too special to be honest.
 
-# Music
+## Music
 
 I recently went local with my music, and I do scrobble it to ListenBrainz, but I haven't changed my consumption that much.
 
 I can recommend the album *Love Trip* by Takako Mamiya, which I recently added to my playlist.
 
-# Screen time
+## Screen time
 
 Due to school, the time I watched videos got significantly reduced. Due to social service, the time I read manga, got quite high too.
 
-## Phone usage
+### Phone usage
 
 - I used Tachiyomi, my manga reader, for 58 hours.
 - I used Newpipe for 43 hours.
 - I used Tusky for 22 hours and Infinity for Reddit for only 10, nice!
 - I started using Signal more often thanks to some Fediverse friends who I can talk with now. 8 hours.
 
-## Laptop usage
+### Laptop usage
 
 I had setup activity watch on my laptop for a while, but I had not added good categories to have it working nice.
 
@@ -75,7 +75,7 @@ I had setup activity watch on my laptop for a while, but I had not added good ca
 - I played Minecraft for 7 hours.
 - I use Joplin for 3 hours.
 
-# Finishing up
+## Finishing up
 
 So yeah that's pretty much it, expect me to play a lot more Minecraft soon since I got a server now.
 
