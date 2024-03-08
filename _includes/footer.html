@@ -1,4 +1,4 @@
-<p>
+<p id="webrings">
 	<b>This site is member of many webrings! Check some other geeky websites here!</b><br/>
 	<a href="https://fediring.net/previous?host=joelchrono12.xyz">←</a>
 	<a href="https://fediring.net/">Fediring</a>
@@ -14,12 +14,10 @@
 	<a href="http://geekring.net/site/249/random">🎲</a>
 	<a href="http://geekring.net/site/249/next">→</a>
 </p>
-<small>
-	<p>This site was made with ♥ by <a rel="me" href="https://fosstodon.org/@joel">joelchrono</a> using <a href="https://jekyllrb.com">Jekyll</a>.</p>
-	<p>
-		<a class="button" href="#top">Back to top</a>
-		{% if page.layout != "none" %}
-		<a class="button js" id="toggleButton" onclick="toggleAnimation()">BG: OFF</a>
-		{% endif %}
-	</p>
-</small>
+<p id="credit">This site was made with ♥ by <a rel="me" href="https://fosstodon.org/@joel">joelchrono</a> using <a href="https://jekyllrb.com">Jekyll</a>.</p>
+<p id="functional-buttons">
+	<a class="button" href="#top">Back to top</a>
+	{% if page.layout != "none" %}
+	<a class="button js" id="toggleButton" onclick="toggleAnimation()">BG: OFF</a>
+	{% endif %}
+</p>
