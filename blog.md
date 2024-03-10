@@ -11,6 +11,7 @@ permalink: /blog/
 
 <article>
 <h2>By year and month</h2>
+<div class="flex-container">
 {% for year in postsByYear %}
   <details>
     <summary>{{ year.name }} ({{ year.items | size }} posts)</summary>
@@ -23,6 +24,7 @@ permalink: /blog/
       </ul>
   </details>
 {% endfor %}
+</div>
 </article>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}

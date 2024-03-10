@@ -523,3 +523,29 @@ footer {
 .breadcrumb li{
 text-transform: lowercase;
 }
+
+.flex-container {
+display: flex; 
+flex-direction: row; 
+flex-wrap: wrap;
+gap: 1rem;
+}
+
+.flex-container > article,
+.flex-container > details{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--code-bg);
+    padding: 1rem;
+    border-radius: 12px;
+    margin: 0;
+    flex: 1 1 22ch;
+}
+
+.flex-container > article h3{
+ flex: 0;
+}
+.flex-container > article div{
+    flex: 1;
+    margin-bottom: 1rem;
+}

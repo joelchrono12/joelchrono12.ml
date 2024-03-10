@@ -22,15 +22,17 @@ __Last updated: February 12th,2024__
 
 {% assign sorted_blogroll = site.data.blogroll | sort: 'name' %}
 
+<div class="flex-container">
 {% for blogger in sorted_blogroll %}
 <article>
 <h3 class="post">
 <a href="{{ blogger.link }}">{{ blogger.name }}</a>
-<a href="{{ blogger.rss }}">RSS</a>
 </h3> 
-<p class="blog-description">{{ blogger.desc | newline_to_br }}</p>
+<div class="blog-description">{{ blogger.desc | newline_to_br }}</div>
+<a href="{{ blogger.rss }}">RSS Feed</a>
 </article>
 {% endfor %}
+</div>
 
 ## Featured buttons
 
