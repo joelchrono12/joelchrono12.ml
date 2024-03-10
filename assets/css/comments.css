@@ -1,3 +1,7 @@
+.mastodon-comment{
+  background-color: var(--code-bg);
+  padding: 1rem;
+}
 div.comment-content{
   display: flex;
   align-items: center;
