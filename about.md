@@ -5,11 +5,10 @@ description: This page tells you a little bit about the human who did this, and 
 permalink: /about/
 layout: default
 ---
+<article markdown="1">
 ## 👤 About me 
 
- <img src="/assets/img/pfp2.png" alt="My profile pic" class="img" style="display: block; border-radius:20%;margin-left: auto; margin-right: auto; width: 45%; opacity:.95"> 
-
- <article markdown="1">
+<img src="/assets/img/pfp2.png" alt="My profile pic" class="img" style="display: block; border-radius:20%;margin-left: auto; margin-right: auto; width: 45%; opacity:.95"> 
 
 Hello! I am Joel, I am just a guy who likes tech, FOSS and many other things. I was born in **Mexico** where I still live. I am currently studying **Mechatronics Engineering**. Here are some quick things about me:
 
@@ -25,9 +24,9 @@ I have made some videogames using the [Godot engine](https://godotengine.org), b
 
 </article>
 
+<article markdown="1">
 ## 🍿 Hobbies & Interests 
 
- <article markdown="1">
 * 🃏 Card Magic 
 * 📱 Android Customization 
 * ⌚ Speedcubing
@@ -39,15 +38,15 @@ I have made some videogames using the [Godot engine](https://godotengine.org), b
 * 🌐 Web development 
 </article>
 
+<article markdown="1">
 ## 💬 Get in touch
 
- <article markdown="1">
  Make sure to visit my [contact page](/contact/) to view all the ways to communicate with me.
 </article>
 
+<article markdown="1" >
 ## 📰 About this page
 
-<article markdown="1" >
 This page was the result of going into Mastodon and getting inspired by the Fosstodon community to start my own blog. Here I can share my thoughts without having to give away too much of me to companies such as Google or Facebook.
 
 I have used Jekyll to generate this site, and I use simple.css as a framework, where I have customized the style to fit my taste.

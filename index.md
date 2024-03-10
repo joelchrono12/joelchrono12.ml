@@ -6,30 +6,30 @@ permalink: /
 layout: default
 ---
 
-## Enjoy your stay here!
 
 <article markdown="1">
+## Enjoy your stay here!
 I am Joel, hi! you are visiting my personal website. Here you can see some of
 my thoughts and ramblings about tech, gaming and other hobbies, my favorite of
 which is [origami](/origami). I hope you enjoy your visit!
 
-Take your time and explore the many sections you can see in the navigation bar! You can find other links in the [more](/more) section.
+Take your time and explore the many sections you can see in the navigation bar!
+You can find other links in the [more](/more) section.
 </article>
 
+<article markdown="1">
 ## Latest blogs
-
 {% for post in site.posts limit:3 %}
-<article >
-  <b><a href="{{ post.url }}">{{ post.title }}</a></b>
-  <div>{{ post.description | strip_html | strip_newlines }}</div>
+<p>
+  <a href="{{ post.url }}"><b>{{ post.title }}</b></a><br>
+  {{ post.description | strip_html | strip_newlines }}<br>
   <small>{{ post.date | date: "%B %d, %Y" }}</small>
-</article>
+</p>
 {% endfor %} 
-
-
-## Support me
+</article>
 
 <article markdown="1" >
+## Support me
 You can support me in many ways, either via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW), [Liberapay](https://liberapay.com/joelchrono12/donate) or [Ko-fi](https://ko-fi.com/joelchrono)
 
 I don't use crypto personally, but if you want to give me some, there is the option too. My domain provider actually lets me renew it with that! So it doesn't go to waste :P

@@ -1,12 +1,16 @@
 {% if page.permalink != '/' and page.permalink != '/blog/'%}
+<article>
 <h2>Recent Posts</h2>
 {% for post in site.posts limit:4 %}
 {% if page.title != post.title %}
-<article>
+<p>
         <a href="{{ post.url }}"><b>{{ post.title }}</b></a>
-        <div>{{ post.description }}</div>
-        <small>{{ post.date | date: "%b %d, %Y" }}</small>
-</article>
+        <br>
+        {{ post.description }}
+        <br>
+        <span class="post-date">{{ post.date | date: "%b %d, %Y" }}</span>
+</p>
 {% endif %}
 {% endfor %}
+</article>
 {% endif %}

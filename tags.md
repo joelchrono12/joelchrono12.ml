@@ -13,12 +13,13 @@ layout: default
 <!--{% endfor %}-->
 <!--</ul>-->
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-## By alphabetical order
+<ul>
+<li><a href="#by-alphabetical-order">By alphabetical order</a></li>
+<li><a href="#by-post-quantity">By post quantity</a></li>
+</ul>
 
 <article>
+<h2 id="by-alphabetical-order">By alphabetical order</h2>
 <ul class="posts">
 {% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
@@ -32,9 +33,8 @@ layout: default
 </ul>
 </article>
 
-## By post quantity
-
 <article>
+<h2 id="by-post-quantity"> By post quantity</h2>
 <ul class="posts">
 {% capture tags %}
 {% for tag in site.tags %}

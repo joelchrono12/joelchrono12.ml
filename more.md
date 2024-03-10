@@ -6,9 +6,9 @@ permalink: /more/
 layout: default
 ---
 
+<article markdown="1">
 ## On this site
 
-<article markdown="1">
 
 - __[Blogroll](/more/blogroll)__: A list of blogs I follow and I recommend you to check out. Not all of them maybe of your liking, but they're of mine.
 - __[Uses](/more/uses)__: The software, hardware and other tools I use in my life. Be it for work or hobbies, everything's here.
@@ -19,9 +19,9 @@ layout: default
 - __[Statistics](/more/stats)__: Fun statistics about my blog.
 </article>
 
+<article markdown="1">
 ## Fun places
 
-<article markdown="1">
 - **[Blogroll.org](https://blogroll.org/)**: Kind of like the blogroll I have but on a much bigger scale, go add yours to the list!
 - **[Tildeverse](https://tildeverse.org/)**: If you want to learn about using SSH, join a tilde! Free access to a community server, you usually get an email and simple web hosting too.
 - **[512kb.club](https://512kb.club)**: Is your website light enough? Join me and others to this club!

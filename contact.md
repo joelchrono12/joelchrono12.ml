@@ -9,9 +9,8 @@ layout: default
 
 - ✉️ **[Email](mailto:joel.chrono@disroot.org)** - I started using email more often now, you can send me an ecrypted email using my public PGP Key, download it [here](https://keyoxide.org/2281776180B00C8FBA30BEA4E23D9C7FA57497A6), I would appreciate if you use said encryption.
 
-## Instant Messaging
-
 <article markdown="1">
+## Instant Messaging
 
 - 🗨️ **[XMPP](xmpp:chrono76@chat.sum7.eu)** - This is more of a protocol that can be used with different clients. It's more minimal and faster than Matrix, in my experience. Clients like [Conversations](https://conversations.im/) or [Blabber.im](https://blabber.im/) provide encryption via [OMEMO](https://conversations.im/omemo/), This is a great way to contact me quickly.
     <details>
@@ -38,9 +37,10 @@ layout: default
 
 </article>
 
+<article markdown="1">
+
 ## Social Networks
 
-<article markdown="1">
 - 📺 **[YouTube Channel](https://youtube.com/@joelchrono)** - I post very rarely, but the day I do, you'll know!
 - 🐘 **[@joel@fosstodon.org](https://fosstodon.org/@joel)** - This is my main social media presence, I post often and I am quite active. You are probably already following me if you are in this website, but if you arent, make sure to do so!
 - 🦉 **[@joelchrono@alpha.polymaths.social](https://alpha.polymaths.social/@joelchrono)** - A GoToSocial instance I use quite often, not my main account though.

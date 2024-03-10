@@ -30,7 +30,7 @@ Kyle, I am very grateful for everything you as a developer, and also co-administ
 
 So, since this is my blog, I'll just write the reasons I consider many of the arguments brought up in this case are wrong---from a certain point of view.
 
-# Security
+## Security
 
 I have to admit, that in a way, Security is the one factor where Apple has a certain advantage, but does it really?
 
@@ -40,13 +40,13 @@ Also, in Android we can usually get apps (at least the FOSS ones) directly from 
 
 Apple has a single point of failure and we have to put all our trust in them, simple as that.
 
-# Features
+## Features
 
 I mean, Android has more features---and it is much more flexible. There is simply no comparison. When it comes to interface and design, it is just a matter of taste. Both old and young people can struggle using an Apple device just as much as they struggle with Android. And you can get Android phones with physical keyboards, different screen sizes and features according to your needs.
 
 Apple likes to refine things to a level that sometimes makes no sense, and then they also like to pretend it never existed. Just look at the dynamic island, have you ever heard of any new uses for it since it came out? And look at widgets, they maybe more fancy, but they are nowhere near as useful as on Android, and their potential is very limited, they end up unnoticed and underused, unless they can make money out of it, I guess, like getting rid of the headphone jack, or having a bunch of MagSafe add-ons.
 
-# Privacy
+## Privacy
 
 Privacy is a matter of scope nowadays, you can't be fully private if you have a connection to the internet, but you can choose who you want to be private from.
 
@@ -58,7 +58,7 @@ Similarly, Android can be used in its AOSP form thanks to a good amount of custo
 
 Yes Apple has a bunch of privay claims and they somewhat fulfill them, but it really feels like a marketing strategy rather than something they do just because it is the right thing to do.
 
-# Compatibility
+## Compatibility
 
 Android apps can support multiple Android versions, you can still install modern versions of many apps on Phones running versions like Android 8 (Oreo) or even older.
 
@@ -66,7 +66,7 @@ I may be wrong, but I think that as soon as an iOS version stops getting support
 
 While interactions between devices is not as smooth as what Apple can do. Android has a lot of apps that help achieve similar functionality. Kyle mentions the seamlessness of Google products and services, but I don't use either of them. I can do wit DAVx5 (Calendar and contact sync), Nextcloud (Cloud file storage, also interacts with DAVx5), KDE Connect (Computer and phone sync, share clipboard, and a lot more), Syncthing (Cloudless file sync) and similar tools that get the job done in many regards. And a bunch of these 3rd party apps can't even work on iOS, so you are stuck with what Apple offers you and not much more.
 
-# App Store
+## App Store
 
 App Store is controlled by Apple and they are evil.
 
@@ -78,7 +78,7 @@ Android let's you install apps from 3rd party sources. You can use F-Droid (FOSS
 
 There's a lot not to like about Android as it is offered by Google and OEMs, but the community behind it offers a bunch of ways to stray away from the surveillance and data mining that goes on. Apple says they do things, and we have to trust them, but when they don't, who can hold them accountable anyway? I just don't trust Apple, and Google sucks too.
 
-# Finishing up
+## Finishing up
 
 Give up on Google, give up on Apple, give up on an easy life and just install a Custom ROM on some random Xiaomi phone while you can, or get a used Pixel that works just as well if not better.
 

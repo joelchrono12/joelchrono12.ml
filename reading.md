@@ -35,69 +35,57 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
 <style>
   .responsive-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    display: flex;
     gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: left;
   }
 
   .book-cover-container {
     background-color: var(--code-bg);
-    padding: .6rem;
-    padding-top: 1rem;
     border-radius: 12px;
     display: flex;
-    flex-direction: column;
+    flex: 1 1 290px;
+    flex-direction: row;
   }
 
   .book-cover {
     background-size: cover;
     background-position: center;
-    border-radius: 10px;
+    border-radius: 12px;
     overflow: hidden;
     position: relative;
     text-align: center;
-    height: 230px;
+    height: 220px;
+    min-width: 130px;
   }
 
   .content {
     display: flex;
     flex-grow: 1;
     padding: 0 .8rem;
-    transition: opacity 0.3s ease;
-    overflow: auto;
     align-items: center;
     text-align: center;
     justify-content: center;
   }
 
-  .info {
-    font-size: 14px;
-  }
-
   .title {
     font-weight: bold;
-    font-size: 16px;
-    margin-bottom: 5px;
   }
 
   .artist {
-    font-size: 14px;
+    font-size: small;
   }
 
   .dates {
-    font-size: 12px;
+    font-size: small;
     white-space: pre-line;
     overflow: visible;
   }
 
   @media screen and (max-width: 600px) {
-    .responsive-grid {
-      grid-template-columns: 1fr;
-    }
-
     .book-cover-container {
-    flex-direction: row;
-    padding: .6rem;
+        flex-direction: row;
     }
 
     .book-cover {
@@ -130,15 +118,15 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
   <img class="book-cover" src="{{ item.cover }}">
   </div>
   <div class="content">
-  <div class="info">
-  <div class="title"><i>{{ item.title }}</i></div>
-  <div class="artist">by {{ item.author }}</div>
-  <div class="dates">Started: {{ item.start }}</div>
-  <div class="dates">Finished: {{ item.end }}</div>
-  </div>
-  </div>
-  </div>
-      {% endfor %}
+      <div class="info">
+      <div class="title"><i>{{ item.title }}</i></div>
+      <div class="artist">by {{ item.author }}</div>
+      <div class="dates">Started: {{ item.start }}</div>
+      <div class="dates">Finished: {{ item.end }}</div>
+      </div>
+      </div>
+      </div>
+          {% endfor %}
   </div>
   {% endfor %}
 {% endif %}

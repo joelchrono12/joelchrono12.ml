@@ -7,8 +7,10 @@ layout: default
 {% capture time_words %}
 {{count_words | divided_by: 5}}
 {% endcapture %}
+
 <aside class="blog-data">
-	<span>📆 {{ page.date | date_to_string }}</span><span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
+	<span>📆 {{ page.date | date_to_string }}</span>
+	<span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
 	<div class="tags">
 		<ul>
 			<li>🏷️</li>
@@ -18,14 +20,14 @@ layout: default
 		</ul>
 	</div>
 </aside>
-
 <article>
 
 {{ content }}
 
 </article>
 
+<article>
+<h2 id="comments">Comments</h2> 
 <p>If you have something to say, leave a comment, or <a href="/contact">contact me</a> ✉️ instead</p>
-
-<h1 id="comments" >Comments</h1> 
 {% include comments.html %}
+</article>

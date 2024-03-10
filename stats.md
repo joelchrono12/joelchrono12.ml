@@ -11,8 +11,8 @@ redirect_from: /stats/
 I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why not, he probably got them from somewhere else, viva Open Source!
 </article>
 
-## General stats
 <article markdown="1">
+## General stats
 
 	{% assign totalWords = 0 %}
 	{% assign dateOb = '' %}
@@ -32,8 +32,8 @@ I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why n
 
 </article>
 
-## Posts by year
 <article  markdown="1">
+## Posts by year
 <ul class="posts">
   {% assign posts_per_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for post in site.posts %}
@@ -48,9 +48,11 @@ I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why n
 </ul>
 </article>
 
-## Tag cloud
-<article markdown="1">
-{% for tag in site.tags %}
-<a href="/more/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.1;font-size: {{ tag[1] | size | times: 1.3 | plus: 12 }}px;">{{ tag[0] }}</a> 
-{% endfor %}
+<article>
+<h2>Tag cloud</h2>
+
+<div class="tag-cloud">
+{% for tag in site.tags %}<a href="/more/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.1;font-size: {{ tag[1] | size | times: 1.3 | plus: 12 }}px;">{{ tag[0] }}</a> {% endfor %}
+</div>
+
 </article>
