@@ -151,6 +151,13 @@ img.badge{
     /*border-radius: 0px;*/
 }
 
+p > code {
+    color: var(--accent-light);
+    background-color: var(--accent-bg);
+    padding: .2rem;
+
+}
+
 code {
     font-size: 16px;
     word-wrap: break-word;
@@ -392,14 +399,13 @@ article.post, .post{
 }
 
 .post-date, .post-author{
-    white-space: nowrap;
+    flex-shrink: 0;
     font-size: small;
-    font-weight: normal;
+    color: var(--text);
     font-style: italic;
 }
 a.post .post-title {
     font-weight: bold;
-    /*line-height: 1.4;*/
     text-wrap: balance;
 }
 
@@ -554,6 +560,7 @@ gap: 1rem;
     flex: 1 1 22ch;
 }
 
+.flex-container > article h4,
 .flex-container > article h3{
  flex: 0;
 }
