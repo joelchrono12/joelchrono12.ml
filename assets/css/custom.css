@@ -296,13 +296,21 @@ header nav{
     text-align: center;
 }
 
-header nav, header nav ul, .tags ul, .badge-list{
+header nav, header nav ul, .tags ul, ul.badge-list{
     padding: 0;
     margin: 0;
 }
 
 header nav ul li, ul.badge-list li{
     display: inline;
+}
+
+ul.badge-list{
+    display: inline flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: .5rem;
+
 }
 
 div.tags, div.tags *{
