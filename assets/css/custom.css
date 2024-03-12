@@ -1,13 +1,14 @@
 :root {
     /* Set sans-serif & mono fonts */
-    --sans-font: -apple-system,BlinkMacSystemFont,"IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-    --mono-font: "Mononoki Nerd Font","IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
+    /*--sans-font: -apple-system,BlinkMacSystemFont,"IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;*/
+    --mono-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
+    --sans-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1rem;
+    --base-fontsize: 1.1rem;
     /* Major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.2;
     /* Line height is set to the "Golden ratio" for optimal legibility */
-    --line-height: 1.75;
+    --line-height: 1.85;
     /*This is my dark themed color scheme*/
     --accent-bg: #f0f0f0;
     --accent-light: #7aa2f7;
@@ -22,12 +23,15 @@
 }
 @media (prefers-color-scheme: dark){
     :root{
+    --bg: #1a1b26;
     --accent-bg: #32344a;
     --code-bg: #232433;
-    --accent-light: #449dab;
-    --accent:#9ece6a;
-    --bg: #1a1b26;
-    --border: #7aa2f7;
+    /*green and blue green*/
+    /*--accent:#9ece6a;*/
+    /*--accent-light: #449dab;*/
+    --accent:#bb9af7;
+    --accent-light: #7aa2f7;
+    --border:#9ece6a;
     --code:#787c99;
     --text-light: #e0af68;
     --text:#a9b1d6;
@@ -78,9 +82,9 @@ a:hover {
 body {
     font-family: var(--sans-font);
     font-weight: 400;
-    line-height: 1.75;
+    line-height: var(--line-height);
     margin: 0;
-    font-size: 20px;
+    font-size: var(--base-fontsize);
 }
 
 section {
@@ -101,18 +105,18 @@ div h1, div h2 {
 }
 
 
-h1 {
-  /*margin-top: 0;*/
-  font-size: 2.488rem;
-}
+/*h1 {*/
+  /*[>margin-top: 0;<]*/
+  /*font-size: 2.488rem;*/
+/*}*/
 
-h2 {font-size: 2.074rem;}
+/*h2 {font-size: 2.074rem;}*/
 
-h3 {font-size: 1.728rem;}
+/*h3 {font-size: 1.728rem;}*/
 
-h4 {font-size: 1.44rem;}
+/*h4 {font-size: 1.44rem;}*/
 
-h5 {font-size: 1.2rem;}
+/*h5 {font-size: 1.2rem;}*/
 
 hr{
   color: var(--border);
@@ -131,7 +135,7 @@ main img{
   max-width: 100%;
   height: auto;
   opacity: 0.8;
-  border-radius: 8px;
+  /*border-radius: 8px;*/
 }
 
 
@@ -144,7 +148,7 @@ img.badge{
     /*image-rendering: crisp-edges;*/
     height: 31px;
     opacity: 1;
-    border-radius: 0px;
+    /*border-radius: 0px;*/
 }
 
 code {
@@ -155,7 +159,7 @@ pre {
     /*background-color: var(--bg);*/
     background-color: #232433;
     color: #d8dee9;
-    border-radius: 8px;
+    /*border-radius: 8px;*/
     overflow:auto;
     line-height: 1.245rem;
     padding: 1rem;
@@ -182,7 +186,7 @@ thead{
 table {
   overflow: auto;
   width: 100%;
-  border-radius: 13px;
+  /*border-radius: 13px;*/
   border-spacing: 0;
 }
 
@@ -212,7 +216,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   border: none;
-  border-radius: 12px;
+  /*border-radius: 12px;*/
   background: var(--accent);
   /*font-size: 1rem;*/
   color: var(--bg);
@@ -249,7 +253,7 @@ input[type="button"] {
 
 .button{
   border: none;
-  border-radius: 12px;
+  /*border-radius: 12px;*/
   display: inline-block;
   background: var(--accent);
   /*font-size: 1rem;*/
@@ -317,7 +321,7 @@ header nav a, nav a:visited{
     background: var(--code-bg);
     color: var(--border);
     text-decoration: none;
-    border-radius: 8px;
+    /*border-radius: 8px;*/
     border: solid 2px var(--border);
     margin: .2rem .5rem;
     padding: .1rem 1rem;
@@ -387,25 +391,25 @@ article.post, .post{
 }
 a.post .post-title {
     font-weight: bold;
-    line-height: 1.4;
+    /*line-height: 1.4;*/
     text-wrap: balance;
 }
 
 a.post:hover{
     background-color: var(--code-bg);
-    border-radius: 8px;
+    /*border-radius: 8px;*/
     transition: .2s;
 }
 
 
 aside, details, progress {
   background-color: var(--accent-bg);
-  border-radius: 12px;
+  /*border-radius: 12px;*/
   margin-bottom: 1rem;
 }
 
 article {
-    border-radius: 12px;
+    /*border-radius: 12px;*/
     margin-bottom: 1.5rem;
 }
 aside {
@@ -457,7 +461,7 @@ details[open] > :last-child {
 
 #markdown-toc {
     list-style: decimal;
-    border-radius: 16px;
+    /*border-radius: 16px;*/
     background-color: var(--accent-bg);
 }
 
@@ -468,7 +472,7 @@ svg.logo {
     padding: .3rem;
     width: 82px;
     height: 82px;
-    border-radius: 12px;
+    /*border-radius: 12px;*/
     display: grid;
     margin: 0 auto;
 }
@@ -484,7 +488,7 @@ footer {
 
 .breadcrumb ul li a {
     background: none;
-    border-radius: 0;
+    /*border-radius: 0;*/
     border: none;
     color: var(--accent);
     display: inline;
@@ -537,7 +541,7 @@ gap: 1rem;
     flex-direction: column;
     background-color: var(--code-bg);
     padding: 1rem;
-    border-radius: 12px;
+    /*border-radius: 12px;*/
     margin: 0;
     flex: 1 1 22ch;
 }
