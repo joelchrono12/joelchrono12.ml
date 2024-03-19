@@ -234,6 +234,10 @@ input[type="button"] {
 }
 
 
+.blog-data{
+    font-size: small;
+}
+
 .blog-data span {
     display: block;
 }
@@ -241,7 +245,6 @@ input[type="button"] {
 @media screen and (min-width: 600px) {
     .blog-data{
         display: flex;
-        justify-content: space-between;
         gap: 1rem;
         align-items: center;
     }
@@ -294,6 +297,7 @@ ul.posts, ul.posts ul{
 
 .tags{
     display: flex;
+    margin-left: auto;
     align-items: center;
 }
 
@@ -432,7 +436,8 @@ aside {
 }
 
 article.post_embed{
-    background-color: var(--bg);
+    background-color: var(--code-bg);
+    /*background: linear-gradient(var(--code-bg) 10%,var(--bg));*/
     border: 3px solid var(--border);
     padding: 2rem;
 }
