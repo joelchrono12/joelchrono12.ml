@@ -6,48 +6,43 @@ description: "Here is what I'm up to right now"
 permalink: /now/
 ---
 
-**Last updated: March 4th, 2024**.
+**Last updated: April 6th, 2024**.
 
 Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
 **Location**: Living in Mexico with my family.
 
-<article markdown="1">
 ## What I'm reading
-{{ site.data.books[0].title }} by {{ site.data.books[0].author }}. Started: {{ site.data.books[0].start }}.
-</article>
 
-<article markdown="1">
+- {{ site.data.books[0].title }} by {{ site.data.books[0].author }}. Started: {{ site.data.books[0].start }}.
+- Monster by Urusawa Naoki, Manga
+- DanDaDan by Tatsu Yukinobu
+
 ## What I'm watching
-- Recently watched Dune Part Two, it was awesome.
-- Recently watched The Lion King movie, the original of course.
-- How a Reddit Post Changed My Life, Pewdiepie video.
-</article>
+
+- How We Did The April Fool's Office Prank - The WAN Show
+- Recently watched Kung Fu Panda 4
 
 
-<article markdown="1">
 ## What I'm listening
 
-- We Took Over the Podcast! - Waveform Podcast.
-- Linux Sucks... And We Know Who To Blame - The WAN Show.
-</article>
+- Finished Dungeons and Daddies Season 2
+- Saying Goodbye to a Legend --- Trash Taste #196
 
-<article markdown="1">
 ## What I'm playing
-- Balatro, a roguelike poker game, super fun, learned about it from [here](https://wavelengths.online/posts/balatro-the-best-deckbuilding-roguelike-in-years)
-</article>
+- Inside, the spiritual succesor to Limbo, which I finished earlier this year
+- Monster Hunter Rise Sunbreak, did my first attempt to hunt Magnamalo, utterly failed.
 
-<article markdown="1">
 ## What I'm enjoying
 
-- Redesigning a bunch of things in my website.
+- Reading a lot in my Kobo E-Reader
+- Sleeping
+- Learning things at my job
 - Repeating the [#100DaysToOffload](https://100daystooffload.com) challenge for the third time.
 
-</article>
-
-<article markdown="1">
 ## What I'm working on
+
+- Trying to use a credit card responsibly
+- Balancing the urge to buy more Switch games while saving money for a car.
 - Doing commisions and trying not to procrastinate.
 - A final project I need to do got get my degree.
-- Balancing the urge to buy more Switch games while saving money for a car.
-</article>
