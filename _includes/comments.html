@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/comments.css">
+<!--<link rel="stylesheet" href="/assets/css/comments.css">-->
 <div id="comments-list"></div>
 <div class="comment-options">
 <noscript>
@@ -43,8 +43,8 @@ function createCommentEl(response){
     user.classList.add(response.account.reply_class);
     let userAvatar = document.createElement('img');
     userAvatar.classList.add('avatar');
-    /*userAvatar.setAttribute('height', 60 );
-    userAvatar.setAttribute('width', 60 );*/
+    userAvatar.setAttribute('height', 60 );
+    userAvatar.setAttribute('width', 60 );
     userAvatar.setAttribute('src',response.account.avatar_static);
     let userName = document.createElement('div');
     let userLink = document.createElement('div');
