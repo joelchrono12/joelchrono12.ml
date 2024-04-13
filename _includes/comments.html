@@ -54,8 +54,14 @@ function createCommentEl(response){
     userDisplay.setAttribute('href',response.account.url);
     for (let j = 0; j < response.account.emojis.length;j++){
         let emoji = response.account.emojis[j];
-        response.account.display_name = response.account.display_name.replace(`:${emoji.shortcode}:`, `<img src="${emoji.static_url}" alt="Emoji ${emoji.shortcode}" height="16px" width="16px" />`);
+        response.account.display_name =
+            response.account.display_name.replace(`:${emoji.shortcode}:`, `<img
+        src="${emoji.static_url}" alt="Emoji ${emoji.shortcode}" height="16px"
+        width="16px" />`);
     }
+
+
+
     userDisplay.innerHTML = response.account.display_name;
     userLink.innerHTML = "@"+response.account.username;
 
@@ -71,6 +77,15 @@ function createCommentEl(response){
     let comment = document.createElement('div');
     comment.classList.add( 'comment-content' );
 
+    for (let k=0; k < response.media_attachments.length; k++){
+        let picture = response.media_attachments[k];
+        let media = document.createElement('img');
+        media.setAttribute('src', picture.preview_url);
+        let mediaLink = document.createElement('a');
+        mediaLink.setAttribute('href', picture.url);
+        mediaLink.appendChild(media);
+        commentContents.appendChild(mediaLink);
+    }
 
     user.appendChild( comment );
     comment.appendChild(userAvatar);
