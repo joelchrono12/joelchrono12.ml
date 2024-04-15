@@ -6,6 +6,9 @@ description: I decided to write something while at work and this is what turned 
 permalink: /blog/friday-without-work/
 title: 'A Friday without a lot of work'
 header: 'A Friday without a lot of work'
+host: fosstodon.org
+username: joel
+com_id: 111545857514877774
 ---
 
 I have been at my job for a couple weeks now, and I have to say, I don’t dislike it at all, I kind of enjoy learning so many things at the moment, but it is also a bit of a daunting task. I basically handle a bunch of different databases in multiple formats. Those databases are in charge of users, workers, groups, machinery and many other things, and I have to help maintain them and modify them when needed.
