@@ -19,7 +19,7 @@ permalink: /blog/
       {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
       <ul>
       {% for month in postsByMonth %}
-      <li><a href="#{{ month.name }} {{ year.name }}"> {{ month.name }} ({{ month.items | size }} {% if month.items.size == 1 %} post{% else %} posts{% endif %}) </a></li>
+      <li><a href="#{{ month.name }}-{{ year.name }}"> {{ month.name }} ({{ month.items | size }} {% if month.items.size == 1 %} post{% else %} posts{% endif %}) </a></li>
       {% endfor %}
       </ul>
   </details>
@@ -39,17 +39,14 @@ This is reversed order, if you want to start from the beginning
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 <ul class="posts">
 {% for month in postsByMonth %}
-<li><h3 id="{{ month.name }} {{year.name}}">{{ month.name }}</h3></li>
-<ul>
+    <li>
+    <h3 id="{{ month.name }}-{{year.name}}">{{ month.name }}</h3>
+        <ul>
 {% for post in month.items  %}
-<li>
-<a class="post" href="{{ post.url }}">
-<span class="post-title">{{ post.title }}</span>
-<span class="post-date"> {{ post.date | date: "%b %d" }}</span>
-</a>
-</li>
+        <li><a class="post" href="{{ post.url }}"><span class="post-title">{{ post.title }}</span><span class="post-date"> {{ post.date | date: "%b %d" }}</span></a></li>
 {% endfor %}
-</ul>
+        </ul>
+    </li>
 {% endfor %}
 </ul>
 </article>
