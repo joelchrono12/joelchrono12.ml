@@ -7,7 +7,6 @@ layout: default
 {% capture time_words %}
 {{count_words | divided_by: 5}}
 {% endcapture %}
-
 <aside class="blog-data">
 	<span>📆 {{ page.date | date_to_string }}</span>
 	<span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
@@ -20,14 +19,9 @@ layout: default
 		</ul>
 	</div>
 </aside>
-<article>
-
 {{ content }}
-
-</article>
-
-<article>
+<section>
 <h2 id="comments">Comments</h2> 
 <p>If you have something to say, leave a comment, or <a href="/contact">contact me</a> ✉️ instead</p>
 {% include comments.html %}
-</article>
+</section>
