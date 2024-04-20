@@ -402,12 +402,18 @@ article.post, .post{
     padding: 0 .5rem;
 }
 
-.post-date, .post-author{
+.post-tags {
+    margin-left: auto;
+}
+
+.post-date, .post-author, .post-tags{
     flex-shrink: 0;
     font-size: small;
     color: var(--text);
     font-style: italic;
 }
+
+
 a.post .post-title {
     font-weight: bold;
     text-wrap: balance;
