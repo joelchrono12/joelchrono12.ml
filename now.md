@@ -6,7 +6,7 @@ description: "Here is what I'm up to right now"
 permalink: /now/
 ---
 
-**Last updated: April 6th, 2024**.
+**Last updated: April 20th, 2024**.
 
 Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
@@ -14,14 +14,12 @@ Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
 ## What I'm reading
 
-- {{ site.data.books[0].title }} by {{ site.data.books[0].author }}. Started: {{ site.data.books[0].start }}.
-- Monster by Urusawa Naoki, Manga
-- DanDaDan by Tatsu Yukinobu
+- The Mysterious Affair at Styles by Agatha Christie.
+- Monster by Urusawa Naoki.
 
 ## What I'm watching
 
-- How We Did The April Fool's Office Prank - The WAN Show
-- Recently watched Kung Fu Panda 4
+- [I Made Dune characters EXACTLY as described in the books...](https://www.youtube.com/watch?v=b3J6m4yrb9c)
 
 
 ## What I'm listening
@@ -30,8 +28,9 @@ Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 - Saying Goodbye to a Legend --- Trash Taste #196
 
 ## What I'm playing
-- Inside, the spiritual succesor to Limbo, which I finished earlier this year
-- Monster Hunter Rise Sunbreak, did my first attempt to hunt Magnamalo, utterly failed.
+- A Short Hike
+- Balatro
+- Worms W.M.D.
 
 ## What I'm enjoying
 
@@ -43,6 +42,6 @@ Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 ## What I'm working on
 
 - Trying to use a credit card responsibly
-- Balancing the urge to buy more Switch games while saving money for a car.
 - Doing commisions and trying not to procrastinate.
+- Balancing the urge to buy more Switch games while saving money for a car.
 - A final project I need to do got get my degree.

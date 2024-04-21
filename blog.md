@@ -43,7 +43,13 @@ This is reversed order, if you want to start from the beginning
     <h3 id="{{ month.name }}-{{year.name}}">{{ month.name }}</h3>
         <ul>
 {% for post in month.items  %}
-        <li><a class="post" href="{{ post.url }}"><span class="post-title">{{ post.title }}</span><span class="post-date"> {{ post.date | date: "%b %d" }}</span></a></li>
+        <li class="post">
+        <span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
+        <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
+        {% comment %}
+        <span class="post-tags"> {% for tag in post.tags %}<a href="/more/tags/{{ tag }}">{{ tag }} </a>{% endfor %}</span>
+        {% endcomment %}
+        </li>
 {% endfor %}
         </ul>
     </li>
