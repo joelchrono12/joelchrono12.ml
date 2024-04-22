@@ -1,7 +1,7 @@
 ---
 title: A Short Hike
 header: A Short Hike
-description: A neat little open world game with a simple goal and a lot of stuff to do in between 
+description: A neat little open world game with a simple, but worthwhile goal, and a lot of stuff to do in between.
 tags: gaming review
 permalink: /blog/a-short-hike/
 layout: post

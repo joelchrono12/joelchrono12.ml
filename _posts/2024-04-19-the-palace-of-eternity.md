@@ -1,7 +1,7 @@
 ---
 title: The Palace of Eternity
 header: The Palace of Eternity
-description: An interesting piece of science fiction that does a lot of things well, making it enjoyable for me despite some flaws
+description: An interesting piece of science fiction that does a lot of things well, making it enjoyable for me despite some flaws.
 tags: reading book review
 permalink: /blog/the-palace-of-eternity/
 layout: post

@@ -1,11 +1,11 @@
 ---
 title: My Home Screen (Early 2024)
 header: My Home Screen (Early 2024)
-description: I decided to write about what's on my phone's home screen, apps, shortcuts and things
+description: I decided to write about what's on my phone's home screen, apps, shortcuts and things.
 tags: android ricing
 permalink: /blog/my-home-screen-2024/
 layout: post
-date: 2024-04-15 21:26:45 -0600
+date: 2024-04-17 21:26:45 -0600
 host: fosstodon.org
 username: joel
 com_id: 112290186544237476
