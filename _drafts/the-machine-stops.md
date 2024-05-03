@@ -1,20 +1,4 @@
 
-## A Mysterious Affair at Styles
-
-I kind of wanted to go for a change of pace, and read something that is not Science Fiction. My friend [@amin](https://alpha.polymaths.social) had mentioned reading some of Agatha Christie's Poirot novels.
-
-I've read a couple of Doyle's Sherlock Holmes before so I kind of wanted to see what Agatha Christie had to offer for a change---I was also looking for another book to read along with [@isa](https://citrus.farm/@isa) after finishing Dune---so we settled for the first of the Poirot novels!
-
-This book was a bit confusing at first with the dozen or so characters that are presented during the beginning chapters. However, I quickly familiarized with them---I still mixed up some of the last names but I knew who was who. It is a simple story in theory. A rich lady with an inheritance, his two sons, a recently wed husband, some servants, a doctor, you know the drill.
-
-Honestly, this was very fun to read along someone else, after each chapter we each had our suspects and opinions on the cast, it was as entertaining as the novel itself every time a twist happened that changed our whole perspective on the events and the final reveal is just amazing.
-
-It is funny and well written, a definite page turner for me, I read the last four chapters altogheter because all the revelations and explanations were quite mind-boggling to me---also because isa kept reading ahead, so evil lol.
-
-I recently acquired _And Then There Were None_, considered to be Christie's best work because if this one amazed me, I can't help but wonder about what her best writing will be like. Yes, I have an e-reader but I couldn't help myself. Good stuff.
-
-I might resume my read of The Adventures of Sherlock Holmes, just to refresh myself and see the way both fictional detectives work, and have some more fun outside of the Science Fiction genre.
-
 
 ## The Machine Stops
 
