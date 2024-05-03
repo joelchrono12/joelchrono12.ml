@@ -2,7 +2,7 @@
 title: The Machine Stops
 header: The Machine Stops
 description: A short story I read on a whim, about a society where the Machine provides for all of Humanity's needs. Sounds familiar?
-tags: review book reading
+tags: review book reading tech internet thoughts
 permalink: /blog/the-machine-stops/
 layout: post
 date: 2024-05-03 08:00:14 -0600
