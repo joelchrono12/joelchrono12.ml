@@ -17,7 +17,7 @@ The Machine Stops, by E. M. Forster, was a fantastic short story that blew me aw
 
 It was published in 1909, and yet it contains one of the scariest, most accurate depictions of what a world dominated by reliance on technology could look like---and one might say, already looks like today.
 
-While Orwell's 1984---published in 1939--deals with a corrupt form of government using surveillance, rewriting history and in a state of constant war; the world in The Machine Stops is honestly kind of perfect---at least on paper.
+While Orwell's 1984---published in 1949--deals with a corrupt form of government using surveillance, rewriting history and in a state of constant war; the world in The Machine Stops is honestly kind of perfect---at least on paper.
 
 Humanity lives underground after the atmosphere is no longer inhabitable. There's an hexagonal room assigned for one person, and everyone gets to live in one, everything can be reached at the press of a button: food, music, films, literature, a bed. There is instant video communication, video conferencing, online shopping.
 
