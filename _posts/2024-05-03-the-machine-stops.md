@@ -17,6 +17,9 @@ The Machine Stops, by E. M. Forster, was a fantastic short story that blew me aw
 
 It was published in 1909, and yet it contains one of the scariest, most accurate depictions of what a world dominated by reliance on technology could look like---and one might say, already looks like today.
 
+The story is in the public domain, you can find a free copy of it [in Alice & Books' website](https://www.aliceandbooks.com/book/the-machine-stops/e-m-forster/699), the story can also be found in _The Eternal Moment, and other stories_ which is at [Project Gutenberg](https://gutenberg.org/ebooks/72890), I hope [Standard Ebooks](https://standardebooks.org/) does their own edition as well soon.
+
+
 While Orwell's 1984---published in 1949--deals with a corrupt form of government using surveillance, rewriting history and in a state of constant war; the world in The Machine Stops is honestly kind of perfect---at least on paper.
 
 Humanity lives underground after the atmosphere is no longer inhabitable. There's an hexagonal room assigned for one person, and everyone gets to live in one, everything can be reached at the press of a button: food, music, films, literature, a bed. There is instant video communication, video conferencing, online shopping.
@@ -30,6 +33,7 @@ Travelling is mostly unnecessary, but flying machines exist, although everyone c
 I don't usually talk so much about what a book contains, but this is just the idea and the setting, there is also a story to be told, despite it all being so short, there's still a lot more. It is an easy read to fly through in a single sitting. I highly recommend it.
 
 
+
 ## The Internet Dies
 
 Literally while writing the review, I stumbled upon _[Heat Death of The Internet](https://www.takahe.org.nz/heat-death-of-the-internet)_, an article that, if everyone had read this book---and taken it as a warning instead of an instruction manual---probably would not even need to exist, for the problems shown there are quite similar with what we are living today---the Machine is crumbling.
@@ -41,4 +45,4 @@ We are fed AI generated websites, removing all humanity and emotion from the inf
 Eventually, time passes, and we no longer resent the defects, getting used to the stinky atmosphere, getting used to the poor writing, getting used to the failing infrastructure, getting used to the darkness.
 
 This is day 35 of [#100DaysToOffload](https://100daystooffload.com) and post 3 of [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024).
-{% include reply.html %}
+
