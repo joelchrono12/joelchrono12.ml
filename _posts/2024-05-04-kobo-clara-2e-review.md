@@ -28,9 +28,9 @@ After registration, I decided to explore the regular Kobo interface for a bit. T
 
 In case you don't know, KOReader is a wonderful program that can be embedded into e-readers and a myriad of other devices. You can install it on you phone on F-Droid as well! But the lack of animations and scrolling can make it a bit tedious to use when compared to other offerings like Librera.
 
-Still, on my Kobo? It was wonderful. I installed it and it basically flies.
+Still, on my Kobo? It was wonderful. I installed it and it basically flies, I found a [one-click installation tutorial](https://www.mobileread.com/forums/showthread.php?t=314220) with some scripts that run on Linux and other systems just fine, I pretty much did nothing but mount it, run the script, leave it plugged for a couple minutes and everything took care of itself.
 
-It has a bunch of bells and whistles, but it is still rather minimal. I was able to customize a lot of things, such as my progress bar info, the gestures and tap shortcuts, and gain access to better stats and other great tools, such as SSH access and wireless book transfer with Calibre.
+KOReader has a bunch of bells and whistles, but it is still rather minimal. I was able to customize a lot of things, such as my progress bar info, the gestures and tap shortcuts, and gain access to better stats and other great tools, such as SSH access and wireless book transfer with Calibre.
 
 Another neat feature it has would be panel cropping support, for Manga or Comics, you can tap and hold on any panel and it will make the panel fill the screen, which I find much better than zooming in and out with gestures on Kobo's firmware.
 
