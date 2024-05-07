@@ -1,7 +1,7 @@
 ---
 title: What Interested Me Today 4
 header: What Interested Me Today 4
-description: Just another edition of this series. Random stuff I that stole more attention from me than usual.
+description: Just another edition of this series. Random stuff that stole more attention from me than usual.
 tags: ramble links internet gaming podcasts
 permalink: /blog/what-interested-me-today-4/
 layout: post
