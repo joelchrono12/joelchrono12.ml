@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-08 23:22:36 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112409505761724406
 ---
 
 My Miyoo Mini Plus is here and I already love it. Here are some bullet points:
