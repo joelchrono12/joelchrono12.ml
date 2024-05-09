@@ -6,10 +6,13 @@ tags: android tech lifestyle storytime
 permalink: /blog/the-smartphones-i've-owned-so-far/
 layout: post
 date: 2022-06-04 09:36:00 -0500
-host: benign.town
+updated: 2024-05-09 05:20:00 -0500
+host: fosstodon.org 
 username: joel
-com_id: 108430406507659867
+com_id: 112410951668050796
 ---
+
+*__Note__: Updated in May 9, 2024 to reflect my latest smartphone after Robb Knight [published his own article of this type](https://rknight.me/blog/every-phone-ive-ever-owned/)*
 
 My first post when I started this blog was about [Android launchers and customization](/blog/android-launchers/), and I talked a little bit about my history with smartphones and how much I liked to customize them and make them mine.
 
@@ -91,6 +94,13 @@ Its the phone where I've managed to go degoogled for the longest time (if you do
 
 I am still really happy with my current device, and I don't see myself switching at least for another year. For the future I am looking forward to getting a Google Pixel 6A or 7A, whatever is latest when I have to change. Or I might go with another chinese phone if they still have Snapdragon chips, since they have not been in the Redmi Note series for a while, as far as I've seen.
 
+## 2023
+
+{% include img.html alt="Poco F4" image="/assets/img/blogs/2022-06-05/pocof4.webp" caption="Poco F4" %}
+
+This is my current device! the first one I bought with my own money, which is pretty cool. I wrote some of my first impressions on it in [this post](https://joelchrono.xyz/blog/new-phone-experience/).
+
+I still love it!
 
 # Conclusions
 
@@ -98,5 +108,5 @@ There were other less important dumb phones I used too, but I didn't see the poi
 
 It has been fun to write all this, I was remembering stuff on the spot and many fun memories returned to me. It was quite a wordy post this time around, vacations seem to be going quite well.
 
-I hope more people try doing this, I got the idea from a post by [Ru](rusingh.com/), so maybe you'll be inspired too.
+I hope more people try doing this, I got the idea from a post by [Ru](https://rusingh.com/), so maybe you'll be inspired too.
 {% include reply.html %}
