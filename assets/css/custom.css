@@ -4,7 +4,7 @@
     --mono-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /*--sans-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;*/
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.2rem;
+    --base-fontsize: 1.4rem;
     /* Major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.2;
     /* Line height is set to the "Golden ratio" for optimal legibility */
@@ -126,7 +126,7 @@ hr{
 main {
     display: block;
     padding: 0 1rem;
-    max-width: 80ch;
+    max-width: 60rem;
     margin: 0 auto;
 }
 
