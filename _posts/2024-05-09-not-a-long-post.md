@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-09 20:53:20 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112414563342533882
 ---
 
 So, I have been writing a fairly requested blogpost featuring my top 25 favorite games. Originally I wanted to just use [Topsters](https://topsters.org/) to create an updated 5x5 square and maybe a list of names. But then I decided to just talk just a little bit about them and what are they about.
