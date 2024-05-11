@@ -1,6 +1,6 @@
 ---
-title: Fix Activity Tracker duplicates in Miyoo Mini Plus
-header: Fix Activity Tracker duplicates in Miyoo Mini Plus
+title: Fix Activity Tracker duplicates in Miyoo Mini Plus (Onion OS
+header: Fix Activity Tracker duplicates in Miyoo Mini Plus (Onion OS)
 description: So if you ever edit the name of your ROM files you might run into some problems in your Miyoo Mini's Activity Tracker App, here's how I fixed it!
 tags: tutorial emulation software linux
 permalink: /blog/fix-activity-tracker-duplicates-miyoo-mini-plus/
