@@ -48,7 +48,7 @@ He loaded up the game, and he was in a very weird place, built of bricks and sto
 
 It wasn't until 2012 or so, that the thought of installing this thing myself finally came to my mind. I don't remember much of this period of my childhood, Project 64's website was quite barebones, I recall installing version 1.6 again, simply because that's what I knew, newer versions existed already, but I kind of didn't like the new logo on their website. It looks like I saved myself some trouble by accident, since many new versions came bundled with malware back then. I was no computer geek back then, at the time I even used websites like Softonic to install programs so---feel free to shame 12 year old me in the comments.
 
-The website I found the ROMs on... I don't quite remember, it was definitely a website in Spanish, with links full of shorteners and ads left and right. Somehow I pushed past all that and got my hands in some nice ROMS, there were some in .n64 format, and others in z64 format. Regardless I didn't even know what a file format was anyway. Most of them worked fine: _Super Smash Bros_, _Majora's Mask_, _Ocarina of Time_, _Destruction Derby_, _Rampage_, _Bomberman 64_, and also _Paper Mario 64_! That last one was really fun, but it also crashed my computer at one important bit of the story---which was in English and I didn't really get---so I didn't stick to it. To this day I haven't played it, maybe soon.
+The website I found the ROMs on... I don't quite remember, it was definitely a website in Spanish, with links full of shorteners and ads left and right. Somehow I pushed past all that and got my hands in some nice ROMS, there were some in .n64 format, and others in z64 format. Regardless, I didn't even know what a file format was. Most of them worked fine: _Super Smash Bros_, _Majora's Mask_, _Ocarina of Time_, _Destruction Derby_, _Rampage_, _Bomberman 64_, and also _Paper Mario 64_! That last one was really fun, but it also crashed my computer at one important bit of the story---which was in English and I didn't really get---so I didn't stick to it. To this day I haven't played it, maybe soon.
 
 The rest of the games gave me many awesome moments and memories. I didn't play Zelda until much later because it still scared me, but I recall setting up a 3-player layout on a single keyboard! To play some Smash Bros with friends and race each other on Mario Kart 64.
 
@@ -61,6 +61,6 @@ My favorite character to fight as was Fox, and my favorite to race with was Yosh
 
 There are many other stories of mine regarding emulation, like the time I discovered Gameboy and SNES emulation, or the first time I installed one on my phone! But those stories are for another day---maybe even tomorrow to be honest.
 
-Please, feel free to share your story as well! How did you find out about emulation, I would love getting some emails about this.
+Please, feel free to share your story as well! How did you find out about emulation, I would love __[getting some emails about this]({{ site.url }}/contact/)__.
 
 This is day 42 of [#100DaysToOffload](https://100daystooffload.com) and post 10 of [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024)
