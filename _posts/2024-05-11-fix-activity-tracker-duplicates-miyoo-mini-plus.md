@@ -9,10 +9,13 @@ date: 2024-05-11 09:29:35 -0600
 host: fosstodon.org
 username: joel
 com_id: 112423858414354327
+image: "assets/img/blogs/2024-05-11-onion-os-activity-tracker-app.png"
 ---
 
 
-I have been having fun with my Miyoo Mini+ and one of my favorite features is its Activity Tracker app! However, I ran into an annoying problem since I got some duplicated entries, after I changed the ROM filename, or after I replaced the ROM with a patched one.
+I have been having fun with my Miyoo Mini Plus, and after installing Onion OS on it, I found its Activity Tracker app to be one of my favorites. However, I ran into an annoying problem since I got some duplicated entries, after I changed the ROM filename, or after I replaced the ROM with a patched one.
+
+{% include img.html image='/assets/img/blogs/2024-05-11-onion-os-activity-tracker-app.png' caption='The Activity Tracker app in Onion OS is great! But the duplicate entries...' %}
 
 The easiest way to fix this is to rename the ROM to the what it was before.[^1]
 
@@ -51,6 +54,6 @@ You can load up your SD card and you should see all your play time unified on a 
 
 So, I think this is pretty much it, I don't write as many tutorials since most of the time there are better ones out there and I would rather link to those, but I could not find any guidance on this problem, and I decided to write my own. I hope it is useful for you!
 
-[^1]: You should also change the filename of the savestates, and the save file itself, and the game cover if there is any.
+[^1]: You should also change the filename of the savestates, and the save file itself, and the game cover if there is any. Quite a chore, maybe I'll make some script for that one day.
 
 This is day 43 of [#100DaysToOffload](https://100daystooffload.com) and post 11 of [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024).
