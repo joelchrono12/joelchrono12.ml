@@ -8,8 +8,8 @@ layout: post
 date: 2024-05-10 16:17:57 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
-image: 'assets/img/blogs/2024-05-10-mario-kart-64-emulation-.png'
+com_id: 112419531684071574 
+image: 'assets/img/blogs/2024-05-10-mario-kart-emulation.webp'
 ---
 
 When I was a young boy we used to visit some family friends every once in a while, usually on Sunday after church, the adults had their conversations, and I was usually with my sister watching TV (Discovery Kids!), or probably being annoying to the younger member of that family.
