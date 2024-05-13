@@ -1,14 +1,14 @@
 ---
-title: Transferring PS1 save files to Miyoo Mini Plus
-header: Transferring PS1 save files to Miyoo Mini Plus
+title: Transferring PSP PS1 save files to Miyoo Mini Plus
+header: Transferring PSP PS1 save files to Miyoo Mini Plus
 description: How to turn the PS1 savefiles of games played on PSP, to a regular savefile usable in PS1 emulators and retro emulation devices like the Miyoo Mini Plus
 tags: emulation psp gaming tutorial linux
-permalink: /blog/transferring-ps1-savefiles-to-miyoo-mini-plus/
+permalink: /blog/transferring-psp-ps1-savefiles-to-miyoo-mini-plus/
 layout: post
 date: 2024-05-12 23:13:11 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112432222763935722
 ---
 
 Once again I'm here writing some quick notes on the adventures I had today setting up my Miyoo Mini Plus.
