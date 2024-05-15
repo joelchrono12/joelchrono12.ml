@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-13 22:40:05 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112437651399078557
 ---
 
 So during my adventures setting up my Miyoo Mini Plus, one of its most neat features has been its ability to connect to it via SSH and FTP, at least with Onion OS installed.
