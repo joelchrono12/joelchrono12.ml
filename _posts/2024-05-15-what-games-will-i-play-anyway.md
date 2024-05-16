@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-15 22:52:24 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112449139957805068
 image: '/assets/img/blogs/2024-05-15-my-top-4-games-according-to-the-activity-tracker-app.webp'
 ---
 
