@@ -25,7 +25,7 @@ _Final Fantasy VII_ is another I plan to continue on the device. Last time I pla
 
 _Suikoden II_ is a game I played for 9 hours or so on my PSP, and I plan to continue playing it as well! The game looks incredible, I really wish there were more games on the PS1 with such wonderful 2D graphics combined with 3D and high-res effects, it holds up perfectly to this day. I am also playing a patched version that has some nice QoL features and bugfixes, I hadn't experienced any to be honest, but it doesn't hurt to have it.
 
-Another games I want to resume are _Parasite Eve_, _Xenogears_, _Metroid Zero Mission_, _Fire Emblem_. And of course, start another run of _Chrono Trigger_, because I have to, it is my duty!
+Another games I want to resume are _Parasite Eve_, _Xenogears_, _Metroid Zero Mission_, _Fire Emblem_, and Pokemon, be it Crystal, Emerald or whatever. And of course, start another run of _Chrono Trigger_, because I have to, it is my duty!
 
 From then on, my plan is not really set yet. I think I've put a little too much choice in my hands now. I have been playing _Apotris_, a Tetris clone that has a really clean interface and playstyle, which makes it perfect for the MM+, I think I'll look for a demake of _Lumines_ as well, to have a couple of more puzzle games to play around.
 
