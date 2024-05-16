@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-14 22:57:53 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112443506821583161
 ---
 
 Look, if you want to make your custom game covers in an easy, fast way. This is not a blog for you, and if you want to do them on your own, this is also not for you.
