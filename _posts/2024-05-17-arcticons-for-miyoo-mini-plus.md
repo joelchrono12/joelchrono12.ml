@@ -13,27 +13,29 @@ image: 'assets/img/blogs/2024-05-17-a-screenshot-of-arcticons-in-the-miyoo-mini-
 
 ---
 
-I have contributed to the [Arcticons Icon Pack] for a while now, at this point more than 500 icons on it were designed by me. It truly has become my favorite icon pack of all time.
+I have contributed to the [Arcticons Icon Pack](https://github.com/Arcticons-Team/Arcticons) for a while now, at this point more than 500 icons on it were designed by me. It truly has become my favorite icon pack of all time.
 
 Because of this, after looking for some icons to put in my Miyoo Mini Plus, I decided to just make my own following the same style guidelines found in Arcticons.
 
 Simple lines, 1 px thick and dots at 1.5px if needed in a 48x48 grid. and the icon itself being no more than 44px wide or long, at most.
 
-That's pretty much all I do when designing icons for the project, and it works out well.
+That's pretty much all I do when designing icons for the project, and it works out well. Except when it doesn't, but Donno is there to help. 😉
 
-Earlier today I shared the first bits of progress [on my Mastodon profile](https://fosstodon.org/@joel/112456579661251554). I used the Silhouette White icon pack by Dreambrace to know the resolution and style the icons should follow.
+Earlier today I shared the first bits of progress [on my Mastodon profile](https://fosstodon.org/@joel/112456579661251554). I used the Silhouette White Icon Pack by Dreambrace to know the resolution and style the icons should follow. There's a repor with [the available icon packs for Onion-OS](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md) in case you're interested!
 
 {% include img.html image='/assets/img/blogs/2024-05-17-the-first-few-icons-in-action.png' caption='The first few icons in action' %}
 
-After sharing that progress, Donno, the creator and maintainer of Arcticons, allowed me to just make it all part of the project in another repo under the Arcticons-Team mantle! You can access the repo [here](https://github.com/Arcticons-Team/Arcticons-Miyoo).
+After sharing that progress, Donno, the creator and maintainer of Arcticons, allowed me to make it part of the project in a repository under the Arcticons-Team mantle! You can access the repo [here](https://github.com/Arcticons-Team/Arcticons-Miyoo).
 
 After getting back from work, I ended up doing a many more icons, but there is still quite a way to go! According to the website, there is a total of 55 icons in Onion OS. So we are a third of the way or so.
 
 {% include img.html image='/assets/img/blogs/2024-05-17-icon-pack-applied-on-my-miyoo-mini.png' caption='Icon pack applied on my Miyoo Mini' %}
 
-Since Inkscape, due to the document properties used by Arcticons---the 48 by 48 resolution---I had to generate the square-shaped PNG files, and then add some sort of empty space to fill the ideal resolution for the Miyoo Mini Plus of 120x130px.
+Arcticons are made inside of a of 48px square, so I had to generate the square-shaped PNG files, and then add empty space to fill the ideal resolution for the Miyoo Mini Plus of 120x130px. I used ImageMagick to generate a blank slate ot that size and then put the icon in the top center, whic worked out great.
 
-For that, I used this script, which can also be found in the repo:
+I'll admit I was a bit lazy and ended up using ChatGPT to generate a code to do this for me, I did some modifications to it but still, better to just be honest.
+
+
 
 ```bash
 #!/bin/bash
@@ -80,9 +82,8 @@ rm -v satella.svg sufami.svg segacd.svg
 echo "Conversion completed. Check the 'icons' directory for the PNG files."
 ```
 
-So yeah, that is quite a bit of work, during the following days I'll add more entries to the repo, and feel free to contribute as well if you want to.
-
+So yeah, that is going to be a bit of work, during the following days I'll add more entries to the repo, and feel free to contribute as well if you want to.
 
 {% include img.html image='/assets/img/blogs/2024-05-17-a-screenshot-of-arcticons-in-the-miyoo-mini-plus.png' caption='A screenshot of Arcticons in the Miyoo Mini Plus' %}
 
-This is day 48 of [#100DaysToOffload](https://100daystooffload.com), and post 16 for [#WeBlobPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024).
+This is day 48 of [#100DaysToOffload](https://100daystooffload.com), and post 16 for [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024).
