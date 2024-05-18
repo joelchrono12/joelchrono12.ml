@@ -6,7 +6,7 @@ tags: design art gaming
 permalink: /blog/arcticons-for-miyoo-mini-plus/
 layout: post
 date: 2024-05-17 22:48:15 -0600
-updated: 2024-05-18 07:40:15 -0600
+updated: 2024-05-18 07:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 112460486622936570
@@ -22,7 +22,7 @@ Simple lines, 1 px thick and dots at 1.5px if needed in a 48x48 grid. and the ic
 
 That's pretty much all I do when designing icons for the project, and it works out well. Except when it doesn't, but Donno is there to help. 😉
 
-Earlier today I shared the first bits of progress [on my Mastodon profile](https://fosstodon.org/@joel/112456579661251554). I used the Silhouette White Icon Pack by Dreambrace to know the resolution and style the icons should follow. There's a repor with [the available icon packs for Onion-OS](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md) in case you're interested!
+Earlier today I shared the first bits of progress [on my Mastodon profile](https://fosstodon.org/@joel/112456579661251554). I used the Silhouette White Icon Pack by Dreambrace to know the resolution and style the icons should follow. There's a repo with [the available icon packs for Onion-OS](https://github.com/OnionUI/Themes/blob/main/generated/icons_standalone/index.md) in case you're interested!
 
 {% include img.html image='/assets/img/blogs/2024-05-17-the-first-few-icons-in-action.webp' caption='The first few icons in action' %}
 
