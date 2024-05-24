@@ -6,9 +6,10 @@ tags: tech storytime thoughts
 permalink: /blog/early-computing-memories/
 layout: post
 date: 2024-05-21 22:27:03 -0600
+updated: 2024-05-23 22:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112482891481354283
 ---
 
 A few days ago I stumbled upon a post by Robb Knight sharing his origin story with Computing, I actually didn't read that post until I saw Kev's post on his computing history.
