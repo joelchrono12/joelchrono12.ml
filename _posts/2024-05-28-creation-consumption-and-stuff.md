@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-28 21:26:01 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112522380208275031
 ---
 
 One of the latest posts by Manuel Moreale is  [Consumption to Creation Ratio](https://manuelmoreale.com/consumption-to-creation-ratio), which was shared by some friends on my timeline and praised quite a bit, so I decided to read it, and I gotta say, I recommend it too!
