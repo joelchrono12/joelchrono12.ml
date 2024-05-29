@@ -39,6 +39,3 @@ I just want videos, videos and nothing else. Please.
 I will try to use Newpipe again, I don't know if I'll stick to it, but we will see.
 
 This is day 51 of [#100DaysToOffload](https://100daystooffload.com/), and post 19 for [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024).
-
-
-This is day of [#100DaysToOffload](https://100daystooffload.com)

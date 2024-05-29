@@ -20,7 +20,13 @@
     --text-light: #666666;
     --text: #333333;
 
+
 }
+
+/*@font-face { */
+    /*font-family: 'chrono'; */
+    /*src: url(chronotype/ChronoType.ttf);*/
+/*}*/
 @media (prefers-color-scheme: dark){
     :root{
     --bg: #1a1b26;
@@ -37,6 +43,7 @@
     --text:#a9b1d6;
     }
 }
+
 
 @media (prefers-color-scheme:light) {
 
@@ -96,8 +103,9 @@ p.description {
 }
 
 h1, h2, h3, h4, h5 {
+  /*font-family: 'chrono' !important;*/
   margin: 0 0 1.5rem;  
-  font-weight: 600;
+  font-weight: 400;
 }
 
 div h1, div h2 {
@@ -301,6 +309,7 @@ ul.posts, ul.posts ul{
 }
 
 header nav{
+    /*font-family: "chrono";*/
     display: flex;
     justify-content: center;
     text-align: center;
