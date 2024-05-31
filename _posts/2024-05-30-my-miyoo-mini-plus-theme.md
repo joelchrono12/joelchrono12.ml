@@ -8,7 +8,7 @@ layout: post
 date: 2024-05-30 19:46:19 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112533745609174891
 image: 'assets/img/blogs/2024-05-30-main-menu-screen.png'
 ---
 
