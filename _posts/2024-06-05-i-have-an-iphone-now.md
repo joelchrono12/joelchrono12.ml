@@ -6,6 +6,7 @@ tags: apple tech short
 permalink: /blog/i-have-an-iphone-now/
 layout: post
 date: 2024-06-05 21:42:57 -0600
+updated: 2024-06-05 22:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 112567655494738228
@@ -25,6 +26,6 @@ I have to say, if there's one thing I found charming about this device, it is th
 
 Also, just because I am barely allowed to install things on it and the like, doesn't mean I'm not going to customize it to whatever degree Apple will let me, I don't think I'll share it or anything since it will probably just be the same wallpaper I already have on my other phone, but still, just letting you know.
 
-Regardless, no need to worry dear reader, I'll still be using my trusty Android device for the time being.
+Regardless, no need to worry dear reader, I'll still be mainly using my trusty Android device, the Poco F4, for the time being.
 
 This is day 56 of [#100DaysToOffload](https://100daystooffload.com)
