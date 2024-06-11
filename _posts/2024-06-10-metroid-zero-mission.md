@@ -16,7 +16,7 @@ Metroid Zero Mission is one of my favorite games among the ones I've completed. 
 
 {% include img.html image='/assets/img/blogs/2024-06-10-metroid-zero-mission.png' caption='Metroid Zero Mission' %}
 
-I actually completed this before on my PSP years ago, and the playthrough I completed was a couple of hours in, when I got my Miyoo Mini Plus and transferred the save file to it!
+I actually completed this before on my PSP years ago, and I also started this playthrough on it, and had a couple of hours of progress, however, when I got my Miyoo Mini Plus, I also transferred my save file and kept going!
 
 The game holds up well to this well, but of course if you've played Metroid Dread or Samus Returns, you won't find the same movement and controls as those entries, first of all, the GBA does not have as many inputs as the Switch or the 3DS, not even an SNES, so some additions had to be made.
 
