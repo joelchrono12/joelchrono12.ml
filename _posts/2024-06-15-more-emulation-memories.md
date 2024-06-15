@@ -1,7 +1,7 @@
 ---
 title: More Emulation Memories
 header: More Emulation Memories
-description: The time I discovered emulation of more retro devices and the time I tried emulating them on my phone!
+description: The time I discovered emulation of more retro consoles and the time I tried emulating them on my phone!
 tags: emulation gaming storytime
 permalink: /blog/more-emulation-memories/
 layout: post
@@ -10,7 +10,7 @@ host: fosstodon.org
 username: joel
 com_id: 112621095640283403
 ---
-A few weeks ago I shared some stories about some of my first experiences with emulation, mainly related to Nintendo 64 emulation. 
+A few weeks ago I shared some stories about some of [my first experiences with emulation](/blog/first-contact-with-emulation/), mainly related to Nintendo 64 emulation. 
 
 At the time, I didn't even know you could emulate other systems, I guess I was simply too young and ignorant, and I didn't learn about other emulators until much later.
 
