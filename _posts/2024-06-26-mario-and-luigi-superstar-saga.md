@@ -16,7 +16,7 @@ Mario & Luigi Superstar Saga was one of the first games I discovered when I star
 
 {% include img.html image='/assets/img/blogs/2024-06-26-mario-and-luigi-superstar-saga.png' caption='Mario and Luigi Superstar Saga' %}
 
-Months ago I begun a new playthrough, since I think I lost my save file again, the farther I got to was the fight with the Piranha Plant at the Airport.
+Months ago I finally begun a new playthrough, since I think I lost my save file again, the farther I got to was the fight with the Piranha Plant at the Airport. This time, I started on my PSP and again, forgot about it, but after moving my save to the Miyoo Mini Plus, I thought it was time to finish it once and for all.
 
 In case you don't know. Mario & Luigi is an RPG series set in the Mario universe, in a similar style to Paper Mario and Super Mario RPG. Superstar Saga is the first game of the series and it was originally released on the Game Boy Advance in 2003---more than 20 years ago at this point.
 
