@@ -8,7 +8,7 @@ layout: post
 date: 2024-07-09 19:17:15 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112759908540328683
 image: 'assets/img/blogs/2024-07-09-metroid-fusion.png'
 ---
 
