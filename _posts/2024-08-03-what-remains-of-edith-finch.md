@@ -6,6 +6,7 @@ tags: gaming review
 permalink: /blog/what-remains-of-edith-finch/
 layout: post
 date: 2024-08-03 12:23:35 -0600
+updated: 2024-08-03 15:40:35 -0600
 host: fosstodon.org
 username: joel
 com_id: 112899561832049157
@@ -17,11 +18,11 @@ Sadly I didn't manage to end the game before the club meetings on Discord, but I
 
 I had no idea what I was getting myself into, and I was completely unaware of what it was about. By the title alone I thought it would be some sort of crime or detective story, and it kind of is, but it's much more than that.
 
-The gameplay itself is pretty much a first person walking simulator. You are on your way to your old home where you used to live as a child. The gameplay revolves around finding different items that will recreate the events behind a family memeber's passing. These events feature different gameplay styles and perspectives, in one of them you control an old camera you take pictures with, in another one you'll read a comic book and move around in it.
+The gameplay itself is pretty much a first person walking simulator. You are on your way to your old home where you used to live as a child. The gameplay revolves around finding different items that will recreate the events behind a family member's passing. These events feature different gameplay styles and perspectives, in one of them you control an old camera you take pictures with, in another one you'll read a comic book and move around in it.
 
 The game has wonderful writing, excellent voice acting and great music. The family house is quite big, and it was built with secret entrances and shortcuts that you discover throughout your journey, it's a rather cozy, yet creepy building that I enjoyed exploring. Each vignette or flashback is unique and creative, some are better than others, but they all have something special.
 
-There is quite a lot to think about while playing this game; family, melancholy, life. It feels like a complete work of art, an experience everyone should have.
+There is quite a lot to think about while playing this game; family, melancholy, life, and death. The game deals with these things and because of that, they may not be for someone dealing with loss or tragedy. It feels like a complete work of art, an experience everyone should have, at the right time.
 
 Somehow, I think I will return to this game, not because it's super fun or action packed, but it gives you time to think and reflect in a way few pieces of media do.
 
