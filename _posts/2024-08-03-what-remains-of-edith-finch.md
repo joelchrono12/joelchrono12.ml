@@ -8,7 +8,7 @@ layout: post
 date: 2024-08-03 12:23:35 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 112899561832049157
 ---
 
 This is a game I had seen on sale time and time again for my Switch, and I finally decided to give it a try after the [Dotzip podcast](https://dotzip.online/) showcased it on one of their episodes. It was also the game of the month in A Lowkey Video Game Club, so everything kind of fit.
