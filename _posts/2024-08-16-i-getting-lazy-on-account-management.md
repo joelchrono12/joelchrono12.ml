@@ -6,12 +6,13 @@ tags: security privacy foss
 permalink: /blog/getting-lazy-on-account-management/
 layout: post
 date: 2024-08-16 17:50:22 -0600
+updated: 2024-08-16 23:44:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 112974509593761763
 ---
 
-Years ago at this point in time, I used to be a bit of a security and privacy enthusiast. I like to thing I still follow many good practices and measures to live a good, responsible internet life. However, there are other many aspects of this where I kind of stopped caring.
+Years ago at this point in time, I used to be a bit of a security and privacy enthusiast. I like to think that I still follow many good practices and measures to live a good, responsible internet life. However, there are other many aspects of this where I kind of stopped caring.
 
 Don't get me wrong, I will still use different passwords and enable 2FA for 95% or so of the accounts and websites I use. But there are other things I stopped doing and while I know I should probably put more effort on them, I just haven't bothered.
 
