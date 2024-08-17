@@ -2,7 +2,7 @@
 title: Getting lazy on account management
 header: Getting lazy on account management
 description: Back in the day I was very much into security, privacy and such, but over time things tend to change and that is the case for my password vault...
-tags: security
+tags: security privacy foss
 permalink: /blog/getting-lazy-on-account-management/
 layout: post
 date: 2024-08-16 17:50:22 -0600
