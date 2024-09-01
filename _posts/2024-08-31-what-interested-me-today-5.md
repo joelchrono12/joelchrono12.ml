@@ -33,10 +33,10 @@ This video titled _[The City of Omashu - Remastering Avatar The Last Airbender](
 
 ## Readrops 2.0 beta finally out
 
-This release on F-Droid caught me by complete surprise, but [Readrops](https://github.com/readrops/Readrops/releases), my favorite RSS client with FreshRSS support, finally got an update after being silent since 2021. I am supper happy for this, although I had to delete my app data and login again for it to launch.
+This release on F-Droid caught me by complete surprise, but [Readrops](https://github.com/readrops/Readrops/releases), my favorite RSS reader with FreshRSS support, finally got an update after being silent since 2021. I am supper happy for this, although I had to delete my app data and login again for it to launch.
 
 ## Final thoughts
 
-The end is over! Tomorrow I'll be writing my summary, and there's a lot of interesting stuff, so you better be here tomorrow!
+The end is upon us! Tomorrow I'll be writing my summary, and there's a lot of interesting stuff, so you better be here tomorrow!
 
 This is day 67 of [#100DaysToOffload](https://100daystooffload.com)
