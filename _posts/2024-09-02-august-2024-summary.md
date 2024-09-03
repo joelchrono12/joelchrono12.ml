@@ -1,14 +1,15 @@
 ---
 title: August 2024 Summary
 header: August 2024 Summary
-description: What I did in August!
-tags: monthly movies podcasts gaming anime manga
+description: "What I did in August, from podcasts and manga, to binge-watching another anime and actually reading a book for once!"
+tags: monthly movies podcasts gaming anime manga reading
 permalink: /blog/august-2024-summary/
 layout: post
 date: 2024-09-02 23:00:58 -0600
+updated: 2024-09-03 05:55:00 -0600
 host: fosstodon.org
 username: joel
-com_id: 
+com_id: 113073502998576994
 ---
 
 # Monthly Summary August 2024
