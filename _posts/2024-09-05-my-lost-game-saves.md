@@ -1,8 +1,8 @@
 ---
 title: My lost game saves
 header: My lost game saves
-description: Across the multiple computers and devices I have played on, it is only natural that I have lost many playthroughs out of noweher
-tags: gaming
+description: Across the multiple computers and devices I have played on, it is only natural that I have lost many playthroughs out of nowhere
+tags: gaming storytime nostalgia
 permalink: /blog/my-lost-game-saves/
 layout: post
 date: 2024-09-05 17:04:22 -0600
