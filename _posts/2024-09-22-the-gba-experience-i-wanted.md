@@ -6,16 +6,18 @@ tags: gaming emulation
 permalink: /blog/the-gba-experience-i-wanted/
 layout: post
 date: 2024-09-22 14:14:26 -0600
+date: 2024-09-22 15:05:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 113183215698324868
+image: 'assets/img/blogs/2024-09-22-the-rg35xx-sp-in-all-its-glory--metroid-fusion-was-the-first-game-i-beat-on-it.webp'
 ---
 
 [I love the Miyoo Mini Plus](/blog/miyoo-mini-plus-review), it's a fantastic device with a lovely form factor based on the original Game Boy, shrinked down in size but still relatively comfortable to hold. Not only is it cute and adorable, but it doesn't sacrifice any of its functionality. It does what it wants to do wonderfully. This blogpost is about the console that replaced it for me just a month or so later, why?
 
 *It flips.*
 
-This is one of the things I was really looking for when I got into this retro handheld emulation bubble, I heard of things like the Retroid Flip---too expensive and flimsy---and I eventually found the Powkiddy V90---too cheap and weak---that were going for a clamshell design like the Game Boy Advane SP.
+This is one of the things I was really looking for when I got into this retro handheld emulation bubble, I heard of things like the Retroid Flip---too expensive and flimsy---and I eventually found the Powkiddy V90---too cheap and weak---that were going for a clamshell design like the Game Boy Advance SP.
 
 None of these options were exactly what I wanted, there were rumors and leaks of an upcoming device by Miyoo, and some promising pictures are out there at this point, but it had a weird analog stick in it, and there are still no news or release date announcements. However, Anbernic had its own plans.
 
@@ -57,6 +59,8 @@ It has quite a bit of features, such as
 Honestly, it can do pretty much everything OnionOS does, _except_ for the quick game switching. However, theere is a history section which can work as a replacement. It still lacks a bunch of features such as Bluetooth functionality, Activity Tracking and a few others, but the essentials work really well.
 
 The device can emulate up to PS1 with power to spare, and can run some Dreamcast, Nintendo 64 and PSP, but the performance is not the best.
+
+{% include img.html image='/assets/img/blogs/2024-09-22-the-rg35xx-sp-in-all-its-glory--metroid-fusion-was-the-first-game-i-beat-on-it.png' caption='The RG35XX SP in all its glory, Metroid Fusion was the first game I beat on it' %}
 
 ## Finishing thoughts
 
