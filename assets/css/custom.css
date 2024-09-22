@@ -435,6 +435,7 @@ a.post:hover{
 
 aside, details, progress {
   background-color: var(--accent-bg);
+  border: 2px solid var(--code);
   /*border-radius: 12px;*/
   margin-bottom: 1rem;
 }
@@ -574,6 +575,7 @@ gap: 1rem;
     background-color: var(--code-bg);
     padding: 1rem;
     /*border-radius: 12px;*/
+    border: 2px solid var(--code);
     margin: 0;
     flex: 1 1 22ch;
 }
