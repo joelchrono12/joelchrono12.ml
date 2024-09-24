@@ -1,5 +1,23 @@
+<style>
+.notice::before {
+  content: "REPLY";
+  color: var(--bg);
+  background: var(--border);
+  width: 10rem;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  left: 1.5rem;
+  top: 1.5rem;
+  padding: 2px 10px;
+  font-weight: bold;
+
+}
+</style>
+<div class="notice">
 <article class="post_embed">
-  <h2>{{ include.title }}</h2>
-  <p><i>{{ include.description }}</i></p>
-  <p><a href="include.url">Read the Full Post</a> by <a href="{{ include.author_url }}">{{ include.author }}</a> on <a href="{{ include.url }}">{{ include.site }}</a></p>
+	<h2>{{ include.title }}</h2>
+	<p><i>{{ include.description }}</i></p>
+	<p><a href="{{ include.url }}">Read the Full Post</a> by <a href="{{ include.author_url }}">{{ include.author }}</a> on <a href="{{ include.site_url }}">{{ include.site }}</a></p>
 </article>
+</div>

@@ -1,6 +1,6 @@
 ---
-title: Apple vs Android on Security and Features
-header: Apple vs Android on Security and Features
+title: "Re: Apple vs Android on Security and Features"
+header: "Re: Apple vs Android on Security and Features"
 description: This post by Kyle triggered me a little bit, so I wrote a response with my opinion on the matter
 tags: android apple opinion tech rant
 permalink: /blog/apple-android-security-and-features/
@@ -13,6 +13,7 @@ com_id: 112018674909327064
 
 {% include post_embed.html
 url='https://blog.allthingstech.social/apple-vs-android-why-apple-is-the-clear-winner-in-security-and-features/'
+site_url='https://blog.allthingstech.social/'
 title="Apple vs Android: Why Apple is the Clear Winner in Security and Features" 
 author='Kyle'
 author_url='https://allthingstech.social/@beardedtechguy' 
