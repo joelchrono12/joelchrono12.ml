@@ -3,6 +3,7 @@ title: I finally got it
 header: I finally got it
 description: The first post on this little blog.
 permalink: /blog/i-got-it/
+date: 2021-02-05
 redirect_from: 
   - /i-got-it/
 layout: post

@@ -5,6 +5,7 @@ tags: android ricing
 description: A bit of rambling talking about android customization and my favorite launchers
 permalink: /blog/android-launchers/
 layout: post
+date: 2021-02-05
 com_id: 105680459678439499
 host: fosstodon.org
 username: joeligj12

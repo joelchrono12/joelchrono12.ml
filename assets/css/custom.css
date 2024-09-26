@@ -413,7 +413,7 @@ article.post, .post{
     margin-left: auto;
 }
 
-.post-date, .post-author, .post-tags{
+.post-date, .post-author{
     flex-shrink: 0;
     font-size: small;
     color: var(--text);

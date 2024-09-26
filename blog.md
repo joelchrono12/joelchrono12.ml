@@ -45,10 +45,14 @@ This is reversed order, if you want to start from the beginning
 {% for post in month.items  %}
         <li class="post">
         <span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
-        <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
         {% comment %}
-        <span class="post-tags"> {% for tag in post.tags %}<a href="/more/tags/{{ tag }}">{{ tag }} </a>{% endfor %}</span>
+        <span class="post-tags">
+        {% if post.tags contains "book" %}
+        <a href="/more/tags/book">📖</a>
+        {% endif %}
+        </span>
         {% endcomment %}
+        <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
         </li>
 {% endfor %}
         </ul>
