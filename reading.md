@@ -71,6 +71,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
   .title {
     font-weight: bold;
+    line-height: 1.3;
   }
 
   .artist {
