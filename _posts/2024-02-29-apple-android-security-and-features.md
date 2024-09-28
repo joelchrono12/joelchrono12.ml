@@ -2,7 +2,7 @@
 title: "Re: Apple vs Android on Security and Features"
 header: "Re: Apple vs Android on Security and Features"
 description: This post by Kyle triggered me a little bit, so I wrote a response with my opinion on the matter
-tags: android apple opinion tech rant
+tags: android apple opinion tech rant response
 permalink: /blog/apple-android-security-and-features/
 layout: post
 date: 2024-02-29 21:47:46 -0600

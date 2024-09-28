@@ -2,7 +2,7 @@
 title: Middle school, friends and bullies
 header: Middle school, friends and bullies
 description: Remembering my middle school days and reflecting about my non-experience with bullying.
-tags: storytime school personal nostalgia thoughts
+tags: storytime school personal nostalgia thoughts response
 permalink: /blog/middle-school-bullies-and-friends/
 layout: post
 date: 2024-09-23 18:39:12 -0600

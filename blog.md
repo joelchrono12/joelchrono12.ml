@@ -38,26 +38,38 @@ This is reversed order, if you want to start from the beginning
 <h2>{{ year.name }}'s posts</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 <ul class="posts">
-{% for month in postsByMonth %}
+    {% for month in postsByMonth %}
     <li>
     <h3 id="{{ month.name }}-{{year.name}}">{{ month.name }}</h3>
         <ul>
-{% for post in month.items  %}
+        {% for post in month.items  %}
         <li class="post">
         <span class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></span>
-        {% comment %}
         <span class="post-tags">
         {% if post.tags contains "book" %}
         <a href="/more/tags/book">📖</a>
         {% endif %}
+        {% if post.tags contains "response" %}
+        <a href="/more/tags/response">💬</a>
+        {% endif %}
         </span>
-        {% endcomment %}
         <span class="post-date"> {{ post.date | date: "%b %d" }}</span>
         </li>
-{% endfor %}
+        {% endfor %}
         </ul>
     </li>
-{% endfor %}
+    {% endfor %}
 </ul>
 </article>
 {% endfor %}
+
+{% comment %}
+{% for year in postsByYear %}
+{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+{% for month in postsByMonth %}
+{% for post in month.items  %}
+<!--<p>{{ post.date | date: '%Y-%m-%d' }}</p>-->
+{% endfor %}
+{% endfor %}
+{% endfor %}
+{% endcomment %}

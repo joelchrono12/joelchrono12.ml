@@ -2,7 +2,7 @@
 title: On feeling like an Impostor
 header: On feeling like an Impostor
 description: This is a post that is way overdue, my personal experience with feeling like I am not good enough, self-doubt and the so-called Impostor Syndrome.
-tags: personal ramble
+tags: personal ramble response opinion
 permalink: /blog/on-feeling-like-an-impostor/
 layout: post
 date: 2022-06-03 21:22:00 -0500
@@ -11,7 +11,18 @@ username: kev
 com_id: 108418291068049756
 ---
 
-More than a month ago, Kev Quirk, one of the admins of Fosstodon, wrote a blogpost about [how he doesn't think he is an expert at anything](https://kevq.uk/the-expert-vs-the-impostor/). I read it and replied with:
+{% include post_embed.html
+title="The Expert vs the Impostor"
+author="Kev Quirk"
+author_url="https://fosstodon.org/@kev"
+url="https://kevquirk.com/blog/the-expert-vs-the-impostor"
+site_url="https://kevquirk.com"
+site="KevQuirk.com"
+description="I’m about to start a new job. It’s a promotion, but my imposter syndrome is running wild. Let’s talk about the expert versus the impostors.
+So tomorrow..."
+%}
+
+More than a month ago, Kev Quirk, one of the admins of Fosstodon, wrote about how he doesn't think he is an expert at anything. I read it and replied with:
 
 > I have a kinda similar problem, in a much smaller scale, I feel like writing a blog so I might do that sometime this week.
 >

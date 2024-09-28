@@ -17,11 +17,11 @@ I split this section between desktop (mostly Free Software and available on Linu
 
 ### Desktop
 
-- [Void Linux](https://voidlinux.org/), a unique distro that is not a fork, its super light, fast and customizable.
+- [Void Linux](https://voidlinux.org/): A unique distro that is not a fork, its super light, fast and customizable.
 - [Neovim](https://neovim.io/): A terminal text editor where I write my blogs, edit files and scripts.
 - [Alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
-- [DWM](https://awesomewm.org/): a lightweight tiling window manager, quite patched up to fit my taste.
-- [Firefox](https://firefox.com) is my main browser.
+- [DWM](https://awesomewm.org/): A lightweight tiling window manager, quite patched up to fit my taste.
+- [Firefox](https://firefox.com) This is my main browser.
 - [Neomutt](https://neomutt.org): A terminal based e-mail client.
 - [KeepassXC](https://keepassxc.org): Offline password manager.
 - [Newsboat](https://newsboat.org/): A minimal RSS reader with a terminal interface
@@ -48,7 +48,7 @@ I split this section between desktop (mostly Free Software and available on Linu
 ## Cross-platform software
 
 - [ActivityWatch](https://activitywatch.net): A great tool to keep track of your desktop and android usage
-- [KDEConnect](https://kdeconnect.kde.org/): Great tool to connect my phone and computer.
+- ~~[KDEConnect](https://kdeconnect.kde.org/): Great tool to connect my phone and computer.~~
 - [Syncthing](https://syncthing.org): Sync files accross multiple devices.
 - [GNU Image Manipulator Program](https://gimp.org/): An image editor similar to Photoshop.
 - [Element](https://element.io): The only Matrix client that it's worth using.
@@ -58,8 +58,8 @@ I split this section between desktop (mostly Free Software and available on Linu
 
 - [DietPi](https://dietpi.com): the current distro on my Raspberry Pi that houses my services.
 - [FreshRSS](https://freshrss.org): My RSS reader of choice, Newsboat supports it as backend too.
-- [Jellyfin](https://jellyfin.org) A pretty good media management server.
-- [Nextcloud](https://nextcloud.com): A self-hosted cloud with a lot of extensions too, like syncing my podcasts and such.
+- ~~[Jellyfin](https://jellyfin.org) A pretty good media management server.~~
+- ~~[Nextcloud](https://nextcloud.com): A self-hosted cloud with a lot of extensions too, like syncing my podcasts and such.~~
 <!--- [The Lounge](https://thelounge.chat/): IRC web client that stays online, so it keeps the chat history and the like.-->
 <!--- [Komga](https://komga.org): A media server with a focus on Manga and comics.-->
 
@@ -86,19 +86,19 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 
 </article>
 
-<!--# Previously used-->
+# Unused but good
 
-<!--I decided to make this section to mention software that I no longer use but might work for you.-->
-<!--- [Godot](https://godotengine.org): Easy to learn yet advanced Game engine, [check the games I've made!](https://joelchrono12.itch.io/)-->
-<!--- [Qutebrowser](https://qutebrowser.org): Minimal-keyboard driven browser based on QtWebEngine. I no longer use it because of the lack of ad blocking.-->
-<!--- [Endeavour OS](https://endeavouros.com): A simple arch based distro that is easy to install, it comes with the benefits and drawbacks of the Arch way, I just got a bit bored of it.-->
-<!--- [Fedora](https://endeavouros.com): A great stable distro that I used for quite a while, served me well.-->
-<!--- [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): Firefox fork without Mozilla's tracking.-->
-<!--- [IceRaven](https://github.com/fork-maintainers/iceraven-browser): A Firefox mobile fork with more extensions and features.-->
-<!--- [Material Files](https://github.com/zhanghai/MaterialFiles): File manager-->
-<!--- [Yuito](https://github.com/accelforce/Yuito): A Mastodon client based on [Tusky](https://tusky.app/) which a few nice additions. -->
-<!--- [F-Droid](https://f-droid.org): A FOSS only app store.-->
-<!--- [Thunderbird](https://www.thunderbird.net): A really powerful desktop email client by Mozilla.-->
-<!--- [Awesome](https://awesomewm.org/): a lightweight tiling window manager with great customization.-->
+I decided to make this section to mention software that I no longer use but might work for you.
+- [Godot](https://godotengine.org): Easy to learn yet advanced Game engine, [check the games I've made!](https://joelchrono12.itch.io/)
+- [Qutebrowser](https://qutebrowser.org): Minimal-keyboard driven browser based on QtWebEngine. I no longer use it because of the lack of ad blocking.
+- [Endeavour OS](https://endeavouros.com): A simple arch based distro that is easy to install, it comes with the benefits and drawbacks of the Arch way, I just got a bit bored of it.
+- [Fedora](https://endeavouros.com): A great stable distro that I used for quite a while, served me well.
+- [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): Firefox fork without Mozilla's tracking.
+- [IceRaven](https://github.com/fork-maintainers/iceraven-browser): A Firefox mobile fork with more extensions and features.
+- [Material Files](https://github.com/zhanghai/MaterialFiles): File manager
+- [Yuito](https://github.com/accelforce/Yuito): A Mastodon client based on [Tusky](https://tusky.app/) which a few nice additions. 
+- [F-Droid](https://f-droid.org): A FOSS only app store.
+- [Thunderbird](https://www.thunderbird.net): A really powerful desktop email client by Mozilla.
+- [AwesomeWM](https://awesomewm.org/): a lightweight tiling window manager with great customization.
 
 

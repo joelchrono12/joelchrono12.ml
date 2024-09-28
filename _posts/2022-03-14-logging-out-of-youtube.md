@@ -6,12 +6,13 @@ tags: lifestyle detox degoogle
 permalink: /blog/logging-out-of-youtube/
 layout: post
 date: 2022-03-14 22:03:00 -0600
+updated: 2024-09-28 16:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 107960637147275526
 ---
 
-Ever since I read yet another post by [Edel](https://fosstodon.org/@edel) about how she has watched [less YouTube videos over time](https://erzadel.net/why-ive-been-watching-less-youtube-videos/) I too wanted to put some thought into my usage of the service.
+Ever since I read yet another post by [Edel](https://fosstodon.org/@edel) about how she has watched [less YouTube videos over time](https://web.archive.org/web/20220520002922/https://erzadel.net/why-ive-been-watching-less-youtube-videos/) I too wanted to put some thought into my usage of the service.
 
 I have not watched as many videos lately, because I have been reading books and manga quite a lot, and I recently entered my community service at University (basically I work for them for free). But I still decided to take some action to reduce my temptation to lose myself into YouTube rabbit holes, since I know that even if its not a problem now, it is bound to happen in the future, as it has happened many times, despite my previous efforts.
 

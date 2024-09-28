@@ -11,12 +11,12 @@ layout: default
 
 
 - __[Blogroll](/more/blogroll)__: A list of blogs I follow and I recommend you to check out. Not all of them maybe of your liking, but they're of mine.
-- __[Uses](/more/uses)__: The software, hardware and other tools I use in my life. Be it for work or hobbies, everything's here.
 - __[Tags](/more/tags)__: See all the tags I use for my blogposts, alongside their RSS feeds!
-- __[Origami](/more/origami)__: I like origami, and I share pictures sometimes, here is a collection of them.
-- __[Booklog](/more/booklog/)__: Books I've read. Check [my Bookwyrm account](https://bookrastinating.com/user/joel) for faster updates.
-- __[Projects](/more/projects)__: Games and projects I've made for fun.
 - __[Statistics](/more/stats)__: Fun statistics about my blog.
+- __[Booklog](/more/booklog/)__: Books I've read. Check [my Bookwyrm account](https://bookrastinating.com/user/joel) for faster updates.
+- __[Uses](/more/uses)__: The software, hardware and other tools I use in my life. Be it for work or hobbies, everything's here.
+- __[Projects](/more/projects)__: Games and projects I've made for fun.
+- __[Origami](/more/origami)__: I like origami, and I share pictures sometimes, here is a collection of them.
 </article>
 
 <article markdown="1">
