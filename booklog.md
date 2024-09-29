@@ -86,9 +86,13 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
   .dates {
     font-size: small;
-    /*white-space: pre-line;*/
+    white-space: pre-line;
+    margin: 0;
     overflow: visible;
   }
+   .info {
+    line-height: 1.5;
+   }
 
   @media screen and (max-width: 600px) {
     .book-cover-container {
@@ -109,18 +113,19 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     justify-content: right;
     }
     .dates {
-    display: inline;
+    display: inline-block;
     }
   }
 
 progress::-moz-progress-bar { background: var(--border); }
 progress::-webkit-progress-value { background: var(--border); }
 progress {
-    color: var(--border);
     height: 12px;
     width: 80%;
     border: solid 2px var(--border);
+    accent-color: var(--border);
     background-color: var(--bg);
+    margin-bottom: 0;
 }
 </style>
 
@@ -140,10 +145,7 @@ progress {
       <div class="artist">by {{ item.author }}</div>
       <div class="dates">Started: {{ item.start }}</div>
       {% if item.progress < 100 %}
-      <div class="dates">
-      <label for="file">Progress: {{ item.progress }}%</label>
-      <progress id="file" value="{{ item.progress }}" max="100">{{ item.progress }}%</progress>
-      </div>
+      <p class="dates"><label for="file">Progress: {{ item.progress }}%</label><progress id="file" value="{{ item.progress }}" max="100"/></p>
       {% else %}
       <div class="dates">Finished: {{ item.end }}</div>
       {% endif %}

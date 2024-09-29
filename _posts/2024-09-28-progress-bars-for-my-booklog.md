@@ -4,10 +4,10 @@ header: Progress bars for my Booklog!
 description: Just a small change that I wanted to make to my booklog section on my website to keep track of my reading progress!
 tags: jekyll webdev tutorial design
 permalink: /blog/progress-bars-for-my-booklog/
-redirect-from: /blog/progress-bars-for-my-booklog-/
+redirect_from: /blog/progress-bars-for-my-booklog-/
 layout: post
 date: 2024-09-28 21:56:08 -0600
-updated: 2024-09-28 22:40:00 -0600
+updated: 2024-09-29 09:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 113218921176017218
