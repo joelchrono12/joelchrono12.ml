@@ -26,7 +26,12 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     <tr>
       <td><i>{{ item.title }}</i> by {{ item.author }}</td>
       <td>{{ item.start }}</td>
+      {% if item.end == "In progress" %}
+      <label for="file">Downloading progress:</label>
+      <progress id="file" value="8" max="100">8%</progress>
+      {% else %}
       <td>{{ item.end }}</td>
+      {% endif %}
     </tr>
 {% endfor %}
   </tbody>
@@ -43,16 +48,17 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
   .book-cover-container {
     background-color: var(--code-bg);
-    border-radius: 12px;
+    /*border-radius: 12px;*/
     display: flex;
     flex: 1 1 290px;
     flex-direction: row;
+    border: solid 2px var(--code);
   }
 
   .book-cover {
     background-size: cover;
     background-position: center;
-    border-radius: 12px;
+    /*border-radius: 12px;*/
     overflow: hidden;
     position: relative;
     text-align: center;
@@ -80,7 +86,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
   .dates {
     font-size: small;
-    white-space: pre-line;
+    /*white-space: pre-line;*/
     overflow: visible;
   }
 
@@ -106,6 +112,16 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     display: inline;
     }
   }
+
+progress::-moz-progress-bar { background: var(--border); }
+progress::-webkit-progress-value { background: var(--border); }
+progress {
+    color: var(--border);
+    height: 12px;
+    width: 80%;
+    border: solid 2px var(--border);
+    background-color: var(--bg);
+}
 </style>
 
 {% if site.data.books %}
@@ -123,7 +139,14 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
       <div class="title"><i>{{ item.title }}</i></div>
       <div class="artist">by {{ item.author }}</div>
       <div class="dates">Started: {{ item.start }}</div>
+      {% if item.progress < 100 %}
+      <div class="dates">
+      <label for="file">Progress: {{ item.progress }}%</label>
+      <progress id="file" value="{{ item.progress }}" max="100">{{ item.progress }}%</progress>
+      </div>
+      {% else %}
       <div class="dates">Finished: {{ item.end }}</div>
+      {% endif %}
       </div>
       </div>
       </div>
@@ -131,12 +154,6 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
   </div>
   {% endfor %}
 {% endif %}
-
-
-
-
-
-
 
 ## Books I read at some point
 
