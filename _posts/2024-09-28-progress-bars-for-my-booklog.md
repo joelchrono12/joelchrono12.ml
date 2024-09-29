@@ -3,9 +3,11 @@ title: Progress bars for my Booklog!
 header: Progress bars for my Booklog!
 description: Just a small change that I wanted to make to my booklog section on my website to keep track of my reading progress!
 tags: jekyll webdev tutorial design
-permalink: /blog/progress-bars-for-my-booklog-/
+permalink: /blog/progress-bars-for-my-booklog/
+redirect-from: /blog/progress-bars-for-my-booklog-/
 layout: post
 date: 2024-09-28 21:56:08 -0600
+updated: 2024-09-28 22:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 113218921176017218
@@ -69,6 +71,43 @@ progress.css {
 <label class=css for="book-progress">Book Progress:</label>
 <progress class=css id="book-progress" max="100" value="70">70%</progress>
 
-Once again, you can see the whole thing in action on [my booklog](/booklog). Now I just have to remember to update it often!
+Here's the complete liquid syntax for my booklog section! The complete file including the CSS styling can be found [on my GitHub repo](https://github.com/joelchrono12/joelchrono12.ml/blob/main/booklog.md).
+
+{% raw %}
+```html
+{% if site.data.books %}
+  {% assign books_by_year = site.data.books | sort: 'end' | group_by_exp: "item", "item.end | date: '%Y'" %}
+  {% for year_group in books_by_year reversed %}
+  <h3>{{ year_group.name }}</h3>
+  <div class="responsive-grid">
+  {% for item in year_group.items reversed %}
+  <div class="book-cover-container">
+  <div class="book-cover">
+  <img class="book-cover" src="{{ item.cover }}">
+  </div>
+  <div class="content">
+      <div class="info">
+      <div class="title"><i>{{ item.title }}</i></div>
+      <div class="artist">by {{ item.author }}</div>
+      <div class="dates">Started: {{ item.start }}</div>
+      {% if item.progress < 100 %}
+      <div class="dates">
+      <label for="file">Progress: {{ item.progress }}%</label>
+      <progress id="file" value="{{ item.progress }}" max="100">{{ item.progress }}%</progress>
+      </div>
+      {% else %}
+      <div class="dates">Finished: {{ item.end }}</div>
+      {% endif %}
+      </div>
+      </div>
+      </div>
+          {% endfor %}
+  </div>
+  {% endfor %}
+{% endif %}
+```
+{% endraw %}
+
+Once again, you can see the whole thing in action on [my booklog](/booklog). Now I just have to remember to update it often! 
 
 This is day 76 of [#100DaysToOffload](https://100daystooffload.com)
