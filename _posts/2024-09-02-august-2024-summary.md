@@ -12,8 +12,6 @@ username: joel
 com_id: 113073502998576994
 ---
 
-# Monthly Summary August 2024
-
 Here's what I did this month!
 
 ## Podcasts
