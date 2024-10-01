@@ -31,7 +31,7 @@ I only listened to 69 hours of podcasts this month, compared to 96 in august, qu
 ## Movies
 
 - **JuJutsu Kaisen 0** was a requisite before going into season 2, and boy am I happy to have seen it, it is a prequel to everything going on during the anime show, but the backstory is quite awesome! Great action sequences and fun anime moments, and an epic setup for things to come in the series.
-- **Officer Black Belt** is a korean action film about a martial artist who fights against predators and abusers, becoming a martial arts officer. The film tackes some serious issues, and it's one you can't judge by its horrible cover on Netflix, it has a weird tone and comedy sometimes, but the action is genuinely great and kept me etertained for a bit.
+- **Officer Black Belt** is a korean action film about a martial artist who fights against predators and abusers, becoming a martial arts officer. The film tackes some serious issues, and it's one you can't judge by its horrible cover on Netflix, it has a weird tone and comedy sometimes, but the action is genuinely great and kept me entertained for a bit.
 
 ## Books
 
