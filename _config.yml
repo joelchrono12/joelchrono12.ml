@@ -20,7 +20,7 @@ timezone: "America/Mexico_City"
 #
 highlighter: rouge
 markdown: kramdown
-permalink: /blog/:year-:month-:day-:title
+permalink: /blog/:year-:month-:day-:title/
 kramdown:
   input: GFM
 whitelist:
