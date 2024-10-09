@@ -3,7 +3,7 @@ title: Physical game collecting spree
 header: Physical game collecting spree
 description: I think I have gone a bit overboard with my obsession with physical games lately and I don't really want to stop
 tags: gaming ramble
-permalink: /blog/physical-game-collecting-spree/
+redirect_from: /blog/physical-game-collecting-spree/
 layout: post
 date: 2024-09-24 20:05:18 -0600
 updated: 2024-09-24 20:50:18 -0600
