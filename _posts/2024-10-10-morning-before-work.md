@@ -5,6 +5,9 @@ date: 2024-10-10 08:00:00 -0600
 description: I just arrived to my bus to work, and decided to write about how my morning started today 
 title: 'A morning before work'
 header: 'A morning before work'
+host: fosstodon.org
+username: joel
+com_id: 113283611069571371
 ---
 
 Every morning I wake up, give thanks for a new day, and get ready for work—unless it's a weekend of course.
