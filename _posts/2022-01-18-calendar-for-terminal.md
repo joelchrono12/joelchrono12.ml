@@ -6,6 +6,7 @@ tags: linux productivity short
 permalink: /blog/calendar-for-terminal/
 layout: post
 date: 2022-01-18 11:35:00 -0600
+updated: 2024-10-10 23:25:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 107644701031846887
@@ -13,7 +14,7 @@ com_id: 107644701031846887
 
 I was checking out my email today using neomutt, which I've been trying for a few days, and I stumbled upon some people I've talked to that are part of the Fosstodon or the Fediverse in general.
 
-From there, I went ahead and checked out some posts and blogs written by them in my RSS reader, and I stumbled upon and article by Hyde (aka Lazybear) titled [Calendars and Terminal](https://lazybear.io/posts/calendars-and-terminals/), which really got my attention. It talks about `khal` and `vdirsyncer`, a couple of tools that can be used to access my calendars from any CalDAV server, such as my Nextcloud instance, right from my terminal.
+From there, I went ahead and checked out some posts and blogs written by them in my RSS reader, and I stumbled upon and article by Hyde (aka Lazybear) titled [Calendars and Terminal](https://lazybea.rs/posts/calendars-and-terminals/), which really got my attention. It talks about `khal` and `vdirsyncer`, a couple of tools that can be used to access my calendars from any CalDAV server, such as my Nextcloud instance, right from my terminal.
 
 I ended up trying it out, and it wasn't half bad! I basically just followed his tutorial, but I also found a similar post by Hund which shows also [how to manage and sync contacts](https://hund.tty1.se/2020/08/12/how-to-sync-and-manage-your-caldav-and-carddav-via-the-terminal.html) with the same tool.
 

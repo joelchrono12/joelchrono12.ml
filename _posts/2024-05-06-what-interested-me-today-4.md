@@ -29,7 +29,7 @@ This series has been my happy place for the last couple of days. I always love m
 
 I've mentioned this podcast in the latest monthly summary. This podcast is really winning me over quite a lot, and there's a huge backlog to catch up on! So far, the Titanic series was great, and I am currently listening to their series on Lord Byron, some random guy who was kind of a big deal back in the day, and had quite the strange life, still not done with it, but it's great.
 
-## [XKCD on the Remarkable 2](https://lazybear.io/posts/xkcd-on-the-remarkable/)
+## [XKCD on the Remarkable 2](https://lazybea.rs/posts/xkcd-on-the-remarkable/)
 
 Just a blogpost from my mate [@hyde](https://lazybear.social/@hyde) that mentioned what his interest to install KOReader on his Remarkable 2 led him to.
 

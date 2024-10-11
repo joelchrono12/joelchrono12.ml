@@ -102,13 +102,13 @@
     software, tips and tricks for his blog and his workflow. Super interesting
     stuff if you like Linux, minimalist software, life in the terminal and tech
     in general. No dark theme, sad."
-- name: Lazybear
-  link: https://lazybear.io/
-  rss: https://lazybear.io/index.xml
+- name: Hyde Stevenson
+  link: https://lazybea.rs/
+  rss: https://lazybea.rs/index.xml
   desc: "Hyde seems to be a pretty cool guy. I always read his blogposts! And
     he even notices my existence and writes his articles in reply to mine. He
-    also writes about technology, books and whatever he does during the month.
-    He's done #100DaysToOffload many times too!"
+    writes about technology, books and whatever he does during the month.
+    He has completed #100DaysToOffload many times too!"
 - name: Lynnandtonic Blog
   link: https://lynnandtonicblog.com/
   rss: https://lynnandtonicblog.com/feed/feed.xml

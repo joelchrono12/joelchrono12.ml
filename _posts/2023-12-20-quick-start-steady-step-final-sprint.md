@@ -6,6 +6,7 @@ tags: short blog community
 permalink: /blog/good-start-unsteady-step-final-sprint/
 layout: post
 date: 2023-12-20 05:00:00 -0600
+updated: 2024-10-10 23:25:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 111612645002311380
@@ -37,7 +38,7 @@ But I wouldn't say I lost hope at any point of the challenge until now. Seeing h
 
 # The competition
 
-I am now in the final sprint alongside other great bloggers like [Clayton Errington](https://claytonerrington.com), [Garrit Franke](https://garrit.xyz) and [Brian Bennet](https://blog.ohheybrian.com) and of course [Noisy Deadlines](https://noisydeadlines.net/)! I am ashamed to say [Hyde](https://lazybear.io/) managed to beat me this time around. But I have to mention this is his [fourth time beating the challenge](https://lazybear.io/posts/100daystooffload-round4/), so we'll see how it goes in the future! If he decides to join once again...
+I am now in the final sprint alongside other great bloggers like [Clayton Errington](https://claytonerrington.com), [Garrit Franke](https://garrit.xyz) and [Brian Bennet](https://blog.ohheybrian.com) and of course [Noisy Deadlines](https://noisydeadlines.net/)! I am ashamed to say [Hyde](https://lazybea.rs/) managed to beat me this time around. But I have to mention this is his [fourth time beating the challenge](https://lazybea.rs/posts/100daystooffload-round4/), so we'll see how it goes in the future! If he decides to join once again...
 
 Finally, I wouldn't blame you if you missed it because of how quick this guy did it, but [Fredrik Bjoreman](https://www.bjoreman.com/) actually completed the challenge twice this year. Now that's what I call crazy fast.
 

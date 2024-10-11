@@ -16,11 +16,11 @@ Rofi describes itself as a *A window switcher, application launcher, ssh dialog,
 
 And that's pretty much it. Its super fast and minimal, and works pretty much anywhere. There is even a [Wayland clone of it](https://hg.sr.ht/~scoopta/wofi), which I don't use but at least its there.
 
-Rofi is so good, I got really fired up when my fellow fedizen [@hyde](https://lazybear.social/hyde) mentioned how [rofi isn't for him](https://lazybear.io/posts/rofi-not-for-me/), and he will stick to the default AwesomeWM launcher, I couldn't help myself, and decided to write this post and answer to his complaints.
+Rofi is so good, I got really fired up when my fellow fedizen [@hyde](https://lazybear.social/hyde) mentioned how [rofi isn't for him](https://lazybea.rs/posts/rofi-not-for-me/), and he will stick to the default AwesomeWM launcher, I couldn't help myself, and decided to write this post and answer to his complaints.
 
 First of all. This is all written in a jokeful manner, no hard feelings or anything.
 
-*Seriously?* You use [pass](https://lazybear.io/posts/passwords-and-websites/) as your password manager, you use [mutt for email](https://lazybear.io/posts/dracula-and-mutt/), stuff like [fzf](https://lazybear.io/posts/fzf/) and a bunch of other tools, you even got a weekly series of [CLI tool recommendations](https://lazybear.io/tags/cli/). HOW DARE YOU disrespect rofi like THAT!?
+*Seriously?* You use [pass](https://lazybea.rs/posts/passwords-and-websites/) as your password manager, you use [mutt for email](https://lazybea.rs/posts/dracula-and-mutt/), stuff like [fzf](https://lazybea.rs/posts/fzf/) and a bunch of other tools, you even got a weekly series of [CLI tool recommendations](https://lazybea.rs/tags/cli/). HOW DARE YOU disrespect rofi like THAT!?
 
 Rofi can be integrated with pretty much all of the above. You can use tools such as [rofi-pass](https://github.com/carnager/rofi-pass) to autofill your passwords everywhere (kind of better than KeepassXC Browser extensions tbh). You could create many kinds of things with neomutt, like [handling mailto: links](https://beune.dev/posts/mailto-neomutt/)
 

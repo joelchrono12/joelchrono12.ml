@@ -33,7 +33,7 @@ Alright, here are some answers to your questions. If your question is not here, 
 
     I don't really have anything I can't find 😉 ... But there are some games I've been meaning to play. One of those games is _Riviera: The Promised Land_, it sounds neat, and it is a JRPG, I don't know what else to say.
 
-- **[Hyde](https://lazybear.io) asks: What do you think of those youtubers that do some boxing?**
+- **[Hyde](https://lazybea.rs) asks: What do you think of those youtubers that do some boxing?**
 
     I don't know who does that, not really following that side of YouTube, but the few times I've heard about that I found out there's also Chess-Boxing where you do a round of boxing and another of chess, and I think that sounds kind of fun.
 
