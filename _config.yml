@@ -20,13 +20,15 @@ timezone: "America/Mexico_City"
 #
 highlighter: rouge
 markdown: kramdown
-permalink: /blog/:year-:month-:day-:title/
 kramdown:
   input: GFM
 whitelist:
   - jekyll-redirect-from
 
 collections:
+  posts:
+    output: true
+    permalink: /blog/:year-:month-:day-:title/
   origami:
     output: true
 
