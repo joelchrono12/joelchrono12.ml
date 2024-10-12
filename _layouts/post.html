@@ -9,6 +9,9 @@ layout: default
 {% endcapture %}
 <aside class="blog-data">
 	<span>📆 {{ page.date | date_to_string }}</span>
+	{% if page.updated %}
+	<span>⌚ Last Updated: {{ page.updated | date_to_string }}</span>
+	{% endif %}
 	<span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
 	<div class="tags">
 		<ul>
