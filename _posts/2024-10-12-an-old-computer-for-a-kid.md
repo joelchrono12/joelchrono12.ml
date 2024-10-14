@@ -5,6 +5,7 @@ description: A family friend's kid asked me to take a look at a old computer he 
 tags: tech nostalgia windows thoughts
 layout: post
 date: 2024-10-12 14:51:07 -0600
+updated: 2024-10-14 05:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 113303930508258748
@@ -14,7 +15,7 @@ Last week a kid I know told me he had gotten a new (to him) computer, and asked 
 
 It was one of those typical slim kinda generic HP models, with some kind of Intel Core Duo, no graphics card and a single 2GB ram stick. Horrible performance, bloatware---such as custom docks and widgets, cracked games like Plants vs Zombies or Angry Birds, too many antiviruses and performance boosters. The background was a gallery of pictures changing from time to time, and I couldn't remove it because Windows 10 wasn't even activated.
 
-At first I wanted to install Linux Mint on it, but I have was not willing to end up as tech support, so I added an extra stick with 4 GB of ram, did a clean install of Windows 10, and it ended up perfectly usable for basic browsing, office work and simple games and emulators.
+At first I wanted to install Linux Mint on it, but I was not willing to end up as tech support that much, so I added an extra stick with 4 GB of ram, did a clean install of Windows 10, and it ended up perfectly usable for basic browsing, office work and simple old games and emulators.
 
 Here's a list of the programs I got for him:
 - Firefox
@@ -38,9 +39,9 @@ Given everything I just did, I wondered: how do kids learn computing today?
 
 Most of the technical stuff I imagine them doing is playing Roblox or Fortnite, but most of the time, that's done on their phones, I don't know why I feel like most kids today can hardly use a mouse.
 
-I don't want to ridicule kids at all, they learn fast, I learned fast back then, but I'm think more kids today are used to touch screens over computers. Many of them maybe have never even opened a program with a *menu bar*, or edited the keyboard controls of any game.
+I don't want to ridicule kids at all, they learn fast, I learned fast back then, but I think more kids today are more used to touch screens than to computers. Many of them maybe have never even opened a program with a *menu bar*, or edited the keyboard controls of any game.
 
-I remember setting up my own control scheme to be able to play multiplayer Smash Bros 64 on a single keyboard, and us kids all around the computer to see. I remember trying to make Windows XP look like Vista, I remember getting games installed out of a CD-ROM. I remember chatting around on Windows Live Messenger. I even remember editing videos on Sony Vegas for some reason.
+I remember setting up my own control scheme to be able to play multiplayer Smash Bros 64 on a single keyboard, and us kids all around the computer to see, I remember trying to make Windows XP look like Vista, I remember getting games installed out of a CD-ROM. I remember chatting around on Windows Live Messenger, I even remember editing videos on Sony Vegas for some reason, all of these things were interesting to me, I wanted to know how it all worked, and I think some kids lack that interest.
 
 When I gave him his computer back I was very clear with him. It's ok if he doesn't know how to do things, but I would not be his first option if any problem showed up. He should learn to look things up himself, and maybe one day he too could be setting up computers for others and make a a bit of money.
 
