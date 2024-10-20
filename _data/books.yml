@@ -1,9 +1,15 @@
+- title: "Black Easter"
+  author: "James Blish"
+  cover: "/assets/img/books/black-easter.jpg"
+  start: "2024-10-03"
+  end: "In progress"
+  progress: 50
 - title: "Leviathan Wakes"
   author: "James S.A. Corey"
   cover: "/assets/img/books/leviathan-wakes.jpg"
   start: "2024-09-19"
   end: "In progress"
-  progress: 27
+  progress: 70
 - title: "Hothouse"
   author: "Brian W. Aldiss"
   cover: "/assets/img/books/hothouse.jpg"
