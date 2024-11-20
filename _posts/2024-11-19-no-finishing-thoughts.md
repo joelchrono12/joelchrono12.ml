@@ -11,7 +11,7 @@ username: joel
 com_id: 113513039994057483
 ---
 
-I always try to have a final paragraph to write things up in my blog posts, not necessarily with a heading or anything, but just the natural conclusion of writing something.
+I always try to have a final paragraph to wrap things up in my blog posts, not necessarily with a heading or anything, but just the natural conclusion of writing something.
 
 I always do this even on my monthly summaries and such, but for my weeknotes, I just don't, I list my random notes of the week and just finish the post.
 
