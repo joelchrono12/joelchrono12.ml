@@ -2,7 +2,7 @@
 title: Ori And The Blind Forest
 header: Ori And The Blind Forest
 description: My thoughts about this fantastic Metroidvania that managed to surprise me a lot despite my initial experience with it.
-tags: gaming review
+tags: gaming review game
 permalink: /blog/ori-and-the-blind-forest/
 layout: post
 date: 2024-01-11 17:21:27 -0600

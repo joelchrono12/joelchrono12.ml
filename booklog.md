@@ -65,6 +65,17 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     height: 220px;
     min-width: 130px;
   }
+  .book-cover-img {
+    background-size: cover;
+    background-position: center;
+    /*border-radius: 12px;*/
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    height: 220px;
+    width: 110px;
+    min-width: 130px;
+  }
 
   .content {
     display: flex;
@@ -99,12 +110,6 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
         flex-direction: row;
     }
 
-    .book-cover {
-      height: 170px;
-      flex: 0 0 100px;  
-      margin-right: 10px;
-    }
-
     .content {
     flex-grow: 1;
     min-height: 0px;
@@ -121,7 +126,7 @@ progress::-moz-progress-bar { background: var(--border); }
 progress::-webkit-progress-value { background: var(--border); }
 progress {
     height: 12px;
-    width: 80%;
+    width: 100%;
     border: solid 2px var(--border);
     accent-color: var(--border);
     background-color: var(--bg);
@@ -137,7 +142,7 @@ progress {
   {% for item in year_group.items reversed %}
   <div class="book-cover-container">
   <div class="book-cover">
-  <img class="book-cover" src="{{ item.cover }}">
+  <img class="book-cover-img" src="{{ item.cover }}">
   </div>
   <div class="content">
       <div class="info">

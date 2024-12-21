@@ -2,7 +2,7 @@
 title: What Remains of Edith Finch
 header: What Remains of Edith Finch
 description: "My first game of August, a short story where you uncover your family's past and the strange ways they left this world"
-tags: gaming review
+tags: gaming review game
 permalink: /blog/what-remains-of-edith-finch/
 layout: post
 date: 2024-08-03 12:23:35 -0600

@@ -2,7 +2,7 @@
 title: Metroid Samus Returns 
 header: Metroid Samus Returns 
 description: A quick review on a pretty cool game, which reminded me of how much I like this franchise
-tags: gaming review 
+tags: gaming review game
 permalink: /blog/metroid-samus-returns/
 layout: post
 date: 2022-04-20 01:30:08 -0600

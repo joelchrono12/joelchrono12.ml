@@ -2,7 +2,7 @@
 title: "Mario & Luigi Superstar Saga"
 header: "Mario & Luigi Superstar Saga"
 description: I finished this game a couple days ago, and had a blast doing so, here are my thoughts on it!
-tags: gaming review
+tags: gaming review game
 permalink: /blog/mario-and-luigi-superstar-saga/
 layout: post
 date: 2024-06-26 21:40:00 -0600

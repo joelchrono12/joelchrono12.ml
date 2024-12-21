@@ -2,7 +2,7 @@
 title: Metroid Zero Mission
 header: Metroid Zero Mission
 description: I finished a game on my Miyoo Mini Plus, and it is Metroid Zero Mission! A game I've already played, but I decided to go back where it all started.
-tags: gaming review
+tags: gaming review game
 permalink: /blog/metroid-zero-mission/
 layout: post
 date: 2024-06-10 14:06:25 -0600

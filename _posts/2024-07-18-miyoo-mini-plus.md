@@ -2,7 +2,7 @@
 title: Miyoo Mini Plus Review
 header: Miyoo Mini Plus Review
 description: Here's my review of this wonderful little gaming machine.
-tags: gaming review emulation tech
+tags: gaming review emulation tech gadget
 permalink: /blog/miyoo-mini-plus-review/
 layout: post
 date: 2024-07-18 12:30:45 -0600

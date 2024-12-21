@@ -2,7 +2,7 @@
 title: Metroid Fusion
 header: Metroid Fusion
 description: The fourth game in the 2D Metroid series, a truly fantastic portable experience!
-tags: gaming review
+tags: gaming review game
 permalink: /blog/metroid-fusion/
 layout: post
 date: 2024-07-09 19:17:15 -0600

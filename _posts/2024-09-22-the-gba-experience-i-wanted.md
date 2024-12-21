@@ -2,7 +2,7 @@
 title: The GBA experience I wanted
 header: The GBA experience I wanted
 description: This is a review of the Anbernic RG35XX SP, but I was not going to disgrace my blog archive with such an ugly name as a title, so this will do.
-tags: gaming emulation
+tags: gaming emulation gadget tech
 permalink: /blog/the-gba-experience-i-wanted/
 layout: post
 date: 2024-09-22 14:14:26 -0600

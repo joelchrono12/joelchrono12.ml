@@ -2,7 +2,7 @@
 title: "Prince of Persia: The Lost Crown"
 header: "Prince of Persia: The Lost Crown"
 description: A fantastic Metroidvania that took me half a year to beat, for some reason, highly recommended.
-tags: gaming review
+tags: gaming review game
 permalink: /blog/prince-of-persia-the-lost-crown/
 layout: post
 date: 2024-11-24 14:30:00 -0600

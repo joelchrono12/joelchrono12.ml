@@ -2,7 +2,7 @@
 title: Kobo Clara 2E Review
 header: Kobo Clara 2E Review
 description: I got my first electronic reader ever and here are some of my thoughts on it with KOReader installed on it.
-tags: tech review reading
+tags: tech review reading gadget
 permalink: /blog/kobo-clara-2e-review/
 layout: post
 date: 2024-05-03 21:30:00 -0600

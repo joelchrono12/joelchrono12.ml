@@ -2,7 +2,7 @@
 title: An awesome movie to sell toys. Transformers One
 header: An awesome movie to sell toys. Transformers One
 description: Sometimes a seemingly average kid's movie has a spark that unveils much more than what the eye can see, and this is one of those!
-tags: movies review
+tags: movie review movies
 permalink: /blog/an-awesome-movie-to-sell-toys—transformers-one/
 layout: post
 date: 2024-10-02 21:36:17 -0600
