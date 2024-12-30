@@ -1,17 +1,18 @@
 ---
 title: Farewell Earth's Bliss
 header: Farewell Earth's Bliss
-description: Mars has become a prison where people are sent to try and survive and develip their own society
+description: In this book, Mars has become a prison where people are sent to try and survive and develop their own society, it's not going well.
 tags: book review
 permalink: /blog/farewell-earths-bliss/
 layout: post
 date: 2024-12-29 17:02:39 -0600
+updated: 2024-12-29 22:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 113739861410988772
 ---
 
-This is book by D. G. Compton that I found on yet [another YouTube video by Bookpilled](https://youtu.be/Uv6kzuq14VY?t=816), at this point you should be well aware that channel is my favorite source of short reviews of science fiction books I might be interested in.
+This is a book by D. G. Compton that I found on yet [another YouTube video by Bookpilled](https://youtu.be/Uv6kzuq14VY?t=816), at this point you should be well aware that channel is my favorite source of short reviews of science fiction books I might be interested in.
 
 This one was pretty interesting, it is about a group of people---a total 24 convicts---that are sent on a one way trip to Mars. These people are usually criminals, undesirable for modern society, sentenced to live in the red planet for the rest of their lives, some were thieves, others caused sedition, others commited murder. They don't know each other, and they don't really like each other.
 
