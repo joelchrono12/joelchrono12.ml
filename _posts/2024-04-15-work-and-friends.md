@@ -11,7 +11,7 @@ username: joel
 com_id: 112276571812771335
 ---
 
-I am not sure what my main point on writing this is, but I decided to do it anyway, kind of inspired by [this post](https://tahimik.com/journal/alone-or-lonely) by my friend [@isa](https://citrus.farm/@isa). Today's work from home day, so I decided to just type out a post and let time fly while I've got a bit of free time to do so.
+I am not sure what my main point on writing this is, but I decided to do it anyway, kind of inspired by [this post](https://tahimik.com/journal/alone-or-lonely) by my friend [@isa](https://thenighthas.me/@isa). Today's work from home day, so I decided to just type out a post and let time fly while I've got a bit of free time to do so.
 
 Ever since I started a proper full time job during November of last year, I've had a great time learning a lot and getting better at the things I do. However there's this weird sense of not belonging here. This is not the fault of my workmates, or that I am mistreated, or that I lack the skills to do my job (which I kind of still do, but its not the issue).
 

@@ -13,7 +13,7 @@ com_id: 112375265076216678
 
 I kind of wanted to go for a change of pace, and read something that is not Science Fiction. My friend [@amin](https://alpha.polymaths.social) had mentioned his liking for some of Agatha Christie's Poirot novels and I wanted to read one for a while.
 
-I've read a couple of Doyle's Sherlock Holmes before so I was curious as to what Agatha Christie had done to make her books stand out among the many works inspired by Holmes---I was also looking for another book to read along with [@isa](https://citrus.farm/@isa) after finishing Dune---so we settled for the first of the Poirot novels!
+I've read a couple of Doyle's Sherlock Holmes before so I was curious as to what Agatha Christie had done to make her books stand out among the many works inspired by Holmes---I was also looking for another book to read along with [@isa](https://thenighthas.me/@isa) after finishing Dune---so we settled for the first of the Poirot novels!
 
 This book was a bit confusing at first with the dozen or so characters that are presented during the beginning chapters. However, I quickly familiarized with them---I still mixed up some of the last names but I knew who was who. It is a simple story in theory: a rich lady with an inheritance, a second husband, two sons and a wife of one, some servants, a doctor, you know the drill.
 

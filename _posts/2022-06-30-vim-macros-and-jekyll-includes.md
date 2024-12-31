@@ -11,7 +11,7 @@ username: joel
 com_id: 108567468892960945
 ---
 
-Yesterday I talked about converting all my images to WebP, because it would help keep the file sizes smaller, improving loading times. However I have to say I agree with [@isa](https://citrus.farm/@isa) when she mentioned how annoying it is to not have a jpg or png file available to download since webp is still not as supported by Image viewers and the like, or if you dislike file formats that stick out from the standard.
+Yesterday I talked about converting all my images to WebP, because it would help keep the file sizes smaller, improving loading times. However I have to say I agree with [@isa](https://thenighthas.me/@isa) when she mentioned how annoying it is to not have a jpg or png file available to download since webp is still not as supported by Image viewers and the like, or if you dislike file formats that stick out from the standard.
 
 So I decided to keep both webp and jpg files available. I am not sure of what makes a browser choose one over the other. For now, I pretty much copy pasted the solution used by [Simone on his blog](https://minutestomidnight.co.uk/blog/implementing-webp-images-in-jekyll/), I only added some code to support `.gif` files, since WebP supports animation too.
 
