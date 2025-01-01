@@ -43,16 +43,16 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     display: flex;
     gap: 1rem;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: start;
   }
 
   .book-cover-container {
     background-color: var(--code-bg);
+    border: solid 2px var(--code);
     /*border-radius: 12px;*/
     display: flex;
-    flex: 1 1 290px;
+    flex: 1 1 17%;
     flex-direction: row;
-    border: solid 2px var(--code);
   }
 
   .book-cover {
@@ -88,7 +88,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
 
   .title {
     font-weight: bold;
-    line-height: 1.3;
+    line-height: 1.2;
   }
 
   .artist {
@@ -108,6 +108,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
   @media screen and (max-width: 600px) {
     .book-cover-container {
         flex-direction: row;
+        max-width: 100%;
     }
 
     .content {
@@ -147,12 +148,12 @@ progress {
   <div class="content">
       <div class="info">
       <div class="title"><i>{{ item.title }}</i></div>
-      <div class="artist">by {{ item.author }}</div>
-      <div class="dates">Started: {{ item.start }}</div>
+      <div class="artist">by <b>{{ item.author }}</b></div>
+      <div class="dates">Start: {{ item.start }}</div>
       {% if item.progress < 100 %}
       <p class="dates"><label for="file">Progress: {{ item.progress }}%</label><progress id="file" value="{{ item.progress }}" max="100"/></p>
       {% else %}
-      <div class="dates">Finished: {{ item.end }}</div>
+      <div class="dates">Finish: {{ item.end }}</div>
       {% endif %}
       </div>
       </div>
