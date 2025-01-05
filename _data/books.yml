@@ -1,3 +1,15 @@
+- title: "Abaddon's Gate"
+  author: "James S.A. Corey"
+  cover: "/assets/img/books/abaddons-gate.jpg"
+  start: "2025-01-04"
+  end: "In Progress"
+  progress: 5
+- title: "The Murder on the Links"
+  author: "Agatha Christie"
+  cover: "/assets/img/books/the-murder-on-the-links.jpg"
+  start: "2025-01-02"
+  end: "In Progress"
+  progress: 16
 - title: "Roadside Picnic"
   author: "Arkady and Boris Strugatsky"
   cover: "/assets/img/books/roadside-picnic.jpg"
