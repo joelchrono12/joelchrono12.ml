@@ -5,7 +5,7 @@ date: 2025-01-17 12:00:00 -0600
 description: I was nominated to answer these questions, and I shall answer.
 title: 'Blog Questions Challenge 2025'
 header: 'Blog Questions Challenge 2025'
-permalink: "/blog/blog-questions-challenge-2025"
+permalink: "/blog/blog-questions-challenge-2025/"
 ---
 
 I was nominated by [RLDane](https://rldane.space/blog-questions-challenge-2025.html) and [Adamsdesk](https://www.adamsdesk.com/posts/blog-questions-challenge-2025) to participate on this challenge. Even though I already have many things to write about, I thought it would be fun, let's get started!
