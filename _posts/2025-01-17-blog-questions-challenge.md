@@ -1,11 +1,15 @@
 ---
+title: 'Blog Questions Challenge 2025'
+header: 'Blog Questions Challenge 2025'
 layout: post
 tags: blog community fediverse
 date: 2025-01-17 12:00:00 -0600
+updated: 2025-01-17 12:20:00 -0600
 description: I was nominated to answer these questions, and I shall answer.
-title: 'Blog Questions Challenge 2025'
-header: 'Blog Questions Challenge 2025'
 permalink: "/blog/blog-questions-challenge-2025/"
+username: joel
+host: fosstodon.org
+com_id: 113845035814181438
 ---
 
 I was nominated by [RLDane](https://rldane.space/blog-questions-challenge-2025.html) and [Adamsdesk](https://www.adamsdesk.com/posts/blog-questions-challenge-2025) to participate on this challenge. Even though I already have many things to write about, I thought it would be fun, let's get started!
@@ -59,7 +63,9 @@ I publish as soon as I finish a post, and I almost always finish a post in the s
 
 I have a hard time chooosing like everyone does, but I will just share the first post that came to mind.
 
-My Dune review! I don't know, it just felt like writting a little journey throughout my experience with that book and that universe before I watched the movies and the book, it was kinda fun.
+[My Dune review](/blog/dune)! I don't know, it just felt like writing a little journey throughout my experience with that universe before I watched the movies and the book, it was kinda fun.
+
+My actual favorite I'm still undecided, probably one of the many I write describing a random day of my life, like [this one](https://joelchrono.xyz/blog/2024-10-10-morning-before-work/) or where I recall memories of my past, such as [this one](https://joelchrono.xyz/blog/first-contact-with-emulation/), yeah, probably those.
 
 ## Any future plans for the blog?
 
