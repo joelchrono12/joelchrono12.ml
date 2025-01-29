@@ -8,7 +8,7 @@ layout: post
 date: 2025-01-28 21:09:03 -0600
 host: fosstodon.org
 username: joel
-com_id: 113909507779893080
+com_id: 113909522812139172 
 ---
 
 This is the first game I've managed to beat in 2025! Not that it was challenging or anything, but I did not expect it to be this one.

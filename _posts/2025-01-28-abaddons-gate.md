@@ -8,7 +8,7 @@ layout: post
 date: 2025-01-28 21:06:44 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 113909507779893080
 ---
 
 This is the third book of the Expanse, and after so many blog posts queued up, I forgot to review it for the site!
