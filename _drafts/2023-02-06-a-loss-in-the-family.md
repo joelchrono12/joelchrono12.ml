@@ -10,8 +10,6 @@ host: fosstodon.org
 username: joel
 com_id: idcomments
 ---
-# Taking some time off
-
 My grandmother passed away. Honestly, I was not really affected by the news, even if it was too sudden, we had talked to her on the phone only a week or so earlier. She was healthy and strong, still walking and working without any help, if slower than before. My dad and I were with some friends about to have a BBQ when he got a phone call. When a lot of time went by I decided to leave the meeting for a bit and look for him. I realized something bad had happened. I went back, and messaged my sister asking for updates on what was happening, I was told to go, I had my suspicions and they were confirmed. I have to admit I had an intrusive thought, of being like Albert Camus'_The Stranger_ and pretend I didn't actually care much, I have to admit, I was ok, I did not cry at all, I just hugged my family.
 
 Me and my dad went back to our friends, were he explained the situation, they prayed for us and my family, and we still ate and enjoyed the time as best as we could. After it was over, we went back home and got ready for the trip tomorrow.
