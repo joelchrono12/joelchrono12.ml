@@ -52,6 +52,9 @@ This is reversed order, if you want to start from the beginning
         {% if post.tags contains "response" %}
         <a href="/more/tags/response">💬</a>
         {% endif %}
+        {% if post.tags contains "game" %}
+        <a href="/more/tags/game">🕹</a>
+        {% endif %}
         </span>
         <span class="post-date"> {{ post.date | date: "%b %d" | downcase }}</span>
         </li>
