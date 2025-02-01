@@ -35,4 +35,4 @@ The only real issue is the buttons for me, only because I replaced the originals
 
 What else can I say? the hype got to me, and [the hobby cycle](/blog/the-hobby-cycle) never stops going.
 
-This is 10 day of [#100DaysToOffload](https://100daystooffload.com)
+This is day 10 of [#100DaysToOffload](https://100daystooffload.com)

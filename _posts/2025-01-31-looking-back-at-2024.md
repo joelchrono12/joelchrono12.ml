@@ -5,10 +5,10 @@ description: It took me a while but it's finally here, my look back at how 2024 
 tags: personal
 permalink: /blog/looking-back-at-2024/
 layout: post
-date: 2025-01-22 21:34:04 -0600
+date: 2025-01-31 21:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 113930769288388841
 ---
 
 I gotta say, 2024 was quite a crazy year, I am now a proper adult with a degree and I will probably have to pay taxes for the first time in my life or something.
@@ -19,7 +19,7 @@ I'm thankful for how 2024 has gone for me, it's been quite a mess worldwide, but
 
 Regardless, let's go through some of the more significant events that happened in 2024!
 
-## Having a job at all
+## Having a job
 
 Honestly, the way I got my job so quickly after my internship is still surprising to me. Everything was setup for me to do yet another six months of internship, do yet another empty semester of University and maybe hope that in 4 or so months I could find a position. Instead, I managed to renew my internship, I managed to ask for a chance to apply to a position that opened up just a few days after my renewal begun, my own manager intervewed me, all my internship and workmates told me I actually impressed her, I did a couple more interviews and I landed the job! This happened in November of 2023 I know, but it wasn't until 3 months later that I passed the trial period just fine, and since then I've been doing quite well, some ups and downs, some times of stress and others to relax, it has been a nice journey so far, nothing too exciting goes on at work, but I have time to enjoy other things as well, and that's what matters to me.
 
@@ -51,14 +51,20 @@ These two consoles were present for half of the year, since I got them I have be
 
 Now that the switch 2 is coming soon, I might end up getting it!
 
-## A dog's passing
+## A loss in the family
 
-Chicharito was my first dog, he had been with us for 14 years at this point, and he passed away in September after an unfortunate accident. I remember dealing with it at the time, and some memories are coming up now that I write about it. I had a big draft
+Chicharito was my first dog, he had been with us for 14 years at this point, and he passed away in September after an unfortunate accident. I remember dealing with it at the time, and some memories are coming up now that I write about it. I had a big draft written recalling some stories and the multiple shenanigans of his life, but I am not quite sure what happened to it, it's gone now and I haven't tried to write it again. At this point I'm over it, I processed things and I'm alright now. I still have another couple of dogs to take care of and pay attention to. I have moved on, but I still miss him sometimes.
+
+## Visiting family after a couple years
+
+Because I was ending my studies, doing my internship and getting started on my new job, I had no time for any kind of vacations for a couple of years, leaving only Christmas time available to do visit family. However, the past two years we had stayed at home or maybe with friends living in our town.
+
+It was in December of 2024 where we finally went out as a family for no reason other than spending some time with my cousins, aunts and uncles! It was honestly a really good time that I had missed in previous years.
+
+## Final thoughts
+
+It took me a whole month and it isn't even that long of a blog post, but it's about right compared to previous year. Overall, I'm happy with how it went, there were lots of crazy things going on out there, but despite all the ups and downs, I am looking forward to what the rest of 2025 will bring.
 
 
 
-
-
-
-
-This is day of [#100DaysToOffload](https://100daystooffload.com)
+This is day 13 of [#100DaysToOffload](https://100daystooffload.com)
