@@ -588,3 +588,32 @@ gap: 1rem;
     flex: 1;
     margin-bottom: 1rem;
 }
+
+
+.bubble {
+	display: block;
+}
+
+
+.bubble ul {
+	list-style-type: none;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+	display: grid;
+	justify-items: start;
+}
+.bubble li{
+	grid-column-start: 1;
+	background: var(--border);
+	color: var(--bg);
+	border-radius: 25px;
+	margin-top: 0;
+	margin-bottom: 4px;
+	padding: .65em 1em;
+	font-size: var(--font-sm);
+	line-height: 1.4;
+}
+.bubble li:last-child {
+  border-bottom-left-radius: 8px;
+}
