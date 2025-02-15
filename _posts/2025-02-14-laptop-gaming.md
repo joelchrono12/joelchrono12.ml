@@ -6,6 +6,7 @@ tags: gaming linux software
 permalink: /blog/laptop-gaming/
 layout: post
 date: 2025-02-14 21:44:10 -0600
+updated: 2025-02-15 12:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114006309296215952
@@ -51,9 +52,9 @@ On my controller, using Steam's Big Picture mode has also been pretty enjoyable,
 
 However, ever since the days I only used Windows, my biggest collection has been on Epic Games, because the games are free!
 
-A while back I remember using [legendary](https://github.com/derrod/legendary), a super neat terminal tool to launch games from Epic on Linux, but [Heroic](https://heroicgameslauncher.com/) has proven to be a great alternative with a GUI that really manages to just add that extra bit of flare to the mix. I also installed it via Flatpak and it also works really well out of the box. Not only does it connect to my Epic account, it also works with [GOG](https://gog.com) super well, even having support for its achievements! Something I didn't even know until [@amin](https://benjaminhollon.com) pointed it out ot me. He uses Lutris and only plays DRM-Free games from GOG, and his setup is so much more crazier and custom than mine, so, consider this my public request for a blog post about it.
+A while back I remember using [legendary](https://github.com/derrod/legendary), a super neat terminal tool to launch games from Epic on Linux, but [Heroic](https://heroicgameslauncher.com/) has proven to be a great alternative with a GUI that really manages to just add that extra bit of flare to the mix. I also installed it via Flatpak and it also works really well out of the box. Not only does it connect to my Epic account, it also works with [GOG](https://gog.com) super well, even having support for its achievements! Something I didn't even know until [@amin](https://benjaminhollon.com) pointed it out ot me. He uses Lutris and only plays DRM-Free games from GOG, and his setup is so much more crazier and custom than mine, so, ~~consider this my public request for a blog post about it~~ [go check it out!](https://benjaminhollon.com/musings/managing-my-game-saves-with-enevironment-variables/)
 
-## Final thougts
+## Final thoughts
 
 Of course, I have been playing on computers since forever, Minecraft is there, my first time playing Into The Breach too, and FTL is something I will return to someday as well, but I don't know, the act of playing non-pixelart games and doing so with a controller instead of a keyboard, does change my perception somewhat.
 
