@@ -5,3 +5,4 @@ https://brandont.dev/atom.xml
 https://claytonerrington.com/feed.xml
 https://kevquirk.com/feed.xml
 https://lazybear.io/index.xml
+https://moddedbear.com/index.xml
