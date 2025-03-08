@@ -3,6 +3,7 @@ https://bbbhltz.codeberg.page/rss.xml
 https://rldane.space/feeds/all.atom.xml
 https://brandont.dev/atom.xml
 https://claytonerrington.com/feed.xml
-https://kevquirk.com/feed.xml
+https://kevquirk.com/posts-feed
 https://lazybear.io/index.xml
 https://moddedbear.com/index.xml
+https://shellsharks.com/feeds/feed.xml
