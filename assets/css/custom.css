@@ -75,7 +75,10 @@ a:hover {
         /*background-attachment: fixed;*/
         /*background-position: center center;*/
     color:var(--text); }
-    a {color: var(--accent);}
+    a {
+    	color: var(--accent);
+	word-wrap: break-word;
+    }
     a:visited {color: var(--accent);}
     a:hover,a:focus{color: var(--accent-light);}
 }
