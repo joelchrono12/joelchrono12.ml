@@ -1,4 +1,5 @@
 https://tahimik.com/journal.rss
+https://sheepdev.xyz/feed
 https://bbbhltz.codeberg.page/rss.xml
 https://rldane.space/feeds/all.atom.xml
 https://brandont.dev/atom.xml
