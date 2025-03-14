@@ -1,6 +1,6 @@
 ---
 title: Using AI to do my homework
-title: Using AI to do my homework
+header: Using AI to do my homework
 description: So, OpenAI ChatGPT is a beast, it really is. This is the process I used to make my homework with it!
 tags: coding school productivity
 permalink: /blog/using-ai-to-do-my-homework/
@@ -10,8 +10,6 @@ host: fosstodon.org
 username: joel
 com_id: 109453544955365413
 ---
-
-# Doing my Homework with AI
 
 I'm a student in Mechatronics Engineering, and like many of you, I sometimes struggle with my homework assignments. Recently, I had a particularly challenging assignment that involved working with G code and implementing the nearest neighbor algorithm to find the shortest path through a set of coordinates. It was a daunting task, but with the help of the OpenAI assistant, I was able to complete my assignment and learn a lot in the process. In this blog post, I'll share my experience and show you how the OpenAI assistant can help you with your homework too.
 
