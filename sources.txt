@@ -1,4 +1,6 @@
 https://tahimik.com/journal.rss
+https://kwon.nyc/notes/index.xml
+https://jeddacp.me/feed/
 https://sheepdev.xyz/feed
 https://bbbhltz.codeberg.page/rss.xml
 https://rldane.space/feeds/all.atom.xml
