@@ -133,12 +133,6 @@ hr{
 }
 
 
-main {
-    display: block;
-    padding: 0 1rem;
-    max-width: 60rem;
-    margin: 0 auto;
-}
 
 main img{
   max-width: 100%;
@@ -310,19 +304,19 @@ ul.posts, ul.posts ul{
     align-items: center;
 }
 
-header nav{
+nav.main-navbar{
     /*font-family: "chrono";*/
     display: flex;
     justify-content: center;
     text-align: center;
 }
 
-header nav, header nav ul, .tags ul, ul.badge-list{
+nav.main-navbar, nav.main-navbar ul, .tags ul, ul.badge-list{
     padding: 0;
     margin: 0;
 }
 
-header nav ul li, ul.badge-list li{
+nav.main-navbar ul li, ul.badge-list li{
     display: inline;
 }
 
@@ -345,7 +339,7 @@ div.tags, div.tags *{
     justify-content: center;
 }
 
-header nav a, nav a:visited{
+nav.main-navbar a, nav a:visited{
     display: inline-block;
     background: var(--code-bg);
     color: var(--border);
@@ -357,12 +351,12 @@ header nav a, nav a:visited{
     transition: .4s;
 }
 
-header nav a:hover {
+nav.main-navbar a:hover {
     background-color: var(--border);
     color: var(--bg);
 }
 
-header nav a.nav-current {
+nav.main-navbar a.nav-current {
     background-color: var(--border);
     color: var(--bg);
     text-decoration: underline;
@@ -451,6 +445,31 @@ aside {
     background-color: var(--code-bg);
     padding: .2rem 1rem;
 }
+
+.sidebar {
+  /*margin: 0;*/
+  /*padding: 2rem;*/
+  /*width: 30rem;*/
+}
+
+
+main {
+    display: block;
+    padding: 0 1rem;
+    /*max-width: 60rem;*/
+    margin: 1rem ;
+}
+
+.main-container{
+  /*display: flex;*/
+  /*justify-content: space-between;*/
+  max-width: 60rem;
+  margin: 0 auto;
+  /*gap: 2rem;*/
+}
+
+
+
 
 article.post_embed{
     background-color: var(--code-bg);

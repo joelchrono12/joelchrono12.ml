@@ -1,0 +1,16 @@
+{% if page.url != "/"%}
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+<nav aria-label="Breadcrumb" class=breadcrumb>
+	<ul>
+		<li><a href="/">home</a></li>
+		{% for crumb in crumbs offset: 1 %}
+		{% if forloop.last %}
+		<li>{{ page.header }}</li>
+		{% else %}
+		<li>
+			<a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | lowercase }}</a></li>
+		{% endif %}
+		{% endfor %}
+	</ul>
+</nav>
+{% endif %}
