@@ -44,14 +44,16 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     gap: 1rem;
     flex-wrap: wrap;
     justify-content: start;
+    margin-bottom: 1.5rem;
   }
 
   .book-cover-container {
     background-color: var(--code-bg);
     border: solid 2px var(--code);
+    max-width: 50%;
     /*border-radius: 12px;*/
     display: flex;
-    flex: 1 1 17%;
+    flex: 1 1 25%;
     flex-direction: row;
   }
 
@@ -77,7 +79,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
     min-width: 130px;
   }
 
-  .content {
+  .book-content {
     display: flex;
     flex-grow: 1;
     padding: 0 .8rem;
@@ -111,7 +113,7 @@ You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com]
         max-width: 100%;
     }
 
-    .content {
+    .book-content {
     flex-grow: 1;
     min-height: 0px;
     align-items: right;
@@ -145,7 +147,7 @@ progress {
   <div class="book-cover">
   <img class="book-cover-img" src="{{ item.cover }}">
   </div>
-  <div class="content">
+  <div class="book-content">
       <div class="info">
       <div class="title"><i>{{ item.title }}</i></div>
       <div class="artist">by <b>{{ item.author }}</b></div>

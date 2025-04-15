@@ -1,3 +1,15 @@
+- title: "Cibola Burn"
+  author: "James S.A. Corey"
+  cover: "/assets/img/books/cibola-burn.jpg"
+  start: "2025-03-17"
+  end: "In Progress"
+  progress: 54
+- title: "The Space Merchants"
+  author: "C.M. Kornbluth, Frederik Pohl"
+  cover: "/assets/img/books/the-space-merchants.jpg"
+  start: "2025-02-17"
+  end: "In Progress"
+  progress: 21
 - title: "Abaddon's Gate"
   author: "James S.A. Corey"
   cover: "/assets/img/books/abaddons-gate.jpg"
