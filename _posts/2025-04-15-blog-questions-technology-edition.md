@@ -83,7 +83,7 @@ Deep down, I truly have hope that technology can remain something humanity uses 
 
 Also, I nominate the following people!
 - [JP](https://moddedbear.com)
-- [Isa](https://tahimik.com/)
+- [isa](https://tahimik.com/)
 - [Ariadne](https://noisydeadlines.net)
 - [fLaMEd](https://flamedfury.com)
 - [anhvn](https://anhvn.com)
