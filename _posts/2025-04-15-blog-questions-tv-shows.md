@@ -2,7 +2,7 @@
 title: "Blog Questions Challenge: TV Shows Edition"
 header: "Blog Questions Challenge: TV Shows Edition"
 description: Well, I may as well keep these question challenges going right? This time, TV Shows!
-tags: community
+tags: community nostalgia ask-me-anything
 permalink: /blog/questions-tv-shows/
 layout: post
 date: 2025-04-15 20:36:11 -0600
@@ -60,7 +60,7 @@ Alright, alright, *I'll have to pick the option I wanted to avoid at all costs*.
 
 **AAAAAAAAAH I STILL DON'T KNOW**, I was trying to force myself into thinking something again (didn't work).
 
-Characters from Star Trek feel like too safe of a choice, ~~and I would feel like a poser as I haven't actually half of the episodes in the TOS and TNG series...~~ so maybe not.
+Characters from Star Trek feel like too safe of a choice, ~~and I would feel like a poser as I haven't actually watched half of the episodes in the TOS and TNG series...~~ so maybe not.
 
 *I'm knocking my head against the keyboard right now (figure of speech).*
 
@@ -78,11 +78,11 @@ I can always enjoy *Malcom in the Middle*, across the ages and the times, it is 
 
 What I wish I could watch for the first time, is probably *Doctor Who*.
 
-*Doctor Who* is a show that I started watching to spend time with my sister back in the day, it made her happy, and it was quite enjoyable as well. At some point in the early seasons I realized, I absolutely loved it.
+*Doctor Who* is a show that I started watching to spend time with my sister back in the day, it made her happy, and it was quite enjoyable as well. At some point in the early seasons I realized I absolutely loved it.
 
-However, it took some time to get there, I didn't care *that much* about in at first. Sure I paid attention to the story, but I didn't appreciate it for what it was. But when I started to think *"hold up, this is really good"*, I also didn't want to bother beginning from the start. So I just kept going, and really enjoying all of it, even some of the bad parts of the 12th Doctor, until it got absolutely ruined by the 13th Doctor's run, killed by terrible writing and directing.
+However, it took some time to get there, I didn't care *that much* about it at first. Sure I paid attention to the story, but I didn't appreciate it for what it was. But when I started to think *"hold up, this is really good"*, I also didn't want to bother going back to the start and seeing what details I had missed. So I just kept going, and really enjoying all of it, even some of the bad parts of the 12th Doctor, until it got absolutely ruined by the 13th Doctor's run, killed by terrible writing and directing.
 
-At this point in my life, I think I could go for a rewatch, even though I'll never have a chance to watch it truly blind like bach then.
+At this point in my life, I think I could go for a rewatch, even though I'll never have a chance to watch it truly blind like back then.
 
 There is another huge reason I want to check it out again... **I know English now!**
 
@@ -109,9 +109,9 @@ Across the multiple episodes, I have learned plenty of things. Here's a short li
 - You are not that important for the place you work for.
 - Just because you are smart, doesn't mean you're above others.
 
-In a way, they feel kinda "obvious" but at the same time, watching it when you are 9 or 12 years old, can really change you for the better or (admittedly) not great way---it still features plenty of bad kid behavior and such, but hey, *I turned out alright, right?!*
+In a way, they feel kinda "obvious" but at the same time, watching it when you are 9 or 12 years old, can really change you for the better or (admittedly) not---it still features plenty of bad kid behavior and such, but hey, *I turned out alright, right?!*
 
-I had some other things to list, I just really enjoy this show, it is the one show I watched with my family every night before sleep, when I was 10, when I was 14, when I was 18, when I was 23---*Not exactly sure about the exact ages but you see my point*. Every time, I will always either laugh out loud, or I will be able to reflect on what's going on, with the parenting style of Louis or Hal, be it good or bad, or the misfits or behavior of the kids, or whatever Francis is up to away from home. I can see what might work if handled a bit differently, it has always been super fun, enjoyable and even thought-provoking.
+I had some other things to list, I just really enjoy this show, it is the one show I watched with my family every night before sleep, when I was 10, when I was 14, when I was 18, when I was 23---*Not exactly sure about the exact ages but you see my point*. Every time, I will always either laugh out loud, or I will be able to reflect on what's going on, with the parenting style of Lois or Hal, be it good or bad, or the misfits or behavior of the kids, or whatever Francis is up to away from home. I can see what might work if handled a bit differently, it has always been super fun, enjoyable and even thought-provoking.
 
 In a way, I want to write more, because this show deserves the attention, but, maybe that's better left for another blog post.
 
