@@ -127,7 +127,7 @@ Btw, I will nominate the following people!
 
 - [@mihobu](https://mihobu.lol)
 - [@tiramisu](https://tiramisu.bearblog.dev)
-- [@anarodrigues@front-end.social](https://ohhelloana.blog)
+- [@anarodrigues](https://ohhelloana.blog)
 - [@cory](https://www.coryd.dev)
 
 This is day 49 of [#100DaysToOffload](https://100daystooffload.com)

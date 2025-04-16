@@ -19,9 +19,9 @@ Honestly, I have no idea, there are many times in my early life where I got inte
 
 Probably one of the earliest examples would be phones. In my post about [the phones I've owned](/blog/the-smartphones-I've-owned-so-far), the first phone I had was a Nokia 3510, a device given to me as a kid, it was a phone locked to some US mobile carrier, and at the time it was impossible to unlock them to use with Mexican ones. 
 
-I remember using to play *Snake* and *Space Impact* on it, and moving around to the contacts and such just adding information from people and stuff, simply amazed by what this cool brick of a phone could do.
+I remember playing *Snake* and *Space Impact* on it, and adding contact information, calendar events and stuff, simply amazed by what this cool brick of a phone could do.
 
-However, after some thought, I definitely know when.
+However, that wasn't the moment I got interested in tech. After some thought, I definitely know when.
 
 Among the few forms of entertainment back in the early 2000s, there were VHS tapes. My mom loves to tell this story to people for some reason.
 
@@ -83,7 +83,7 @@ Deep down, I truly have hope that technology can remain something humanity uses 
 
 Also, I nominate the following people!
 - [JP](https://moddedbear.com)
-- [Isa](https://tahimik.com/)
+- [isa](https://tahimik.com/)
 - [Ariadne](https://noisydeadlines.net)
 - [fLaMEd](https://flamedfury.com)
 - [anhvn](https://anhvn.com)
