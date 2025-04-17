@@ -642,3 +642,19 @@ gap: 1rem;
         align-items: center;
     }
 }
+
+#latest-listen {
+  padding: 1rem;
+  background-color: var(--code-bg);
+  border: 2px solid var(--border);
+  /*margin-top: 20px;*/
+}
+
+/*#latest-listen img {*/
+  /*border-radius: 8px;*/
+/*}*/
+
+/*#latest-listen p {*/
+  /*font-size: 16px;*/
+  /*margin: 10px 0;*/
+/*}*/
