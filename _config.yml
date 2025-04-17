@@ -1,8 +1,8 @@
 plugins:
-  #- jekyll-feed
   - jekyll-sitemap
-  #- jekyll-webring
   - jekyll-redirect-from
+  #- jekyll-feed
+  #- jekyll-webring
 #  - jekyll-image-size
   
 
