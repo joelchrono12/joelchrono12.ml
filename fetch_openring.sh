@@ -1,4 +1,4 @@
-openring -S sources.txt -n 4 -l 128 < "/home/chrono/git/joelchrono12.ml/_includes/in.html" > "/home/chrono/git/joelchrono12.ml/_includes/out.html"
+openring -S sources.txt -n 4 -l 128 < "$HOME/Documents/git/joelchrono12.ml/_includes/in.html" > "$HOME/Documents/git/joelchrono12.ml/_includes/out.html"
 
 #-s https://noisydeadlines.net/feed/ \
 #-s https://garrit.xyz/rss.xml \
