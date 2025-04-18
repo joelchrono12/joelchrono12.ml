@@ -6,6 +6,7 @@ tags: blog personal thoughts
 permalink: /blog/blogging-expectations/
 layout: post
 date: 2025-04-09 22:18:30 -0600
+updated: 2025-04-09 22:18:30 -0600
 host: fosstodon.org
 username: joel
 com_id: 114311837967518950
@@ -42,5 +43,17 @@ I write this and I know my closer circle of friends will be like *"you evil atte
 Maybe I'll look back at this in a few months and be like *"woah I sure was desperate"* but well, I already committed to the bit so I may as well publish it now. *I sure hope this is not the first ever blog post someone reads from me!* But this is my website, I do whatever I want with it, that's the beauty of blogging, isn't it? I may be shouting to the void, but at least I can shout.
 
 *Okay that last line was kinda cringe.*
+
+---
+## Related articles
+
+Quite a bit of people have shared their own thoughts about this post. Check them out here!
+
+- [Blogging Expectations](https://kevquirk.com/blog/blogging-expectations) by [@kev](https://fosstodon.org/@kev)
+- [Blogging Expectations](https://thomasrigby.com/posts/blogging-expectations/) by [@hryggrbyr](https://fedia.social/@hryggrbyr)
+- [Blogging for Attention](https://axxuy.xyz/blog/posts/2025/attention/) by [@axxuy](https://pony.social/@axxuy)
+- [Hoping the Void Shouts Back](https://vzqk50.com/blog/hoping-the-void-shouts-back/) by [@ApisNecros](https://ioc.exchange/@ApisNecros)
+
+If you also wrote about this topic, please [let me know](/contact) so I can share your post here!
 
 This is day 46 of [#100DaysToOffload](https://100daystooffload.com)
