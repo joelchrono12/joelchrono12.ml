@@ -17,7 +17,7 @@ I split this section between desktop (mostly Free Software and available on Linu
 
 ### Desktop
 
-- [Void Linux](https://voidlinux.org/): A unique distro that is not a fork, its super light, fast and customizable.
+- [Arch Linux](https://archlinux.org/): I've finally done it, I use Arch btw.
 - [Neovim](https://neovim.io/): A terminal text editor where I write my blogs, edit files and scripts.
 - [Alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
 - [DWM](https://awesomewm.org/): A lightweight tiling window manager, quite patched up to fit my taste.
@@ -89,6 +89,7 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 # Unused but good
 
 I decided to make this section to mention software that I no longer use but might work for you.
+- [Void Linux](https://voidlinux.org/): A unique distro that is not a fork, its super light, fast and customizable.
 - [Godot](https://godotengine.org): Easy to learn yet advanced Game engine, [check the games I've made!](https://joelchrono12.itch.io/)
 - [Qutebrowser](https://qutebrowser.org): Minimal-keyboard driven browser based on QtWebEngine. I no longer use it because of the lack of ad blocking.
 - [Endeavour OS](https://endeavouros.com): A simple arch based distro that is easy to install, it comes with the benefits and drawbacks of the Arch way, I just got a bit bored of it.
