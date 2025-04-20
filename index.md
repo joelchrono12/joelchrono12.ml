@@ -45,7 +45,7 @@ You can find other links in the [more](/more) section.
         // Build the content in the format similar to your bash script
         container.innerHTML = `
           <div><b>Last listened track:</b></br>
-          <i>${track}</i> by <i>${artist}</i>. - ${dateFormatted}</div>
+          <i>${track}</i> by <i>${artist}</i>. <br>${dateFormatted}</div>
         `;
         if (albumArt) {
         container.innerHTML += `<p><strong>Album Art:</strong></p>

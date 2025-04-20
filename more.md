@@ -12,6 +12,7 @@ layout: default
 
 - __[Blogroll](/more/blogroll)__: A list of blogs I follow and I recommend you to check out. Not all of them maybe of your liking, but they're of mine.
 - __[Tags](/more/tags)__: See all the tags I use for my blogposts, alongside their RSS feeds!
+- __[Links](/more/links)__: Just a bunch of links leading to sites or things I like, no descriptions, just lists.
 - __[Statistics](/more/stats)__: Fun statistics about my blog.
 - __[Booklog](/more/booklog/)__: Books I've read. Check [my Bookwyrm account](https://bookrastinating.com/user/joel) for faster updates.
 - __[Uses](/more/uses)__: The software, hardware and other tools I use in my life. Be it for work or hobbies, everything's here.

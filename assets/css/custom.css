@@ -644,11 +644,12 @@ gap: 1rem;
 }
 
 #latest-listen {
-  padding: 1rem;
-  background-color: var(--code-bg);
-  border: 2px solid var(--border);
-  /*margin-top: 20px;*/
-}
+	/*width: 30rem;*/
+	padding: 1rem;
+	background-color: var(--code-bg);
+	border: 2px solid var(--border);
+	margin: 1rem;
+
 
 /*#latest-listen img {*/
   /*border-radius: 8px;*/
