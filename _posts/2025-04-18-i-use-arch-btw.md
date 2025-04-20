@@ -9,6 +9,7 @@ date: 2025-04-20 17:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114372857666771653
+image: 'assets/img/blogs/2025-04-20-archlinux.webp'
 ---
 
 For some reason---definitely not sheer peer-pressure--- I have decided to switch to Arch Linux.
@@ -102,6 +103,9 @@ Honestly, most of this troubleshooting is identical to what [I did on Void Linux
 - Whatever I missed, there's probably something that I don't know I need until I do!
 
 ## First impressions
+
+{% include img.html image='/assets/img/blogs/2025-04-20-archlinux.png' caption='My current desktop' %}
+
 
 If I am honest, this looks and feels quite similar to Void Linux, except that I started out from scratch, and of course, I have to input two passwords to decrypt the system.
 
