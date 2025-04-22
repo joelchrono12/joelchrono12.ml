@@ -3,6 +3,7 @@ title: links | joelchrono
 header: Links
 description: Just a bunch of links to interesting places, no explanations, just titles, lists, and exploration.
 permalink: /more/links/
+redirect_from: /links/
 layout: default
 ---
 
@@ -23,9 +24,15 @@ WIP
 - [Wiby.me](https://wiby.me/)
 
 ## To track stuff
+- [ActivityWatch](https://activitywatch.net)
 - [Backloggd](https://backloggd.com)
+- [Bookrastinating](https://bookrastinating.com)
 - [Anilist](https://anilist.co)
 - [Letterboxd](https://letterboxd.com)
+
+## Linux Knowledge
+
+- [Arch Wiki](https://wiki.archlinux.org/)
 
 
 {% include img.html image='/assets/img/chill_chrono_trigger.gif' caption='Work in Progress' alt='Chrono Trigger characters chilling in a bonfire' %}
