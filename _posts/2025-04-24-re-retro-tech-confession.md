@@ -2,7 +2,7 @@
 title: "Re: Retro Tech Confession"
 header: "Re: Retro Tech Confession"
 description: A relatable blog post by Dom talking about how actually dealing with retro hardware is not that fun for him.
-tags: tech gaming response ramble
+tags: tech gaming response ramble nostalgia
 permalink: /blog/retro-tech-confession/
 layout: post
 date: 2025-04-24 22:26:37 -0600
