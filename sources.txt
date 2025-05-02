@@ -1,3 +1,4 @@
+https://blog.ohheybrian.com/feeds/all.atom.xml
 https://bobbyhiltz.com/atom.xml
 https://brandont.dev/atom.xml
 https://claytonerrington.com/feed.xml
@@ -8,8 +9,10 @@ https://lazybea.rs/index.xml
 https://megancarnes.blog/feed/?type=rss/
 https://michal.sapka.pl/rss.xml
 https://moddedbear.com/index.xml
+https://mtwb.blog/rss/
 https://rknight.me/subscribe/posts/atom.xml
 https://rldane.space/feeds/all.atom.xml
 https://sheepdev.xyz/feed
 https://shellsharks.com/feeds/feed.xml
 https://tahimik.com/journal.rss
+https://write.as/hobbsc/feed/
