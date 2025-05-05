@@ -33,13 +33,13 @@ I find them pretty comfortable, and I absolutely don't care at all about their l
 
 ## Favourite dessert?
 
-Carlota de Limón, it's a fantastic dessert which is pretty popular in Mexican culture. Maria cookies are a part of every Mexican's life, and they are the essential ingredient of Carlota is. I will never get tired of eating it, and I will always want more.
+Carlota de Limón, it's a fantastic dessert which is pretty popular in Mexican culture. Maria cookies are a part of every Mexican's life, and they are the essential ingredient of a Carlota. I will never get tired of eating it, and I will always want more.
 
-It's quite simple and traditiona, and it's always better when it's eaten right out of the fridge. Simple perfect for summer, and every other season as well.
+It's quite simple and traditional, and so tastey, especially when eaten right out of the fridge. Simply perfect for summer, and every other season as well.
 
 ## The first thing you do when you wake up?
 
-Read! my local church has a Bible study early in the morning, I join a phone call and we all read a bible chapters and talk about it, then we pray together, and continue the day! I have managed to keep it going throughout the whole year somehow, which has been nice, a couple of misses, but never for long.
+Read! my local church has a Bible study early in the morning, I join a phone call and we all read a bible chapter and talk about it, then we pray together, and continue the day! I have managed to keep it going throughout the whole year somehow, which has been nice, a couple of misses, but never for long.
 
 ## Age you’d like to stick at?
 
