@@ -6,6 +6,7 @@ tags: ramble thoughts personal storytime
 permalink: /blog/the-constant-need-for-a-source-of-entertainment/
 layout: post
 date: 2025-05-06 21:49:55 -0600
+updated: 2025-05-06 22:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114464653773570893
@@ -29,7 +30,10 @@ Old coins from a bygone era (any time before I was born) cool branches I could u
 
 Bottle caps were the best, and quite common due to *Coca-Cola*'s popularity in Mexico even in rural areas. I could turn them into *anything I wanted* with the power of my mind! It was something I could flick with my finger, it was a piece to play board games, it was a building block, it was something to throw and catch.
 
-However, my favorite way to play with them, was to turn them into a flying car! Specifically, those from the Jetsons, a pretty old cartoon that aired on *Canal 5* from time to time, which I really enjoyed. I've done a drawing to compare what my mind saw and what was really going on in case you are curious.
+However, my favorite way to play with them, was to turn them into a flying car! Specifically, those from the Jetsons, a pretty old cartoon that aired on *Canal 5* from time to time, which I really enjoyed. I just had to cut the collar of the bottle cap in half, which became the hood or dome of the car, and the other part would become the rear wing, like this:
+
+{% include img.html alt='The bottle cap was the body of the car, half of the collar  stayed stuck to the cap, the other half became the dome of the car!' caption='A quick drawing of what I did, and what it looked like in my head' image='/assets/img/blogs/2025-05-06-bottle-cap-jetsons.jpg' %}
+
 
 I think it was a pretty cool toy, I came up with the idea myself, not sure how, but I turned plenty of caps into supersonic vehicles for many of years. At some point I just stopped doing it, for no real reason other than "growing up", I guess.
 
