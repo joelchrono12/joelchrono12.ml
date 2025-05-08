@@ -75,7 +75,17 @@ You can find other links in the [more](/more) section.
 <div class="flex-container">
 {% for post in site.posts limit:5 %}
 <article>
-  <h3><a href="{{ post.url }}"><b>{{ post.title }}</b></a></h3>
+  <h3>
+{% if post.tags contains "book" %}
+<a href="/more/tags/book">📖</a>
+{% endif %}
+{% if post.tags contains "response" %}
+<a href="/more/tags/response">💬</a>
+{% endif %}
+{% if post.tags contains "game" %}
+<a href="/more/tags/game">🕹</a>
+{% endif %}
+  <a href="{{ post.url }}"><b>{{ post.title }}</b></a></h3>
   <div>{{ post.description | strip_html | strip_newlines }}</div>
   <small>{{ post.date | date: "%B %d, %Y" }}</small>
 </article>
