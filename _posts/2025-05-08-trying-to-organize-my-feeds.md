@@ -25,7 +25,7 @@ Obviously, a couple of categories is not really sustainable anymore. Not everyon
 
 There's also the problem of some bloggers writing with more frequency than others, with different levels of relevance as well.
 
-[Ruben Schade](https://rubenerd.com) posts a lot of stuff at all times, which means he'll show up much more regularly than [Mike Sass](https://flamedfury.com) who doesn't post that often.
+[Ruben Schade](https://rubenerd.com) posts a lot of stuff at all times, which means he'll show up much more regularly than [Flamed](https://flamedfury.com) who doesn't post that often.
 
 There's also [HexDSL](https://dandelion-utilitarian.com) or [Hollie](https://eilloh.net) who share micro-thoughts or drawings more than regular posts, which means that they have a lot of entries on their feeds, and even if they're quick to read, they take more screen space than I'd like.
 
