@@ -340,10 +340,15 @@ figcaption {
 
 blockquote{
     border-left: 4px solid var(--border);
-    padding: 8px 25px;
+    padding: .2rem 1.5rem;
     font-style: italic;
     margin: 0 0 1.2rem;
     position: relative;
+}
+
+blockquote p{
+	padding: 0;
+	margin: 0;
 }
 
 article.post, .post{
