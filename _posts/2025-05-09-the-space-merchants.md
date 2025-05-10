@@ -27,7 +27,7 @@ Of course, as this guy is kind of smart, he'll work his way up and try to uncove
 
 The way this book goes from A to B to C is quite remarkable. There will be some loose ends, but none of them matter that much. The point is how the protagonist evolves and changes after facing different sides of society and how it works.
 
-A lot of the things in the book are just remain incredibly relevant to this day, the idea of consummerism and corporations out of control, the overpopulation of the planet and the scarcity of resources, the inequality of the economic landscape and everything else. It has barely dated at all in those regards.
+A lot of the themes in the book remain incredibly relevant to this day, the idea of consummerism and corporations out of control, the overpopulation of the planet and the scarcity of resources, the inequality of the economic landscape and everything else. It has barely dated at all in those regards.
 
 However, the science aspects of it can be a little hit or miss, although I think that's just kind of charming. Computers don't exist, basically everyone is addicted to smoking, phones just work as they did in the 50s. There are things I didn't even understand because of how dated it is. According to some summaries I saw, rockets are being used as a transportation method within the planet? I didn't even get that while reading, I just assumed they were regular planes. All those issues can be easily overlooked, if a little confusing some times.
 
@@ -51,5 +51,5 @@ I don't highlight quotes that often, but this book had some pretty interesting o
 
 > She'd been brought up in a deeply moral, sales-fearing home, and you couldn't expect her to commit the high commercial crime of breaking a labor contract without there being a terrific emotional lashback.
 
-> ...I could not relax in the presence of so many books without a word of advertising in any of them. I am not prude about solitary pleasures when they server a userful purpose. But my tolerance has limits.
+> ...I could not relax in the presence of so many books without a word of advertising in any of them. I am not prude about solitary pleasures when they serve a useful purpose. But my tolerance has limits.
 
