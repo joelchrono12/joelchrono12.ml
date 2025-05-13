@@ -25,11 +25,11 @@ __Last updated: February 12th,2024__
 <div class="flex-container">
 {% for blogger in sorted_blogroll %}
 <article>
-<h3 class="post">
-<a href="{{ blogger.link }}">{{ blogger.name }}</a>
+<h3 class="post" style="padding:0; margin:0;">
+<a class="post-title" href="{{ blogger.link }}">{{ blogger.name }}</a>
+<a class="post-date" href="{{ blogger.rss }}">RSS</a>
 </h3> 
 <div class="blog-description">{{ blogger.desc | newline_to_br }}</div>
-<a href="{{ blogger.rss }}">RSS Feed</a>
 </article>
 {% endfor %}
 </div>
@@ -48,7 +48,7 @@ These blogs and personal websites have cool buttons, so I added them. Send me yo
 
 Feel free to add my button to your site using this snippet (do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking) it though).
 
-<a href="{{ site.url }}" target="_blank"><img class= "badge" alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12.gif" /></a>
+<a href="{{ site.url }}" target="_blank"><img class= "badge" alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono.png" /></a>
 ```html
 <a href="{{ site.url }}" target="_blank"><img alt="Add my badge to your website! I'll add yours back!" src="/assets/img/badges/joelchrono12.gif" /></a>
 ```
