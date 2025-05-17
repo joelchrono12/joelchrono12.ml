@@ -13,8 +13,7 @@ I am Joel, hi! you are visiting my personal website. Here you can see some of
 my thoughts and ramblings about tech, gaming and other hobbies, my favorite of
 which is [origami](/origami). I hope you enjoy your visit!
 
-Take your time and explore the many sections you can see in the navigation bar!
-You can find other links in the [more](/more) section.
+Take your time and explore for a while, navigate around and find even [more sections](/more/) to check out if you wish.
 </article>
 
 <!-- Place this where you want the latest song info to show -->
