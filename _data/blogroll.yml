@@ -12,6 +12,13 @@
     the blog because of that, and I stayed for the content. Although there is
     no dark theme here, the book reviews, technology and retro-related content
     might just be enough to redeem it."
+- name: Anhvn
+  link: https://anhvn.com/
+  rss: https://anhvn.com/feed.xml
+  desc: "Anh is just absolutely incredible at web design. Her posts must be
+  read straight from her website, only use the RSS feed to know they came out,
+  and immediately open a new tab and check it out, her designs and ideas are a
+  delight to see"
 - name: Analog Office
   desc: "By Anna Havron, this site is a love letter to analog office supplies
     and organization methods, untethered from the digital world. This blog
@@ -20,11 +27,18 @@
   rss: https://analogoffice.net/feed.xml
 
 - name: Andy Bell
-  link: https://andy-bell.co.uk
-  rss: https://andy-bell.co.uk/feed
+  link: https://bell.bz/
+  rss: https://bell.bz/feed.xml
   desc: "Andy doesn't post very often, but when he does, its usually about CSS
     shenanigans and web design stuff that I usually just copy and paste if it's
     shiny and fun. Lovely website—but it doesn't have a dark mode."
+- name: BASIC
+  link: https://basic.bearblog.dev/
+  rss: https://basic.bearblog.dev/feed/
+  desc: "A pretty great blog I discovered while reading other folks. Turns out
+  to be a known fediverse friend who wishes to remain anonymous. Whatever the
+  case, the site is great and features posts about the web, hardware tech and
+  the like."
 - name: Benjamin Hollon
   link: https://benjaminhollon.com/
   rss: https://benjaminhollon.com/musings/feed/
@@ -32,10 +46,10 @@
     and tinker with everything his hands can reach. Only God knows how many
     coding and writing projects he's working on. He blogs about those projects
     and makes me feel I'm wasting my life."
-- name: BBBHLTZ
-  link: https://bbbhltz.codeberg.page
-  rss: https://bbbhltz.codeberg.page/rss.xml
-  desc: "Bobby Hiltz likes to write about technology, education and whatever
+- name: Bobby Hiltz
+  link: https://bobbyhiltz.com
+  rss: https://bobbyhiltz.com/rss.xml
+  desc: "Bobby likes to write about technology, education and whatever
     automations he comes up with avoid working on things more than he needs to.
     Tools like pandoc, claws mail and similar things. I've found or
     rediscovered such tools, because of him!"
@@ -81,9 +95,9 @@
     alive, and it keeps on going! He posts every couple weeks and checking his
     archives is very fun. He shares some of those in his Mastodon account and
     many times they still hold up!"
-- name: Dusan Mitrovic
-  link: https://dusanmitrovic.xyz/
-  rss: https://dusanmitrovic.xyz/rss
+- name: Dušan Mitrovic
+  link: https://dusanmitrovic.rs/
+  rss: https://dusanmitrovic.rs/rss
   desc: "Now this is what I call a good dark theme! Dusan likes to talk about
     self-hosting, life and software development. Sometimes he goes analog, like
     with cassette tapes! Which is fun. A little less active but every blogpost
@@ -123,6 +137,13 @@
     don't really understand. Research, education and other things using R and
     the like. If you are interested in learning R, and you know Spanish, you
     should check out her content!"
+- name : Matt
+  link: https://mtwb.blog/
+  rss: https://mtwb.blog/rss/
+  desc: "Oh look, it's The Linux Cast, he has a blog, and turns out, he's been
+  pretty active on it. His posts are very varied, from book reviews, to random
+  rambles about technology or even fanfiction, general life advice and
+  thoughts, it's a side not many know of him"
 - name: Mike Stone
   link: https://mikestone.me
   rss: https://mikestone.me/feed.xml
@@ -158,6 +179,12 @@
     blog is not very new, but his content is still very well written. The
     topics covered are pretty varied, from terminal tools to opinions and
     thoughts about life, software and philosophy."
+- name: Kwon.nyc
+  link: https://kwon.nyc/
+  rss: https://kwon.nyc/notes/index.xml
+  desc: "Rachel J. Kown is a blogger I immediately found relatable in quite a
+  few ways, her life was pretty interesting and her posts are always wonderful
+  to stumble upon, they may be rare, but always a treat"
 - name: Rach Smith
   link: https://rachsmith.com
   rss: https://rachsmith.com/rss

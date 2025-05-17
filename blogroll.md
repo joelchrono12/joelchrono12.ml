@@ -25,9 +25,9 @@ __Last updated: February 12th,2024__
 <div class="flex-container">
 {% for blogger in sorted_blogroll %}
 <article>
-<h3 class="post" style="padding:0; margin:0;">
+<h3 class="post" style="align-items: normal;">
 <a class="post-title" href="{{ blogger.link }}">{{ blogger.name }}</a>
-<a class="post-date" href="{{ blogger.rss }}">RSS</a>
+<a class="post-title" href="{{ blogger.rss }}">RSS</a>
 </h3> 
 <div class="blog-description">{{ blogger.desc | newline_to_br }}</div>
 </article>

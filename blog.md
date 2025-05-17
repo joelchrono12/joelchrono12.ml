@@ -40,7 +40,7 @@ This is reversed order, if you want to start from the beginning
 <ul class="posts">
     {% for month in postsByMonth %}
     <li>
-    <h3 id="{{ month.name }}-{{year.name}}">{{ month.name }}</h3>
+    <h3 class="post" id="{{ month.name }}-{{year.name}}">{{ month.name }}</h3>
         <ul>
         {% for post in month.items  %}
         <li class="post">
