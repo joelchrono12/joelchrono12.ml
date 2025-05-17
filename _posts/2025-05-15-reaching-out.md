@@ -6,6 +6,7 @@ tags: community email thanks small-web
 permalink: /blog/reaching-out/
 layout: post
 date: 2025-05-15 20:07:25 -0600
+updated: 2025-05-16 20:06:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114515090843043025
@@ -17,7 +18,17 @@ Some of them were related to my [feed organization struggles](/blog/trying-to-or
 
 This was a nice way to remember that there's people who read me, and it has encouraged me to keep on writing for those who have found me worthy. It's nice to know that it's not just bots crawling around my archives, but real human beings surfing the web and seeking to interact and communicate with each other.
 
-I have not asked for your permission, so I will not mention names, but you know who you are, and I appreciate you. Feel free to let me know if you don't mind a mention, so I update this post with your website and keep expanding this little web of ours.
+I know I didn't ask for your permission, but I am giving a shout-out to y'all anyway. Thanks for reaching out via email, the conversations have been great!
+
+- [Raul](https://minim.blog)
+- [Anita](https://anitalewis.org/)
+- [TK](https://tk-web.top)
+- [Thomas Rigby](https://thomasrigby.com/)
+- [Amin](https://benjaminhollon.com)
+- [Basic](https://basic.bearblog.dev/)
+- [Nikki](https://dearmishmash.bearblog.dev)
+
+If you reached out and I didn't mention you, I am sorry, please let me know!
 
 Knowing that I've also inspired some people to create websites, and to participate in challenges and respond to my posts with their own articles, brings me joy! I've tried to read what I can, and to send emails back as well.
 
