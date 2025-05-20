@@ -145,7 +145,7 @@ progress {
   {% for item in year_group.items reversed %}
   <div class="book-cover-container">
   <div class="book-cover">
-  <img class="book-cover-img" src="{{ item.cover }}">
+  <img alt="{{ item.title }}" class="book-cover-img" src="{{ item.cover }}">
   </div>
   <div class="book-content">
       <div class="info">
