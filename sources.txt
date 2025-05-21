@@ -1,7 +1,6 @@
 https://82mhz.net/index.xml
 https://analogoffice.net/feed.xml
 https://anhvn.com/feed.xml
-https://basic.bearblog.dev/feed/
 https://bell.bz/feed.xml
 https://benjaminhollon.com/musings/feed/
 https://blog.ohheybrian.com/feeds/all.atom.xml
@@ -35,5 +34,4 @@ https://scottbanwart.com/blog/feed/atom.xml
 https://sheepdev.xyz/feed
 https://shellsharks.com/feeds/feed.xml
 https://tahimik.com/journal.rss
-https://taonaw.com/feed.xml
 https://write.as/hobbsc/feed/
