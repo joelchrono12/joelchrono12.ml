@@ -12,7 +12,8 @@ end
 def generate_tag_file(tag)
   # generate tag file
   File.open("tags/#{tag}.md", "wb") do |file|
-    file << "---\nlayout: tags\ntag-name: #{tag}\npermalink: /more/tags/#{tag}/\n---\n"
+    #file << "---\nlayout: tags\ntag-name: #{tag}\npermalink: /more/tags/#{tag}/\n---\n"
+    file << "---\nlayout: tags\ntag-name: #{tag}\nredirect_from: /tags/#{tag}/\npermalink: /more/tags/#{tag}/\n---\n"
   end
 end
 # generate feed file

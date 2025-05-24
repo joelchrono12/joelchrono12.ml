@@ -174,7 +174,7 @@ This has been day 69 of [#100DaysToOffload](https://100DaysToOffload.com)
 
 * [A new comment system for my static Jekyll site (Aristath)](https://aristath.github.io/blog/static-site-comments-using-github-issues-api)
 * [Adding comments to your static blog with Mastodon (Carl Schwan)](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/)
-* Previous posts by me talking about [GitHub's]({{ site.url  }}/adding-comments-blog/) and [Mastodon's]({{ site.url }}/blog/mastodon-comments-and-changes/) comment systems.
+* Previous posts by me talking about [GitHub's](/blog/adding-comments-blog/) and [Mastodon's](/blog/mastodon-comments-and-changes/) comment systems.
 
 
 {% include reply.html %}

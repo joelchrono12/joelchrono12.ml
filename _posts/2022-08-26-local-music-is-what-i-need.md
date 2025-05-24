@@ -37,7 +37,7 @@ I can also make a decent folder structure, since I hate having a single Music fo
 
 ## Programs I use for playing, editing and scrobbling
 
-A neat feature that both Jellyfin and Navidrome had, and that I use during some of my [Monthly Summaries]({{ site.url }}/tags/monthly) is music scrobbling, which means keeping track of listened tracks. I was wondering if it was possible to do the same thing, and I realized that its actually really easy!
+A neat feature that both Jellyfin and Navidrome had, and that I use during some of my [Monthly Summaries](/tags/monthly) is music scrobbling, which means keeping track of listened tracks. I was wondering if it was possible to do the same thing, and I realized that its actually really easy!
 
 Installing [Simple Scrobbler](https://simple-last-fm-scrobbler.github.io/sls/) from F-Droid did the trick, I use [Listenbrainz](https://listenbrainz.org/) to track my music consumption, it works quite well.
 

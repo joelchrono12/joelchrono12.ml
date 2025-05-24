@@ -9,14 +9,14 @@ layout: default
 
 <article markdown="1">
 ## Enjoy your stay here!
-I am Joel, hi! you are visiting my personal website. Here you can see some of
-my thoughts and ramblings about tech, gaming and other hobbies, my favorite of
-which is [origami](/origami). I hope you enjoy your visit!
 
-Take your time and explore for a while, navigate around and find even [more sections](/more/) to check out if you wish.
+Hey! I'm **Joel**.
+
+You are visiting my personal website. Here you can see some of my **thoughts** and **ramblings** about **tech**, **gaming** and **other hobbies**, my favorite of which is [origami](/origami). I hope you enjoy your visit!
+
+Take your time and explore as much as you want, there's [plenty of sections](/more/) to dive into!
 </article>
 
-<!-- Place this where you want the latest song info to show -->
 <!-- Place this where you want the latest song info to show -->
 <div id="latest-listen">
   <p>Loading latest listen...</p>
