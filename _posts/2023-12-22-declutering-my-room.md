@@ -25,4 +25,3 @@ Now that I confessed the true purpose behind this writing, I shall now accept my
 BYE!
 
 This is day 93 of [#100DaysToOffload](https://100daystooffload.com)
-{% include reply.html %}
