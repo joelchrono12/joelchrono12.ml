@@ -31,7 +31,7 @@ My old desk, was one of the old style ones from the 2000s or so, with a slide-ou
 
 Enough backstory. I bought those two things from IKEA, first we assembled the cabinet, which took the most time, and replaced a modular metal wire storage rack---which I passed down to my sister. The next day we assembled the desk, pretty easy and painless to me.
 
-I won't mention the cabinet much, it is what it is---and IKEA BRIMNES cabinet. Here's a picture of it though, although it's a bit of a mess inside, like all cabinets are.
+I won't mention the cabinet much, it is what it is---an IKEA BRIMNES cabinet. Here's a picture of it though, although it's a bit of a mess inside, like all cabinets are.
 
 {% include img.html image='/assets/img/blogs/2025-05-25-my-new-cabinet.png' width='700px' caption='My new cabinet' %}
 
@@ -43,7 +43,7 @@ The shelf under it is a bit meh, it's only 7cm high, and what looks like a "draw
 
 The space on top I decorated with a mousepad, a pencil holder, a lamp for aesthetics and some other peripherals.
 
-To make space for the keyboard, I used the rail on the back to rise my laptop. I initially bought a stand for it but I think this works better, since it can get even further to the back, which allows more space for arms to rest.
+To make space for the keyboard, I used the rail on the back to raise my laptop. I initially bought a stand for it but I think this works better, since it can get even further to the back, which allows more space for my palms to rest.
 
 I had heard some things about IKEA, both good and bad, but in my experience both the desk and the cabinet were quite easy to build with the help of my sister. She's really into LEGOs so it was like the adult version of that. I had a nice time as well, nothing that complicated happened, but I wonder how we would fare building something bigger later on. For now, this is good enough.
 
@@ -57,15 +57,15 @@ I wasn't really planning on buying a new keyboard, I have never been interested 
 
 However, I made the mistake of just looking it up, and I saw one for very cheap, and with colors I really liked, so I had no choice but to cave in and get it anyway.
 
-The Machenike K500 is a budget keyboard, plastic body and all. Honestly, I couldn't care less. I have zero experience in this little world and I don't know if I really want to get into it fully.
+The Machenike K500 is a budget keyboard, plastic body and all. Honestly, I couldn't care less. I have zero experience in this little world and I don't know if I really want to get into it any further.
 
 Regardless, it just arrived a few hours ago as of the writing of this piece, and this is the first chunk of text written on it.
 
-They keyboard feels nice to me, I don't know about lube, or sensitivity, or if the sound it makes is super satisfying. it has a numpad and full arrow keys, and that's really all I needed. The only key I really miss right now is the Delete key, but I will survive.
+They keyboard feels nice to me, I don't know about lube, or sensitivity, or if the sound it makes is super satisfying. It has a numpad and full arrow keys, and that's really all I needed. The only key I really miss right now is the Delete key, but I will survive.
 
 The keyboard is also "hot swap" capable, it comes with some Cherry MX Red clones and RGB too. I set it up so only the keys I press light up in white, nothing too fancy. It has some software to setup profiles or customize things further, but it's proprietary and I don't really care much.
 
-The layout I got is the standard Latin Spanish one, with an `ñ` and some different key placements, which I appreciate a lot. The font is more standard than what I saw on reviews with the US layout, with a font that was a bit too gamer for my taste. My first impressions are quite positive, I am satisfied with my purchase so far.
+The layout I got is the standard Latin Spanish one, with an `ñ` and some different key placements, which are the same as my laptop's, so I'm used to it. The font is more standard than what I saw on reviews with the US layout, with which was a bit too gamer for my taste. My first impressions are quite positive, I am satisfied with my purchase so far.
 
 {% include img.html image='/assets/img/blogs/2025-05-25-my-new-keyboard.png' caption='My new keyboard' %}
 
@@ -73,9 +73,9 @@ The layout I got is the standard Latin Spanish one, with an `ñ` and some differ
 
 Getting to really customize my space how I want is something that I couldn't really afford when I was a student, it's one of those nice adult things I get to do with my own money and it's honestly kind of awesome.
 
-The keyboard I got feels good so far, I've never really had issues with thin laptop keyabords, I actually kind of liked them---I admit that I barely used other keyboards but the cheap ones at school. I am liking the feel I've gotten so far typing this. I hope I don't get the itch to really get into mechanical keyboards, it's too expensive, and scary---*send help.*
+The keyboard I got feels good so far, I've never really had issues with thin laptop keyabords, I actually kind of liked them---I admit that I barely used other keyboards but the cheap ones at school. I am liking the feel it has while typing all of this. I hope I don't get the itch to really get into mechanical keyboards, it's too expensive, and scary---*send help.*
 
-In the end, I am really happy with how everything turned out! From assemtly to decorating, it was a nice time!
+In the end, I am really happy with how everything turned out! From assemtly to decorating everything, I had a nice time.
 
 This is day 71 of [#100DaysToOffload](https://100daystooffload.com)
 
