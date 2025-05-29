@@ -476,9 +476,11 @@ details[open] > :last-child {
 }
 
 #markdown-toc {
-    list-style: decimal;
-    /*border-radius: 16px;*/
-    background-color: var(--accent-bg);
+	list-style: decimal;
+	/*border-radius: 16px;*/
+	background-color: var(--code-bg);
+	border: 2px solid var(--code);
+	padding-left: 3rem;
 }
 
 
