@@ -1,8 +1,8 @@
 ---
 title: "Videogame Franchises 2"
 header: "Videogame Franchises 2"
-description: More franchises that I've somewhat played. This time Dragon Quest, Ys, Metal Gear Solid, and Monster Hunter!
-tags: yes
+description: More franchises that I've somewhat played. This time Dragon Quest, Ys, and Metal Gear Solid!
+tags: gaming storytime
 permalink: /blog/videogame-franchises-2/
 layout: post
 date: 2025-05-29 21:50:00 -0600
