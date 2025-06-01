@@ -1,3 +1,9 @@
+- title: "The Big Time"
+  author: "Fritz Leiber"
+  cover: "/assets/img/books/the-big-time.jpg"
+  start: "2025-05-09"
+  end: "In Progress"
+  progress: 56
 - title: "The Space Merchants"
   author: "C.M. Kornbluth, Frederik Pohl"
   cover: "/assets/img/books/the-space-merchants.jpg"
