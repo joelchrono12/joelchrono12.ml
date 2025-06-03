@@ -3,7 +3,8 @@ title: How to make simple collage images
 header: How to make simple collage images
 description: I found a simple program to generate collages and use them as banners for my blog posts!
 tags: foss webdev blog tutorial
-permalink: /blog/how-to-create-simple-banner-images/
+permalink: /blog/how-to-create-simple-collage-images/
+redirect_from: /blog/how-to-create-simple-banner-images/
 layout: post
 date: 2025-06-01 17:16:17 -0600
 host: fosstodon.org
