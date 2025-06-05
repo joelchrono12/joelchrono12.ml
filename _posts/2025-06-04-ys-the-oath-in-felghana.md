@@ -12,11 +12,11 @@ com_id: 114629101739105427
 image: 'assets/img/blogs/2025-06-04-thumbnail.webp'
 
 ---
-A year or so ago, *I played Ys Seven*, and discovered the *Ys* series for the first time. This game franchise is one of a kind. It can be compared with plenty of series, as it borrows from a lot of them in a pretty unique, and yet familiar way; a mix between the fantasy and gameplay of *The Legend of Zelda*, with the exploration and progression of *Metroid*.
+A couple years ago, [*I completed Ys Seven*](/blog/march-2023-summary/#finished) (after a long time [leaving it incomplete](/blog/almost-completing-videogames/)), discovering the *Ys* series in the process. This game franchise is one of a kind. It can be compared with plenty of series, as it borrows from a lot of them in a pretty unique, and yet familiar way; a mix between the fantasy and gameplay of *The Legend of Zelda*, with the exploration and progression of *Metroid*.
 
 It seemed to me like a franchise worth exploring, so I set out to do just that. Eventually, I acquired *Ys VIII: Lacrimosa of Dana* and *Ys Origins*, both for the Nintendo Switch.
 
-The franchise follows the journeys of Adol, the red-headed adventurer protagonist of the series, across the lands and seas of Ys. There is no an overarching story between games, but they are still in the same world and chronology. I like to think of every game as a chronicle, an old tale passed down through generations. You can honestly play any game in any order, and have fun with each self-contained adventure.
+The franchise follows the journeys of Adol, the red-headed adventurer protagonist of the series, across the lands and seas of Ys. There is no overarching story between games, but they are still in the same world and chronology. I like to think of every game as a chronicle, an old tale passed down through generations. You can honestly play any game in any order, and have fun with each self-contained adventure.
 
 *But why did I choose this title instead of the other ones I have on Switch?*
 
