@@ -51,6 +51,7 @@ I didn't read as much manga this month for multiple reasons. Including reading a
 
 ## Games
 
+- **Metroid Dread**: I beat it! This game was awesome. I can't belive how good this experience was, I really recommend it to everyone, give it a go if you have a Switch, it is just the right difficulty, but it still is worth it. The final boss was a pain, but whatever, keep going.
 - **F-ZERO 99**: I got Nintendo's Online subscription and this game is free when you have it! The game is super fun and provides short bursts of adrenaline and action packed racing. Very good stuff.
 - **Monster Hunter Rise**: I bought this game digitally (I'm sorry 🤢), I'm having a nice time. I still don't even feel like upgrading my armor though so I still have to play it more
 - **Monster Hunter Portable 3rd**: I don't bring my switch to work, so I've been playing this game during commutes and other things, just as fun and very deep in gameplay.
