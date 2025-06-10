@@ -462,11 +462,11 @@ details[open] > :last-child {
 
 
 #markdown-toc ul {
-    list-style: decimal;
+    /*list-style: decimal;*/
 }
 
 #markdown-toc {
-	list-style: decimal;
+	list-style: initial;
 	/*border-radius: 16px;*/
 	background-color: var(--code-bg);
 	border: 2px solid var(--code);
