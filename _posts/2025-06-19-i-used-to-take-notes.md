@@ -19,15 +19,15 @@ The app was quick and simple, the website was light enough. I used it for some t
 
 Eventually, ~~free and open source software ruined my innocence~~ I opened my eyes and realized Google was data mining every detail of my life, and I decided to look for alternatives.
 
-Obviously, nothing was quite close to Keep's simplicity, but I ended up landing on [Joplin](https://joplinapp.org/), which came quite close, and had Markdown support!
+Obviously, nothing was quite close to Keep's simplicity, but I ended up landing on [Joplin](https://joplinapp.org/), which was less simple, but it had Markdown support and other features I thought could be useful.
 
 Joplin is pretty good to this day, and I used it for a long time for most of my time at University. 
 
-It became a true life saver to take my notes during online classes, due to the covid pandemic. LaTeX support, which I used heavily for equations and formulas during math related courses for my mechatronics engineering degree, was a fantastic feature I used a lot at the time.
+It became a true life saver during online classes, due to the covid pandemic. LaTeX support, which I used heavily for equations and formulas during math related courses for my mechatronics engineering degree, was a fantastic feature I didn't know I needed.
 
-I took notes during lectures and lessons, while watching videos or searching information on websites and books online.
+I took notes during lectures and lessons, while watching videos or searching information on websites and books online. I loved the dual panel view that rendered my notes in real time.
 
-Once I learned to use Vim, and realized that Joplin has a Vim mode built-in, things were even better than before---although I decided to use Neovim as my external editor for it sometimes.
+Once I learned to use Vim, and realized that Joplin has a Vim mode built-in, things were even better than before---although I decided to use Neovim as my external editor for it instead.
 
 Eventually ~~suckless ideals ruined my innocence~~ I realized that Joplin was built on Electron, and it needed way too many resources for what it did, and so, I ended up not using it as much, eventually removing it from my devices.
 
