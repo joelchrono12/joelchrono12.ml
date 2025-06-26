@@ -2,7 +2,8 @@
   <picture>
     <source srcset="{{ include.image | replace:'.png','.webp' | replace:'.jpg','.webp' | replace:'.jpeg','.webp' }}" type="image/webp">
     <source srcset="{{ include.image }}" {% if include.image contains '.jpg' or include.image contains '.jpeg' %}type="image/jpeg"{% elsif include.image contains '.png' %}type="image/png" {%elsif include.image contains '.gif'%}type="image/gif"{% endif %}>
-    <img class="mx-auto" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
+    <img class="mx-auto" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {% if include.width and include.width != '' %}width="{{ include.width }}"{% endif %} {% if include.height and include.height != '' %}height="{{ include.height }}"{% endif %}>
+
   </picture>
   {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif -%}
 </figure>
