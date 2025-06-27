@@ -7,7 +7,7 @@
         <span class="post-title">{{.Title}}<br>
           <span class="post-author">via {{.SourceTitle}}</span>
         </span>
-        <span class="post-date">{{.Date | datef "Jan 02"}}</span>
+	<span class="post-date"><time datetime="{{.Date}}">{{.Date | datef "Jan 02"}}</time></span>
       </a>
     </li>
     <!--<div>{{.Summary}}</div>-->

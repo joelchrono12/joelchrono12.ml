@@ -87,7 +87,7 @@ Take your time and explore as much as you want, there's [plenty of sections](/mo
 {% endif %}
   </h3>
   <div class="blog-description">{{ post.description | strip_html | strip_newlines }}</div>
-  <small>{{ post.date | date: "%B %d, %Y" }}</small>
+  <span class="post-date"><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
 </article>
 {% endfor %} 
 </div>

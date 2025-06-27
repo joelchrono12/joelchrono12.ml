@@ -1,9 +1,9 @@
 <nav class="main-navbar">
     <ul>
         {% for item in site.data.navigation %}
-            {% if item.link == page.url %}<li><a class="nav-current" href="{{ item.link }}">{{ item.name | downcase }}</a></li>
+            {% if item.link == page.url %}<li><a class="nav-current" href="{{ item.link }}">{{ item.name }}</a></li>
             {% elsif page.url != item.link %}
-            <li><a href="{{ item.link }}">{{ item.name | downcase }}</a></li>
+            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
