@@ -6,6 +6,7 @@ tags: ramble thoughts
 permalink: /blog/not-having-to-work-would-be-nice-but-not-like-this/
 layout: post
 date: 2025-06-26 21:49:55 -0600
+updated: 2025-06-27 05:35:0 -0600
 host: fosstodon.org
 username: joel
 com_id: 114753354581072203
@@ -18,7 +19,7 @@ Humanity finds itself with literally no goal to pursue anymore. The Space Race i
 
 Every human has their basic needs met, and now, they can pursue education throughout their whole lives, as many career paths and fields of study as they wish. Of course, all of it is pretty pointless, since just asking for an answer to the Overlords would spoil all the fun out of it. Humanity is no longer chasing dreams, not really.
 
-Another short story I read, [The Machine Stops](/the-machine-stops), depicts a future where humanity is now sheltered, living in isolation from each other, everyone has their own room, filled with everything they may need, a press of a button can provide entertainment, food, and infinite music. You can pretend to be learning by reading books that have been paraphrased and diluted countless time, until only their "true essence" remains. Oh, and you can contact whoever you want from anywhere in the world! Very advanced for something written in 1909. Everything seems fine until everything goes wrong, and what can you do when the illusion breaks?
+Another short story I read, [The Machine Stops](/blog/the-machine-stops), depicts a future where humanity is now sheltered, living in isolation from each other, everyone has their own room, filled with everything they may need, a press of a button can provide entertainment, food, and infinite music. You can pretend to be learning by reading books that have been paraphrased and diluted countless time, until only their "true essence" remains. Oh, and you can contact whoever you want from anywhere in the world! Very advanced for something written in 1909. Everything seems fine until everything goes wrong, and what can you do when the illusion breaks?
 
 And, well, nowadays AI is a thing, and it just keeps being developed for the dumbest of reasons, making any potential it may have seem like it'll get ruined anyway by whoever is in control.
 

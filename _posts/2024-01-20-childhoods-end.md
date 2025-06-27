@@ -3,7 +3,8 @@ title: Childhood's End
 header: Childhood's End
 description: My review of my second book of the year, by Arthur C. Clarke. A sci-fi futuristic utopia where Humanity thrives under the rule of an alien race with mysterious motives.
 tags: review reading book
-permalink: /blog/childhoods-end-review/
+permalink: /blog/childhoods-end/
+redirect_from: /blog/childhoods-end-review/
 layout: post
 date: 2024-01-20 21:00:27 -0600
 host: fosstodon.org
