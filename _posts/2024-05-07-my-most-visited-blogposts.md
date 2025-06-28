@@ -6,6 +6,7 @@ tags: blog internet community
 permalink: /blog/old-blogposts-people-visit/
 layout: post
 date: 2024-05-07 22:00:49 -0600
+updated: 2025-06-27 19:00:49 -0600
 host: fosstodon.org
 username: joel
 com_id: 112403627281044207
@@ -13,7 +14,7 @@ com_id: 112403627281044207
 
 Vercel, the hosting provider I use, actually has analytics. They are not as feature rich in their free tier, but I usually check them out from time to time and have noticed a couple of patterns.
 
-Today I saw Annnie's [Top Posts](https://weblog.anniegreens.lol/2024/05/weblog-top-posts) of her weblog, and I decided to share some of my most frequently visited ones. I don't think they are that good or anything, but I always see 6 or 7 people that visited them whenever I check.
+Today I saw Annie's [Top Posts](https://web.archive.org/web/20241025225853/https://weblog.anniegreens.lol/2024/05/weblog-top-posts) of her weblog, and I decided to share some of my most frequently visited ones. I don't think they are that good or anything, but I always see 6 or 7 people that visited them whenever I check.
 
 I don't have all time stats, since Vercel only let's me see the last 30 days, but by scrolling under the latest ones, there are some standouts that have managed to stay relevant despite the passing of time.
 
