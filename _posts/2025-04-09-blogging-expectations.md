@@ -12,7 +12,7 @@ username: joel
 com_id: 114311837967518950
 ---
 
-After stumblinng upon a post about [blogging feeling fake](https://robertbirming.com/blogging-feels-fake/) by Robert Birming, inspired by [another post](https://brandons-journal.com/new-post-new/) by Brandon, I also felt the sudden urge to write some thoughts about what I expect out of blogging. Go read them, I think they are both much better than whatever is coming up in the next few paragraphs. 🤣
+After stumblinng upon a post about [blogging feeling fake](https://web.archive.org/web/20250407193754/https://robertbirming.com/blogging-feels-fake/) by Robert Birming, inspired by [another post](https://web.archive.org/web/20250405072226/https://brandons-journal.com/new-post-new) by Brandon, I also felt the sudden urge to write some thoughts about what I expect out of blogging. Go read them, I think they are both much better than whatever is coming up in the next few paragraphs. 🤣
 
 Unlike both of them, I have never really thought about quitting my blog, I do not feel tired or like it's worthless or anything, I don't really have a problem with writing often or rarely, I just write when I remember to do it, sometimes daily, other times barely.
 
