@@ -5,7 +5,7 @@ description: Yep, this is a big one, feel free to read it in chunks
 tags: gaming
 permalink: /blog/top-25-games-of-all-time/
 layout: post
-date: 2025-06-08 06:55:34 -0600
+date: 2025-07-06 06:55:34 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
@@ -13,12 +13,12 @@ com_id: idcomments
 
 Picking out 25 favorite games is a harder task than one might think. And it's not even because of number 1, that's actually the easiest for me---you probably already know it. But I would have to make a list of all the games I've played, and then just, pick and choose.
 
-I guess my best way to go is to simply take the Top 25 Games I already did a many months ago, and expand upon it, and maybe make some corrections as well.
+I actually already tried to do this more than a year ago, this post was originally started in May of 2024. Since then
 
-This is the order the games that came out of my memory, just in case you want to know already. It is definitely not the final list at all, so it's not reall a spoiler. Still, I leave it here if you want a peek. In fact, this post was originally written in May of 2024, before I had played some games that will now show up in the final selection!
+This is what came out of my memory at the time, just in case you want to know already. It is quite different to the final list at all, so it's not really a spoiler. Still, if you want a peek, serve yourself.
 
 <details markdown=1>
-<summary>The list</summary>
+<summary>List out of memory in May 2024</summary>
 1. Chrono Trigger
 2. The Legend of Zelda: Minish Cap
 3. Final Fantasy VI
@@ -46,12 +46,13 @@ This is the order the games that came out of my memory, just in case you want to
 25. The Legend of Zelda: Breath of the Wild
 </details>
 
+Just for reference, here's also a table of contents, which you can view if you just want to jump ahead.
+
+<details markdown=1>
+<summary>Table of Contents (spoilers)</summary>
 * TOC
 {:toc}
-
-I actually wrote this list in May of 2024, before I got to play many more games that would probably replace some of the ones in here.
-
-Now, let's think about it some more, and order them accordingly starting from the lowest here. In fact.
+</details>
 
 This was kind of hard honestly, there are some games missing from my original selection that didn't make it for various reason. Some are just kind of obvious, like, I decided to not put Mario Kart 8 just for variety. And I also tried to avoid repeating franchises unless the entries were like, significantly different from each other (such as the 3 Zeldas in here, or the 2 Mario games). Anyway, let's get started
 
@@ -200,7 +201,6 @@ The last of the 2D Final Fantasy games, and the best of them all---among the one
 
 Everything in this game is so well polished and I played it almost to completion. However, at one point my save file got lost to the void, and I will have to start it from scratch if I return to it. Once again, thanks to my Miyoo Mini Plus, the time might come sooner than expected, and I had already played a new save for a couple of hours on my PSP!
 
-
 ### 4. The Legend of Zelda: Ocarina of Time
 
 This is one of the first games I emulated myself in an old desktop computer with 512 MB of RAM running on Windows XP CIRCA 2012. It ran well enough for me. I recall that I played the first few areas, I managed to find the sword and the shield and got all the way to the boss in the Great Deku Tree, Queen Ghoma.
@@ -209,15 +209,13 @@ I couldn't do it, it was too scary for me and I did not dare open the game again
 
 It wasn't until 2015 or 2016 that I just went back to it, and managed to complete the game! I even bought a PC controller, this time playing it on an old laptop I no longer have. It was a wonderful experience that I really have to relive soon, maybe on my Switch!
 
-
-
 ### 3. Monster Hunter Freedom Unite
 
 This is one of the games I keep bringing up on this blog. I've talked a couple of times about playing this online with weird VPN programs and PPSSPP. Eventually better and more open tools, from OpenVPN to Zerotier or Tailscale emerged, and playing with other people is easier than ever.
 
 The mechanics of this game are great, it is hard to think that it runs on a PSP, the controls are hard to get used to, especially the Claw if you play on real hardware, but pretty much the same controller scheme remains to this day. Whenever I play Monster Hunter Rise it kind of feels exactly the same, except for the extra buttons and extra attacks, but Freedom Unite is the escence of it all, and it comes with tons of content! Hundreds upon hundreds of hours of classic Monster Hunter at its peak.
 
-### 2. The Legend of Zelda: Breath of the Wild
+### 2. {% include games/botw.md %}
 
 
 
