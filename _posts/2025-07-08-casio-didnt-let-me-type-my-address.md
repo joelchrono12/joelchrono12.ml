@@ -6,16 +6,17 @@ tags: storytime ramble
 permalink: /blog/casio-didnt-let-me-type-my-address/
 layout: post
 date: 2025-07-08 22:12:09 -0600
+updated: 2025-07-09 07:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114821383257609786
 ---
 
-I've probably done way too much online shopping this month (and the previous one too) for a variety of reasons, from a manyu different sellers, and to add to the injury, I am also expecting some packages from normal people as well!
+I've probably done way too much online shopping this month (and the previous one too) for a variety of reasons, from many different sellers, and to add to the injury, I am also expecting some packages from normal people as well!
 
-After asking for a refund for [the fake watches I got online](/blog/2025-w27/#fake-casios-strikes-once-again), I decided to get replacements via Casio's official website. When I filled in my home address, I noticed my colony was shortened to a certain amount of characters when I clicked a different text box in the page.
+After asking for a refund for [the fake watches I got online](/blog/2025-w27/#fake-casios-strikes-once-again), I decided to get replacements via Casio's official website. When I filled in my home address, I noticed that when I typed in the colony (a neighborhood in México, btw), it was truncated to a certain amount of characters when I clicked a different part of the page.
 
-I typed my colony last and hit submit, hoping maybe that would work
+I typed the colony last and hit submit, hoping maybe that would work. 
 
 *It did not*.
 
