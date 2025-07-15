@@ -6,7 +6,6 @@ https://benjaminhollon.com/musings/feed/
 https://blog.ohheybrian.com/feeds/all.atom.xml
 https://bobbyhiltz.com/atom.xml
 https://brainbaking.com/index.xml
-https://brandont.dev/atom.xml
 https://btxx.org/index.rss
 https://chriswiegman.com/feed
 https://claytonerrington.com/feed.xml
