@@ -1,9 +1,9 @@
 ---
-title: Trying not to fall into consummerism
-header: Trying not to fall into consummerism
-description: A collection of random thoughts about avoiding consummerism, falling in some regards, being alright in others, and related stuff. A bit convoluted but, it's written.
+title: Trying not to fall into consumerism
+header: Trying not to fall into consumerism
+description: A collection of random thoughts about avoiding consumerism, falling in some regards, being alright in others, and related stuff. A bit convoluted but, it's written.
 tags: lifestyle personal ramble
-permalink: /blog/trying-not-to-fall-into-consummerism/
+permalink: /blog/trying-not-to-fall-into-consumerism/
 layout: post
 date: 2025-07-15 22:39:51 -0600
 host: fosstodon.org
