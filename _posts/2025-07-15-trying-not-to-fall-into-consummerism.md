@@ -84,6 +84,6 @@ I own like a dozen watches now, and I have gifted Casio watches to family and fr
 
 I can't pinpoint exactly what it is, but I guess Casio watches are just part of my persona, it's something I wear and that kinda says something about me. I feel like it says *"I purchase stuff that lasts!"* although, I guess it also says *"and I buy too many of them!"*
 
-Well, that was a nice ramble I think. Consummerism is not good kids. Buy a Miyoo Mini Plus.
+Well, that was a nice ramble I think. Consumerism is not good kids. Buy a Miyoo Mini Plus.
 
 This is day 98 of [#100DaysToOffload](https://100daystooffload.com)
