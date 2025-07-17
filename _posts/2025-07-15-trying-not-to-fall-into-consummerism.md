@@ -1,9 +1,9 @@
 ---
-title: Trying not to fall into consummerism
-header: Trying not to fall into consummerism
-description: A collection of random thoughts about avoiding consummerism, falling in some regards, being alright in others, and related stuff. A bit convoluted but, it's written.
+title: Trying not to fall into consumerism
+header: Trying not to fall into consumerism
+description: A collection of random thoughts about avoiding consumerism, falling in some regards, being alright in others, and related stuff. A bit convoluted but, it's written.
 tags: lifestyle personal ramble
-permalink: /blog/trying-not-to-fall-into-consummerism/
+permalink: /blog/trying-not-to-fall-into-consumerism/
 layout: post
 date: 2025-07-15 22:39:51 -0600
 host: fosstodon.org
@@ -84,6 +84,6 @@ I own like a dozen watches now, and I have gifted Casio watches to family and fr
 
 I can't pinpoint exactly what it is, but I guess Casio watches are just part of my persona, it's something I wear and that kinda says something about me. I feel like it says *"I purchase stuff that lasts!"* although, I guess it also says *"and I buy too many of them!"*
 
-Well, that was a nice ramble I think. Consummerism is not good kids. Buy a Miyoo Mini Plus.
+Well, that was a nice ramble I think. Consumerism is not good kids. Buy a Miyoo Mini Plus.
 
 This is day 98 of [#100DaysToOffload](https://100daystooffload.com)
