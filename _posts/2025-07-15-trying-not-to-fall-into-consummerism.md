@@ -42,7 +42,7 @@ it kind of feels like those gacha games (which I've thankfully never played) whe
 
 The same is true for me, it's not just the conversion between US Dollar to Mexican Peso, but between regional pricing and international pricing, and between teenage *no-income* me and *young adult without any debts* me.
 
-Some day I'd like to get a really, rally good commuter backpack. I've been skimming through some reviews and I can't help but notice some brands popping up. In my case Ridge (the wallet everyone is sponsored by) or the LTT Store one. And I see their price being in the 100-200 USD range, and I hear how there are plenty of other alternative brands at similar prices so they are not actually "that expensive" and then I look at my workmates carrying the same company provided backpack as me, that doesn't even reach 45 bucks and think "nah I'm fine". 
+Some day I'd like to get a really, really good commuter backpack. I've been skimming through some reviews and I can't help but notice some brands popping up. In my case Ridge (the wallet everyone is sponsored by) or the LTT Store one. And I see their price being in the 100-200 USD range, and I hear how there are plenty of other alternative brands at similar prices so they are not actually "that expensive" and then I look at my workmates carrying the same company provided backpack as me, that doesn't even reach 45 bucks and think "nah I'm fine". 
 
 But then I look at how my laptop corners are getting some damage, and how they actually punctured the bottom corners of my backpack as well after not even 2 years of use. So maybe paying a plus for something that will actually last is a good idea?
 
