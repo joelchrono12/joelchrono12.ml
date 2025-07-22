@@ -2,7 +2,7 @@
 title: 'Blog Questions Challenge 2025'
 header: 'Blog Questions Challenge 2025'
 layout: post
-tags: blog community fediverse
+tags: blog community fediverse challenge
 date: 2025-01-17 12:00:00 -0600
 updated: 2025-01-17 12:20:00 -0600
 description: I was nominated to answer these questions, and I shall answer.

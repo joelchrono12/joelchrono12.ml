@@ -2,7 +2,7 @@
 title: "Blog Questions Challenge: Technology Edition"
 header: "Blog Questions Challenge: Technology Edition"
 description: R.L. Dane challenged me to answer some tech related questions, let's go!
-tags: community tech ask-me-anything
+tags: community tech ask-me-anything challenge
 permalink: /blog/blog-questions-technology-edition/
 layout: post
 date: 2025-04-15 05:50:00 -0600

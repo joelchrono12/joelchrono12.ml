@@ -22,7 +22,7 @@ https://macarenaquiroga.netlify.app/index.xml
 https://megancarnes.blog/feed/?type=rss/
 https://michal.sapka.pl/rss.xml
 https://moddedbear.com/index.xml
-https://mtwb.blog/rss/
+https://mtwb.blog/index.xml#feed
 https://noisydeadlines.net/feed/
 https://odonnellweb.com/pelican/feeds/all.atom.xml
 https://rachsmith.com/rss

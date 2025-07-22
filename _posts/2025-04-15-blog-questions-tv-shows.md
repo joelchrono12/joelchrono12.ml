@@ -2,7 +2,7 @@
 title: "Blog Questions Challenge: TV Shows Edition"
 header: "Blog Questions Challenge: TV Shows Edition"
 description: Well, I may as well keep these question challenges going right? This time, TV Shows!
-tags: community nostalgia ask-me-anything
+tags: community nostalgia ask-me-anything challenge
 permalink: /blog/questions-tv-shows/
 layout: post
 date: 2025-04-15 20:36:11 -0600

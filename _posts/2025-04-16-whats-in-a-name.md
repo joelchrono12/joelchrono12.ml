@@ -2,7 +2,7 @@
 title: "Re: What's in a Name?"
 header: "Re: What's in a Name?"
 description: Answering some questions made by Alexandra Wolfe about names. Yes, it's basically another questions challenge, but quite interesting too.
-tags: community response
+tags: community response challenge
 permalink: /blog/whats-in-a-name/
 layout: post
 date: 2025-04-16 22:46:39 -0600

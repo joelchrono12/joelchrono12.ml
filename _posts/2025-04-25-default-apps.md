@@ -2,7 +2,7 @@
 title: Default Apps (2025)
 header: Default Apps (2025)
 description: Just an update to the apps I currently have set as the default on my laptop and my phone!
-tags: community apps software
+tags: community apps software challenge
 permalink: /blog/default-apps-2025/
 layout: post
 date: 2025-04-25 07:40:00 -0600
