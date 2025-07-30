@@ -19,7 +19,7 @@ The point is, it's a bit of a struggle to get them all in one single place!
 
 Here is where [FreshRSS](https://freshrss.org) comes to the rescue once again.
 
-I have used and written about many of its features before, such as [word filters](/blog/word-filters-are-great) and [website scraping](/blog/newsboat-queries-and-freshrss-scraping), and even after all this time, it still manages to surprise me whenever I dive into its feature set once more.
+I have used and written about many of its features before, such as [word filters](/blog/word-filters) and [website scraping](/blog/newsboat-queries-and-freshrss-scraping), and even after all this time, it still manages to surprise me whenever I dive into its feature set once more.
 
 User Queries are like word filters, but in the opposite direction. It is basically a bookmarked search term, that you can easily access in the web interface with a couple of clicks.
 
