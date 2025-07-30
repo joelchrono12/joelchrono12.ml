@@ -13,7 +13,7 @@ com_id: commmentsid
 
 I love using RSS to keep up with the bloggers out there! and I follow a lot of writers that share stuff in their websites quite regularly, but sometimes it can be a bit of a pain.
 
-This is the case with Week Notes. I love them! And I follow a lot of people writing them consistently, some just call them "Week Notes", some go for "Weekly Rewind" and I'm sure there are some people out there doing their own thing, such as how I recently went for titling them differently and just nothing the week number at the end.
+This is the case with Week Notes. I love them! And I follow a lot of people writing them consistently, some just call them "Week Notes", some go for "Weekly Rewind" and I'm sure there are some people out there doing their own thing, such as how I recently went for titling them differently and just adding the week number at the end.
 
 The point is, it's a bit of a struggle to get them all in one single place!
 
