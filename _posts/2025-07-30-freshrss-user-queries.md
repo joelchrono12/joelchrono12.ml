@@ -8,7 +8,7 @@ layout: post
 date: 2025-07-30 08:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 114942666808163058
 ---
 
 I love using RSS to keep up with the bloggers out there! and I follow a lot of writers that share stuff in their websites quite regularly, but sometimes it can be a bit of a pain.
