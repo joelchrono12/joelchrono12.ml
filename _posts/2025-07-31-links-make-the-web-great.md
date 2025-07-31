@@ -27,7 +27,7 @@ Of course, I just did one of those yesterday, talking about [FreshRSS User Queri
 
 And well, it's true! Most of the time tutorials or technical topics are only useful for the people looking for them, so I rarely follow bloggers who only post that kind of stuff, since it can feel like they are only trying to get clicks, play the SEO game, and such.
 
-Of course, you should write about things you are passionate about, don't stop doing that just because I dislike it, it's just that I may not be interested on reading it---same goes for articles with Titles That Start Every Word With Uppercase For No Reason.
+Of course, you should write about things you are passionate about, don't stop doing that just because I dislike it, it's just that I may not be interested on reading it---same goes for articles with Titles That Capitalize Every Word For No Reason.
 
 Back on topic, a neat thing about writing on a website instead of talking or writing on paper, is that you don't really need to give all the context upfront---*I feel like I already said this multiple times with different words and I keep writing anyway.*
 
