@@ -8,7 +8,7 @@ layout: post
 date: 2025-07-31 10:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 114948740159395628
 ---
 
 This is probably the most obvious thing, but have you ever thought about how great it is that links just let you write whatever you want without actually having to provide that much context about something, just add a link and you're good, no need to infodump extra paragraphs just in case!
