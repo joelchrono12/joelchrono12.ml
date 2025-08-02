@@ -6,21 +6,25 @@ permalink: /
 layout: default
 ---
 
-
-<article markdown="1">
+<article markdown=1>
 ## Enjoy your stay here!
-
-Hey! I'm **Joel**.
+Hey! I'm **Joel**. A random guy from México lindo y querido!
+<div class=bio>
+<img src="/assets/img/pfp_closeup.png">
+<div markdown=1>
 
 You are visiting my personal website. Here you can see some of my **thoughts** and **ramblings** about **tech**, **gaming** and **other hobbies**, my favorite of which is [origami](/origami). I hope you enjoy your visit!
-
 Take your time and explore as much as you want, there's [plenty of sections](/more/) to dive into!
-</article>
 
-<!-- Place this where you want the latest song info to show -->
 <div id="latest-listen">
   <p>Loading latest listen...</p>
 </div>
+
+</div>
+</div>
+</article>
+
+<!-- Place this where you want the latest song info to show -->
 
 <script>
   async function getLatestListen(username) {
