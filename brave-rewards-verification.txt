@@ -2,7 +2,7 @@
 layout: none
 permalink: .well-known/brave-rewards-verification.txt
 ---
-This is a Brave Rewards publisher verification file.
+This is a Brave Creators publisher verification file.
 
-Domain: joelchrono12.xyz
-Token: 37fd1317e16b0a6e133894450760aa99cbaf35bf93f4c77add6f4205b0f763df
+Domain: joelchrono.xyz
+Token: b55133f9ce928f0e85ccba37f9917d298afc3faec167bb07633415a1867fcbc2 
