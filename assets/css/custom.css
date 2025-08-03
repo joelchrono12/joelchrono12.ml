@@ -243,10 +243,9 @@ ul.posts, ul.posts ul{
 }
 
 nav.main-navbar{
-    /*font-family: "chrono";*/
     display: flex;
     justify-content: center;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 nav.main-navbar, nav.main-navbar ul, .tags ul, ul.badge-list{
@@ -255,7 +254,7 @@ nav.main-navbar, nav.main-navbar ul, .tags ul, ul.badge-list{
 }
 
 nav.main-navbar ul li, ul.badge-list li{
-    display: inline;
+    display: inline-block;
 }
 
 ul.badge-list{
@@ -278,14 +277,13 @@ div.tags, div.tags *{
 }
 
 nav.main-navbar a, nav a:visited{
-    display: inline-block;
     background: var(--code-bg);
     color: var(--border);
+    display: inline-block;
     text-decoration: none;
-    /*border-radius: 8px;*/
     border: solid 2px var(--border);
     margin: .2rem .5rem;
-    padding: .1rem 1rem;
+    padding: .3rem .8rem .1rem;
     transition: .4s;
 }
 
@@ -297,7 +295,6 @@ nav.main-navbar a:hover {
 nav.main-navbar a.nav-current {
     background-color: var(--border);
     color: var(--bg);
-    text-decoration: underline;
 }
 
 
@@ -496,7 +493,7 @@ footer {
 
 .breadcrumb {
   background: var(--accent-bg);
-  padding: .3rem 1rem;
+  padding: .3rem 3rem;
 }
 
 .breadcrumb ul {

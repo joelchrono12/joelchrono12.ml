@@ -5,7 +5,6 @@ description: Ramblings and thoughts about tech, free software, and hobbies of my
 permalink: /
 layout: default
 ---
-
 <article markdown=1>
 ## Enjoy your stay here!
 Hey! I'm **Joel**. A random guy from México lindo y querido!
@@ -17,62 +16,12 @@ You are visiting my personal website. Here you can see some of my **thoughts** a
 Take your time and explore as much as you want, there's [plenty of sections](/more/) to dive into!
 
 <div id="latest-listen">
-  <p>Loading latest listen...</p>
+  <p>I'm really into music, this text will be overwritten by the latest song I listened to if you enable Javascript, maybe something by Miki Matsubara or Daft Punk.</p>
 </div>
 
 </div>
 </div>
 </article>
-
-<!-- Place this where you want the latest song info to show -->
-
-<script>
-  async function getLatestListen(username) {
-    const url = `https://api.listenbrainz.org/1/user/${username}/listens?count=1`;
-    const container = document.getElementById('latest-listen');
-
-    try {
-      const response = await fetch(url);
-      const data = await response.json();
-      
-      console.log(data); // Log the raw JSON to check its structure
-
-      if (data.payload && data.payload.listens && data.payload.listens.length > 0) {
-        const listen = data.payload.listens[0];
-        const track = listen.track_metadata.track_name;
-        const artist = listen.track_metadata.artist_name;
-        const albumArt = listen.track_metadata.album_art_url;
-        const listenedAt = new Date(listen.listened_at * 1000); // Convert timestamp
-        const dateFormatted = listenedAt.toLocaleString();
-
-        // Build the content in the format similar to your bash script
-        container.innerHTML = `
-          <div><b>Last listened track:</b></br>
-          <i>${track}</i> by <i>${artist}</i>. <br>${dateFormatted}</div>
-        `;
-        if (albumArt) {
-        container.innerHTML += `<p><strong>Album Art:</strong></p>
-        <img src="${albumArt}" alt="Album Art" style="width: 100px; height: 100px; border-radius: 8px; border: 2px solid #ddd;">
-        `
-        }
-        else{
-
-        }
-      } else {
-        container.innerHTML = `<p>No recent listens found.</p>`;
-      }
-    } catch (error) {
-      console.error("Error fetching listen:", error);
-      container.innerHTML = `<p>Failed to load latest listen.</p>`;
-    }
-  }
-
-  // Replace this with your actual ListenBrainz username
-  getLatestListen("joel76");
-</script>
-
-
-
 <article markdown="1">
 ## Latest blogs
 <div class="flex-container">
@@ -116,3 +65,4 @@ I only use <b>Monero</b> since at least its something anonymous and privacy resp
 </div>
 </details>
 </article>
+<script src="/assets/js/latest-track.js"></script>
