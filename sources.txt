@@ -13,7 +13,7 @@ https://d.moonfire.us/atom.xml
 https://heavyconsulting.net/blog/feed.atom
 https://hunden.linuxkompis.se/feed.xml
 https://ilyess.cc/index.xml
-https://jeddacp.me/feed/
+https://notes.jeddacp.com/feed
 https://kevquirk.com/posts-feed
 https://kwon.nyc/notes/index.xml
 https://lazybea.rs/index.xml
