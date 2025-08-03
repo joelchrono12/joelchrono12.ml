@@ -9,7 +9,7 @@ layout: default
 ## Enjoy your stay here!
 Hey! I'm **Joel**. A random guy from México lindo y querido!
 <div class=bio>
-<img src="/assets/img/pfp_closeup.png">
+<img src="/assets/img/pfp_og.png">
 <div markdown=1>
 
 You are visiting my personal website. Here you can see some of my **thoughts** and **ramblings** about **tech**, **gaming** and **other hobbies**, my favorite of which is [origami](/origami). I hope you enjoy your visit!
