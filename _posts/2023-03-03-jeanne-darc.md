@@ -1,9 +1,10 @@
 ---
-title: "Jeanne D'Arc: a review"
-header: "Jeanne D'Arc: a review"
+title: "Jeanne D'Arc"
+header: "Jeanne D'Arc"
 description: A small review of a game I started around 4 years ago. Jeanne D'Arc is a tactics JRPG similar to Fire Emblem, I am glad I finally finished it! Here are some thoughts on it
-tags: gaming review
-permalink: /blog/jeanne-d'arc-review/
+tags: gaming review game
+redirect_from: /blog/jeanne-d'arc-review/
+permalink: /blog/jeanne-darc/
 layout: post
 date: 2023-03-03 09:51:11 -0600
 host: fosstodon.org

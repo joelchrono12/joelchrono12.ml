@@ -55,7 +55,7 @@ This however didn't make me hate the game or anything, it actually turned it int
 
 Also, during a battle, enemy reinforcements will show up sometimes, and if I left a mage in relative safety, a knight could spawn right beside it from off-screen and kill them, so I'd end up restoring to a previous state and moving that mage away from danger pre-emptively, or leaving other characters to intersect the new enemies.
 
-I much prefer how other games do it, where death only affects during the battle itself, but in the end you get all your characters back for the next battle. This is the case on *Jeanne D'Arc*, *Triangle Stratey* and *The Hundred Line: Last Defense Academy*. But again, to each their own.
+I much prefer how other games do it, where death only affects during the battle itself, but in the end you get all your characters back for the next battle. This is the case on [*Jeanne D'Arc*](/blog/jeanne-darc), *Triangle Strategy* and *The Hundred Line: Last Defense Academy*. But again, to each their own.
 
 Besides, it was only annoying when a character dies for a really, really dumb reason. There will be times, when everything seems lost, when I made so many bad choices for a long while and it is not worth it to go back, that I will come to terms with letting someone die, by making them fight and deal enough damage so that one of my other characters can do the final hit.
 
