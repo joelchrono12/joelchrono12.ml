@@ -15,9 +15,9 @@ Hey! I'm **Joel**. A random guy from México lindo y querido!
 You are visiting my personal website. Here you can see some of my **thoughts** and **ramblings** about **tech**, **gaming** and **other hobbies**, my favorite of which is [origami](/origami). I hope you enjoy your visit!
 Take your time and explore as much as you want, there's [plenty of sections](/more/) to dive into!
 
-<div id="latest-listen">
-  <p>I'm really into music, this text will be overwritten by the latest song I listened to if you enable Javascript, maybe something by Miki Matsubara or Daft Punk.</p>
-</div>
+<p id="latest-listen">
+I'm really into music, this text will be overwritten by the latest song I listened to if you enable Javascript, maybe something by Miki Matsubara or Daft Punk.
+</p>
 
 </div>
 </div>

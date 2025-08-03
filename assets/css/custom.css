@@ -94,7 +94,6 @@ main img{
 
 img.badge{
     image-rendering: -moz-crisp-edges;
-    image-rendering: -moz-crisp-edges;
     image-rendering: -o-crisp-edges;
     image-rendering: -webkit-optimize-contrast;
     -ms-interpolation-mode: nearest-neighbor;
@@ -476,8 +475,9 @@ details[open] > :last-child {
 
 
 img.logo {
-    display: grid;
-    margin: 0 auto;
+	height: 4rem;
+	display: block;
+	margin: 0 auto;
 }
 
 footer {

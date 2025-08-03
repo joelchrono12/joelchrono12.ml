@@ -1,9 +1,14 @@
+- title: "Nemesis Games"
+  author: "James S.A. Corey"
+  cover: "/assets/img/books/nemesis-games.jpg"
+  start: "2025-06-17"
+  end: "In Progress"
+  progress: 41
 - title: "The Big Time"
   author: "Fritz Leiber"
   cover: "/assets/img/books/the-big-time.jpg"
   start: "2025-05-09"
-  end: "In Progress"
-  progress: 56
+  end: "2025-06-17"
 - title: "The Space Merchants"
   author: "C.M. Kornbluth, Frederik Pohl"
   cover: "/assets/img/books/the-space-merchants.jpg"

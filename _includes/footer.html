@@ -15,10 +15,13 @@
 	<a href="https://geekring.net/site/249/next">→</a>
 	<br/>
 	<a href="https://polyring.club/previous?host=https://joelchrono.xyz">←</a>
-	<a href="http://polyring.club">Polyring</a>
+	<a href="https://polyring.club">Polyring</a>
 	<a href="https://polyring.club/next?host=https://joelchrono.xyz">→</a>
 </p>
 <p id="credit">This site was made with ♥ by <a rel="me" href="https://fosstodon.org/@joel">joelchrono</a> using <a href="https://jekyllrb.com">Jekyll</a>.</p>
+{% if page.tags contains "gaming" %}
+<object height="120px" type="image/svg+xml" data="https://ynonigjgsfgppiiajzcr.supabase.co/functions/v1/creator-badge?key=e75c2300-4483-4ddd-a101-86014eddc5cb"></object>
+{% endif %}
 <p id="functional-buttons">
 	<a class="button" href="#top">Back to top</a>
 	{% if page.layout != "none" %}
