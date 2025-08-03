@@ -6,6 +6,7 @@ tags: jekyll blog
 permalink: /blog/small-website-updates/
 layout: post
 date: 2025-08-03 16:09:53 -0600
+updated: 2025-08-03 17:10:10 -0600
 host: fosstodon.org
 username: joel
 com_id: 114967312253710196
@@ -86,7 +87,27 @@ The listenbrainz script used to be in the html too, but now it isn't.
 
 In theory, those things should get cached, making subsequent page loads faster. Especially if you navigate around on my static site a lot, having to download the html with the svg embedded every single time might be eating a couple kilobytes, but now that it's just a file, it *should* be faster.
 
-However, I've noticed that it keeps loading everything, almost as if it was getting redownloaded whenever I switch to another section of my website. I can't figure out why, but if you have an idea of what might be causing this behavior (or, if it's not happening for you at all), please let me know!
+~~However, I've noticed that it keeps loading everything, almost as if it was getting redownloaded whenever I switch to another section of my website. I can't figure out why, but if you have an idea of what might be causing this behavior (or, if it's not happening for you at all), please let me know!~~
+
+**UPDATE:** 5 minutes later, I discovered I only need to create a `vercel.json` file in my root directory with the following text, which should be changed according to the location of your static files and how long do you want them to stay cached (in seconds):
+
+```json
+{
+    "headers": [
+    {
+        "source": "/assets/(.*)",
+            "headers": [
+            {
+                "key": "Cache-Control",
+                "value": "public, max-age=2678400, immutable"
+            }
+            ]
+    }
+    ]
+}
+```
+
+Thanks [Amin](https://benjaminhollon.com) for pointing me in the right direction!
 
 ## A booklog update
 
