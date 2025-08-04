@@ -25,12 +25,12 @@ layout: default
 
 - **✉️ [Signal](https://signal.me/#eu/jhtliEr5IAZHpCEG4RQTfW7h2pfFHIa_KvMqzdRU-AKT_BLXERlL_rjEgYGrxl4b)**: For more private and personal communication. Let's chat!
 - 💬 **[Threema](https://threema.id/WKM6NCSE)**: I quite like Threema, to be honest. If you have it, let's talk!
-- 🗨️ **[XMPP](xmpp:chrono76@chat.sum7.eu)** - Simple and fast messaging, spotty encryption, but it works well. Here are my fingerprints:
+- 🗨️ **[XMPP](xmpp:joel@snikket.linuxkompis.se)** - Simple and fast messaging, spotty encryption, but it works well. Here are my fingerprints:
     <details>
     <summary><b>Show OMEMO fingerprints</b></summary>
     <pre>
-    27dcd308 ba884796 9f12364a 42a20515
-    78e570d7 52e6b532 491b1759 258a5023
+    8d28b003 3d9a8439 0747ed3f 8fc0c923
+    cef44a26 a689ffc4 3f3f4797 810ba834
     </pre>
     </details>
 - 🟩 **[Matrix](https://matrix.to/#/@joelchrono12:matrix.org)**: Matrix is pretty cool now, feel free to message me there.
