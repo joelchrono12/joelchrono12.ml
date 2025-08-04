@@ -19,6 +19,7 @@
     --code: #333333;
     --text-light: #666666;
     --text: #333333;
+    --green:#9ece6a;
 }
 
 @media (prefers-color-scheme: dark){
@@ -27,7 +28,6 @@
     --accent-bg: #32344a;
     --code-bg: #232433;
     /*green and blue green*/
-    /*--accent:#9ece6a;*/
     /*--accent-light: #449dab;*/
     --accent:#bb9af7;
     --accent-light: #7aa2f7;
@@ -230,7 +230,6 @@ ul{
 ul.posts, ul.posts ul{
     list-style: none;
     padding: 0 0rem;
-    /*margin: 0 1rem 1.6rem*/
     margin-bottom: 1.6rem;
 
 }
@@ -244,7 +243,6 @@ ul.posts, ul.posts ul{
 nav.main-navbar{
     display: flex;
     justify-content: center;
-    /*text-align: center;*/
 }
 
 nav.main-navbar, nav.main-navbar ul, .tags ul, ul.badge-list{
@@ -462,6 +460,7 @@ details[open] > :last-child {
 }
 
 .bio img{
+	opacity: 1;
 	min-width: 290px;
 	max-width:290px;
 	margin-right: 1rem;
@@ -580,9 +579,22 @@ gap: 1rem;
 
 @media (prefers-color-scheme:light) {
 
-    .header-container {
-        background-color: #242933;
-    }
+	.header-container {
+		background-color: #242933;
+	}
+	nav.main-navbar a, nav a:visited{
+		background: var(--border);
+		border: solid 2px var(--green);
+		color: var(--green);
+	}
+	nav.main-navbar a:hover {
+		background-color: var(--green);
+		color: var(--text);
+	}
+	nav.main-navbar a.nav-current {
+		background-color: var(--green);
+		color: var(--text);
+	}
 }
 
 /* Dark mode */
@@ -612,17 +624,20 @@ gap: 1rem;
 @media only screen and (max-width: 600px){
     nav.main-navbar ul{
         margin-top: 1rem;
+	text-align: center;
     }
     nav.main-navbar ul li a,
     nav.main-navbar ul li a:visited{
-        border: none;
+	border: none;
         background: none;
-        padding: .1rem .3rem;
+        /*padding: .1rem .3rem;*/
+    padding: .3rem .5rem .1rem;
         margin: 0;
     }
     .header-container{
         display: block;
 	align-items: center;
+	justify-content: center;
     }
 
     .blog-data{
