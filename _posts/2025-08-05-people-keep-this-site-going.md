@@ -1,3 +1,4 @@
+
 ---
 title: People that keep this site going
 header: People that keep this site going
@@ -8,7 +9,7 @@ layout: post
 date: 2025-08-05 10:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 114977026358587216
 ---
 
 One of the goals of [Blaugust2025](/blog/blaugust-2025) is to reply and promote other bloggers participating! This post will be one of those, yay!
