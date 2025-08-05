@@ -19,7 +19,7 @@ At some point she rebuilt her site from scratch using HTML-only. She wasn't a pr
 
 I remember asking her about it, and she was struggling to keep the RSS feed updated[^1] manually, so it was pretty bare bones to reduce maintenance. She was planning to bring back her archive at some point though, which made me happy.
 
-[^1]:No big deal, I just [fetched the full article content with FreshRSS](/blog/freshrss) and called it a day!
+[^1]:No big deal, I just [fetched the full article content with FreshRSS](/blog/fetch-full-article-content-freshrss/) and called it a day!
 
 A couple days ago, she [moved to Eleventy](https://hollie.eilloh.net/blog/2025/08/02/), and I couldn't be happier! She got a gist of how an SSG works, and she did so with the help of her friends, who have been there for support and questions she might have.
 
@@ -34,7 +34,7 @@ Honestly, there's a lot of people and tutorials I've followed over the years, to
 - [Amin](https://benjaminhollon.com), the light theme friend who notices when my CSS gets borked. And has provided plenty of other feedback too.
 - [Jedda](https://notes.jeddacp.com) helped me notice that the favicon I got is very very blurry on iOS somehow. Still working on it!
 - [Dusan](https://dusanmitrovic.rs) who has written a couple of scripts to help me archive my comments section, in case I ever remove it or Mastodon goes away. I stole his avatar section too.
-- [Chris Wiegman](https://chriswiegman) because quite a bit of my blog design was initially inspired by his.
+- [Chris Wiegman](https://chriswiegman.com) because quite a bit of my blog design was initially inspired by his.
 - [Kev](https://kevquirk.com) who wrote [the guide](https://kevquirk.com/how-to-build-jekyll-site-simple-css) and started [the challenge](https://100daystooffload.com) that got me into writing at all!
 
 There is **a lot** of other people who have reached out multiple times, when my RSS feeds breaks, when some image or text goes out of bounds, or when I have a typo somewhere. And a lot of others who have inspired me to improve, to write about something and to keep going on this little blogging thing I got going on.
