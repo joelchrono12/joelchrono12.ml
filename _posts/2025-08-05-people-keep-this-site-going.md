@@ -1,4 +1,3 @@
-
 ---
 title: People that keep this site going
 header: People that keep this site going
