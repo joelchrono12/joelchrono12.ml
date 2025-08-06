@@ -8,7 +8,7 @@ layout: post
 date: 2025-08-06 12:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 114983241402424996
 ---
 
 Everyday, on my way to work---or at least to the bus that takes me to work---I have to walk through a crop field.
