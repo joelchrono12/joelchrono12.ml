@@ -1,43 +1,36 @@
 - text: "Member of the 512KB Club Green's team" 
   url: "https://512kb.club"
   src: "/assets/img/badges/512kb.webp"
-
 - text: "RSS feed"
   url: "/feed.xml" 
   src: "/assets/img/badges/rss.gif"  
-
 - text: "Join 100 Days To Offload with me!"
   url: "https://100daystooffload.com"
   src: "/assets/img/badges/100days.webp"
-
 - text: "Anything but Chrome"
   url: "https://firefox.com"
   src: "/assets/img/badges/firefox.webp"
-
 - text: "Join me on the Fediverse!"
   url: "https://fediverse.party" 
   src: "/assets/img/badges/fediverse.png" 
-
 - text: "Wiby: the search engine for the classic web!"
   url: "https://wiby.me" 
   src: "/assets/img/badges/wiby.webp" 
-
 - text: "Say no to web3"
   url: "https://thewebisfucked.com" 
   src: "/assets/img/badges/web3.gif" 
-
 - text: "Made with neovim"
   url: "https://neovim.io" 
   src: "/assets/img/badges/neovim.gif"
-
 - text: "Switch to Void Linux" 
   url: "https://voidlinux.org" 
   src: "/assets/img/badges/void.webp"
-
 - text: "Join my Bookwyrm instance (Its not actually owned by me)" 
   url: "https://bookrastinating.com" 
   src: "/assets/img/badges/bookrastinating.png"
-
 - text: "This blog is licensed under CC BY-SA 4.0 unless otherwise stated."
   url: "https://creativecommons.org/licenses/by-sa/4.0/"
   src: "/assets/img/badges/cc_by_sa.png"
+- text: "No cookies on this site!"
+  url: "https://edleeman.co.uk/cookie-zero"
+  src: "/assets/img/badges/cookiezero.webp"
