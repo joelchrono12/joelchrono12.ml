@@ -1,10 +1,10 @@
 ---
 layout: default
-title: origami | joelchrono
+title: Origami
 header: Origami
 description: This archive contains pics of some origami models, both original of me, or works of other artists. All of the photographed models were folded by me.
-permalink: /more/origami/
-redirect_from: /origami/
+redirect_from: /more/origami/
+permalink: /origami/
 ---
 
 {% comment %}

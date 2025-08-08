@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: rss
-redirect_from: /tags/rss/
-permalink: /more/tags/rss/
+redirect_from: /more/tags/rss/
+permalink: /tags/rss/
 ---

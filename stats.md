@@ -1,10 +1,10 @@
 ---
 layout: default
-title: stats | joelchrono
-header: Statistics
+title: Stats
+header: Stats
 description: Statistics such as posts count and word count, etc.
-permalink: /more/stats/
-redirect_from: /stats/
+permalink: /stats/
+redirect_from: /more/stats/
 ---
 
 <article markdown="1">

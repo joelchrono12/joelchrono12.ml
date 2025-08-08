@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: weeknotes
-redirect_from: /tags/weeknotes/
-permalink: /more/tags/weeknotes/
+redirect_from: /more/tags/weeknotes/
+permalink: /tags/weeknotes/
 ---

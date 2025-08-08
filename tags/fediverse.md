@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: fediverse
-redirect_from: /tags/fediverse/
-permalink: /more/tags/fediverse/
+redirect_from: /more/tags/fediverse/
+permalink: /tags/fediverse/
 ---

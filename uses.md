@@ -1,11 +1,11 @@
 ---
 layout: default
-title: uses | joelchrono
+title: Uses
 header:  Uses
 updated: 2025-04-25
 description: This page is a quick overview of the tech I love and use, which serve me well for my work and hobbies, most software here is FOSS, some may not be, but I probably won't promote those.
-permalink: /more/uses/
-redirect_from: /uses/
+redirect_from: /more/uses/
+permalink: /uses/
 ---
 
 **Last Updated: [April 2025](#changelog-2025-04-25)**

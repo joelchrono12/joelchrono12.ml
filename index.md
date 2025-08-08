@@ -1,5 +1,5 @@
 ---
-title: home | joelchrono
+title: Joelchrono.xyz
 header: Welcome to my website!
 description: Ramblings and thoughts about tech, free software, and hobbies of my life, shared bit by bit.
 permalink: /
@@ -51,8 +51,6 @@ I'm really into music, this text will be overwritten by the latest song I listen
 You can support me in many ways, either via [PayPal](https://www.paypal.com/donate/?hosted_button_id=NAD2DMRXY22EW), [Liberapay](https://liberapay.com/joelchrono12/donate) or [Ko-fi](https://ko-fi.com/joelchrono)
 
 I don't use crypto personally, but if you want to give me some, there is the option too. My domain provider actually lets me renew it with that! So it doesn't go to waste :P
-
-This site also is [verified with Brave Rewards](https://brave.com/), so it's the easiest way to help me out, even if it doesn't really have any value lol. You can tip me some BAT by enabling the option on your browser.
 
 <details>
 <summary>Monero</summary>

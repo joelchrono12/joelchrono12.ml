@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: fiction
-redirect_from: /tags/fiction/
-permalink: /more/tags/fiction/
+redirect_from: /more/tags/fiction/
+permalink: /tags/fiction/
 ---

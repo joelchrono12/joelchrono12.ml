@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: community
-redirect_from: /tags/community/
-permalink: /more/tags/community/
+redirect_from: /more/tags/community/
+permalink: /tags/community/
 ---

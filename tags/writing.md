@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: writing
-redirect_from: /tags/writing/
-permalink: /more/tags/writing/
+redirect_from: /more/tags/writing/
+permalink: /tags/writing/
 ---

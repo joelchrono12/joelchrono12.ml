@@ -1,5 +1,5 @@
 ---
-title: about | joelchrono
+title: About
 header: About
 description: This page tells you a little bit about the human who did this, and some extra info about this site.
 permalink: /about/

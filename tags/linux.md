@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: linux
-redirect_from: /tags/linux/
-permalink: /more/tags/linux/
+redirect_from: /more/tags/linux/
+permalink: /tags/linux/
 ---

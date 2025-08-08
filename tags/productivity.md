@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: productivity
-redirect_from: /tags/productivity/
-permalink: /more/tags/productivity/
+redirect_from: /more/tags/productivity/
+permalink: /tags/productivity/
 ---

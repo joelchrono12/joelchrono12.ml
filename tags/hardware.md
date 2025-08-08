@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: hardware
-redirect_from: /tags/hardware/
-permalink: /more/tags/hardware/
+redirect_from: /more/tags/hardware/
+permalink: /tags/hardware/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: thanks
-redirect_from: /tags/thanks/
-permalink: /more/tags/thanks/
+redirect_from: /more/tags/thanks/
+permalink: /tags/thanks/
 ---

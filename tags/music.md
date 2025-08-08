@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: music
-redirect_from: /tags/music/
-permalink: /more/tags/music/
+redirect_from: /more/tags/music/
+permalink: /tags/music/
 ---

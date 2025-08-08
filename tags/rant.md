@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: rant
-redirect_from: /tags/rant/
-permalink: /more/tags/rant/
+redirect_from: /more/tags/rant/
+permalink: /tags/rant/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: windows
-redirect_from: /tags/windows/
-permalink: /more/tags/windows/
+redirect_from: /more/tags/windows/
+permalink: /tags/windows/
 ---

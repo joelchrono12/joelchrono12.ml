@@ -1,9 +1,9 @@
 ---
-title: links | joelchrono
+title: Links
 header: Links
 description: Just a bunch of links to interesting places, no explanations, just titles, lists, and exploration.
-permalink: /more/links/
-redirect_from: /links/
+permalink: /links/
+redirect_from: /more/links/
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: dream
-redirect_from: /tags/dream/
-permalink: /more/tags/dream/
+redirect_from: /more/tags/dream/
+permalink: /tags/dream/
 ---

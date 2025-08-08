@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: tilde
-redirect_from: /tags/tilde/
-permalink: /more/tags/tilde/
+redirect_from: /more/tags/tilde/
+permalink: /tags/tilde/
 ---

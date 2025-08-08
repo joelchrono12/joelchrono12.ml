@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: life
-redirect_from: /tags/life/
-permalink: /more/tags/life/
+redirect_from: /more/tags/life/
+permalink: /tags/life/
 ---

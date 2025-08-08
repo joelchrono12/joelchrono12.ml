@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: git
-redirect_from: /tags/git/
-permalink: /more/tags/git/
+redirect_from: /more/tags/git/
+permalink: /tags/git/
 ---

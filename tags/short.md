@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: short
-redirect_from: /tags/short/
-permalink: /more/tags/short/
+redirect_from: /more/tags/short/
+permalink: /tags/short/
 ---

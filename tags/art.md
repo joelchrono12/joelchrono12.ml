@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: art
-redirect_from: /tags/art/
-permalink: /more/tags/art/
+redirect_from: /more/tags/art/
+permalink: /tags/art/
 ---

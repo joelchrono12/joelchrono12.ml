@@ -1,14 +1,12 @@
 ---
 layout: default
-title: now | joelchrono
+title: Now
 header: Now
 description: "Here is what I'm up to right now"
 permalink: /now/
 ---
 
 **Last updated: August 3, 2025**.
-
-Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 
 **Location**: Living in Mexico with my family.
 
@@ -47,3 +45,5 @@ Inspired by [an idea from Derek Sivers](https://nownownow.com/about).
 - Slowly improving my website design
 - Actually completing videogames
 - Cleaning up my bedroom
+
+Inspired by [an idea from Derek Sivers](https://nownownow.com/about).

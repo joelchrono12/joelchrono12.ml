@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: detox
-redirect_from: /tags/detox/
-permalink: /more/tags/detox/
+redirect_from: /more/tags/detox/
+permalink: /tags/detox/
 ---

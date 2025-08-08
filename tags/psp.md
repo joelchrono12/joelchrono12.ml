@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: psp
-redirect_from: /tags/psp/
-permalink: /more/tags/psp/
+redirect_from: /more/tags/psp/
+permalink: /tags/psp/
 ---

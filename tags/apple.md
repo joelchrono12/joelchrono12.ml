@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: apple
-redirect_from: /tags/apple/
-permalink: /more/tags/apple/
+redirect_from: /more/tags/apple/
+permalink: /tags/apple/
 ---

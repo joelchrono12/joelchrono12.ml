@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: gaming
-redirect_from: /tags/gaming/
-permalink: /more/tags/gaming/
+redirect_from: /more/tags/gaming/
+permalink: /tags/gaming/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: gamedev
-redirect_from: /tags/gamedev/
-permalink: /more/tags/gamedev/
+redirect_from: /more/tags/gamedev/
+permalink: /tags/gamedev/
 ---

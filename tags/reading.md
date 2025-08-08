@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: reading
-redirect_from: /tags/reading/
-permalink: /more/tags/reading/
+redirect_from: /more/tags/reading/
+permalink: /tags/reading/
 ---

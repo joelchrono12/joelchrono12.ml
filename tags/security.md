@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: security
-redirect_from: /tags/security/
-permalink: /more/tags/security/
+redirect_from: /more/tags/security/
+permalink: /tags/security/
 ---

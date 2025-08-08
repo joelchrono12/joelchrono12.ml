@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Posts Heatmap Calendar
+title: Heatmap
+header: Heatmap
 permalink: /heatmap/
 layout: default
 
@@ -10,7 +11,7 @@ layout: default
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.min.js"></script>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
-<link rel="stylesheet" href="//cdn.jsdelivr.net/cal-heatmap/3.3.10/cal-heatmap.css" />
+<link rel="stylesheet" href="/assets/css/heatmap.css" />
 
 <style type="text/css">
 .content {
@@ -18,9 +19,6 @@ layout: default
 }
 #calendar {
 	width: 839px;
-}
-.subdomain-text {
-	fill: #fff;
 }
 #calendar a {
 	color: #999;

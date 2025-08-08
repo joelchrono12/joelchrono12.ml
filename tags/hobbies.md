@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: hobbies
-redirect_from: /tags/hobbies/
-permalink: /more/tags/hobbies/
+redirect_from: /more/tags/hobbies/
+permalink: /tags/hobbies/
 ---

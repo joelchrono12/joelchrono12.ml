@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: foss
-redirect_from: /tags/foss/
-permalink: /more/tags/foss/
+redirect_from: /more/tags/foss/
+permalink: /tags/foss/
 ---

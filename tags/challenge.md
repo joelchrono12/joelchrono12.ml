@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: challenge
-redirect_from: /tags/challenge/
-permalink: /more/tags/challenge/
+redirect_from: /more/tags/challenge/
+permalink: /tags/challenge/
 ---

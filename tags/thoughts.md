@@ -1,6 +1,6 @@
 ---
 layout: tags
 tag-name: thoughts
-redirect_from: /tags/thoughts/
-permalink: /more/tags/thoughts/
+redirect_from: /more/tags/thoughts/
+permalink: /tags/thoughts/
 ---
