@@ -8,7 +8,7 @@ layout: post
 date: 2025-08-08 12:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 114994622191226677
 ---
 
 Well well well, as I actually don't have many ideas for today, somehow, I may as well play by the book and do one of those posts where you say stuff so other people participating in Blaugust 2025 get to know me, and well, the same goes for whoever reads this.
@@ -50,7 +50,7 @@ Yes, I did.
 
 ## FACT 4: My favorite videogame is...
 
-Most of my usual readers already it's Chrono Trigger, but for whoever is seeing this blog for the first time, feel free to reach out and talk about anything related to Chrono Trigger, Final Fantasy, Monster Hunter, or JRPGs and Metroidvanias in general!
+Most of my usual readers already know it's Chrono Trigger, but for whoever is seeing this blog for the first time, feel free to reach out and talk about anything related to Chrono Trigger, Final Fantasy, Monster Hunter, or JRPGs and Metroidvanias in general!
 
 I still need to write a blogpost about my personal Top 25 Games of all time... soon.
 
