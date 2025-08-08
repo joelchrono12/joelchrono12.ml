@@ -6,6 +6,7 @@ tags: community blog
 permalink: /blog/webrings-clubs-and-blogrolls-im-part-of/
 layout: post
 date: 2025-08-07 22:12:47 -0600
+updated: 2025-08-08 08:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114991445301797504
@@ -18,6 +19,8 @@ Nowadays I still keep the last two, with a simple redirect, but I have been expl
 Because of this process, I've encountered websites that have added me to their blogrolls or linked me in some way, and I thought it'd be fun to share some of those. While we are at it, I have linked to some other sites that I'm a part of, from clubs, webrings, viral challenges, independent search engines and some other mentions I found.
 
 I think I want to create a [/slashpage](https://slashpages.net) for this, but I am not too sure about what to call it, maybe something along the lines of **/memberships** or **/mentions**? let me know what you think!
+
+**Update**: I can't believe I forgot this since I literally read Wouter's post recently, but he did an [/impact](https://brainbaking.com/impact/) featuring the sites that have mentioned him as well, although he listed them by country, and made a heat map too. Go check it out!
 
 Alas, here is an incomplete compilation of links that link me back!
 
