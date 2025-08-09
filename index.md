@@ -5,11 +5,12 @@ description: Ramblings and thoughts about tech, free software, and hobbies of my
 permalink: /
 layout: default
 ---
-<article markdown=1>
+<article class="h-card" markdown=1>
 ## Enjoy your stay here!
-Hey! I'm **Joel**. A random guy from México lindo y querido!
+<p class="p-note">Hey! I'm <a href="{{ site.url }}" rel="me" class="u-url u-uid p-name">Joel</a> (a.k.a <code class="p-nickname">joelchrono</code>). A random guy from <span class="p-country-name">México</span> lindo y querido! I am a hobby collector, fake fan of many things, foss enthusiast, videogame enjoyer, and a <span class="p-category">mechatronics engineer</span>.</p>
+
 <div class=bio>
-<img src="/assets/img/pfp_og.png">
+<img class="u-photo" src="/assets/img/pfp_og.png">
 <div markdown=1>
 
 You are visiting my personal website. Here you can see some of my **thoughts** and **ramblings** about **tech**, **gaming** and **other hobbies**, my favorite of which is [origami](/origami). I hope you enjoy your visit!

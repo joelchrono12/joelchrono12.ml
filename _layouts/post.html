@@ -8,7 +8,7 @@ layout: default
 {{count_words | divided_by: 5}}
 {% endcapture %}
 <aside class="blog-data">
-	<span>📆 <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
+	<span>📆 <time class="dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
 	{% if page.updated %}
 	<span>⌚ Last Updated: <time datetime="{{ page.date }}">{{ page.updated | date_to_string }}<time></span>
 	{% endif %}
@@ -17,12 +17,14 @@ layout: default
 		<ul>
 			<li>🏷️</li>
 			{% for tag in page.tags %}
-			<li><a href="/more/tags/{{ tag }}">{{ tag }}</a></li>
+			<li><a class="p-category" href="/tags/{{ tag }}">{{ tag }}</a></li>
 			{% endfor %}
 		</ul>
 	</div>
 </aside>
+<article class="e-content">
 {{ content }}
+</article>
 <section>
 <h2 id="comments">Comments</h2> 
 <p>If you have something to say, leave a comment, or <a href="/contact">contact me</a> ✉️ instead</p>
