@@ -1,28 +1,24 @@
+- text: Burgeon Lab
+  src: /assets/img/badges/burgeonlab.webp
+  url: https://burgeonlab.com
 - text: Bjorn Warmedal, a fellow fedizen
   url: https://warmedal.se/~bjorn/
   src: /assets/img/badges/warmedal.png
-
 - text: Getimiskon
   url: https://getimiskon.xyz
   src: /assets/img/badges/getimiskon.png
-
 - text:
   url: https://foreverliketh.is
   src: /assets/img/badges/foreverliketh.is.png
-
 - text: ~sfr
   url: https://cronut.cafe/~sfr
   src: /assets/img/badges/ralsei.gif
-
 - text: Mew151
   src: /assets/img/badges/mew151_button.gif
   url: https://mew151.net
-
 - text: dd86k
   src: /assets/img/badges/dd86k.png
   url: https://dd86k.space/
-
-- text: Wyndic
-  src: /assets/img/badges/wyndix.png
-  url: https://wyndix.dev/
-
+- text: mercurial
+  src: /assets/img/badges/mercurial.gif
+  url: https://writeblankspace.netlify.app/
