@@ -108,7 +108,7 @@ I mean, I obviously show up in search engines, but a couple of the independent o
 I am mentioned in quite a few posts sometimes, and get some responses as well. Looking for each specific one would be a bit chaotic, but here are some easy ones :D
 
 - I was the first guest to appear in [Lazybear's Over/Under](https://lazybea.rs/ovr-010) series
-- And the second guest to show up in Jakov's [People and Websites](https://sheepdev.xyz/people-and-websites-2-joel)
+- And the second guest to show up in Jakov's [People and Websites](https://sheepdev.xyz/blog/people-and-websites-2-joel)
 - Marisabel recommended me in the [100th People & Blogs](https://manuelmoreale.com/pb-marisabel-munoz)
 - I regularly appear on Adamdesk's [Little Bits](https://adamsdesk.com/topic/littlebits)
 - And in Shellshark's [Scrolls!](https://shellsharks.com/scrolls/)
