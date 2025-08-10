@@ -5,7 +5,7 @@
 		"headers": [
 			{
 				"key": "Cache-Control",
-				"value": "public, max-age=2678400, fresh"
+				"value": "public, max-age=2678400"
 			}
 		]
 	}

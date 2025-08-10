@@ -42,7 +42,6 @@
     box-sizing: border-box;
 }
 
-
 a, a:visited {
   color: var(--accent);
 }
@@ -280,7 +279,7 @@ nav.main-navbar a, nav a:visited{
     text-decoration: none;
     border: solid 2px var(--border);
     margin: .2rem .5rem;
-    padding: .3rem .8rem .1rem;
+    padding: .3rem .8rem;
     transition: .4s;
 }
 
@@ -630,8 +629,8 @@ gap: 1rem;
     nav.main-navbar ul li a:visited{
 	border: none;
         background: none;
-        /*padding: .1rem .3rem;*/
-    padding: .3rem .5rem .1rem;
+        *padding: .1rem .3rem;*/
+    /*padding: .3rem .5rem .1rem;*/
         margin: 0;
     }
     .header-container{
