@@ -6,7 +6,7 @@ tags: community blog
 permalink: /blog/webrings-clubs-and-blogrolls-im-part-of/
 layout: post
 date: 2025-08-07 22:12:47 -0600
-updated: 2025-08-08 08:50:00 -0600
+updated: 2025-08-10 06:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114991445301797504
@@ -62,7 +62,7 @@ These are fun, webrings are a series of websites that link to each other, until 
 - [Fediring](https://fediring.net): Are you in the fediverse? You can be here too.
 - [Geekring](https://geekring.net): I think you know the gist of this one already.
 - [Static Quest](https://static.quest): If your website is static html, hand-made or generated, welcome!
-- ~~[IndieWeb Webring](https://xn--sr8hvo.ws)~~: I think I messed up the setup required for this one, will fix later.
+- [IndieWeb Webring](https://xn--sr8hvo.ws): If you belong to the IndieWeb, you belong here!
 
 
 ## Directories
@@ -81,6 +81,7 @@ These are kind of like webrings but there's no ring, just a site listing sites t
 - [512Kb Club](https://512kb.club): For very light websites.
 - [1MB Club](https://1mb.club): For kinda light websites.
 - [Dark Theme Club](https://darktheme.club): For websites with dark themes.
+- [Cookie Zero](https://edleeman.co.uk/cookie-zero/): For urls without cookies!
 
 ## Challenges
 

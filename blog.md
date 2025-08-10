@@ -56,7 +56,7 @@ This is reversed order, if you want to start from the beginning
         <a href="/more/tags/game">🕹</a>
         {% endif %}
         </span>
-        <span><time class="dt-published post-date" datetime="{{ post.date }}"> {{ post.date | date: "%b %d" }}</time></span>
+        <span class="post-date"><time class="dt-published" datetime="{{ post.date }}"> {{ post.date | date: "%b %d" }}</time></span>
         </li>
         {% endfor %}
         </ul>

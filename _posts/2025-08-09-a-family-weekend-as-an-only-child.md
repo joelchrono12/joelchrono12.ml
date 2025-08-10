@@ -45,7 +45,7 @@ I think that seeing it reminded me of my sister, who would always go with me and
 
 ***
 
-Soon, it was late enough for lunch to be had, so we ordered some chicken burgers from KFC. While waiting for them, I was staring at the tables besides the wall, with three seats. However my mom sat at of the tables for four, it's probably something she didn't even think about---most tables are like that after all---but it did feel a little weird to have an empty chair by my side.
+Soon, it was late enough for lunch to be had, so we ordered some chicken burgers from KFC. While waiting for them, I was staring at the tables besides the wall, with three seats. However my mom sat at a table for four, it's probably something she didn't even think about---most tables are like that after all---but it did feel a little weird to have an empty chair by my side.
 
 After lunch we walked for a bit longer, visited a couple of shops and my mom got another couple of things. I didn't really feel like going anywhere. Usually, my sisters would be the ones who would ask me to go to X or Y place, but without them, my parents and I only checked a couple of different stores, didn't buy anything else, and called it a day.
 
