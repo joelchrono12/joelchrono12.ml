@@ -326,12 +326,6 @@ article.post, .post{
     align-items: center;
 }
 
-h3.post{
-	line-height: 1.245;
-	/*margin: 0;*/
-	/*padding-bottom: .5rem;*/
-}
-
 .post-tags {
     margin-left: auto;
 }
@@ -533,6 +527,7 @@ gap: 1rem;
 
 .flex-container > article h4,
 .flex-container > article h3{
+ line-height: 1.245;
  flex: 0;
  margin-top: 0;
  margin-bottom: .5rem;
@@ -574,6 +569,10 @@ gap: 1rem;
 }
 .bubble li:last-child {
   border-bottom-left-radius: 8px;
+}
+img.avatar{
+	    max-width: 40%;
+	    float: right;
 }
 
 @media (prefers-color-scheme:light) {
@@ -622,16 +621,18 @@ gap: 1rem;
 
 @media only screen and (max-width: 600px){
     nav.main-navbar ul{
-        margin-top: 1rem;
-	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	margin-top: 1rem;
+	justify-content: center;
     }
     nav.main-navbar ul li a,
     nav.main-navbar ul li a:visited{
+        margin: 0;
 	border: none;
         background: none;
-        *padding: .1rem .3rem;*/
-    /*padding: .3rem .5rem .1rem;*/
-        margin: 0;
+        padding: .1rem .3rem;
     }
     .header-container{
         display: block;
@@ -653,6 +654,13 @@ gap: 1rem;
     .bio img{
 	    max-width: 70%;
 	    margin: 0 auto;
+    }
+    img.avatar{
+	    max-width: 70%;
+	    margin: 0 auto;
+	    align-items: center;
+	    float: none;
+	    display: block
     }
 }
 

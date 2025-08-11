@@ -10,3 +10,5 @@
   link: /blogroll/
 - name: More
   link: /more/
+- name: Feed
+  link: /feed.xml

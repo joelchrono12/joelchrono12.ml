@@ -1,5 +1,5 @@
 ---
-title: Joelchrono.xyz
+title: Joel's Homepage
 header: Welcome to my website!
 description: Ramblings and thoughts about tech, free software, and hobbies of my life, shared bit by bit.
 permalink: /

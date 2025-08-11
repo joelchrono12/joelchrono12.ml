@@ -7,10 +7,9 @@ plugins:
   
 
 # SEO Stuff
-title: "joelchrono's website"
+title: "joelchrono's blog"
 author: 
   name: "joelchrono"
-  twitter: "https://twitter.com/@joel"
   email: "me@joelchrono.xyz"
 url: "https://joelchrono.xyz"
 baseurl: ""

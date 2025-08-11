@@ -1,0 +1,25 @@
+- title: Blogroll
+  url: /blogroll
+  desc: A list of blogs I follow and I recommend you to check out.
+- title: Tags
+  url: /tags
+  desc: My blog posts organized by tag, alongside their RSS feeds!
+- title: Links
+  url: /links
+  desc: Just a bunch of links leading to sites or things I like, no descriptions, just lists.
+- title: Statistics
+  url: /stats
+  desc: Fun statistics about my blog. Total posts, words and such.
+- title: Bookshelf
+  url: /bookshelf
+  desc: A listing of all the books I've read year after year.
+- title: Uses
+  url: /uses
+  desc: The software, hardware and other tools I use in my life.
+- title: Projects
+  url: /projects
+  desc: Games and projects I've made for fun.
+- title: Origami
+  url: /origami
+  desc: I like origami, and I share pictures sometimes, here is a collection of them.
+
