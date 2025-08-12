@@ -42,7 +42,7 @@ function createCommentEl(response){
 		response.account.reply_class = response.in_reply_to_id == "{{ page.com_id }}" ? "reply-original" : "reply-child";
     user.classList.add(response.account.reply_class);
     let userAvatar = document.createElement('img');
-    userAvatar.classList.add('avatar');
+    userAvatar.classList.add('mastodon-avatar');
     /*userAvatar.setAttribute('height', 60 );
     userAvatar.setAttribute('width', 60 );*/
     userAvatar.setAttribute('src',response.account.avatar_static);
