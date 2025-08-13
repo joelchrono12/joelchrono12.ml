@@ -1,5 +1,5 @@
 ---
-title: Ever pair of glasses I've owned
+title: Every pair of glasses I've owned
 header: Every pair of glasses I've owned 
 description: A run down memory lane through all the eyeglasses I've had, and some memories about them.
 tags: personal life
