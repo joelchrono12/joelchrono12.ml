@@ -571,8 +571,9 @@ gap: 1rem;
   border-bottom-left-radius: 8px;
 }
 img.avatar{
-	    max-width: 40%;
 	    float: right;
+	    max-width: 40%;
+	    margin: 1rem;
 }
 
 @media (prefers-color-scheme:light) {
