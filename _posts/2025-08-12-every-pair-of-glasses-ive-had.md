@@ -79,13 +79,13 @@ As the plastic kept getting worse and no good fix could be made, I ended up goin
 
 <img class="badge avatar" src="/assets/img/blogs/2025-08-12/bulova.png" style="min-width: 20rem; height: auto;" title="metallic frames in a typical rounded square shape" >
 
-So, this was the first prescription that I didn't get in that one eye clinic that I had gone to since my childhood. We went to Costco instead.
+This was the first prescription that I didn't get from the eye clinic that I had gone to since my childhood. We went to Costco instead.
 
-I liked the gold grandpa glasses, but I still wanted a change of style, I was definitely not buy anything plastic or transparent this time, so I picked these from the available options.
+I liked the gold grandpa glasses, but I still wanted a change of style, I was definitely not going to buy anything plastic or transparent this time around, so I picked these from the available options.
 
-These are the glasses represented in my profile picture, I just loved the dark blue color of them. I'm still wearing today, and I quite like them. The brand is Bulova, which is actually a watch brand. I don't really have any loyalty to it, but the new ones I will get turned out to be Bulova too, so I guess I just like the minimalist designs they make.
+These are the glasses represented in my profile picture, I love the dark blue color of them. I'm still wearing them today, as I'm still waiting for a notice from Costco to go pick them up. The brand is Bulova, which is actually a watch brand. I don't really have any loyalty to it, but the new ones I got turned out to be Bulova too, so I guess I just like the minimalist designs they offer.
 
-Honestly these glasses (and the golden ones) are still in perfect condition, I am considering paying just to get new lenses installed on them and swapping around whenever I feel like it. Could be fun!
+Honestly these glasses (and the golden ones) are still in pretty good condition, I am considering paying just to get new lenses with my updated prescription on them so I can swap styles around whenever I feel like it. Could be fun!
 
 This is it for now, what glasses have you had in the past? which design do you like of the ones I shared? Let me know your thoughts!
 
