@@ -6,9 +6,10 @@ tags: personal life
 permalink: /blog/every-pair-of-glasses-ive-owned/
 layout: post
 date: 2025-08-12 22:50:00 -0600
+updated: 2025-08-13 07:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115019704718439730
 ---
 
 I recently had an eyesight exam, and I had pretty decent results! My prescription barely changed, but I will be getting new frames, since I kinda wanted a bit of a change on my face, I guess.
@@ -83,6 +84,10 @@ So, this was the first prescription that I didn't get in that one eye clinic tha
 I liked the gold grandpa glasses, but I still wanted a change of style, I was definitely not buy anything plastic or transparent this time, so I picked these from the available options.
 
 These are the glasses represented in my profile picture, I just loved the dark blue color of them. I'm still wearing today, and I quite like them. The brand is Bulova, which is actually a watch brand. I don't really have any loyalty to it, but the new ones I will get turned out to be Bulova too, so I guess I just like the minimalist designs they make.
+
+Honestly these glasses (and the golden ones) are still in perfect condition, I am considering paying just to get new lenses installed on them and swapping around whenever I feel like it. Could be fun!
+
+This is it for now, what glasses have you had in the past? which design do you like of the ones I shared? Let me know your thoughts!
 
 
 
