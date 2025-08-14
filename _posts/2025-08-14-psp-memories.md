@@ -8,7 +8,7 @@ layout: post
 date: 2025-08-14 13:24:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115028762701488270
 ---
 
 I am halfway through listening to the [Into The Aether's PSP episode](https://intothecast.transistor.fm/episodes/into-the-aether-viii-the-sony-playstation-portable), and well, I just thought it would be nice to talk about the PSP once again.
