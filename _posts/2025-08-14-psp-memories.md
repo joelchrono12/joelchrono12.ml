@@ -2,10 +2,10 @@
 title: Early PSP memories
 header: Early PSP memories
 description: Sharing some memories I had with the PSP years before I got one for myself!
-tags: weeknotes
+tags: gaming storytime tech
 permalink: /blog/early-psp-memories/
 layout: post
-date: 2025-08-14 13:30:00 -0600
+date: 2025-08-14 13:24:00 -0600
 host: fosstodon.org
 username: joel
 com_id: commmentsid
