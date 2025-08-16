@@ -22,11 +22,8 @@ __Last updated: February 12th,2024__
 
 These blogs and personal websites have cool buttons, so I added them. Send me your button and I'll add it too!
 
-<article>
-{% for item in site.data.blog_badges %}
-<a href="{{ item.url }}" target="_blank"><img src="{{ item.src }}" class="badge" alt="{{ item.text }}"></a>
-{% endfor %}
-</article>
+
+{% include badges_blogroll.html %}
 
 Feel free to add my button to your site using this snippet (do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking) it though).
 

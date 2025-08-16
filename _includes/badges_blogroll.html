@@ -1,3 +1,5 @@
-{% for item in site.data.blog_badges %}
-<a href={{ item.url }} target="_blank"><img src={{ item.src }} class="badge" alt={{ item.text }}></a>
+<ul class="badge-list">
+{% for item in site.data.blog_badges %}	
+<li><a href="{{ item.url }}" target="_blank"><img src="{{ item.src }}" class="badge" alt="{{ item.text }}"></a></li>
 {% endfor %}
+</ul>

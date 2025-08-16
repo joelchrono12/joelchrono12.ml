@@ -244,20 +244,28 @@ nav.main-navbar{
     justify-content: center;
 }
 
-nav.main-navbar, nav.main-navbar ul, .tags ul, ul.badge-list{
+nav.main-navbar, 
+nav.main-navbar ul, 
+.tags ul, 
+ul.badge-list{
     padding: 0;
     margin: 0;
 }
 
-nav.main-navbar ul li, ul.badge-list li{
+nav.main-navbar ul li, 
+ul.badge-list li{
     display: inline-block;
+}
+
+ul.badge-list li{
+	max-height: 31px;
 }
 
 ul.badge-list{
     display: inline flex;
     justify-content: center;
     flex-wrap: wrap;
-    gap: .5rem;
+    gap: .8rem;
 
 }
 
