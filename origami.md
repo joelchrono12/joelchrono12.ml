@@ -10,118 +10,67 @@ permalink: /origami/
 {% comment %} This is reversed order, if you want to start from the beginning {% assign postsByYear = site.posts | reverse | group_by_exp:"post", "post.date | date: '%Y'" %} <table> <thead> <tr> <th>Model</th> <th>Author</th> <th>Tutorial</th> <th style="text-align: right">Photo</th> </tr> </thead> {% for origami in site.origami reversed %} <tr> <td><a href="{{ origami.url }}">{{ origami.title }}</a></td> <td><a href="{{ origami.creator.site }}">{{ origami.creator.name }}</a></td> {% if origami.tutorial %} <td><a href="{{ origami.tutorial }}">Yes</a></td> {% else%} <td>No</td> {% endif %} <td style="text-align: right"> {% capture origami_pic %} {{ origami.image }} {% endcapture %} {% capture origami_desc %} {{ origami.description }} {% endcapture %} {% include img.html image=origami_pic width='210px' alt=origami_desc %} </td> </tr> {% endfor %} </table> {% endcomment %}
 
 <style > 
-.responsive-grid {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    justify-content: start;
-    margin-bottom: 1.5rem;
-}
 .book-cover {
     background-size: cover;
     background-position: center; /*border-radius: 12px;*/
     overflow: hidden;
     position: relative;
     text-align: center;
-    min-width: 130px;
 }
 .book-cover-img {
-    background-size: cover;
-    background-position: center; /*border-radius: 12px;*/
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-    height: 220px;
-    width: 110px;
-    min-width: 130px;
+    object-fit: cover;
+  width: 100%;
+  aspect-ratio: 4/3;
 }
-.book-content {
-    display: flex;
-    flex-grow: 1;
-    padding: 0 0.8rem;
-    text-align: center;
+.book-content{
     justify-content: center;
+    line-height: 1.5rem;
+    margin: 0 !important;
+    padding-bottom: .5rem;
+    text-align: center;
+}
+
+.title, .artist, .dates, .book-cover{
+flex: auto !important;
+margin: 0 !important;
 }
 .title {
     font-weight: bold;
 }
-.artist {
+.artist, .dates{
     font-size: small;
-}
-.dates {
-    font-size: small;
-    white-space: pre-line;
-    margin: 0;
     overflow: visible;
 }
-.info {
-    line-height: 1.5;
-}
 @media screen and (max-width: 600px) {
-    .book-cover-container {
-        width: 100vw;
-    }
-    .book-content {
-        flex-grow: 1;
-        min-height: 0;
+    .flex-container article{
+        min-width: 40%;
     }
 }
-</style>
-
-
-<style>
-.responsive-grid {
-  display: flex;
-  flex-wrap: wrap;
+.flex-container article{
+    padding: 0;
 }
-
-.book-cover-container {
-    background-color: var(--code-bg);
-    border: solid 2px var(--code);
-    max-width: 50%; /*border-radius: 12px;*/
-    display: flex;
-    flex: 1 1 20%;
-    width: 210px;
-    display: flex;
-    flex-direction: column;
-}
-
-.book-cover-img {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 4/3;
-  border-radius: 5px;
-}
-
-.book-content {
-  margin: 0.5rem;
-  line-height: 1.5;
-}
-
 </style>
 
 {% if site.origami %}
 {% assign origami_by_year = site.origami | sort: 'date' | group_by_exp: "item", "item.date | date: '%Y'" %}
 {% for year_group in origami_by_year reversed %}
 <h3>{{ year_group.name }}</h3>
-<div class="responsive-grid">
+<div class="flex-container">
 {% for origami in year_group.items reversed %}
-<div class="book-cover-container">
+<article>
 <div class="book-cover">
 <img alt="{{ origami.description }}" class="book-cover-img" src="{{ origami.image }}">
 </div>
 <div class="book-content">
-<div class="info">
-<div class="title"><i><a href="{{ origami.url }}">{{ origami.title }}</a></i></div>
-<div class="artist">by <b><a href="{{ origami.creator.site }}">{{ origami.creator.name }}</a></b></div>
+    <div class="title"><i><a href="{{ origami.url }}">{{ origami.title }}</a></i></div>
+    <div class="artist">by <b><a href="{{ origami.creator.site }}">{{ origami.creator.name }}</a></b></div>
 {% if origami.tutorial %}
-<div class="dates"><a href="{{ origami.tutorial }}">Tutorial: Yes</a></div>
+    <div class="dates"><a href="{{ origami.tutorial }}">Tutorial</a></div>
 {% else %}
-<div class="dates">Tutorial: No</div>
+    <div class="dates">No tutorial</div>
 {% endif %}
 </div>
-</div>
-</div>
+</article>
 {% endfor %}
 </div>
 {% endfor %}
