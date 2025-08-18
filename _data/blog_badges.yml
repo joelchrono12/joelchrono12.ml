@@ -4,9 +4,18 @@
 - text: Mercurial
   src: /assets/img/badges/mercurial.gif
   url: https://writeblankspace.netlify.app/
+- text: James' Coffee Blog
+  src: /assets/img/badges/james_coffee_blog.png
+  url: https://jamesg.blog
 - text: Anhvn
   src: /assets/img/badges/anhvn.png
   url: https://anhvn.com
+- text: Syl's Blog
+  src: /assets/img/badges/syls.png
+  url: https://syls.blog
+- text: Marisabel.nl
+  src: /assets/img/badges/marisabelnl.gif
+  url: https://marisabel.nl
 - text: Bjorn Warmedal, a fellow fedizen
   url: https://warmedal.se/~bjorn/
   src: /assets/img/badges/warmedal.png

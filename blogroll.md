@@ -14,7 +14,7 @@ I plan to grow this list in the future, but this is quite a bit already. I'll al
 
 You can also [download an OPML file](/blogroll.opml) to add all of these to your RSS reader in one fell swoop!
 
-__Last updated: February 12th,2024__ 
+__Last updated: August 17th,2025__ 
 
 ## Featured buttons
 
@@ -25,16 +25,12 @@ These blogs and personal websites have cool buttons, so I added them. Send me yo
 
 {% include badges_blogroll.html %}
 
-Feel free to add my button to your site using this snippet (do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking) it though).
+Feel free to add one of my buttons to your site (do not [hotlink](https://simple.wikipedia.org/wiki/Hotlinking) them though).
 
-<a href="{{ site.url }}" target="_blank"><img class= "badge" alt="joelchrono's blog" src="/assets/img/badges/joelchrono.png" /></a>
-```html
-<a href="{{ site.url }}" target="_blank"><img alt="joelchrono's blog" src="/assets/img/badges/joelchrono.png" /></a>
-```
-<a href="{{ site.url }}" target="_blank"><img src="/assets/img/badges/joelchronopfp.png" class="badge" alt="joelchrono's blog" /></a>
-```html
-<a href="{{ site.url }}" target="_blank"><img alt="joelchrono's blog" src="/assets/img/badges/joelchronopfp.png"/></a>
-```
+<ul class="badge-list">
+<li><a href="{{ site.url }}" target="_blank"><img class= "badge" alt="joelchrono's blog" src="/assets/img/badges/joelchrono.png" /></a></li>
+<li><a href="{{ site.url }}" target="_blank"><img src="/assets/img/badges/joelchronopfp.png" class="badge" alt="joelchrono's blog" /></a></li>
+</ul>
 </article>
 
 

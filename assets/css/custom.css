@@ -1,14 +1,14 @@
 :root {
     /* Set sans-serif & mono fonts */
-    --sans-font: "IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-    --mono-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
+    /*--sans-font: "IBM Plex Mono",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;*/
+    --mono-font: "mononoki","IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /*--sans-font: "IBM Plex Mono","Roboto Mono","Ubuntu Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;*/
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
-    --base-fontsize: 1.2rem;
+    --base-fontsize: 1.05rem;
     /* Major third scale progression - see https://type-scale.com/ */
     --header-scale: 1.2;
     /* Line height is set to the "Golden ratio" for optimal legibility */
-    --line-height: 1.85;
+    --line-height: 1.55;
     /*This is my dark themed color scheme*/
     --accent-bg: #f0f0f0;
     --accent-light: #7aa2f7;
@@ -62,7 +62,7 @@ a:hover {
 }
 
 body {
-    font-family: var(--sans-font);
+    font-family: var(--mono-font);
     font-weight: normal;
     line-height: var(--line-height);
     margin: 0;
@@ -111,7 +111,7 @@ p > code {
 }
 
 code {
-    font-size: 18px;
+    /*font-size: 18px;*/
     font-family: var(--mono-font);
     word-wrap: break-word;
 }
@@ -121,7 +121,7 @@ pre {
     color: #d8dee9;
     /*border-radius: 8px;*/
     overflow:auto;
-    line-height: 1.245rem;
+    line-height: 1.245;
     padding: 1rem;
 }
  /*Default table styles for this demo */
@@ -378,8 +378,8 @@ aside {
 }
 
 .sidebar {
-  margin: 0;
-  padding: 1rem;
+  /*margin: 0;*/
+  /*padding: 1rem;*/
   /*width: 30rem;*/
 }
 
@@ -530,7 +530,7 @@ gap: 1rem;
     /*border-radius: 12px;*/
     border: 2px solid var(--code);
     margin: 0;
-    flex: 1 1 12rem;
+    flex: 1 1 22ch;
 }
 
 .flex-container > article h4,
@@ -547,7 +547,6 @@ gap: 1rem;
 
 .flex-container > article div.blog-description{
 	font-size: medium;
-	margin: 0 .5rem;
     	text-wrap: balance;
 }
 
@@ -572,7 +571,7 @@ gap: 1rem;
 	margin-top: 0;
 	margin-bottom: 4px;
 	padding: .65em 1em;
-	font-size: var(--font-sm);
+	font-size: small;
 	line-height: 1.4;
 }
 .bubble li:last-child {
