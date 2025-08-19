@@ -39,13 +39,11 @@ If anything, some of my automation scripts are less used nowadays, because I hav
 
 I've felt the urge to switch things up from time to time, but if I ever feel that boredom creeping in, I am more than satisfied by creating a new website theme, cleaning up my existing stylesheet, or adding new pages. I think the moment I want to do something that cannot be achieved with Jekyll's feature-set or a bash script, will be when I finally try something else, but that bar has not been reached so far, to be honest.
 
-So, yeah, I think that the fun for me is in a couple things, the first one: just writing!
+So, yeah, I think that the fun for me is in a couple things
 
-When everything is fine and good, I can just dedicate myself to writing, it doesn't matter if it's in my phone, or my own laptop with my fancy setup, or some other computer device, as long as I just write Markdown I don't really care that much. Just upload the file to my website and trust I didn't mess up a link or something. I can always fix it later anyway.
+1. **just writing!** - When everything is fine and good, I can just dedicate myself to writing, it doesn't matter if it's in my phone, or my own laptop with my fancy setup, or some other computer device, as long as I just write Markdown I don't really care that much. Just publish the post to my website and trust I didn't mess up a link or something. I can always fix it later anyway.
 
-And second, working within limitations.
-
-I have managed to achieve everything I've wanted thus far with my website. And sure there are things I haven't bothered to try yet, like a search bar or a guestbook page. But I know there are ways to get them, I just need to take the time to set everything up, or not! It is my website after all.
+2. **Working within limitations.** - I have managed to achieve everything I've wanted thus far with my website. And sure there are things I haven't bothered to try yet, like a search bar or a guestbook page. But I know there are ways to get them, I just need to take the time to set everything up, or not! It is my website after all.
 
 In my experience, that's what everything boils down to. Everyone sets their own bar wherever they want. Some find it easy to move to something else as soon as things get boring, or too difficult. Others just want to try new things, like how a Linux user keeps distro-hopping for years only to end up on Debian (or maybe Arch) in the end.
 
