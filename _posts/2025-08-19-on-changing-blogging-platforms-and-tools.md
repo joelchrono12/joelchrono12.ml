@@ -2,13 +2,13 @@
 title: On changing blogging platforms and tools 
 header: On changing blogging platforms and tools 
 description: I've been using Jekyll for 4 years, and I have been happy, so, sometimes people switch things up too fast.
-tags: weeknotes
+tags: jekyll thoughts tech
 permalink: /blog/on-blogging-platforms-and-tools/
 layout: post
 date: 2025-08-19 16:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115057862275492373
 ---
 
 During these past few weeks, some blogposts have popped up in my feed, where they are constantly switching blogging platforms, changing their note-taking systems, or similar.
