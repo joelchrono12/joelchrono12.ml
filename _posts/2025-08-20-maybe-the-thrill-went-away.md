@@ -2,13 +2,13 @@
 title: Maybe the thrill went away
 header: Maybe the thrill went away
 description: A completely random ramble going from why we seek new things, or old things, and the constant back and forth of it all when we keep looking for that thrill that will never be again
-tags: tech ramble 
+tags: tech ramble thoughts
 permalink: /blog/maybe-the-thrill-went-away/
 layout: post
 date: 2025-08-20 15:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115063439984826477
 ---
 
 As soon as I published [my previous post](/on-blogging-platforms-and-tools), I gave it another read and by the end, the idea for this one came to be.
