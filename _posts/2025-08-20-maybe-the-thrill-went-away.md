@@ -63,6 +63,6 @@ In the end, maybe I'm just lazy, too lazy to switch from Jekyll, too lazy to try
 
 But I'm also good at switching things up when I feel like it, I still haven't made my `/changelog` page but this month has seen quite a lot of improvements to this site's structure, I decided to change my font family to something monospace, and I've even made [more buttons](/blog/more-88x31-buttons/), updated pages, and all of that.
 
-I'm simply focusing on other things, on other changes, maybe it's just [my hobby cycle](/blog/the-hobby-cicle) spinning around yet again. 
+I'm simply focusing on other things, on other changes, maybe it's just [my hobby cycle](/blog/the-hobby-cycle) spinning around yet again. 
 
 Maybe the thrill keeps going, it's just triggered by different things at this time.
