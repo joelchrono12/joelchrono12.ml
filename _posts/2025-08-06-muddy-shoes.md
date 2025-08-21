@@ -6,6 +6,7 @@ tags: storytime life personal
 permalink: /blog/muddy-shoes/
 layout: post
 date: 2025-08-06 12:20:00 -0600
+updated: 2025-08-21 12:15:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114983241402424996
@@ -64,3 +65,8 @@ I remember that my grandpa got a knife to slice through the hardened mud and wea
 My grandpa finally freed my shoes from its cage after a while, and used a brush to get rid of the rest. Only for rain to fall down the next day, and for us to want to go play under it again.
 
 This time, they told us we could go play barefoot. Yet another feeling I've not experienced in years.
+
+## Blog pings
+Articles around the web that reference this post. I add them manually, so let me know if you link to me!
+
+- [Barefoot](https://marisabel.nl/public/blog/Barefoot) by Marisabel
