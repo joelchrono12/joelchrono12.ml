@@ -11,7 +11,7 @@ username: joel
 com_id: 115063439984826477
 ---
 
-As soon as I published [my previous post](/on-blogging-platforms-and-tools), I gave it another read and by the end, the idea for this one came to be.
+As soon as I published [my previous post](/blog/on-blogging-platforms-and-tools), I gave it another read and by the end, the idea for this one came to be.
 
 Sometimes people don't try shiny new things just because you care about some specific feature, or even because it's actually fun at all. Sometimes you just want that feeling again. The first time you try a new pair of glasses and you see the world isn't blurry anymore. The first time you turned on a brand new device and saw how smooth the screen was. The first time you created an account for that upcoming social media platform revolutionizing the way you interact with others. 
 
