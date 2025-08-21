@@ -69,7 +69,9 @@ Well, that was another nice trip down memory lane! I guess I've been way too ins
 
 In any case, the PSP is as great a handheld today as it was in 2012, so if you have one laying around somewhere, make sure to give it a go! You can do a lot of stuff with it still. Like, play music, emulate games from the GBA and SNES and of course backups of your own games. Just mod it already, it only takes like two minutes...
 
+## Blog replies or mentions
 
+- [An Ode To The PlayStation Portable](https://brainbaking.com/post/2025/08/an-ode-to-the-playstation-portable) by Brain Baking
 
 
 [^1]: Arcade gaming places weren't common in Mexico---at least by the time I was born---but most *tienditas de la esquina* (small local family-owned stores present in every neighborhood) tend to have these sort of Xbox/Xbox360 machines in an arcade-like cabinet, filled with cracked games and stuff. Simply awesome for any kid with a few pesos to spare.
