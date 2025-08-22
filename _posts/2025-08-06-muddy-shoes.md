@@ -10,6 +10,10 @@ updated: 2025-08-21 12:15:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114983241402424996
+mentions:
+    - title: Barefoot
+      url: "https://marisabel.nl/public/blog/Barefoot"
+      author: Marisabel
 ---
 
 Everyday, on my way to work---or at least to the bus that takes me to work---I have to walk through a crop field.
@@ -66,7 +70,3 @@ My grandpa finally freed my shoes from its cage after a while, and used a brush 
 
 This time, they told us we could go play barefoot. Yet another feeling I've not experienced in years.
 
-## Blog pings
-Articles around the web that reference this post. I add them manually, so let me know if you link to me!
-
-- [Barefoot](https://marisabel.nl/public/blog/Barefoot) by Marisabel

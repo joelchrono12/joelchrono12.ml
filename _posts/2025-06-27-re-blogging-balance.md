@@ -9,6 +9,10 @@ date: 2025-06-27 16:42:32 -0600
 host: fosstodon.org
 username: joel
 com_id: 114758084741658291
+mentions:
+  - author: Bojidar Marinov
+    url: https://bojidar-bg.dev/blog/2025-06-30-blindtype/
+    title: Blindtyping
 ---
 
 {% include post_embed.html

@@ -10,6 +10,11 @@ updated: 2025-08-21 07:25:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115063439984826477
+mentions:
+    - author: Marisabel
+      url: "https://marisabel.net"
+      title: "RE: Maybe the thrill went away"
+        
 ---
 
 As soon as I published [my previous post](/blog/on-blogging-platforms-and-tools), I gave it another read and by the end, the idea for this one came to be.
@@ -67,9 +72,3 @@ But I'm also good at switching things up when I feel like it, I still haven't ma
 I'm simply focusing on other things, on other changes, maybe it's just [my hobby cycle](/blog/the-hobby-cycle) spinning around yet again. 
 
 Maybe the thrill keeps going, it's just triggered by different things at this time.
-
-## Blog Replies
-
-Some people have shared their thoughts on this post, so I link to them here!
-
-- [RE: Maybe the thrill went away](https://marisabel.nl/public/blog/RE:_Maybe_the_thrill_went_away) by Marisabel

@@ -24,6 +24,19 @@ layout: default
 </aside>
 <article class="e-content">
 {{ content }}
+{% if page.mentions %}
+<h2>Blog pings</h2>
+<article>
+<p>Articles around the web that reference this post. I add them manually, so let me know if you link to me!</p>
+<ul>
+{% for mention in page.mentions %}
+
+<li><a href="{{ mention.url }}">{{ mention.title }}</a> by {{ mention.author }}</li>
+
+{% endfor%}
+</ul>
+</article>
+{% endif %}
 <aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span><span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
 </article>
 <section>

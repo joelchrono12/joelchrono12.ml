@@ -10,6 +10,10 @@ updated: 2025-08-21 12:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114978651545792657
+mentions:
+  - title: "Week Notes – July 20 to August 10 2025"
+    url: "https://noisydeadlines.net/week-notes-july-20-to-august-10-2025}"
+    author: "Noisy Deadlines"
 ---
 
 Last year, Nintendo announced the Alarmo, a smart clock that came with some some Nintendo exclusive features, such as custom themes and alarm sounds from popular Nintendo videogame franchises, and smart movement detection for alarms and the like.
@@ -63,6 +67,3 @@ This morning, I got to wake up with the ringing bells of an alarm clock for the 
 [^1]: The Militado ML07, although I already had a couple analog casios, like the MRW-200H (an actual MVP) and the GA-2100 (an MVP but more expensive).
 [^2]: I've felt that a lot of my posts lately have been talking about rather obvious things, and I usually bring up "this is already obvious I know" immediately, but I a bit of shame for it, not sure why.
 
-## Blog pings
-
-- [Week Notes – July 20 to August 10 2025](https://noisydeadlines.net/week-notes-july-20-to-august-10-2025) by Noisy Deadlines

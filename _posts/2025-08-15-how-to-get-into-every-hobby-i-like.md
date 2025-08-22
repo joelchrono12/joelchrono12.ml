@@ -9,6 +9,10 @@ date: 2025-08-15 19:12:44 -0600
 host: fosstodon.org
 username: joel
 com_id: 115036096797367048
+mentions:
+    - title: Weekly digest 35
+      url: https://thetangent.space/2025/digest35/
+      author: The Tangent Space
 ---
 
 Well, I do have quite [a lot of hobbies](/about/#hobbies--interests), and I probably could turn this into a proper series, if I had enough inspiration to do so. But well, instead of that, I will just share a couple things, be it links, books, videos or whatever, that might be a good place to get you started into whatever hobby I talk about. However, I'm kind of lazy right now, so don't expect much. I will just share some general advice if you want to get into it, and I'll let you look for more information by yourself.

@@ -9,6 +9,16 @@ date: 2025-07-15 22:39:51 -0600
 host: fosstodon.org
 username: joel
 com_id: 114861175491819033
+mentions:
+  - title: combating consumerism
+    url: https://benjaminhollon.com/musings/combating-consumerism/
+    author: Benjamin Hollon
+  - title: Consumerism and my Relationship with Money
+    url: https://bfloeser.de/posts/consumerism/
+    author: Benedikt
+  - title: Too Many Games, Too Little Time
+    url: https://brainbaking.com/post/2025/07/too-many-games-too-little-time/
+    author: Wouter Groeneveld
 ---
 
 When I arrived to my workplace a few days ago, I saw a fellow coworker who got there at the same time as me, and I noticed that they had an Owala "FreeSip" water bottle.

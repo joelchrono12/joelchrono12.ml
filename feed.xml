@@ -30,7 +30,25 @@ permalink: "/feed.xml"
         <content type="html" xml:base="{{ post.url | absolute_url }}">
             {{ post.content | xml_escape }}
             {% capture replies %}{% include replies.html %}{% endcapture %}
-            {{ replies | xml_escape }}
+		{{ replies | xml_escape }}
+		{% capture pings %}
+		{% if post.mentions %}
+		<h2>Blog pings</h2>
+		<p>Articles around the web that reference this post. I add them manually, so let me know if you link to me!</p>
+		<ul>
+			{% for mention in post.mentions %}
+			<li>
+				<a href="{{ mention.url }}">
+					{{ mention.title }}
+				</a>
+				by {{ mention.author }}
+			</li>
+			{% endfor%}
+		</ul>
+		{% endif %}
+		{% endcapture%}
+		{{ pings | xml_escape }}
+
         </content>
         {% for tag in post.tags %}
         <category term="{{ tag | xml_escape }}"/>

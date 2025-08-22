@@ -10,6 +10,10 @@ updated: 2025-05-06 22:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114464653773570893
+mentions:
+  - title: What If We Let Ourselves Get Bored Again?
+    author: Noisy Deadlines
+    url: https://noisydeadlines.net/what-if-we-let-ourselves-get-bored-again?pk_campaign=rss-feed
 ---
 
 ## Back in my day...

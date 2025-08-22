@@ -10,6 +10,22 @@ updated: 2025-04-09 22:18:30 -0600
 host: fosstodon.org
 username: joel
 com_id: 114311837967518950
+mentions: 
+    - title: Blogging Expectations
+      url: https://kevquirk.com/blog/blogging-expectations
+      author: Kev Quirk
+    - title: Blogging Expectations
+      url: https://thomasrigby.com/posts/blogging-expectations/
+      author: Tomas Rigby
+    - title: Blogging for Attention
+      url: https://axxuy.xyz/blog/posts/2025/attention/)
+      author: Axxuy
+    - title: Hoping the Void Shouts Back
+      url: https://vzqk50.com/blog/hoping-the-void-shouts-back
+      author: Apis Necros
+    - title: There's Nothing Wrong With Blogging for Attention
+      url: https://canro91.github.io/2025/06/16/BloggingExpectations/
+      author: Cesar Aguirre
 ---
 
 After stumblinng upon a post about [blogging feeling fake](https://web.archive.org/web/20250407193754/https://robertbirming.com/blogging-feels-fake/) by Robert Birming, inspired by [another post](https://web.archive.org/web/20250405072226/https://brandons-journal.com/new-post-new) by Brandon, I also felt the sudden urge to write some thoughts about what I expect out of blogging. Go read them, I think they are both much better than whatever is coming up in the next few paragraphs. 🤣
@@ -43,17 +59,5 @@ I write this and I know my closer circle of friends will be like *"you evil atte
 Maybe I'll look back at this in a few months and be like *"woah I sure was desperate"* but well, I already committed to the bit so I may as well publish it now. *I sure hope this is not the first ever blog post someone reads from me!* But this is my website, I do whatever I want with it, that's the beauty of blogging, isn't it? I may be shouting to the void, but at least I can shout.
 
 *Okay that last line was kinda cringe.*
-
----
-## Related articles
-
-Quite a bit of people have shared their own thoughts about this post. Check them out here!
-
-- [Blogging Expectations](https://kevquirk.com/blog/blogging-expectations) by [@kev](https://fosstodon.org/@kev)
-- [Blogging Expectations](https://thomasrigby.com/posts/blogging-expectations/) by [@hryggrbyr](https://fedia.social/@hryggrbyr)
-- [Blogging for Attention](https://axxuy.xyz/blog/posts/2025/attention/) by [@axxuy](https://pony.social/@axxuy)
-- [Hoping the Void Shouts Back](https://vzqk50.com/blog/hoping-the-void-shouts-back/) by [@ApisNecros](https://ioc.exchange/@ApisNecros)
-
-If you also wrote about this topic, please [let me know](/contact) so I can share your post here!
 
 This is day 46 of [#100DaysToOffload](https://100daystooffload.com)

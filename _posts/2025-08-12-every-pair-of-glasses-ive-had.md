@@ -10,6 +10,10 @@ updated: 2025-08-13 07:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115019704718439730
+mentions:
+    - title: Week 33 2025
+      url: https://sylvia.buzz/week-33-2025
+      author: Sylvia
 ---
 
 I recently had an eyesight exam, and I had pretty decent results! My prescription barely changed, but I will be getting new frames, since I kinda wanted a bit of a change on my face, I guess.

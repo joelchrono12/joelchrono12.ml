@@ -9,6 +9,10 @@ date: 2025-03-12 20:15:18 -0600
 host: fosstodon.org
 username: joel
 com_id: 114158500558833020
+mentions:
+    - url: https://dearmishmash.bearblog.dev/junited-2025/
+      title: Junited 2025
+      author: Dearmishmash
 ---
 
 I don't like to call myself a poser, but there are things that I will really like and defend for no reason, or that just amuse me even if I've never had any real experience with it, being videogames, movies or some other hobby. However, I just keep watching random content about it on the internet, like reviews, people talking about it or performing it.
