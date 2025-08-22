@@ -9,6 +9,11 @@ permalink: /blog/just-start-blogging/
 host: fosstodon.org
 username: joel
 com_id: 111250636882047512
+mentions:
+  - url: https://sheepdev.xyz/blog/your-own-corner-of-the-internet
+    author: Jakov
+    title: Your Own Corner of the Internet
+  
 ---
 
 Right when I was going to start this blogpost, ~~Kev published [Blogging for the hell of it](https://kevquirk.com/blogging-for-the-hell-of-it)~~ (update: The blog was actually written by [Whiona](https://blog.whiona.me/what-happened-to-blogging-for-the-hell-of-it/), Kev's post is a short response to it!), which seems to be about the same thing—so I decided not to read it until I'm done writing this.
