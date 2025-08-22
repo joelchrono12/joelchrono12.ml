@@ -15,10 +15,10 @@ mentions:
     title: "The Phones I owned through the years"
     author: Dušan Mitrovic
   - url: https://lazybea.rs/posts/every-phone-ive-ever-owned
-    text: Every phone I've ever owned
+    title: Every phone I've ever owned
     author: Hyde Stevenson
   - url: https://rknight.me/blog/every-phone-ive-ever-owned
-    text: Every phone I've ever owned
+    title: Every phone I've ever owned
     author: Robb Knight
 ---
 
