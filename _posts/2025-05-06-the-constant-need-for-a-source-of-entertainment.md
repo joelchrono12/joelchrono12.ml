@@ -19,7 +19,11 @@ mentions:
     author: Dearmishmash
   - url: https://brainbaking.com/post/2025/06/may-2025/
     author: Wouter Groeneveld
-    title: Favourites of May 2025 
+    title: Favourites of May 2025
+  - url: https://gobino.be/weekly-rewind-w19/
+    title: Weekly Rewind - W19
+    author: Gobino
+    
 ---
 
 ## Back in my day...
