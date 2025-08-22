@@ -6,9 +6,14 @@ tags: tutorial rss foss selfhost
 permalink: /blog/fetch-full-article-content-freshrss/
 layout: post
 date: 2022-01-10 14:20:57 -0600
+updated: 2025-08-22 11:00:57 -0600
 host: fosstodon.org
 username: joel
 com_id: 107600120955393384
+mentions: 
+  - url: https://blog.zedas.fr/posts/from-ttrss-to-freshrss
+    title: From TTRSS to FreshRSS
+    author: Garbage Collector
 ---
 
 I won't bring up any names, wait, maybe I will,
