@@ -10,7 +10,7 @@ host: fosstodon.org
 username: joel
 com_id: 115028762701488270
 mentions:
-  - author: Brain Baking
+  - author: Wouter Groeneveld
     url: https://brainbaking.com/post/2025/08/an-ode-to-the-playstation-portable
     title: An Ode To The PlayStation Portable
 ---

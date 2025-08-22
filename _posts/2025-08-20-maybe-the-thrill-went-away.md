@@ -12,7 +12,7 @@ username: joel
 com_id: 115063439984826477
 mentions:
     - author: Marisabel
-      url: "https://marisabel.net"
+      url: "https://marisabel.nl/public/blog/RE:_Maybe_the_thrill_went_away"
       title: "RE: Maybe the thrill went away"
         
 ---
