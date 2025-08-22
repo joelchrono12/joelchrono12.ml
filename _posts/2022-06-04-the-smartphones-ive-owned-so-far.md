@@ -6,10 +6,20 @@ tags: android tech lifestyle storytime
 permalink: /blog/the-smartphones-i've-owned-so-far/
 layout: post
 date: 2022-06-04 09:36:00 -0500
-updated: 2024-05-09 05:20:00 -0500
+updated: 2025-08-22 05:20:00 -0500
 host: fosstodon.org 
 username: joel
 com_id: 112410951668050796
+mentions:
+  - url: https://dusanmitrovic.rs/blog/post/2022-06-06/The-Phones-I-owned-through-the-years
+    title: "The Phones I owned through the years"
+    author: Dušan Mitrovic
+  - url: https://lazybea.rs/posts/every-phone-ive-ever-owned
+    text: Every phone I've ever owned
+    author: Hyde Stevenson
+  - url: https://rknight.me/blog/every-phone-ive-ever-owned
+    text: Every phone I've ever owned
+    author: Robb Knight
 ---
 
 *__Note__: Updated in May 9, 2024 to reflect my latest smartphone after Robb Knight [published his own article of this type](https://rknight.me/blog/every-phone-ive-ever-owned/)*
@@ -109,4 +119,3 @@ There were other less important dumb phones I used too, but I didn't see the poi
 It has been fun to write all this, I was remembering stuff on the spot and many fun memories returned to me. It was quite a wordy post this time around, vacations seem to be going quite well.
 
 I hope more people try doing this, I got the idea from a post by [Ru](https://rusingh.com/), so maybe you'll be inspired too.
-{% include reply.html %}
