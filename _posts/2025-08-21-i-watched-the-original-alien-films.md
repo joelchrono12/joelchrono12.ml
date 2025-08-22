@@ -8,7 +8,7 @@ layout: post
 date: 2025-08-21 16:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115069327528578900
 ---
 
 During the past few days, I watched most of the Alien movies, due to the release of the new TV series *Alien: Earth*, and because I had never given them a proper watch at them except for the original. Somehow I was blind to one of the most popular franchises among science fiction and space horror fans, and it was time to change that.
