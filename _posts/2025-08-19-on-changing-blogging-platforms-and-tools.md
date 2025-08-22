@@ -6,7 +6,7 @@ tags: jekyll thoughts tech
 permalink: /blog/on-blogging-platforms-and-tools/
 layout: post
 date: 2025-08-19 16:00:00 -0600
-updated: 2025-08-19 22:43:00 -0600
+updated: 2025-08-22 15:25:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115057862275492373
@@ -14,6 +14,9 @@ mentions:
   - url: https://82mhz.net/posts/2025/08/linkdump-no-69
     author: Andreas
     title: Linkdump 69
+  - url: https://orbitalmartian.vercel.app/blog/2025-08-22-on-changing-blog-platforms
+    author: Orbital Martian
+    title: On Changing Blogging Platforms and Tools
 ---
 
 During these past few weeks, some blogposts have popped up in my feed, where they are constantly switching blogging platforms, changing their note-taking systems, or similar.
