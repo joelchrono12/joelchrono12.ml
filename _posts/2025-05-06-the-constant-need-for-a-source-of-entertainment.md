@@ -16,9 +16,9 @@ mentions:
     url: https://noisydeadlines.net/what-if-we-let-ourselves-get-bored-again
   - title: Week Notes 10
     url: https://dearmishmash.bearblog.dev/week-notes-10
-    author; Dearmishmash
+    author: Dearmishmash
   - url: https://brainbaking.com/post/2025/06/may-2025/
-    author Wouter Groeneveld
+    author: Wouter Groeneveld
     title: Favourites of May 2025 
 ---
 
