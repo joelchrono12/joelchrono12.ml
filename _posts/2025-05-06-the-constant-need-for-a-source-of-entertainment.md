@@ -23,6 +23,9 @@ mentions:
   - url: https://gobino.be/weekly-rewind-w19/
     title: Weekly Rewind - W19
     author: Gobino
+  - url: https://82mhz.net/posts/2025/05/linkdump-no-56/
+    author: Andreas
+    title: Linkdump No 56
     
 ---
 
