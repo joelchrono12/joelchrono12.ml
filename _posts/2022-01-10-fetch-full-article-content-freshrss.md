@@ -14,6 +14,9 @@ mentions:
   - url: https://blog.zedas.fr/posts/from-ttrss-to-freshrss
     title: From TTRSS to FreshRSS
     author: Garbage Collector
+  - url: https://simonsafar.com/2022/rss_contents/
+    author: Simon Safar
+    title: Fancier RSS feeds
 ---
 
 I won't bring up any names, wait, maybe I will,
