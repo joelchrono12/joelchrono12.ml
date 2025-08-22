@@ -6,9 +6,14 @@ tags: blog storytime internet gaming
 permalink: /blog/the-first-blog-i-had/
 layout: post
 date: 2023-01-12 07:45:45 -0600
+updated: 2025-08-22 12:20:45 -0600
 host: fosstodon.org
 username: joel
 com_id: 109676641967252296
+mentions:
+  - url: https://lazybea.rs/posts/my-first-website
+    author: Hyde Stevenson
+    title: My first website
 ---
 
 So, back then I didn't know any better. Blogs were not really something I was very familiar with. MSN Messenger was still around and it was my favorite (or perhaps the only) way to instantly chat with friends.
