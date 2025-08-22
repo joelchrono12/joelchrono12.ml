@@ -6,9 +6,14 @@ tags: jekyll blog webdev
 permalink: /blog/my-static-site-workflow/
 layout: post
 date: 2023-02-27 13:56:29 -0600
+updated: 2025-08-22 12:25:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 109938904113012486
+mentions:
+  - url: https://lazybea.rs/posts/my-static-site-worflow/
+    author: Hyde Stevenson
+    title: My static site workflow
 ---
 
 This is obviously inspired by Kev Quirk's [latest](https://kevquirk.com/my-static-site-workflow/) post,
@@ -129,7 +134,7 @@ Here is a link of different posts I've done to fix the following problems!
 
 I should probably make a tag for this specific topic, I haven't done a great job separating these tutorials from the rest. For now, you can check the [jekyll](/tags/jekyll), [coding](/tags/coding) and [tutorial](/tags/tutorial) tags in case something interests you.
 
-You can always check this [website's source code](https://github.com/joelchrono12/joelchrono12.ml) or message me in case you want help with something!
+You can always check this [website's source code](https://github.com/joelchrono12/website) or message me in case you want help with something!
 
 This is day 41 of [#100DaysToOffload](https://100daystooffload.com)
 {% include reply.html %}
