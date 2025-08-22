@@ -6,10 +6,15 @@ tags: gaming storytime tech family
 permalink: /blog/my-first-console/
 layout: post
 date: 2025-03-10 21:51:21 -0600
+updated: 2024-08-22 08:05:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114141865871126007
 image: 'assets/img/blogs/2025-03-10-polystation.webp'
+mentions:
+  - url: https://brainbaking.com/post/2025/03/my-first-console/
+    author: Wouter Groeneveld
+    title: My First Console
 ---
 
 
