@@ -9,6 +9,10 @@ date: 2025-08-05 10:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114977026358587216
+mentions:
+  - url: https://hollie.eilloh.net/blog/2025/08/05/
+    title: "Blaugust Day 5 - Fibro crash, lightning hits, finished a book, site updates"
+    author: Hollie
 ---
 
 One of the goals of [Blaugust2025](/blog/blaugust-2025) is to reply and promote other bloggers participating! This post will be one of those, yay!
