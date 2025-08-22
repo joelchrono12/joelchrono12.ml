@@ -26,6 +26,12 @@ mentions:
     - title: There's Nothing Wrong With Blogging for Attention
       url: https://canro91.github.io/2025/06/16/BloggingExpectations/
       author: Cesar Aguirre
+    - title: Colophon - Impetus & Technology
+      url: https://kiko.io/post/Colophon-Impetus-Technology/
+      author: Kristof Zerbe
+    - title: Blogging Expectations
+      author: Leon Mika
+      url: https://lmika.org/2025/04/11/blogging-expectations-in-my-case.html
 ---
 
 After stumblinng upon a post about [blogging feeling fake](https://web.archive.org/web/20250407193754/https://robertbirming.com/blogging-feels-fake/) by Robert Birming, inspired by [another post](https://web.archive.org/web/20250405072226/https://brandons-journal.com/new-post-new) by Brandon, I also felt the sudden urge to write some thoughts about what I expect out of blogging. Go read them, I think they are both much better than whatever is coming up in the next few paragraphs. 🤣
