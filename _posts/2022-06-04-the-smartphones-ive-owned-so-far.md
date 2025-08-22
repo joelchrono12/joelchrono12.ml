@@ -20,6 +20,9 @@ mentions:
   - url: https://rknight.me/blog/every-phone-ive-ever-owned
     title: Every phone I've ever owned
     author: Robb Knight
+  - url: https://rldane.space/nearly-a-quarter-century-of-mobile-phones.html
+    title: Nearly a Quarter Century of Mobile Phones
+    author: R.L. Dane
 ---
 
 *__Note__: Updated in May 9, 2024 to reflect my latest smartphone after Robb Knight [published his own article of this type](https://rknight.me/blog/every-phone-ive-ever-owned/)*
