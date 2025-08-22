@@ -10,6 +10,10 @@ updated: 2025-08-19 22:43:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115057862275492373
+mentions:
+  - url: https://82mhz.net/posts/2025/08/linkdump-no-69
+    author: Andreas
+    title: Linkdump 69
 ---
 
 During these past few weeks, some blogposts have popped up in my feed, where they are constantly switching blogging platforms, changing their note-taking systems, or similar.
