@@ -6,9 +6,14 @@ tags: foss tutorial linux raspberrypi selfhost rss
 permalink: /blog/self-hosting-my-news-feed-with-freshrss/
 layout: post
 date: 2022-01-01 08:00:00 -0500
+updated: 2025-08-22 12:40:00 -0500
 host: fosstodon.org
 username: joel
 com_id: 107547601967939855
+mentions:
+  - url: https://sheepdev.xyz/blog/installing-freshrss
+    author: Jakov
+    title: Installing FreshRSS On My Raspberry Pi
 ---
 
 So, I have been using Miniflux for the last few months, and it has worked quite greatly. However, I was not self-hosting it myself, and, while I could just keep using it, since there was no problem for my provider, I decided that, since I was already self-hosting Nextcloud, I could try installing their News add-on. Except that there was a small detail...
