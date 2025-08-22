@@ -4,6 +4,7 @@ header: Just start blogging
 layout: post
 tags: personal blog small-web community ramble
 date: 2023-10-17 07:30:00 -0600
+updated: 2025-08-22 12:30:00 -0600
 description:  Even if you think you have nothing new to say, you can still blog about the old things.
 permalink: /blog/just-start-blogging/
 host: fosstodon.org
