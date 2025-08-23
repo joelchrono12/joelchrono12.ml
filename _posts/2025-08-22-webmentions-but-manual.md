@@ -20,9 +20,9 @@ This is usually a pretty nice way for conversation to spark among the blogging c
 
 A few days ago, I wrote a blog post talking about [webrings, clubs, and blogroll I'm part of](https://joelchrono.xyz/blog/webrings-clubs-and-blogrolls-im-part-of), a huge list of sites and pages that link my website on them, this of course didn't take into account individual blogposts, just the main url.
 
-[Webmentions](https://webmention.io/) have been around for a while now, they're are a very interesting protocol that allows websites to interact and call each other as if they were they own sort of social media. It's very extensive and not too difficult to implement in something like Wordpress or some drop-in solution. However, while very cool, they seem to be a pain to get to work on a static website like mine, and also pretty prone to spam and other maintenance issues, [from what I've seen](https://brainbaking.com/post/2023/05/why-i-retired-my-webmention-server).
+[Webmentions](https://webmention.io/) have been around for a while now, they are a very interesting protocol that allows websites to interact and call each other as if they were their own sort of social media. It's very extensive and not too difficult to implement in something like Wordpress, and there are drop-in solutions available as well. However, while very cool, I didn't want to bother setting them up even if it's not too difficult. They are also pretty prone to spam and other maintenance issues, [from what I've seen](https://brainbaking.com/post/2023/05/why-i-retired-my-webmention-server).
 
-Sometimes when I realized a blog post was mentioned pretty often, I would add links to the bottom manually, to help their responses get to more people and amplify their reach.
+Sometimes when I realized a blogpost was replied to by other bloggers, I would add links to the bottom of my original article, to help the conversation get to more people and amplify its reach.
 
 This is nothing new, I've seen some other posts like [Marisabel's](https://marisabel.nl) and [Jedda's](https://notes.jeddacp.com) calling these link replies **Community Echoes**, and yes, that name is absolutely awesome, and while I probably can just use it without any further thoughts, I wanted to name them something else just to be *~unique and different~*
 
