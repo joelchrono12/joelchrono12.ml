@@ -55,7 +55,7 @@ mentions:
       author: Kev Quirk
     - title: Blogging Expectations
       url: https://thomasrigby.com/posts/blogging-expectations
-      author: Tomas Rigby
+      author: Thomas Rigby
 ```
 
 In my case, I use a [Jekyll Layout](https://jekyllrb.com/docs/step-by-step/04-layouts/) for all my posts, so I added the following to the end section of it. This can probably be turned into an [Jekyll Include](https://jekyllrb.com/docs/includes/), which would let me simply drop it in other places, if I wanted to do so.
