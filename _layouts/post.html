@@ -24,10 +24,11 @@ layout: default
 </aside>
 <article class="e-content">
 {{ content }}
+<aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span><span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
 {% if page.mentions %}
-<h2>Blog pings</h2>
 <article>
-<p>Articles around the web that reference this post. I add them manually, so let me know if you link to me!</p>
+<h2>Blog pings</h2>
+<span>Articles around the web that reference this post. I add each of them by hand, so let me know if you ping back to me!</span>
 <ul>
 {% for mention in page.mentions %}
 
@@ -37,7 +38,6 @@ layout: default
 </ul>
 </article>
 {% endif %}
-<aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span><span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
 </article>
 <section>
 <h2 id="comments">Comments</h2> 
