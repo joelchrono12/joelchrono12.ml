@@ -67,7 +67,6 @@ Right now, I have this in both my `post.html` and my `feed.xml` templates.
 <!--Rest of HTML post template here-->
 {% if page.mentions %}
 <h2>Blog pings</h2>
-<article>
 <p>Articles around the web that reference this post. 
 I add them manually, so let me know if you link to me!</p>
 <ul>
