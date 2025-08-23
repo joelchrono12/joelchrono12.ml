@@ -16,7 +16,7 @@ mentions:
       author: Kev Quirk
     - title: Blogging Expectations
       url: https://thomasrigby.com/posts/blogging-expectations/
-      author: Tomas Rigby
+      author: Thomas Rigby
     - title: Blogging for Attention
       url: https://axxuy.xyz/blog/posts/2025/attention/)
       author: Axxuy
