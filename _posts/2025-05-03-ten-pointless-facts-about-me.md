@@ -9,6 +9,13 @@ date: 2025-05-03 16:39:28 -0600
 host: fosstodon.org
 username: joel
 com_id: 114452374780616884
+mentions:
+  - url: https://mtwb.blog/posts/2025/10-pointless-facts-about-me/
+    author: Matt
+    title: 10 Pointless Facts About Me
+  - url: https://write.as/hobbsc/ten-pointless-facts-about-me
+    author: rootwork
+    title: 10 Pointless Facts About Me
 ---
 
 I was challenged by [Mike Sass](https://shellsharks.com/bqc-ten-pointless-facts) to answer these pointless things, so, here they are!

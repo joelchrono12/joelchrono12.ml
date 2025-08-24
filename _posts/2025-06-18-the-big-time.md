@@ -9,6 +9,10 @@ date: 2025-06-18 21:09:51 -0600
 host: fosstodon.org
 username: joel
 com_id: 114707958473903007
+mentions:
+    - url: https://tk-web.top/posts/2025-06-28-weeknotes8/
+      author: Taming Knots
+      title: "Weeknotes #8"
 ---
 
 The Big Time by Fritz Leiber is an old book, and it definitely shows.  However, it is not bad at all, and it kept me *somewhat* engaged while I read it.

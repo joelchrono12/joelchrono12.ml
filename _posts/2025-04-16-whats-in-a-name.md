@@ -9,6 +9,10 @@ date: 2025-04-16 22:46:39 -0600
 host: fosstodon.org
 username: joel
 com_id: 114351527452910887
+mentions:
+  - url: https://theresmiling.neocities.org/blog/2025/04/names.html
+    author: Elena
+    title: About my name
 ---
 
 One of the blogs I often read but haven't mentioned much is [Alexandra Wolfe's](https://wrywriter.ca), she recently had some thoughts [regarding names](https://wrywriter.ca/posts/whats-in-a-name) and left some questions to answer ourselves! Therefore, this blog post.

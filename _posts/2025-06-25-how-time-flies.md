@@ -9,6 +9,10 @@ date: 2025-06-25 21:43:56 -0600
 host: fosstodon.org
 username: joel
 com_id: 114747708728107732
+mentions:
+  - url: https://notes.jeddacp.com/week-notes-067/
+    author: Jedda
+    title: Week Notes 067
 ---
 
 This blogpost was inspired by the title alone of [this post](https://barfooz.xyz/how-time-flies) I saw on my RSS reader, this isn't a response, I wrote it before reading the actual content of that page so, yeah. I'll read it after I'm done with mine and maybe do a reply to that in the end if I feel the need to.

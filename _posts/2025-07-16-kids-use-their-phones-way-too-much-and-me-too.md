@@ -9,6 +9,10 @@ date: 2025-07-16 22:22:48 -0600
 host: fosstodon.org
 username: joel
 com_id: 114866746035268589
+mentions:
+  - url: https://sylvia.studio/week-29-2025
+    author: Sylvia
+    title: Week 29 -2025
 ---
 
 Last week my family was invited to dinner with some friends, and some brought their younger kids.

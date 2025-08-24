@@ -9,6 +9,10 @@ date: 2025-05-09 23:28:44 -0600
 host: fosstodon.org
 username: joel
 com_id: 114482137786544223
+mentions:
+  - author: Taming Knots
+    url: https://tk-web.top/posts/2025-06-28-weeknotes8/
+    title: "Weeknotes #8"
 ---
 
 I started it a few days before I started [Cibola Burn](/blog/cibola-burn), as I waited for other club members to acquire the book and start reading it.

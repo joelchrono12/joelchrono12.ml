@@ -13,6 +13,9 @@ mentions:
   - author: Bojidar Marinov
     url: https://bojidar-bg.dev/blog/2025-06-30-blindtype/
     title: Blindtyping
+  - url: https://mtwb.blog/posts/2025/wraps/june-2025-recap/
+    author: Matt
+    title: June 2025 Recap
 ---
 
 {% include post_embed.html

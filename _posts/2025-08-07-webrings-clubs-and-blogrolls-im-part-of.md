@@ -10,6 +10,11 @@ updated: 2025-08-10 06:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114991445301797504
+mentions:
+    - url: https://thetangent.space/2025/digest34/
+      title: Weekly digest 34
+      author: The Tangeng Space
+
 ---
 
 One of the always ongoing quests of mine consists of keeping all my urls up to date. After almost 5 years of blogging, I've changed my domain name a few times, from just my `.netlify.app` subdomain, to`joelchrono12.ml`, to `joelchrono12.xyz` to the cleaner and shorter `joelchrono.xyz` of today.

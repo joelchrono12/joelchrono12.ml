@@ -10,6 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 114571023880955785
 image: 'assets/img/blogs/2025-05-25-my-desk-setup.webp'
+mentions:
+  - url: https://tk-web.top/posts/2025-05-31-weeknotes4/
+    author: Taming Knots
+    title: "Weeknotes #4"
 ---
 
 A year or so ago I got myself a chest of drawers from on Costco. I didn't write much about it, but I assembled it with my sister and had quite a lot of fun doing it---and not enough cleaning up. 

@@ -9,6 +9,17 @@ date: 2025-04-15 05:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114341874686868380
+mentions:
+  - url: http://tahimik.com/journal/technology-at-this-point-in-time
+    title: Technology at this point in time
+    author: Isa
+  - url: https://noisydeadlines.net/blog-questions-challenge-technology-edition
+    title: "Blog Questions Challenge: Technology Edition"
+    author: Noisy Deadlines
+  - url: https://moddedbear.com/blog-questions-challenge-technology-edition/
+    author: moddedBear
+    title: "Blog Questions Challenge: Technology Edition"
+
 ---
 
 I tried to avoid reading other people's replies, such as [R.L's](https://rldane.space/blog-questions-challenge-technology-edition.html), [Rubenerd's](https://rubenerd.com/blog-question-challenge-technology) or [82MHz's](http://82mhz.net/posts/2025/02/blog-questions-challenge-technology-edition) and the like, but in the end I did! This challenge had been around since a couple months ago, and I just hadn't gotten around to it, so, here are my answers!

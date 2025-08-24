@@ -10,6 +10,10 @@ updated: 2025-06-27 19:00:49 -0600
 host: fosstodon.org
 username: joel
 com_id: 112403627281044207
+mentions:
+    - url: https://thomasrigby.com/posts/popular-posts/
+      author: Thomas Rigby
+      title: Popular Posts
 ---
 
 Vercel, the hosting provider I use, actually has analytics. They are not as feature rich in their free tier, but I usually check them out from time to time and have noticed a couple of patterns.

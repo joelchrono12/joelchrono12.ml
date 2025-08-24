@@ -9,6 +9,10 @@ date: 2025-06-19 19:50:55 -0600
 host: fosstodon.org
 username: joel
 com_id: 114713223065156106
+mentions:
+    - url: https://claytonerrington.com/blog/notetaking/?utm_source=rss
+      author: Clayton Errington
+      title: Notetaking day
 ---
 
 Reading a blog post from [isa](https://tahimik.com) with her thoughts about [reading notes](http://tahimik.com/journal/read-your-notes-or-i-wrote-a-bot-to-post-my-notes-on-fedi) made me realize that I haven't really taken any, in years.

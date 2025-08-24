@@ -9,6 +9,21 @@ date: 2025-04-15 20:36:11 -0600
 host: fosstodon.org
 username: joel
 com_id: 114345470517127396
+mentions:
+  - url: https://theresmiling.neocities.org/blog/2025/05/tv-questions.html
+    author: Elena
+    title: "BQC: TV Edition"
+  - url: https://louplummer.lol/tv-blog-questions/
+    author: Lou Plummer
+    title: The Blog Questions Challenge - TV Edition
+  - url: https://mihobu.lol/blog/blog-questions-tv-shows/
+    author: Michael Burkhardt
+    title: "Blog Questions: TV Shows Edition"
+  - url: https://wrywriter.ca/posts/blog-challenge-tv-show-edition
+    author: Alexandra Wolfe
+    title: "Blog Challenge: TV Show Edition"
+
+
 ---
 Besides the previous [blog questions challenge about technology](/blog/blog-questions-technology-edition), I also just decided to participate on this one, about TV shows! Let's just go for it and just write whatever comes to my head first and see how it goes!
 
