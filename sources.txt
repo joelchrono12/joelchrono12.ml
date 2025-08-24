@@ -1,4 +1,3 @@
-https://thomasrigby.com/feed.xml
 https://82mhz.net/index.xml
 https://analogoffice.net/feed.xml
 https://anhvn.com/feed.xml
@@ -14,7 +13,6 @@ https://d.moonfire.us/atom.xml
 https://heavyconsulting.net/blog/feed.atom
 https://hunden.linuxkompis.se/feed.xml
 https://ilyess.cc/index.xml
-https://notes.jeddacp.com/feed
 https://kevquirk.com/posts-feed
 https://kwon.nyc/notes/index.xml
 https://lazybea.rs/index.xml
@@ -25,13 +23,17 @@ https://michal.sapka.pl/rss.xml
 https://moddedbear.com/index.xml
 https://mtwb.blog/index.xml#feed
 https://noisydeadlines.net/feed/
+https://notes.jeddacp.com/feed
 https://odonnellweb.com/pelican/feeds/all.atom.xml
 https://rachsmith.com/rss
 https://rknight.me/subscribe/posts/rss.xml
 https://rldane.space/feeds/all.atom.xml
+https://cassie.ink/index.xml
 https://robert.winter.ink/feed
 https://scottbanwart.com/blog/feed/atom.xml
 https://sheepdev.xyz/feed
 https://shellsharks.com/feeds/feed.xml
 https://tahimik.com/journal.rss
+https://thomasrigby.com/feed.xml
+https://tk-web.top/index.xml
 https://write.as/hobbsc/feed/
