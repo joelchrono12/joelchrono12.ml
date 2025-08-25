@@ -9,6 +9,10 @@ date: 2025-08-22 19:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115076387570590845
+mentions:
+   - url: https://forkingmad.blog/blog-interactions/
+     author: David
+     title: Blog interactions
 ---
 
 *Disclaimer: This is not how webmentions work at all, in fact, I don't even understand them, however, if you want something kinda similar, you can keep reading.*
