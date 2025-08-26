@@ -13,6 +13,9 @@ mentions:
    - url: https://forkingmad.blog/blog-interactions/
      author: David
      title: Blog interactions
+   - url: https://kevquirk.com/blog/what-others-said
+     title: What Others Said...
+     author: Kev Quirk
 ---
 
 *Disclaimer: This is not how webmentions work at all, in fact, I don't even understand them, however, if you want something kinda similar, you can keep reading.*
