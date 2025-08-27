@@ -17,9 +17,9 @@ Right now, especially because of Blaugust, my feeds are being bombarded by new b
 
 I've done one or two things to [organize my feeds](/blog/trying-to-organize-my-feeds), and I've seen other people like Matt [judging blogposts by their titles](https://mtwb.blog/posts/2025/blaugust2025/judge-a-blog-by-its-title) and skipping through the rest.
 
-In my case, it's not a matter of leaving things as unread, I don't really care about that at all. Actually, right now there are 3,612 unread articles in my FreshRSS instance, feel free to suffer on my behalf. :)
+In my case, it's not a matter of leaving things as unread, I don't really care about that at all. Actually, right now there are 3,612 unread articles in my FreshRSS instance, feel free to suffer on my behalf :)
 
-However, I worry about sticking to the same blogs and not growing them further. This is a problem not many have, as I know of others who want to trim down their selection further more (looking at you [Amin](https://benjaminhollon.com). Of course, I will probably change my mind in two days, but for now, I want to try to read blogposts from the people I read a bit less, or that may even be completely new (to me).
+However, I worry about sticking to the same blogs and not growing them further. This is a problem not many have, as I know of others who want to trim down their selection further more---looking at you [Amin](https://benjaminhollon.com). Of course, I will probably change my mind in two days, but for now, I want to try to read blogposts from the people I read a bit less, or that may even be completely new (to me).
 
 I constantly mention people on this website that I read all the time, you can usually find them on my [blogroll](/blogroll) as well. I already know I'll enjoy whatever [Sylvia](https://sylvia.buzz/), [RL Dane](https://rldane.space), [Naty](https://www.burgeonlab.com/) or [Jakov](https://sheepdev.xyz) come up with. And if you are a blogger who reads me constantly and interacts with me, you already know I'm talking about you too---I'm purposefully avoiding to highlight the ones I link all the time ;)
 
