@@ -8,7 +8,7 @@ layout: post
 date: 2025-08-27 17:05:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115103276800470640
 ---
 
 Recently, I've been thinking of skipping over posts from the people I usually read the most, I haven't actually done it that much though, because I feel weird about it.
