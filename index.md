@@ -31,13 +31,13 @@ I'm really into music, this text will be overwritten by the latest song I listen
   <h3 class="post">
   <a href="{{ post.url }}">{{ post.title }}</a>
 {% if post.tags contains "book" %}
-<a href="/more/tags/book">📖</a>
+<a href="/tags/book">📖</a>
 {% endif %}
 {% if post.tags contains "response" %}
-<a href="/more/tags/response">💬</a>
+<a href="/tags/response">💬</a>
 {% endif %}
 {% if post.tags contains "game" %}
-<a href="/more/tags/game">🕹</a>
+<a href="/tags/game">🕹</a>
 {% endif %}
   </h3>
   <div class="blog-description">{{ post.description | strip_html | strip_newlines }}</div>

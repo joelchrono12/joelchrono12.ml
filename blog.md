@@ -47,13 +47,13 @@ This is reversed order, if you want to start from the beginning
         <span class="p-name post-title"><a class="u-url" href="{{ post.url }}">{{ post.title }}</a></span>
         <span class="post-tags">
         {% if post.tags contains "book" %}
-        <a href="/more/tags/book">📖</a>
+        <a href="/tags/book">📖</a>
         {% endif %}
         {% if post.tags contains "response" %}
-        <a href="/more/tags/response">💬</a>
+        <a href="/tags/response">💬</a>
         {% endif %}
         {% if post.tags contains "game" %}
-        <a href="/more/tags/game">🕹</a>
+        <a href="/tags/game">🕹</a>
         {% endif %}
         </span>
         <span class="post-date"><time class="dt-published" datetime="{{ post.date }}"> {{ post.date | date: "%b %d" }}</time></span>
