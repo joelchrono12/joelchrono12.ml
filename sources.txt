@@ -19,7 +19,6 @@ https://lazybea.rs/index.xml
 https://lynnandtonicblog.com/feed/feed.xml
 https://macarenaquiroga.netlify.app/index.xml
 https://megancarnes.blog/feed/?type=rss/
-https://michal.sapka.pl/rss.xml
 https://moddedbear.com/index.xml
 https://mtwb.blog/index.xml#feed
 https://noisydeadlines.net/feed/
