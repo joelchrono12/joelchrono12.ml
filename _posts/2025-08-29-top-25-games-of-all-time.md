@@ -6,6 +6,7 @@ tags: gaming
 permalink: /blog/top-25-games-of-all-time/
 layout: post
 date: 2025-08-29 17:30:30 -0600
+date: 2025-08-30 08:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115116102554119236
@@ -129,7 +130,7 @@ alt='Official artwork from the game, the three main characters posing, Adol read
 
 The simple combat of this game must not be overlooked, it is an satisfying gameplay loop where you can gain boosts for attack, defense and experience, as you hit enemies and chain attacks together. It is simple in execution (just spamming the attack button and using magic sometimes), but extremely addicting and fun, as you can slash enemies faster and faster due to the status boosts.
 
-The music cannot be understated, a fantastic sountrack that keeps you on your toes the whole way through. Each dungeon will come with some upgrades to get, which will open up the game to more areas of the island and let you reach places you hadn't before, almost like a Metroidvania, but without much backtracking. 
+The music cannot be understated, a fantastic soundtrack that keeps you on your toes the whole way through. Each dungeon will come with some upgrades to get, which will open up the game to more areas of the island and let you reach places you hadn't before, almost like a Metroidvania, but without much backtracking. 
 
 I think this game does everything it accomplishes to do extremely well, it's probably the best of its kind, which is why it's on this spot.
 
@@ -177,7 +178,7 @@ alt='Official artwork from the game, Zagreus ready for battle, a Hydra in the ba
 
 I kind of hated it at first, I didn't see the point of it all, but the plot unfolded before my eyes, and the gameplay got deep, and what was repetitive for the sake of it turned into something incredible.
 
-You are Zagreus, son of Hades, and you want break free from the dephts of hell. The gameplay revolves around fighting your way through the different levels of the underworld, all the way to the top. You'll be aided by gods of the Olympus, who will grant you boons that'll make it easier for you to get out.
+You are Zagreus, son of Hades, and you want break free from the depths of hell. The gameplay revolves around fighting your way through the different levels of the underworld, all the way to the top. You'll be aided by gods of the Olympus, who will grant you boons that'll make it easier for you to get out.
 
 You are doomed to fail, over and over again, the story revolves around that very fact, and it ends up with some great character moments, story and intrigue, every time you end up back where you started.
 
@@ -248,9 +249,11 @@ image='/assets/img/blogs/2025-08-29/pop.png'
 alt='Sargon jumping through the air, a streak of blue energy behind him, crumbling ruins in the background'
 %}
 
-This is a Metroidvania that simply does everything right. It collects the best features of every great game in the genre out there and gives it a fresh coat of paint that ends up as a fantastic mix between Metroidvania, Soulslike and Celeste.
+This is a Metroidvania that simply does everything right. It collects the best features of every great game in the genre out there and gives it a fresh coat of paint that ends up as a fantastic mix between Metroidvania, Soulslike combat, and Celeste.
 
-I couldn't care less about the story, but the world you explore and move around is fantastic. The movement and the flow is probably the main thing here, it just feels great to play from the start, and every new ability you unlock only expands on that feeling.
+I couldn't care less about the story, but the world you explore and move around is fantastic. Every biome is so different from each other, and they are traversed in different ways, as you unlock different forms of traversal.
+
+The movement and the flow is probably the main thing here, it just feels great to play from the start, and every new ability you unlock only expands on that feeling.
 
 The bosses are challenging, but not as difficult as the ones that can be found in Hollow Knight, it is rather approachable thanks to the more forgiving save points, and the accessibility options that earned the game the Accesibility award last year.
 
@@ -267,7 +270,7 @@ I played this game when I found it for free during Christmas on Epic Games. Sinc
 
 In this game, you go up a huge mountain, traversing to a series of extremely difficult levels, that get harder and harder as you get further up. However, the levels are not unfair, you just have to keep trying, you die and respawn instantly, which encourages you to just learn the muscle memory and finally move forward.
 
-The game has some accesibility features for those who have a hard time with it, and it doesn't shame you for it at all. This is a nice touch that makes the game approachable for everyone, and there's tons of extra levels as well I might one day complete, whenever I play it on my Switch at last.
+The game has some accessibility features for those who have a hard time with it, and it doesn't shame you for it at all. This is a nice touch that makes the game approachable for everyone, and there's tons of extra levels as well I might one day complete, whenever I play it on my Switch at last.
 
 In my opinion, it is an experience worth having.
 
@@ -275,7 +278,7 @@ In my opinion, it is an experience worth having.
 
 {% include img.html
 image='/assets/img/blogs/2025-08-29/ff7.png'
-alt='Cloud heading towards the city of Midgar, in a stance ready to unsheate his sword'
+alt='Cloud heading towards the city of Midgar, in a stance ready to unsheathe his sword'
 %}
 
 I had a hard time justifying this game being in my list, don't get me wrong, it is a good game, but I have not completed it even once, or come close. 
@@ -286,7 +289,7 @@ I was a bit annoyed after I could not progress any further since my PSP crashed 
 
 Even though I kind of feel bad about adding it to the list when I'm still only maybe halfway through the game, I just can't not put it here.
 
-I will one day finish this game and maybe I'll have to reconsider its position on theon the list.
+I will one day finish this game and maybe I'll have to reconsider its position on the list, although it's fairly high for a game I've not finished.
 
 ## 11. Dragon Quest XI
 
@@ -295,7 +298,7 @@ image='/assets/img/blogs/2025-08-29/dqxi.png'
 alt='The hero party heading towards victory!'
 %}
 
-This, this is an incredible game, with a lot of things to unpack. It should not work, to have such generic plots and sidequests, and to end up twisting it in a whole different way everytime.
+This, this is an incredible game, with a lot of things to unpack. It should not work, to have such generic plots and sidequests, and to end up twisting it in a whole different way every time.
 
 Dragon Quest has a very clear path it wants you to take, and that sometimes is the only way forward. The world is more limited and a lot of stuff is out of reach.
 
@@ -348,13 +351,13 @@ alt='Jeanne looking at the sky with eyes closed, probably thinking about the tra
 
 This is a tactics RPG for the PSP that was recommended to me a while back. It is a very fantastical take on a historical figure, which is not something commonly seen in JRPGs or videogames at all. 
 
-It was one of my first introductions to the genre---other than a couple levels of Advance Wars---and I definitely found it really engaging. I didn't really need much grinding, other than doing the extra stages once at least. 
+It was one of my first introductions to the genre---other than a couple levels of Advance Wars---and I definitely found it really engaging. It doesn't need much grinding, other than doing the extra stages once at least. 
 
-The game features skill crafting, which makes it so even grinding has more benefits other than XP, since enemies drop their own skills to be combined with others, and the abilities you get from some are just amazing. It is a much better feature than skill trees, since pretty much every character can be tuned up to what you want it to be when it comes to magic and attack styles. 
+The game has Jeanne and his companions face off against the British, who are aided by demons and ghouls. Alongside some other characters, Jeanne has a magical gauntlet that will boost her stats for a turn, and give her an advantage against the enemy. There's also skill crafting, which makes it so even grinding has more benefits other than XP, since enemies drop their own skills to be combined with others, and the abilities you get from that are amazing. It is a much better feature than skill trees, since pretty much every character can be tuned up to what you want it to be when it comes to magic and attack styles. 
 
-Each character has their weapon and initial stats to be better at certain things of course, and the variety is great. Of course my favorite is the thief, who can wreak havoc, moving the most, evading everything and poisoning everyone!
+Each character has their weapon and initial stats to be better at certain things of course, and the variety is great. My favorite is the thief, who can wreak havoc, moving the most, evading everything and poisoning everyone!
 
-Honestly, this is just a Tactics RPG that does everything extremely well. With wonderful art, great music, some epic anime cutscenes and just everything you may want, in order to go on and fight for France!
+With wonderful art, great music, some epic anime cutscenes and just everything you may want, this Tactics RPG gives you no excuse not to go and fight for France!
 
 ## 7. Final Fantasy VI
 
@@ -400,7 +403,7 @@ alt='Watcher in front of a terrifying sight, motionless bodies floating in an gy
 
 This "videogame" goes beyond what a videogame even is. 1000xRESIST is an experience worth living through.
 
-The narrative, the dialogues, the scenes, the voice acting, the sountrack, the framing.
+The narrative, the dialogues, the scenes, the voice acting, the soundtrack, the framing.
 
 Everything here comes together to create an extremely unique piece of science fiction, dealing with theme upon theme upon theme expertly.
 
@@ -425,7 +428,7 @@ It wasn't until 2015 or 2016 that I just went back to it, and managed to complet
 
 This game really does feel like the ultimate adventure, a legendary tale written in the books of old. It's similar to what Dragon Quest does, but older, and well, it's action based, not turn based combat. However, even today, the combat system is awesome. Z-targetting and all of the innovations here that are now expected of game with a 3rd person vew are here.
 
-Sure, some aspects might have ages poorly, but I just can't bring myself to not include this on my top 5, it is such a core memory of my childhood, and such a groudbreaking part of gaming history, it deserves this spot for sure.
+Sure, some aspects might have aged poorly, but I just can't bring myself to not include this on my top 5, it is such a core memory of my childhood, and such a groudbreaking part of gaming history, it deserves this spot for sure.
 
 It is an experience that I really have to relive soon.
 
@@ -436,13 +439,15 @@ image='/assets/img/blogs/2025-08-29/dread.png'
 alt='Samus emerges victorious from a fight and does the Blade pose'
 %}
 
-Speaking of games that are a masterpiece of their genre, Metroid Dread dominates supreme as the latest entry in the franchise that started a whole genre, it only makes sense it has become my favorite one of the bunch. 
+Speaking of games that are a masterpiece of their genre, Metroid Dread dominates supreme as the latest entry in the franchise that started it all, it only makes sense that it became my favorite one of the bunch. 
 
-This game is so fun to move around in, and has so many challenging boss battles and good puzzles to unlock new areas, this is the only game I've ever completed 100%, I just didn't want to leave it incomplete, especially since it was lended to me by a friend as well.
+This game is so fun to move around in, and has so many challenging boss battles and good puzzles to unlock new areas, this is the only game I've ever completed 100%, I just didn't want to leave it incomplete, especially since it was lent to me by a friend as well.
 
-I really, really liked it. And I also love the fact that it takes so long to get the morph ball, it makes it feel so different to any of the classics, with its sliding mechanic and I can't help but love the animations all around. It is such a big flex from the developers, this game is a true accomplishment of game design, I want to be like it when I grow up.
+Of course I ended up buying a copy for myself a while later, which I plan to replay soon enough.
 
+I really had a blast playing it, I was grinning the whole time with Samus as she explored this new planet and uncovered truths hidden from her. I also love the fact that it takes so long to get to some of the power-ups the franchise's known for, it makes it feel so different to the previous entries, with its sliding mechanic and I can't help but love the animations all around. 
 
+It is such a big flex from the developers, this game is a true accomplishment of game design, I want to be like it when I grow up.
 
 ## 2. Monster Hunter Freedom Unite
 
@@ -457,7 +462,7 @@ This is one of the games I keep bringing up from time to time. I've talked a abo
 
 The mechanics of this game are great, it is hard to think that it runs on a PSP, the controls are hard to get used to, especially the Claw grip if you play on real hardware, but pretty much the same controller scheme remains to this day. Whenever I play Monster Hunter Rise it kind of feels exactly the same, except for the extra buttons and extra attacks, but Freedom Unite is the escence of it all, and it comes with tons of content! Hundreds upon hundreds of hours of classic Monster Hunter at its peak.
 
-This game has provided me with the best online experiences I've had in ages, playing with complete strangers from all over the world, with the shared goal of simply getting beter and better, and improving ourselves through teamwork against impossible odds.
+This game has provided me with the best online experiences I've had in ages, playing with complete strangers from all over the world, with the shared goal of simply getting better and better, and improving ourselves through teamwork against impossible odds.
 
 There's a reason this is my most played title to this day, playing it together with a friend, is something you can't miss out on.
 
