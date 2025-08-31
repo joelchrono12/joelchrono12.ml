@@ -10,6 +10,10 @@ date: 2025-08-30 08:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115116102554119236
+mentions:
+  - url: https://brainbaking.com/post/2025/08/joels-top-25-games-of-all-time/
+    author: Wouter Groeneveld
+    title: Joel's Top 25 Games Of All Time | Brain Baking
 ---
 
 I have watched countless videos, from essays on specific games, on the development history of a game, the hidden gems of certain platform, or the best way to get into some series, but of course, the thing people care about the most, is defining which games are among the best of all time.
