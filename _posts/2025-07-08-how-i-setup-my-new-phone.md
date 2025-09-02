@@ -78,7 +78,7 @@ And everything is pretty much done!
 
 I've written a couple posts in the past about similar things, in case you want to check them out after this! (Or check the [android](/more/tags/android) tag)
 
-- [What's on my Phone (Fall 2023)](/blog/what-is-on-my-phone-fall-2023) - A much more in-depth look at the apps on my phone back then, I wasn't feeling like going as hard for this post, so you can take a look at this one if you want more.
+- [What's on my Phone (Fall 2023)](/blog/what-is-on-my-phone-fall-2023/) - A much more in-depth look at the apps on my phone back then, I wasn't feeling like going as hard for this post, so you can take a look at this one if you want more.
 - [New Phone Experience](/blog/new-phone-experience/) - My initial experience using my Poco F4, the phone I had before the 12T Pro, and that I actually rather liked!
 - [My Home Screen (2024)](/blog/my-home-screen-2024/) - A pretty in-depth look at everything in my homescreen. Including app shortcuts via gestures, invisible folders and the like, using Nova Launcher at the time.
 - [Default Apps (2025)](/blog/default-apps-2025/) - Another list, including both desktop and mobile programs that I use by default.

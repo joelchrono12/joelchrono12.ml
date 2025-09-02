@@ -37,7 +37,7 @@ So far, I've managed to be happy with what I have. Jekyll to generate my site, N
 
 It's not the only option of course, and people adopt and switch around from one place to another. There are other SSGs like Hugo, Eleventy, Pelican, or Zola, and even CMS software like Kirby. There are also blogging platforms that take away the hosting and maintenance and let you just write, such as [Bearblog](https://bearblog.dev), [Pika](https://pika.page) or [Pagecord](https://pagecord.com/), for example.
 
-Despite everything, I'm still really satisfied with what Jekyll offers me. It has been a gratifying journey where I've created plenty of bash scripts, templates, key bindings, liquid snippets and even plugins to organize stuff exactly how I want it to. And once it was all setup, my [blogging workflow](/blog/my-blogging-workflow) has remained virtually unchanged, only with some small additions here and there.
+Despite everything, I'm still really satisfied with what Jekyll offers me. It has been a gratifying journey where I've created plenty of bash scripts, templates, key bindings, liquid snippets and even plugins to organize stuff exactly how I want it to. And once it was all setup, my [blogging workflow](/blog/my-static-site-workflow/) has remained virtually unchanged, only with some small additions here and there.
 
 Don't get me wrong, there have been some hiccups here and there, when it comes to installing Ruby and running Jekyll locally, and when dealing with the Jekyll or Ruby version not matching the one set in the hosting service I use---it was usually my fault to be honest.
 

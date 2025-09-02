@@ -25,16 +25,41 @@ layout: default
 <article class="e-content">
 {{ content }}
 <aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span><span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
+
+{% assign page_url = page.url | replace: '/$', '' %}
+{% assign page_url_slash = page_url | append: '/' %}
+{% assign backlinks = "" %}
+
+{% for post in site.posts %}
+  {% if post.content contains page_url or post.content contains page_url_slash %}
+    {% assign backlinks = backlinks | append: post.url | append: "," %}
+  {% endif %}
+{% endfor %}
+
+{% if backlinks != "" %}
+<article>
+  <h2>Backlinks</h2>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.content contains page_url or post.content contains page_url_slash %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%B %d, %Y" }}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</article>
+{% endif %}
+
+
 {% if page.mentions %}
 <article>
 <h2>Blog pings</h2>
 <span>Articles around the web that reference this post. I add each of them by hand, so let me know if you ping back to me!</span>
 <ul>
 {% for mention in page.mentions %}
-
 <li><a href="{{ mention.url }}">{{ mention.title }}</a> by {{ mention.author }}</li>
-
 {% endfor%}
+
+
 </ul>
 </article>
 {% endif %}

@@ -23,7 +23,7 @@ Sometimes people don't try shiny new things just because you care about some spe
 
 That feeling of always being on the vanguard, using the latest and greatest.
 
-I know for sure that I fall for this in some aspects, I always enjoy testing beta apps on my phone,  I've started to pre-order games and merchandising more often, I'll definitely buy that upcoming Lego Game Boy as soon as it shows up---*I can only avoid [ consumerism](/blog/trying-not-to-fall-into-consumerism) for so long.*
+I know for sure that I fall for this in some aspects, I always enjoy testing beta apps on my phone,  I've started to pre-order games and merchandising more often, I'll definitely buy that upcoming Lego Game Boy as soon as it shows up---*I can only avoid [consumerism](/blog/trying-not-to-fall-into-consumerism/) for so long.*
 
 [I even use Arch on my laptop](/blog/i-use-arch-btw), for crying out loud.
 
