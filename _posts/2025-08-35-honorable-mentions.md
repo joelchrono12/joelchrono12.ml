@@ -11,7 +11,7 @@ username: joel
 com_id: 115126075516044811
 ---
 
-Here are some games that I haven't really played properly to include in my final list, or maybe I completed them, but well, they aren't quite there, or maybe they are, but nostalgia won me over in my selection instead of these. Whatever the case, more games to enjoy and talk about!
+Well, here are some honorable mentions that may or may not make it to the Top 25 if only I were to actually play them to completion, or if I just feel like it at some point, but well, what is done is done!
 
 * TOC
 {:toc}
@@ -30,7 +30,6 @@ In FTL, you control a Federation ship, escaping from the hands of some sort of R
 By jumping from beacon to beacon, you'll face countless threats, solar flares, nebulas, and asteroid fields. You will battle pirates, rebel scouts and other alien ships, trying to survive and manage your limited resources. The battle system is simple, but with lots of depth. It plays in real time, but the game lets you pause at will to make choices, turning it into a bit of a turn-based affair.
 
 Honestly, I think I just need to play it more, it is extremely well designed and deep, and there are so many systems and ships you get to drive and manage, it is one of those that could be your only game ever, and you would have a happy (or stressful) life.
-
 
 
 ## Balatro
