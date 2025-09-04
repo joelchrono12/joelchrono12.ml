@@ -11,9 +11,6 @@ username: joel
 com_id: 115138467183422140
 ---
 
-
-## August 2025 Summary
-
 Oh yeah here comes another media recap of everything that happened throughout the month of August. This was a very interesting time of the year. Filled with a lot of details you can find on my weeknotes. Here's an overview of how things went.
 
 ## Podcasts
