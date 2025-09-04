@@ -9,6 +9,7 @@ date: 2025-09-03 20:12:08 -0600
 host: fosstodon.org
 username: joel
 com_id: 115143792497469486
+image: 'assets/img/blogs/2025-09-03-hollow-knight.webp'
 ---
 
 This seems like the perfect time to write my review, one day before *Silksong*---the long awaited sequel to this journey---comes out, and maybe clouds my judgement or something, as I plan to play it day one.
