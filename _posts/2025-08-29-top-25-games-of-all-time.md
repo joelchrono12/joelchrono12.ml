@@ -6,7 +6,7 @@ tags: gaming
 permalink: /blog/top-25-games-of-all-time/
 layout: post
 date: 2025-08-29 17:30:30 -0600
-date: 2025-08-30 08:20:00 -0600
+updated: 2025-09-04 07:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115116102554119236
@@ -327,7 +327,7 @@ Compared to any RPG, Hollow Knight is a short game, but compared to any other Me
 
 But, once you get around all of that, Hallownest is an incredible place to explore, it is a desolate land of a once prosperous kingdom. The place contains a variety of biomes, filled with enemies and obstacles. What I really like is what the layout and wildlife showcase about what even happened in the past, alongside the lore and characters that can be found who reveal a bit more about themselves and what happened to Hallownest.
 
-Honestly, I don't want to talk too much about this one, I literally just finished the game, so I will work on a review for it soon. But go play it especially now that *Silksong* is going to come out soon.
+Honestly, I don't want to talk too much about this one, I literally just finished the game, so ~~I will work on a review for it soon~~ [check my review of it!](/blog/hollow-knight/). But go play it especially now that *Silksong* is going to come out soon, it's worth it.
 
 ## 9. Halo 3
 
