@@ -3,9 +3,9 @@ title: All Systems Red
 header: All Systems Red
 description: My review for the first book the The Murderbot Diaries!
 tags: book review
-permalink: /blog/nemesis-games/
+permalink: /blog/all-systems-red/
 layout: post
-date: 2025-09-05 15:30:00 -0600
+date: 2025-09-05 09:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: commmentsid
