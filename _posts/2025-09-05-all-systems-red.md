@@ -8,7 +8,7 @@ layout: post
 date: 2025-09-05 09:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115152497370723271
 ---
 
 What is going on over here? **Three reviews in a row?** And two of them are for *books???* Yes dear reader, yes indeed, I have to catch up after all on my goal to read 15 books in a year that I arbitrarily set for myself even though games like *The Hundred Line: Last Defense Academy* and now *Hollow Knight: Silksong* were coming out this year. What a *fantastic* idea I must say.
