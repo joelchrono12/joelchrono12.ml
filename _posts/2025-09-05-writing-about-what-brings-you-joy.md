@@ -8,7 +8,7 @@ layout: post
 date: 2025-09-05 12:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115153256625456106
 ---
 
 These past few weeks, I've seen some people in my online circles getting tired, annoyed, or having to deal with a variety of struggles.
