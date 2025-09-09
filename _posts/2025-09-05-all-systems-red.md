@@ -19,7 +19,7 @@ I bought the whole series (and a couple extra books) from the recent [Humble Bun
 
 I was pleasantly surprised to see that most of the books are rather short novellas, that can easily be read in under 4 hours, there is a proper novel down the line though, which I'm interested in checking out at some point.
 
-*All Systems Read* follows Murderbot, a SecUnit tasked with protecting a group of humans surveying an undocumented planet.
+*All Systems Red* follows Murderbot, a SecUnit tasked with protecting a group of humans surveying an undocumented planet.
 
 SecUnits are constructs built from human and mechanical parts, made to kill and follow orders. They are owned by some nameless mega-corporation to be sold as slaves for a variety of contracts.
 
