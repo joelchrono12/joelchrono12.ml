@@ -8,7 +8,7 @@ layout: post
 date: 2025-09-10 11:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115182007522190786
 ---
 
 The second book of *The Murderbot Diaries* was finished in only a matter of days! What is going on over here? It feels like Christmas, but no, it's just a new week and some free time to read, whenever I am unable to play some more *Hollow Knight: Silksong*.
