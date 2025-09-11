@@ -5,7 +5,7 @@ description: A little experiment where I write a post with pen and paper, but I 
 tags: thoughts 
 permalink: /blog/this-post-was-written-in-a-notebook/
 layout: post
-date: 2025-09-11 11:30:00 -0600
+date: 2025-09-11 09:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: commmentsid
