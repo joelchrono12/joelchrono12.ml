@@ -50,7 +50,7 @@ Also, the reason I brought up the "I can't correct words" thing is because I did
 
 By the way, I wrote (complained) about [handwritten homework](/blog/handwritten-homework/) back in the day and wow, it's one of those cases where I can feel how I've changed as a person, but well, times were difficult I guess.
 
-All in all, an interesting experiment, maybe I'll get a fountain pen, or maybe I'll just get good regular ballpoint pens, I am not into gel pens just yet, I feel like the don't last as much, could be just me though. So, what kind of pens do you prefer? Do you write often by hand? Or are you sticking to digital text now?
+All in all, an interesting experiment, maybe I'll get a fountain pen, or maybe I'll just get good regular ballpoint pens, I am not into gel pens just yet, I feel like they don't last as much, could be just me though. So, what kind of pens do you prefer? Do you write often by hand? Or are you sticking to digital text now?
 
 
 
