@@ -6,9 +6,10 @@ tags: thoughts
 permalink: /blog/this-post-was-written-in-a-notebook/
 layout: post
 date: 2025-09-11 09:30:00 -0600
+updated: 2025-09-11 15:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115186429783336197
 ---
 
 I am not much of a hand-writing guy. I prefer to just type on my computer and call it a day. However, I've been taking some notes by hand for other things, and I thought it would be interesting to write a fully analog blogpost on pen and paper.
