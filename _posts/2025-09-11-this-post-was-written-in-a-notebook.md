@@ -46,7 +46,7 @@ I decided to correct any actual typos, but left some clear grammar issues such a
 
 Looking it up, I write with a quadrupod grip, which is unusual as most people use three fingers instead. I don't think it's wrong, and I don't know if I can get used to a new grip at this point, but well, who knows, I'll just keep trying!
 
-Also, the reason I brought up the "I can't correct words* thing is because I did quite a bit of hand-writing at university too, but I wasn't going to just start over after saying "high school" instead. I guess I could have done so but it didn't feel right, so I'm just clarifying it here.
+Also, the reason I brought up the "I can't correct words" thing is because I did quite a bit of hand-writing at university too, but I wasn't going to just start over after saying "high school" instead. I guess I could have done so but it didn't feel right, so I'm just clarifying it here.
 
 By the way, I wrote (complained) about [handwritten homework](/blog/handwritten-homework/) back in the day and wow, it's one of those cases where I can feel how I've changed as a person, but well, times were difficult I guess.
 
