@@ -21,13 +21,13 @@ There were some essays as well, and even a couple book summaries, but nothing I 
 
 I've been writing with some no-name pen up until now, and I just asked a friend for another one, and I got a gel pen. So far so good, and it's much easier to write on.
 
-My hand already hurts at this point, amd I going too fast? is it normal? is my grip hurting me in some way? The reason I am trying this at all, besides the fun of it, is that I really want to get into fountain pens, which many of my friends are fans of.
+My hand already hurts at this point, am I going too fast? is it normal? is my grip hurting me in some way? The reason I am trying this at all, besides the fun of it, is that I really want to get into fountain pens, which many of my friends are fans of.
 
 Still, the slight pain is annoying, and I don't know if I'm just not used to it anymore since my high-school days (or school in general). Another thing is that I can't really correct myself without ruining the paper. I am ~~comi~~ (I was gonna say "committing to every word" but then I simply struck through that so maybe I'm not).
 
 But well, I am, once I have written enough words, it is difficult and ugly to just get rid of it all, at least I wouldn't do it.
 
-Hey, I have written around three pages at this point, my hand hurts but I think it did back in school too, so I just have to get used to it again? or maybe my finger placement is actually wrong (my pingy is bearing a lot of pressure right about now).
+Hey, I have written around three pages at this point, my hand hurts but I think it did back in school too, so I just have to get used to it again? or maybe my finger placement is actually wrong (my pinky is bearing a lot of pressure right about now).
 
 Anyways, this has been fun, now I will take a third of the time transcribing it verbatim (maybe I'll include the typos, or not) and then publishing it!
 
