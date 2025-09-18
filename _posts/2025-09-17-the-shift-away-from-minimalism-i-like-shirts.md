@@ -8,7 +8,7 @@ layout: post
 date: 2025-09-17 11:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115221178476166684
 ---
 
 I remember watching a bunch of minimalism, productivity, digital detox and similar videos from YouTube creators like Matt D'Avella and a few others. One of the videos that caught my interest was about [wearing the same shirt every day](https://www.youtube.com/watch?v=NlcBA8s22BA). Some of the reasons for this were that nobody actually cares about what you wear that much, that it removes decision paralysis, and that it helps to declutter your life, and stuff like that.
