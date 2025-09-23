@@ -11,7 +11,7 @@ username: joel
 com_id: commmentsid
 ---
 
-My review for the third book of *The Murderbot Diaries* which I finished last week. Slight spoilers for the previous two books ahead.
+My review for the third book of *The Murderbot Diaries* which I finished last week. Slight spoilers from the previous books ahead.
 
 After uncovering its past and helping some humans along the way, Murderbot decides to help out the humans from the first book, who have gotten in trouble partly because of its escape. He begins looking for clues about GrayCris'---the shady company that almost got it and its humans killed back in the first book---and any illegal activities they've made before. For this, Murderbot ventures into a planet that GrayCris "failed" to terraform, alongside a new group of humans with the mission to assess and try to continue the terraforming efforts.
 
