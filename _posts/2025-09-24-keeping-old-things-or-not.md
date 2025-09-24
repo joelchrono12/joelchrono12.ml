@@ -27,13 +27,13 @@ Despite this, I've had to get rid of a lot of stuff across the couple decades I'
 
 - **A cilinder container for [Tazos](https://en.wikipedia.org/wiki/Tazos)** - Themed after the Angry Birds. I used to use it as a piggie bank, but eventually the amount of coins I got was big enough I had to use something else, right now it's just a display piece, it doesn't fit with anything, but whatever. This one is from 2013 it seems, not too old but still.
 
-- **A Plants vs Zombies keychain!** - Like the cars, this one's stored away in a box with a bunch of other keychains both old and new. I remember this one because I got it by buying a snack at the small shop in my neighborhood. There were 8 of them but I'm happy I just got the Peashooter one. I miss when toys and extra goodies came inside, this one's from 2013!
+- **A Plants vs Zombies keychain!** - Like the cars, this one's stored away in a box with a bunch of other keychains both old and new. I remember this one because I got it by buying a snack at the small shop in my neighborhood. There were 8 of them but I'm happy I just got the Peashooter one. I miss when snacks came with toys and extra goodies inside. This one's from 2013 as well!
 
 - **A travel sized Bop-It!** - I got this one in a rare trip to the United States when I was 13 or 14. I haven't replaced the batteries but it was actually really fun, and I like that it actually fits in a pocket, unlike the regulat *Bop It!* and similar games.
 
 - **Artwork from middle school** - I still have some drawings I did for art class in middle school, it's kind of fun to look back at them and remember those days. I have a portfolio with all of them and some other old school works.
 
-- **My puzzle cubes collection** - I have been collecting cubes since 2016, so it's a relatively recent endeavor, and a pretty great hobby that I was very invested in for a while, I still dabble with to this day!
+- **My puzzle cubes collection** - I have been collecting cubes since 2016, so it's a relatively recent endeavor, and a pretty great hobby that I was very invested in for a while, I still dabble with them to this day!
 
 - **A Beetle toy car** - One of miniature model cars made of metal that can open the trunk and such. This Beetle was with me since the early 2000s, my parents gifted it to my uncle who took care of it for years, and gave it back to me early this year. I totally forgot about it at the time, if I'm honest, but it's not going away now.
 
