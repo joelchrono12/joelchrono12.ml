@@ -43,7 +43,7 @@ Despite this, I've had to get rid of a lot of stuff across the couple decades I'
 
 - **Any of my Tazos** - Tazos are a core memory of every Mexican's school kid from the 2000s and 2010s (that I know of), every kid knew your popularity was defined by the amount of tazos you've won from other kids. I wasn't very good at it, and I didn't have money to buy Sabritas and snacks with Tazos inside, so I often relied on friends to give me one and get a chance to play against others and win that way!
 
-- **A few of my first cubes** - I remember getting a 4x4 and a Pyraminx during Christmas back in the day, it was a fantastic time, and yet, I feel bad about selling them a few years later when I wanted newer models, it was a gift from my parents after all, but I still feel icky about it---I sold them to a friend, at least, maybe I could ask if he still has them...
+- **A few of my first cubes** - I remember getting a 4x4 and a Pyraminx during Christmas back in the day, it was a fantastic time, and yet, I feel bad about selling them a few years later when I wanted newer models, it was a gift from my parents after all, so I feel icky about it even today---I sold them to a friend, at least, maybe I could ask if he still has them...
 
 - **My favorite childhood plushie** - The Bear from *Bear in the Big Blue House*. I already mentioned this one in a previous post about [random facts about me](/some-facts-about-me/), but yeah, it happens.
 
