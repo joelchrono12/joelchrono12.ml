@@ -2,7 +2,7 @@
 title: Getting new earbuds (Sony WF-C500)
 header: Getting new earbuds (Sony WF-C500)
 description: I bought new earbuds. It was a purchase made out of pressure and excitement. I am actually quite happy with them after a few days of use. So here are my impressions.
-tags: review storytime ramble tech
+tags: review storytime ramble tech hardware
 permalink: /blog/getting-new-earbuds/
 layout: post
 date: 2022-08-03 14:50:23 -0500

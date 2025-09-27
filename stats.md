@@ -52,7 +52,7 @@ I copied these stats from [Kev Quirk](https://kevquirk.com/stats/) because why n
 <h2>Tag cloud</h2>
 
 <div class="tag-cloud">
-{% for tag in site.tags %}<a href="/more/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.1;font-size: {{ tag[1] | size | times: 1.3 | plus: 12 }}px;">{{ tag[0] }}</a> {% endfor %}
+{% for tag in site.tags %}<a href="/tags/{{ tag[0] }}/" style="padding-right: .4rem;line-height: 1.1;font-size: {{ tag[1] | size | times: 0.7 | plus: 14 }}px;">{{ tag[0] }}</a> {% endfor %}
 </div>
 
 </article>

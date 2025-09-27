@@ -2,7 +2,7 @@
 title: An overview of my watch collection
 header: An overview of my watch collection
 description: I wrote this in a Discord server and I thought it was long enough to count as a blogpost, so here it is.
-tags: hobby storytime
+tags: hobbies storytime
 permalink: /blog/watch-collection-overview/
 layout: post
 date: 2023-12-24 07:45:49 -0600

@@ -2,7 +2,7 @@
 title: The Circus
 header: The Circus
 permalink: /blog/the-circus
-tags: storytime fiction dream writing
+tags: storytime fiction writing
 description: The circus was in town, and I didn't have plans to go at all. Specially when I just woke up...
 permalink: /blog/the-circus/
 layout: post
