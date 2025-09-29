@@ -3,7 +3,7 @@ title: I have a problem with snacks
 header: I have a problem with snacks
 description: A question at work sparked this ramble , which was brewing for a while now, and brought back some memories from earlier days
 tags: thoughts storytime lifestyle
-permalink: /blog/2025-i-have-a-problem-with-snacks/
+permalink: /blog/i-have-a-problem-with-snacks/
 layout: post
 date: 2025-09-29 16:50:00 -0600
 host: fosstodon.org
