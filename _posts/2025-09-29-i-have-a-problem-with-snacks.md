@@ -8,7 +8,7 @@ layout: post
 date: 2025-09-29 16:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115290139909628294
 ---
 
 I have been thinking about a post like this for a few months now, it's not something I mention much, but if I have an addiction to something, even more than buying videogames or constantly modifying my website, it's food. More specifically, snacks.
