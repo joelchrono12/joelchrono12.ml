@@ -8,7 +8,7 @@ layout: post
 date: 2025-09-30 23:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115297396437245995
 ---
 
 Well, it's been a while since [my last update](/blog/on-subscriptions/) when it comes to my subscriptions, and things have changed quite a bit since then.
