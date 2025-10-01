@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-01 10:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115300159585234367
 ---
 
 Honestly, some times it's easy to think how time goes so fast and it's flying and it feels like nothing has changed and you've barely done anything. And then you look at the stats and the time spent on one thing or another, and the people around or those that are no longer there, and you kind of realize maybe life is just going at its own pace and worrying about it doesn't help that much.
@@ -102,12 +102,12 @@ I used my phone for 101 hours, apparently, there were some discrepancies because
 
 I read for a total of 30 hours on my phone and my Kobo
 
-- All Systems Red for 2:45 hours, 111 pages
-- The Princes and the Goblin for 11 minutes, 9 pages
-- Nemesis Games for 3:14 hours, 194 pages
-- Artificial Condition for 3:30 hours, 181 pages
-- Rogue Protocol for 3:44 hours, 164 pages
-- Babylon's Ashes for 6 hours, 276 pages
+- *All Systems Red* for 2:45 hours, 111 pages
+- *The Princes and the Goblin* for 11 minutes, 9 pages
+- *Nemesis Games* for 3:14 hours, 194 pages
+- *Artificial Condition* for 3:30 hours, 181 pages
+- *Rogue Protocol* for 3:44 hours, 164 pages
+- *Babylon's Ashes* for 6 hours, 276 pages
 
 
 
