@@ -1,14 +1,14 @@
 ---
-title: Site walkthrough #1
-header: Site walkthrough #1
+title: "Site walkthrough 1"
+header: "Site walkthrough 1"
 description: Why not write a walkthrough guide about the website you are visiting right now?
-tags: meta blog
+tags: blog
 permalink: /blog/site-walkthrough-1/
 layout: post
 date: 2025-10-01 17:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115302171628951217
 ---
 
 Just today I saw Manu's post about some of the sections and pages on his website that [have always been there](https://manuelmoreale.com/thoughts/making-things-obvious), but for one reason or another people don't realize they exist.
@@ -27,13 +27,17 @@ I recommend having the website open alongside the following page, in order to ma
 
 Almost every page on my website contains the header, main and footer section. The quintessential structure of a decent page written in HTML.
 
-The header contains my **logo**, and a **navigation menu**, which links to the blog archive, about page, contact page, now section, blogroll, a "more" section and a *human-readable* RSS feed. 
+The header contains my **logo**, and a **navigation menu**, which links to the blog archive, about page, contact page, now section, blogroll, a "more" section and a *human-readable* RSS feed. I'll explain what each of these do in due time.
 
 *Here's a hint! the current section you're on will be highlighted to contrast with the background!*
 
+Still in the header, you'll be able to see a breadcrumb of your current position in the website, this is pretty helpful to know your way back, and it's hidden from the home page.
+
+Each page will have its title, a description and the content itself, but I'm sure you already know that. 😉
+
 The footer is relatively dynamic, depending on the page you are, however, it's mostly the same everywhere, with minimal changes.
 
-It's titled as **"More on this site"**, and features a list of **posts from blogs I follow**, which is generated from their RSS feeds using [openring](https://git.sr.ht/~sircmpwn/openring). This list is generated at build time, which means that sometimes it'll be outdated for a while until I publish a new post or run `openring` again. If you are wondering why it's different from the last time you went through this bit, that's the reason.
+It's titled as **"More on this site"**, and features a list of **posts from blogs I follow**---which I guess are *not on this site* but whatever. It is fetched from their RSS feeds using [openring](https://git.sr.ht/~sircmpwn/openring). This list is generated at build time, which means that sometimes it'll be outdated for a while until I publish a new post or run `openring` again. If you are wondering why it's different from the last time you went through this bit, that's the reason.
 
 *Important to note!* If you are exploring a blogpost, or any other place other than the home page (which we'll see next), a section linking to the most **recent posts** will display above the links to other posts! And if the article you read is among the latest ones, it will not be duplicated on this list, *what a neat feature!*
 
@@ -51,13 +55,13 @@ Like most good websites, I have a main page, or home or index. You get there by 
 
 *By the way. If your "main page" is just your stream of articles one after the other, I'm sorry but you're doing it wrong.*
 
-Then there's a **welcome** section describing the kind of stuff I like to write about (*weirdly, it doesn't include guides to navigating the website itself, hmm*), and a little introduction of me. There's a pixel art avatar, which---fun fact---is not actually scaled up! anti-aliasing has been disabled using CSS trickery. Neat right? It's not fully supported everywhere though, I'm sorry dillo or qutebrowser users. :(
+Then there's a **welcome** section describing the kind of stuff I like to write about (*weirdly, it doesn't include guides to navigating the website itself, hmm*), and a little introduction of me. There's a pixel art avatar, which---fun fact---is not actually scaled up! anti-aliasing has been disabled using CSS trickery. Neat right? It's not fully supported everywhere though, I'm sorry dillo or qutebrowser users. 🙁
 
 After that, you will see a small section displaying the latest track scrobbled on my Listenbrainz account. This is a neat little script, feel free to completely copy and paste it to your own site!
 
 Then we get to the **latest blogs** section. This contains the five latest posts, titles, descriptions and publish dates, the title links to the articles. But we are not exploring those right now.
 
-Right after that we have a **support** section, where I kindly ask you to maybe [buy me a coffee](https://ko-fi.com/joelchrono) if you like what I write, or even commission something from me---yes! I'm a bit of a digital artist, in case you didn't know, I also take a lot of time to actually get it done, but I'm sure that doesn't matter that much to you right? :)
+Right after that we have a **support** section, where I kindly ask you to maybe [buy me a coffee](https://ko-fi.com/joelchrono) if you like what I write, or even commission something from me---yes! I'm a bit of a digital artist, in case you didn't know, I also take a lot of time to actually get it done, but I'm sure that doesn't matter that much to you right? 🙂
 
 ## The blog archive
 
