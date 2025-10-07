@@ -39,7 +39,7 @@ Best part? I don't get distracted by anything my family would need me for, and I
 
 The simple fact of not needing to be worried about whatever is on the road is a nice bonus too.
 
-The way back to work feels a little heaver, I just want to get home as soon as possible. Thankfully, a coworker now gives me a ride to the closest public bus stop. It's not free like the work route, but 8 pesos (8 MXN = 0.4 USD) save me an hour of my time---which I can spend on the gym instead. I have to get another bus from there to my home, but it's more than worth it, although sometimes I'll walk home instead---half an hour of extra excercise.
+The way back to work feels a little heavier, I just want to get home as soon as possible. Thankfully, a coworker now gives me a ride to the closest public bus stop. It's not free like the work route, but 8 pesos (8 MXN = 0.4 USD) save me an hour of my time---which I can spend on the gym instead. I have to get another bus from there to my home, but it's more than worth it, although sometimes I'll walk home instead---half an hour of extra excercise.
 
 If I ever have to get a car, I will have to pay for gas, maintenance, and insurance, so I'm also enjoying *not doing that* right now.
 
