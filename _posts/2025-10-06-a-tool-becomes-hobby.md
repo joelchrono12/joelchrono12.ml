@@ -13,7 +13,7 @@ com_id: 115330772910603641
 
 What do watches, safety razors, and fountain pens have in common?
 
-These are tools designed to fulfill a certain task. Shaving, time-keeping, handwriting. They also tend to do it pretty well.
+These are tools designed to fulfill a certain task. Time-keeping, shaving, handwriting. They also tend to do it pretty well.
 
 Compared to cartridge razors, "smart" watches and disposable ballpoint pens, these tools are often "made to last."
 
