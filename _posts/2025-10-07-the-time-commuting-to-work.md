@@ -29,7 +29,7 @@ For a while, I saw this as a complete waste of my time, I had a bit of a breakdo
 
 Over time, it hit me. I can do almost anything I would want to do while on the bus, and I can do a lot of stuff too when I arrive early to the office.[^2] 
 
-[^2]: And [even during work itself](blog/a-day-of-videogames/) (don't tell my boss).
+[^2]: And [even during work itself](/blog/a-day-of-videogames/) (don't tell my boss).
 
 I can play videogames, I can listen to podcasts or music, I can read my books, I have even written short blogposts early [during the commute](/blog/2024-10-10-morning-before-work/). And of course, I can simply have a quick nap if I feel like it. Lately, I get to the office early, and use the time to practice cursive writing with my fountain pen! I fill almost a whole sheet before the shift begins.
 
