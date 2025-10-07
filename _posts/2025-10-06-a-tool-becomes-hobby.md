@@ -1,8 +1,8 @@
 ---
 title: When a tool becomes a hobby
 header: When a tool becomes a hobby
-description: When a tool becomes a hobby
-tags: weeknotes
+description: Sometimes I get into collecting something, when usually a single one is enough, this happens with many tools, so I shared some thoughts about why.
+tags: thoughts hobbies ramble
 permalink: /blog/when-a-tool-becomes-a-hobby/
 layout: post
 date: 2025-10-06 20:50:00 -0600
