@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-06 20:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115330772910603641
 ---
 
 What do watches, safety razors, and fountain pens have in common?
