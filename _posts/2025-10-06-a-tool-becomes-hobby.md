@@ -21,7 +21,7 @@ It comes to question, then, the necessity of some of us humans---myself included
 
 There are of course many types of people out there, and it can vary, depending on the tool in question.
 
-### On watches
+## On watches
 
 I usually think of watches as not just as a tool, but as an accessory, which I can acquire in plenty of shapes and forms, that's one of the main features they have going for me, beyond just keeping track of time. They are like a ring or a piece of clothing, and I can wear a different model depending on the occasion.
 
@@ -31,7 +31,7 @@ Nine out of ten times, I will be wearing my [Casio AE-1200s](/blog/you-only-live
 
 The rest of my collection remains on my display box waiting for their time to shine. Some of them do more than others, some just for an event or so, but if I'm frank, the *Casio Royale* stays on my wrist *almost* anywhere.
 
-### And safety razors?
+## And safety razors?
 
 With that realization in mind, when I left cartridge-based razors behind in favor the classic safety razor, I got *the one* that did the job, and I stopped caring about getting anything fancier. I don't need to have one for X or Y situation, it always just does the same thing, I guess.
 
