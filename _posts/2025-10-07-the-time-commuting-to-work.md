@@ -11,7 +11,7 @@ username: joel
 com_id: commmentsid
 ---
 
-This post was partially inspired by [Steven's](https://srgower.com) writing about a [change in his habits](https://unfiltered.pagecord.com/change-in-habits), adjusting to a new work schedule.
+This post was partially inspired by a post I saw about a [change in habits](https://unfiltered.pagecord.com/change-in-habits), adjusting to a new work schedule.
 
 What caught my attention was the last paragraph:
 
