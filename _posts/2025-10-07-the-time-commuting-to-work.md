@@ -1,8 +1,8 @@
 ---
 title: The time commuting to work
 header: The time commuting to work
-description: When a tool becomes a hobby
-tags: weeknotes
+description: I didn't like all the time lost while going to and from work, but there's a certain joy to it that I've learned to appreciate a bit more.
+tags: lifestyle thoughts
 permalink: /blog/the-time-commuting-to-work/
 layout: post
 date: 2025-10-07 16:30:00 -0600
