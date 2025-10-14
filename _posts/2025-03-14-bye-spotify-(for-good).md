@@ -9,6 +9,10 @@ date: 2025-03-14 06:03:56 -0600
 host: fosstodon.org
 username: joel
 com_id: 114160707667966653
+mentions:
+  - url: https://bojidar-bg.dev/blog/2025-10-08-despotify/
+    author: Bojidar Marinov
+    title: Leaving Spotify to start a personal music library
 ---
 
 When I was in high school, I thought Spotify was awesome, like, the coolest thing, a great service that was worth paying for!
