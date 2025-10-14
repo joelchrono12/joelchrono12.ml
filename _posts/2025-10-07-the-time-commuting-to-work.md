@@ -9,6 +9,11 @@ date: 2025-10-07 16:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115335341913801535
+mentions:
+  - url: https://sylvia.buzz/weeknotes-for-week-41-2025
+    title: "Weeknotes for Week 41 - 2025"
+    author: Sylvia
+    
 ---
 
 This post was partially inspired by a post I saw about a [change in habits](https://unfiltered.pagecord.com/change-in-habits), adjusting to a new work schedule.
