@@ -9,6 +9,10 @@ date: 2025-09-22 20:20:29 -0600
 host: fosstodon.org
 username: joel
 com_id: 115251347145027858
+mentions: 
+  - url: https://noisydeadlines.net/week-notes-oct-01-to-oct-13-2025
+    author: Noisy Deadlines
+    title: "Week Notes – Oct 01 to Oct 13 2025"
 ---
 
 Can we go back to like, sharing stuff we actually write, saying stuff in our own words, and having conversations about things we think?
