@@ -41,7 +41,7 @@ This post ended up being a general overview of books I'd recommend---except for 
 
 Funnily enough, after all this time, I am yet to read anything from the big authors of the last century, nothing by Isaac Asimov, Philip K. Dick or Robert Heinlein. Other authors like Ray Bradbury are still a blind spot too. There's just so many things to read.
 
-In any case, just check my [booklog](/booklog/)! Pretty much everything there is good in my opinion. Although I haven't updated it with my latest reads like the *Murderbot* series.
+In any case, just check my [bookshelf](/bookshelf/)! Pretty much everything there is good in my opinion. Although I haven't updated it with my latest reads like the *Murderbot* series.
 
 
 
