@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-15 12:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115379578876872072
 ---
 
 There are plenty of science fiction books I've read that have stayed with me for one reason or another.
