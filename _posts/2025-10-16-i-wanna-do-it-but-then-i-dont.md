@@ -1,7 +1,7 @@
 ---
 title: I wanna do it but then I don't
 header: I wanna do it but then I don't
-description: Trying to commit to a goal is always kind of hard, 
+description: Trying to commit to a goal is always kind of hard, but I will keep trying, even when I keep failing!
 tags: thoughts life gaming
 permalink: /blog/i-wanna-do-it-but-then-i-dont/
 layout: post
