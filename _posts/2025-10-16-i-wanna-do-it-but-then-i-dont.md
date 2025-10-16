@@ -6,6 +6,7 @@ tags: thoughts life gaming
 permalink: /blog/i-wanna-do-it-but-then-i-dont/
 layout: post
 date: 2025-10-16 12:10:00 -0600
+updated: 2025-10-16 12:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115385279532101052
@@ -39,13 +40,13 @@ I've written a few posts about some of the issues I've been dealing with---which
 
 Now, some of it is no big deal, I haven't practiced cursive writing in a couple days, I haven't finished Silksong yet and it's still waiting for me.
 
-And sometimes I just can't believe I keep digging myself deeper, I literally just got *Super Mario Galaxy 1+2* for some reason. Why are there so many great games coming soon???
+And sometimes I just can't believe I keep digging myself deeper, I literally just got *Super Mario Galaxy 1+2* **and** *Suikoden I+II Remastered* for some reason. Why are there so many great games coming soon???
 
 I can say all I want, it doesn't matter until I take action. I'll keep trying even if I fail again, and maybe, eventually, it'll stick. Or maybe I should stop considering all this a problem and just embrace the chaos.
 
 But no, I refuse, I know I'm doing some things wrong, and I'll keep on hitting my head against the wall until something clicks.
 
-~~*Clicks buy on the Suikoden I and II remasters for Switch*.~~
+~~*Clicks buy on the Dragon Quest I and II HD-2D Remastered for Switch*.~~
 
 
 
