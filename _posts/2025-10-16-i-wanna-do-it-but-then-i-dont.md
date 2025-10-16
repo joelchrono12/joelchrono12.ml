@@ -5,10 +5,10 @@ description: Trying to commit to a goal is always kind of hard, but I will keep 
 tags: thoughts life gaming
 permalink: /blog/i-wanna-do-it-but-then-i-dont/
 layout: post
-date: 2025-10-15 12:10:00 -0600
+date: 2025-10-16 12:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115385279532101052
 ---
 
 It's always fun when you get inspired by some post and then you see another one talking about pretty much the same thing.
