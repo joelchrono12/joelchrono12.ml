@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-21 11:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115413356614157685
 ---
 
 Ariadne---a fellow blogger I enjoy reading a lot---[published a post](https://noisydeadlines.net/listening-to-full-albums-again) of the same title yesterday, and, without having read any of its content, I decided to borrow the topic at hand. [Last time](/blog/how-time-flies/) I tried this was quite fun so, here it goes.
