@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-21 13:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115413849032989390
 ---
 
 These past three or so weeks, I've been continuing with my journey throughout the Expanse book series! This is the sixth one of the bunch, and it was pretty good! Spoilers ahead for the previous books on the series, I guess.
