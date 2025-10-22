@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-22 09:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115418671779247983
 --- 
 
 Afther gushing about it on my [weeknotes](/blog/2025-w42/) I ended up continuing (and completing) my watchthrough of **TRON: Uprising**. 
