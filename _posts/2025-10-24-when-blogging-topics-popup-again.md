@@ -8,7 +8,7 @@ layout: post
 date: 2025-10-24 12:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115430588146148598
 ---
 
 It's been really nice to see the "Ten Pointless Facts About Me" challenge trending once more after [Peter](https://pimoore.ca/posts/10-pointless-facts-about-me) and [Kev ](https://kevquirk.com/blog/ten-pointless-facts-about-me/) decided to participate half a year after the original post by [David](https://forkingmad.blog/ten-pointless-facts-about-me/) started it all.
