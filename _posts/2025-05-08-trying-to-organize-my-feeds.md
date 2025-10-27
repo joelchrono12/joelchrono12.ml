@@ -6,9 +6,14 @@ tags: rss internet community
 permalink: /blog/trying-to-organize-my-feeds/
 layout: post
 date: 2025-05-08 23:09:28 -0600
+updated: 2025-10-27 16:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 114476209954471096
+mentions:
+  - url: https://bojidar-bg.dev/blog/2025-10-26-sorting-feeds/
+    title: Sorting the RSS and Atom feeds I follow
+    author: Bojidar Marinov
 ---
 
 For a long time, I have been using the same set of categories for all of my feeds.
