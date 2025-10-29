@@ -6,7 +6,7 @@ tags: game review
 permalink: /blog/legacy-of-kain-soul-reaver/
 layout: post
 date: 2025-10-28 19:19:30 -0600
-updated: 2025-10-28 20:37:30 -0600
+updated: 2025-10-29 07:30:30 -0600
 host: fosstodon.org
 username: joel
 com_id: 115455076585746375
@@ -49,19 +49,19 @@ Simply put, there is a lot of story to enjoy here, and you should check it out f
 
 This game is a masterpiece of its time, wonderfully designed and overcoming many limitations that even PS2 games still struggled with, in very clever ways.
 
-You are Raziel, on your quest to explore the land of Nosgoth and uncover the truth of what happened, after centuries of war and despair under Kain's empire. The game revolves around one main mechanic, **switching between the physical and spirit realm**. You can go to the spirit realm anytime, but you can't turn back to the material world unless you are on a special portal and at full health. You can perform a limited set of actions on each realm, and different enemies will spawn as well. You can also jump and glide in the air, using your broken winds to stay afload across platforms.
+You are Raziel, on your quest to explore the land of Nosgoth and uncover the truth of what happened, after centuries of war and despair under Kain's empire. The game revolves around one main mechanic, **switching between the physical and spirit realm**. You can go to the spirit realm anytime, but you can't turn back to the material world unless you are on a special portal and at full health. You can perform a limited set of actions on each realm, and different enemies will spawn as well. You can also jump and hover around, using your broken wings to reach far away platforms.
 
 {% include img.html image='/assets/img/blogs/2025-10-28/raziel-and-portal.webp' caption='Raziel alongside one of the portals to manifest in the material world.' %}
 
-The physical realm and material realm also completely **change the layout of the environment**. If you are surprised at the "rotated" rooms in Ocarina of Time, this will blow your mind. They somehow seamlessly modify the polygons and textures of the game in subtle, but effective ways. Some platforms are unreachable in the physical realm, but get closer in the spirit realm---this must have been a complete mind-boggling thing on the PS1. Observation is key, **use the camera controls**.
+The physical realm and material realm also completely **change the layout of the environment**. If you are surprised at the "rotated" rooms in Ocarina of Time, this will blow your mind. They somehow seamlessly modify the polygons and textures of the game in subtle, but effective ways. Some platforms are unreachable in the physical realm, but get closer in the spirit realm---this must have been a completely mind-boggling effect on the PS1. Observation is key, **use the camera controls**.
 
 The traversal mechanics are interesting too, other than regular platforming and moving around, you also have **teleportation gates**. These are one of the most impressive feats of the game. Modern Metroidvanias like *[Hollow Knight](/blog/hollow-knight/)* and *[The Lost Crown](/blog/the-prince-of-persia-the-lost-crown/)*, have the same thing, however, only *Soul Reaver* pulls off **seamless teleportation** with no loading screens to be found, in fact. **There are no loading screens anywhere**---except when you boot the game. This is absolutely ridiculous for a title in the PS1, and yet it's here. Not even *Monster Hunter* got this on the PS2.
 
 {% include img.html image='/assets/img/blogs/2025-10-28/raziel-in-gate.webp' caption='Raziel about to go through a teleportation gate.' %}
 
-The combat in this game is rather simple, you can focus on an enemy and throw punches. There is no parrying or timing or combos. Most **enemies are vampires who cannot die by regular means**. You have to impale them with a weapon, throwing them on fire, or in water, and absorb their soul afterwards. However, you can also just run past a lot of the enemies, or switch to the spirit realm, where enemy spirits *can* be beaten and absorbed. Eventually you will unlock a weapon that you can use while your health is full, but other than that, you are on your own, using the surroundings to defeat enemies.
+The combat in this game is rather simple, you can focus on an enemy and throw punches. There is no parrying or timing or combos. Most **enemies are vampires who cannot die by regular means**. You have to impale them with a weapon, throw them on fire, or in water, and absorb their soul afterwards. However, you can also just run past a lot of the enemies, or switch to the spirit realm, where enemy spirits *can* be beaten and absorbed. Eventually you will unlock a weapon that you can use while your health is full, but other than that, you are on your own, using the surroundings to defeat enemies.
 
-Another mechanic of the game that is present from beginning to end, are **block puzzles!** another thing that can be found in some Zelda games. But don't sleep on them. Some of the puzzle design here is **equal to the most clever shrines in _Breath of The Wild_ and the dungeons from _Ocarina_**. I was in awe at how much my head was working to solve these, and once they click I felt like new neurons were growing in my brain.
+Another mechanic of the game that is present from beginning to end, are **block puzzles!** which  can also be found in some Zelda games. But don't sleep on them. Some of the puzzle design here is **equal to the most clever shrines in _Breath of The Wild_ and the dungeons from _Ocarina_**. I was in awe at how much my head was working to solve these, and once they click I felt like new neurons were growing in my brain.
 
 You will unlock many other abilities later, that will allow you to pass different obstacles in the game, all of them interact with the mechanic of switching between realms and pushing blocks. For example, eventually you get the ability to **go through walls**---only in the spirit realm---which gives you access to some rooms, you will also gain the ability to **move blocks at a distance**---only in the material world---which expands the possibilities for puzzles. A couple more abilities are unlocked, which are implemented wonderfully in the dungeon design.
 
