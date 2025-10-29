@@ -33,7 +33,7 @@ Earlier in the year in the *TWG* Discord community, the *Low Key Gaming Club* op
 
 The game happens in the land of Nosgoth, a regiond ruled by Kain and his brethren of vampires, with Raziel, the protagonist of the game, serving as second in command. However, as everyone awaits the evolution of Kain to a basically divine status---after a thousand years of ruling over Nosgoth---Raziel evolves first. He grew a pair of wings before his master, and for daring to do so, he's thrown to the depths of the Underworld.
 
-Burned, ravaged and disfigured, Raziel is waken up hundreds of years later by an Eldritch being, and Ancient god, who has chosen it to be the *Soul Reaver*, to fulfill a purpose, set in motion from the very beginning. As a Soul Reaver, Raziel now has the ability to absorb souls, and to traverse both the physical and the spiritual realm, which becomes a game mechanic used throughout the whole journey.
+Burned, ravaged and disfigured, Raziel is waken up hundreds of years later by an Eldritch being, an ancient god who has chosen him to be the *Soul Reaver*, to fulfill a purpose, set in motion from the very beginning. As a Soul Reaver, Raziel now has the ability to absorb souls, and to traverse both the physical and the spiritual realm, which becomes a game mechanic used throughout the whole journey.
 
 {% include img.html image='/assets/img/blogs/2025-10-28/raziel-looks-abyss.webp' caption='Raziel stares at the abyss on which he fell 500 years ago.' %}
 
@@ -44,8 +44,6 @@ As the story continues, facing threat after threat and overcoming every obstacle
 *Soul Reaver* is actually a sort of sequel for an earlier PS1 game: *Legacy of Kain: Blood Omen*, where Kain is the protagonist, thousands of years before. There is a lot of imagery and a couple of characters that are borrowed from the previous game, but given the timespan between the entries, the previous story itself may be considered a myth and history of its own, and it's not really necessary to enjoy this. Most of it amounts to interesting references, some areas getting redesigned and changed by the time, and of course, Kain himself being the antagonist this time around, engulfed by a greed for power and dominance over everything.
 
 Simply put, there is a lot of story to enjoy here, and you should check it out for yourself.
-
-
 
 ## Gameplay
 
