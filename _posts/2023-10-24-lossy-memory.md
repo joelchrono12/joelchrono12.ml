@@ -7,6 +7,7 @@ date: 2023-10-24 12:30:00 -0600
 description: Sometimes I forget I already blogged about something, but I tend to realize soon enough, but it'll happen one day right, should I be ok with that?
 permalink: /blog/lossy-memory/
 com_id: 111291708256865978
+com_id: 115454805727194868
 host: fosstodon.org
 username: joel
 ---
