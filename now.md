@@ -6,14 +6,14 @@ description: "Here is what I'm up to right now"
 permalink: /now/
 ---
 
-**Last updated: August 3, 2025**.
+**Last updated: November 3, 2025**.
 
-**Location**: Living in Mexico with my family.
+**Location**: Living in Jalisco, Mexico with my family.
 
 ## What I'm reading
 
-- _Nemesis Games_ by James S.A. Corey.
-- _Sakamoto Days_ by Suzuki Yuuto.
+- _Ariadne in the Blue Sky_ by Norihiro Yagi, started Aug 10, 2025 (Manga)
+- _Exit Strategy_ by Martha Wells, started Oct 18, 2025 (Novella)
 
 ## What I'm watching
 
@@ -22,23 +22,23 @@ permalink: /now/
 ## What I'm listening
 
 - Into The Aether
-- Stuff You Should Know
-- Avatar: Braving the Elements
-- Revolutions
+- Wolf 359
+- Boring Books for Bedtime
+- Trash Taste
 
 ## What I'm playing
 
+- Hollow Knight: Silksong
+- CrossCode
+- Slice & Dice
 - The Hundred Line: Last Defense Academy
-- The Legend of Zelda: Breath of the Wild
-- Hollow Knight
-- Jet Lancer
 
 ## What I'm enjoying
 
-- Participating on [Blaugust 2025](/blog/blaugust-2025)
-- A break from the fediverse
-- Playing a lot on my Nintendo Switch
-- Plenty of rainy days
+- Showing up in [NowNowNow](https://nownownow.com/p/lCFb)
+- Returning to work after a short vacation
+- Chatting with people on Signal or XMPP
+- Catching up with podcasts and blogposts
 
 ## What I'm working on
 
