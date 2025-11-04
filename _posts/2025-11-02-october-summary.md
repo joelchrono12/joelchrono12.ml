@@ -1,14 +1,14 @@
 ---
 title: October 2025 Summary
 header: October 2025 Summary
-description: Another month goes by, another summary follows. The podcast, books and other media I enjoyed during September!
+description: Another month goes by, another summary follows. The movies, videogames, books and other media I enjoyed during October!
 tags: monthly
 permalink: /blog/october-2025-summary/
 layout: post
 date: 2025-11-02 11:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115492677297446994
 ---
 
 
