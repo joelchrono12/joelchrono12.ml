@@ -1,6 +1,6 @@
 ---
 title:  Uses update, music player love?, and a blog reply
-header: Uses update, music player, and a blog reply
+header: Uses update, music player love?, and a blog reply
 description: Things that happened recently that aren't a post by themselves. I updated my uses page with more devices and apps, messed around with my music player and got a reply to yesterday's reply
 tags: life short tech lifestyle
 permalink: /blog/uses-update-music-metadata-blog-reply/

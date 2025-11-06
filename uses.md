@@ -8,7 +8,7 @@ redirect_from: /more/uses/
 permalink: /uses/
 ---
 
-**Last Updated: [November 2025](#changelog-2025-11-05)**
+**Last Updated: [November 2025](#changelog-2025-11)**
 
 ## Software
 
@@ -17,57 +17,56 @@ permalink: /uses/
 I split this section between desktop (mostly Free Software and available on Linux), android apps and also cross-platform.
 
 
-### Desktop
+### Computer
 
-- [Arch Linux](https://archlinux.org/): I've finally done it, I use Arch btw.
-- [dwm](https://awesomewm.org/): A lightweight tiling window manager, quite patched up to fit my taste.
-- [alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
-- [bash](https://www.gnu.org/software/bash/): I don't need much more.
-- [neovim](https://neovim.io/): A terminal text editor where I write my blogs, edit files and scripts.
-- [KeepassXC](https://keepassxc.org): Offline password manager.
-- [pcmanfm](https://wiki.archlinux.org/title/PCManFM): Simple graphical file manager.
-- [newsboat](https://newsboat.org/): A minimal RSS reader with a terminal interface
-- [GIMP](https://www.gimp.org/): Just a solid image editing program I use for pixel art.
-- [Readrops](https://github.com/readrops/Readrops): An RSS Reader with FreshRSS and Nextcloud support.
-- [Inkscape](https://inkscape.org): Vector based graphics design software, I design icons with it.
-- [Thunderbird](https://www.thunderbird.net): A really powerful desktop email client by Mozilla.
-- [Joplin](https://joplinapp.org): Cross-platform Markdown note taking app.
-- [Nicotine+](https://nicotine-plus.org/): A graphical Soulseek client.
+- **OS**: [Arch Linux](https://archlinux.org/): I've finally done it, I use Arch btw.
+- **Desktop**: [dwm](https://awesomewm.org/): A lightweight tiling window manager, [check my rice](https://tildegit.org/chrono/dwm)
+- **Browser**: [Firefox](https://firefox.com) - it works well after all.
+- **Terminal**: [alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
+- **Shell**: [bash](https://www.gnu.org/software/bash/) - I am too lazy to try others.
+- **Text editor**: [neovim](https://neovim.io/)- here I write my blogs, edit files and scripts.
+- **Password manager**: [KeepassXC](https://keepassxc.org) - simple, offline, all I need.
+- **File Manager**: [pcmanfm](https://wiki.archlinux.org/title/PCManFM) - it just works.
+- **RSS Reader**: [newsboat](https://newsboat.org/) - minimal, terminal interface
+- **Image Editor**: [GIMP](https://www.gimp.org/) - solid, and works for pixel art.
+- **Vector Graphics Editor**: [Inkscape](https://inkscape.org) - I design icons with it.
+- **Mail client**: [Thunderbird](https://www.thunderbird.net) - classic, robust, good enough.
+- **Note-taking**: [Joplin](https://joplinapp.org) - cross-platform and markdown based.
+- **Soulseek client**: [Nicotine+](https://nicotine-plus.org/) - to download cool stuff.
 
 
 ### Android only
 
-- [KISS Launcher](https://kisslauncher.com): My current favorite launcher.
-- [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/): Firefox fork without Mozilla's tracking.
-- [AntennaPod](https://antennapod.org/): Podcast aggregator.
-- [Droid-ify](https://github.com/Iamlooker/Droid-ify): A FOSS only client for the F-Droid store.
-- [K-9 Mail](https://k9mail.app/): Amazing email client with nice features.
-- [Signal](https://signal.org): My favorite chatting app, secure and private.
-- [KeepassDX](https://keepassdx.com): Android password manager that autofills passwords for me.
-- [Mihon](https://mihon.app): Fantastic Manga reading app that can also track my progress.
-- [Tusky](https://tusky.app): An Mastodon client that just works.
-- [Aegis](https://getaegis.app/): Two Factor Authentication app.
-- [Tubular](https://github.com/polymorphicshade/Tubular): YouTube front-end with Sponsorblock.
-- [Conversations](https://github.com/polymorphicshade/Tubular): My XMPP client of choice.
-- [Element X](https://github.com/element-hq/element-x-android): A fine Matrix client.
+- **Launcher**: [KISS Launcher](https://kisslauncher.com) is current favorite.
+- **Browser**: [Fennec](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/) is a fork of Firefox without fluff.
+- **RSS Reader**: [Readrops](https://github.com/readrops/Readrops): has FreshRSS and Nextcloud support.
+- **Podcatcher**: [AntennaPod](https://antennapod.org/) is simply the best one.
+- **App Store**: [Droid-ify](https://github.com/Iamlooker/Droid-ify) is a modern client for F-Droid.
+- **Email client**: [K-9 Mail](https://k9mail.app/) is just great for me.
+- **Secure Instant Messaging**: [Signal](https://signal.org) is my favorite.
+- **Password manager**: [KeepassDX](https://keepassdx.com) is great.
+- **Manga reader**: [Mihon](https://mihon.app) is fantastic and tracks my progress too.
+- **Mastodon client**: [Tusky](https://tusky.app) just works.
+- **2FA Authenticator**: [Aegis](https://getaegis.app/), simple enough.
+- **YouTube client**: [Tubular](https://github.com/polymorphicshade/Tubular) is a clean front-end with Sponsorblock.
+- **XMPP client**: [Conversations](https://github.com/polymorphicshade/Tubular) is what I prefer.
+- **Matrix client**: [Element X](https://github.com/element-hq/element-x-android) is fine.
 
+### Cross-platform software
 
-## Cross-platform software
+- **Activity Tracking**: [ActivityWatch](https://activitywatch.net) is a great tool to keep track of your desktop and android usage
+- **File Sync**: [Syncthing](https://syncthing.org) keeps files accross multiple devices synced up.
+- **File Sharing**: [LocalSend](https://localsend.org/) is similar to AirDrop and works great.
 
-- [ActivityWatch](https://activitywatch.net): A great tool to keep track of your desktop and android usage
-- [Syncthing](https://syncthing.org): Sync files accross multiple devices.
-- [Element](https://element.io): The only Matrix client worth using.
+### Web services
 
-## Web services
-
-I am not currently selfhosting anything at the moment, but I've used these before:
-
-- [FreshRSS](https://freshrss.org): My RSS reader of choice, Newsboat supports it as backend too.
-- [Disroot](https://disroot.org): Cool free email provider.
-- [Zoho Mail](https://mail.zoho.com/): Another nice email provider, cheap with custom domain!
+- **RSS reader**: [FreshRSS](https://freshrss.org) is my reader of choice, Newsboat and Readrops have support for it.
+- **Email provider**: [Disroot](https://disroot.org) is free, but I use [Zoho Mail](https://mail.zoho.com/) with my custom domain.
 
 </article>
+
 # Hardware
+
 <article markdown=1>
 
 ## Laptop
@@ -93,15 +92,16 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 
 ## Other
 
-- Kobo Clara 2E (e-book reader)
-- Innioasis Y1 (music player)
+- **E-reader**: Kobo Clara 2E
+- **Music Player**: Innioasis Y1
+- **Pen**: Pilot Metropolitan
 
 ## Peripherals
 
-- Mouse: Logitech M-705
-- Phone: Nothing Phone 3(a)
-- Earphones: Nothing Ear (a)
-- Microcomputer: Raspberry Pi 4B 8GB
+- **Mouse**: Logitech M-705
+- **Phone**: Nothing Phone 3(a)
+- **Earphones**: Nothing Ear (a)
+- **Microcomputer**: Raspberry Pi 4B 8GB
 - ~~Mouse: Logitech MX Anywhere 3~~
 - ~~Phone: Xiaomi Poco F4~~
 - ~~Earphones: Sony WF-C500~~
@@ -117,7 +117,6 @@ I decided to make this section to mention software that I no longer use but migh
 - [DietPi](https://dietpi.com): A great distro for Raspberry Pi with installers for lots of things.
 - [Godot](https://godotengine.org): Easy to learn yet advanced Game engine, [check the games I've made!](https://joelchrono12.itch.io/)
 - [Qutebrowser](https://qutebrowser.org): Minimal-keyboard driven browser based on QtWebEngine.
-- [Firefox](https://firefox.com) This is my main browser.
 - [IceRaven](https://github.com/fork-maintainers/iceraven-browser): A Firefox mobile fork with more extensions and features.
 - [Material Files](https://github.com/zhanghai/MaterialFiles): File manager
 - [Yuito](https://github.com/accelforce/Yuito): A Mastodon client based on [Tusky](https://tusky.app/) with some nice additions. 
@@ -137,7 +136,7 @@ I decided to make this section to mention software that I no longer use but migh
 - [GadgetBridge](https://gadgetbridge.org/): Connect with my smartwatch without giving away my data.
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack): A fitness tracker, integrates with GadgetBridge.
 
-#### Changelog 2025-04-25
+#### Changelog 2025-04
 
 ```
 - Added GIMP, KISS Launcher, Signal, Joplin
@@ -148,9 +147,10 @@ I decided to make this section to mention software that I no longer use but migh
 - Renamed Self-hosted to Web Services
 ```
 
-#### Changelog 2025-11-05
+#### Changelog 2025-11
 
 ```
+- Updated list format to show generic program names instead of just the program itself.
 - Added gaming devices, reader, music player
 - Replaced Phone to Nothing 3(a)
 - Removed ArrowOS, I stick to stock NothingOS stock
