@@ -1,14 +1,15 @@
 ---
 title:  Uses update, music player love?, and a blog reply
 header: Uses update, music player, and a blog reply
-description: Just some things that happened recently that aren't long enough to be a post by themselves. I updated my uses page with more devices and apps, messed around with my music player and got a reply to yesterday's reply
+description: Things that happened recently that aren't a post by themselves. I updated my uses page with more devices and apps, messed around with my music player and got a reply to yesterday's reply
 tags: life short tech lifestyle
 permalink: /blog/uses-update-music-metadata-blog-reply/
 layout: post
 date: 2025-11-06 12:40:00 -0600
+updated: 2025-11-06 13:25:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115504312827264261
 ---
 
 Don't have a lot of ideas right now about something specific to write about, but a couple of things happened that are good enough to get combined into one post.
