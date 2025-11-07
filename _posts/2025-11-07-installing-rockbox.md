@@ -31,7 +31,7 @@ A newcomer would not understand what the `venv` command does (to be fair, I don'
 
 In a way, **Linux encourages you to learn how a computer system works**. I now know what packages are, I can uninstall or install them with a simple command, they will go to a certain location and can be called in a script and be depended upon by other programs. I also know hidden folders are a thing, and that most file managers on Linux display them with a simple `Ctrl + H` or a checkbox in a right-click menu (or just an `ls -a` in the terminal of course).
 
-I'd say it was worth learning and doing that. Even if it is more complex at first, it's better than dealing with *Next, Next, Next* install wizards and drivers that will do *who-knows-what* on *who-knows-where* in my computer sounds like a pain now. Same goes for trying to remember where the File Manager settings are, a panel (which looks straight out of 1998 as well) with a bunch of tabs and checkboxes to go through, all just to show hidden folders or file extensions.
+I'd say it was worth learning and doing that. Even if it is more complex at first, it's better than dealing with *Next, Next, Next* install wizards and drivers that will do *who-knows-what* on *who-knows-where* in my computer. Those easy installers and countless drivers can end up being a pain. Same goes for trying to remember where the File Manager settings are, a panel (which looks straight out of 1998 as well) with a bunch of tabs and checkboxes to go through, all just to show hidden folders or file extensions.
 
 And yet, that second option is what most people do and deal with.
 
