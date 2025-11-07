@@ -5,7 +5,7 @@ description: I flashed Rockbox on my music player but that made me deviate about
 tags: tech ramble tutorial
 permalink: /blog/rockbox-innioasis-y1-install-stuff-ramble/
 layout: post
-date: 2025-11-06 12:40:00 -0600
+date: 2025-11-07 12:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: commmentsid
