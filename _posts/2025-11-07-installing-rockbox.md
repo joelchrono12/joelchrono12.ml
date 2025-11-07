@@ -5,10 +5,11 @@ description: I flashed Rockbox on my music player but that made me deviate about
 tags: tech ramble tutorial
 permalink: /blog/rockbox-innioasis-y1-install-stuff-ramble/
 layout: post
-date: 2025-11-07 12:00:00 -0600
+date: 2025-11-07 12:35:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115509757765089217
+image: 'assets/img/blogs/2025-11-07-innioasisy1.jpg'
 ---
 
 I'm still playing around with the Innioasis Y1 music player, and I thought to installing [Rockbox](https://rockbox.org) on it might be a worthy endeavour.
@@ -57,6 +58,10 @@ Seriously, a lot of them don't even know what adblocking is anymore, they are ju
 
 I'm gonna end it here, because I can feel the rant incoming, but this is plenty enough for a day. The Innioasis Y1 is fun to thinker with! Next time I may end up doing some hardware mods to it for some reason. Whatever happens, it will.
 
+
+{% include img.html
+image='/assets/img/blogs/2025-11-07-innioasisy1.jpg' 
+caption='My Innioasis Y1, teal colored, running Rockbox with the Satellite theme on it.' %}
 
 
 
