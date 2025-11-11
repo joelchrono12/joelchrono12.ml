@@ -11,7 +11,7 @@ username: joel
 com_id: 115531240548902980
 ---
 
-It's been [a whole year](/blog/2024-w45) now since I decided to start writing my own weeknotes, a lot of stuff has happened since then, and a portion of that has been documented week after week on this website.
+It's been [a whole year](/blog/2024-w45-weeknotes) now since I decided to start writing my own weeknotes, a lot of stuff has happened since then, and a portion of that has been documented week after week on this website.
 
 I was inspired by many people, such as [Jeremy](https://moddedbear.com) who was the one who gave me the final push, [Jedda](https://notes.jeddacp.com) who was at it since earlier, or [Ariadne](https://noisydeadlines.net/), who was among the first I saw!
 
