@@ -3,7 +3,7 @@ title: 52 Week Notes later
 header: 52 Week Notes later
 description: I've been writing weeknotes for about a year now, and here are some thoughts about it!
 tags: weeknotes life thoughts community
-permalink: /blog/52-weenotes-later/
+permalink: /blog/52-weeknotes-later/
 layout: post
 date: 2025-11-11 07:00:00 -0600
 host: fosstodon.org
