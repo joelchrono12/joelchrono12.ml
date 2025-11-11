@@ -2,13 +2,13 @@
 title: 52 Week Notes later
 header: 52 Week Notes later
 description: I've been writing weeknotes for about a year now, and here are some thoughts about it!
-tags: weeknotes
+tags: weeknotes life thoughts community
 permalink: /blog/52-weenotes-later/
 layout: post
 date: 2025-11-11 07:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115531240548902980
 ---
 
 It's been [a whole year](/blog/2024-w45) now since I decided to start writing my own weeknotes, a lot of stuff has happened since then, and a portion of that has been documented week after week on this website.
