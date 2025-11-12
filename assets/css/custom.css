@@ -41,6 +41,11 @@
     box-sizing: border-box;
 }
 
+::selection {
+  background-color: var(--accent);
+  color: var(--bg);
+}
+
 a, a:visited {
   color: var(--accent);
 }
