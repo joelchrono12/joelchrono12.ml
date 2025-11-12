@@ -9,6 +9,10 @@ date: 2025-10-06 20:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115330772910603641
+mentions:
+    - url: https://kevquirk.com/blog/when-a-tool-becomes-a-hobby/
+      author: Kev Quirk
+      title: When a Tool Becomes a Hobby
 ---
 
 What do watches, safety razors, and fountain pens have in common?

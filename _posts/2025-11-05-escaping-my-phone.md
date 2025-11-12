@@ -9,6 +9,10 @@ date: 2025-11-05 21:37:23 -0600
 host: fosstodon.org
 username: joel
 com_id: 115500892277504842
+mentions:
+    - url: https://jsteuernagel.de/posts/why-it-is-the-phone/
+      author: Jana
+      title: "Why it is the phone"
 ---
 
 {% include post_embed.html

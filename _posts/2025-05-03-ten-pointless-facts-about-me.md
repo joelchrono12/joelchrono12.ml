@@ -16,6 +16,9 @@ mentions:
   - url: https://write.as/hobbsc/ten-pointless-facts-about-me
     author: rootwork
     title: 10 Pointless Facts About Me
+  - url: https://nathandyer.me/2025/11/11/ten-facts-about-me.html
+    author: Nathan Dyer
+    title: Ten Pointless Facts About Me
 ---
 
 I was challenged by [Mike Sass](https://shellsharks.com/bqc-ten-pointless-facts) to answer these pointless things, so, here they are!

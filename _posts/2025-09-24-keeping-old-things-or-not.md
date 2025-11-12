@@ -9,6 +9,11 @@ date: 2025-09-24 09:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115259954796873589
+mentions:
+    - url: https://jelloeater.me/blog/rss-dump-2025-09/
+      title: What Ive read in Sept 2025
+      author: Jelloeater
+
 ---
 
 Last weekend I spent a lot of time cleaning up my bedroom. This was a long time coming, to be honest. Most of the time I get rid of small things, like boxes, product labels, packaging material, old cables or whatever disposable items are cluttering my bedroom.

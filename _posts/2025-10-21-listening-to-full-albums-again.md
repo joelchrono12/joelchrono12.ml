@@ -9,6 +9,10 @@ date: 2025-10-21 11:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115413356614157685
+mentions:
+  - url: https://noisydeadlines.net/week-notes-oct-14-to-oct-27-2025
+    author: Noisy Deadlines
+    title: "Week Notes - Oct 14 to Oct 27 2025"
 ---
 
 Ariadne---a fellow blogger I enjoy reading a lot---[published a post](https://noisydeadlines.net/listening-to-full-albums-again) of the same title yesterday, and, without having read any of its content, I decided to borrow the topic at hand. [Last time](/blog/how-time-flies/) I tried this was quite fun so, here it goes.
