@@ -8,7 +8,7 @@ layout: post
 date: 2025-11-13 08:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115542871130964667
 ---
 
 {% include post_embed.html
