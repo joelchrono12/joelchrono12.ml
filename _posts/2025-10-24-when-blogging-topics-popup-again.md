@@ -15,7 +15,7 @@ It's been really nice to see the "Ten Pointless Facts About Me" challenge trendi
 
 I actually already [participated on this challenge](/blog/bqc-ten-pointless-facts-about-me/), so in case you missed it or if you are wondering why I have not written anything about it, feel free to check out my answers, **the seventh one might surprise you!** 🤯
 
-It's interesting to see how themes come and go, just like how yesterday I wrote about [friendships](/blog/on-keeping-up-with-friends-and-contacts) after the discourse going around it for months.
+It's interesting to see how themes come and go, just like how yesterday I wrote about [friendships](/blog/on-keeping-up-with-friends-and-contacts/) after the discourse going around it for months.
 
 I remember a few years back everyone was talking about [a reality without Javascript or CSS](https://btxx.org/posts/css-js-mistake/) ([including me](/blog/reality-without-css-or-javascript/)), and it sparked a bunch of interest conversations from the webdev blogging scene. Simpler times...
 
