@@ -17,7 +17,8 @@ site_url='https://lwgrs.bearblog.dev/'
 title="Reassess time spent enjoying luxury" 
 author='Steve'
 author_url='https://ottawa.place/@srgower' 
-site="Every time my wife is away for business travel, I take the opportunity to do things I don't have time for when we're together: video games, movies and TV shows my wife won't watch, that sort of thing. Inevitably I wind up spending too much time with these luxuries. Just last night (Monday), when I had all day to play with a vacation day, I didn't go to sleep until 12:50 AM."
+site="An Almost Anonymous Blog"
+description="Every time my wife is away for business travel, I take the opportunity to do things I don't have time for when we're together: video games, movies and TV shows my wife won't watch, that sort of thing. Inevitably I wind up spending too much time with these luxuries. Just last night (Monday), when I had all day to play with a vacation day, I didn't go to sleep until 12:50 AM."
 %}
 
 I recently saw this post by Steve and found it kinda relatable.
