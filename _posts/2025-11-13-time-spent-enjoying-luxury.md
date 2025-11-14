@@ -9,6 +9,13 @@ date: 2025-11-13 08:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115542871130964667
+mentions: 
+  - title: "Re: Re: Reassess time spent enjoying luxury"
+    author: Sotolf
+    url: https://sotolf.codeberg.page/posts/re-re-reassess-time-spent-enjoying-luxury/
+  - title: "How's that time reassessment going?"
+    author: Stephen Gower
+    url: https://lwgrs.bearblog.dev/hows-that-time-reassessment-going/
 ---
 
 {% include post_embed.html
