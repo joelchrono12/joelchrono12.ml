@@ -8,7 +8,7 @@ layout: post
 date: 2025-11-14 08:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115548538667777082
 ---
 
 As I got to the bus back home a couple days ago, paid my ticket and got in, I couldn't help but notice a girl at the second to last seat at the back of the bus. She was reading a book.
