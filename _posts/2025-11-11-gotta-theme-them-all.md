@@ -10,6 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 115534843771839281
 image: 'assets/img/blogs/2025-11-11-my-innioasis-y1-with-my-adapted-adwaitapod-theme.webp'
+mentions:
+  - author: Andreas (82Mhz)
+    title: Linkdump No 81
+    url: https://82mhz.net/posts/2025/11/linkdump-no-81/
 ---
 
 You may have noticed by now, but I have something of an obsession with **customizing my devices**, and fiddle with every single setting about them that I can.
