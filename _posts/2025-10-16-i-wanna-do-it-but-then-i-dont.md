@@ -10,6 +10,10 @@ updated: 2025-10-16 12:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115385279532101052
+mentions:
+  - url: https://theresmiling.eu/blog/2025/11/why-not-just-do-it
+    title: Why not just do it
+    author: Elena
 ---
 
 It's always fun when you get inspired by some post and then you see another one talking about pretty much the same thing.
@@ -30,7 +34,7 @@ Then on the fediverse I saw another post from Matt about how [buying a Steam Dec
 
 Once again, *that's literally me!*
 
-Committment is kind of difficult. Even for something that should be easy like writing two sentences in a journal, or something that should be fun, like actually playing the videogames you have.
+Commitment is kind of difficult. Even for something that should be easy like writing two sentences in a journal, or something that should be fun, like actually playing the videogames you have.
 
 I've written a few posts about some of the issues I've been dealing with---which in the grand scheme of things aren't really a big deal, I guess---such as:
 
