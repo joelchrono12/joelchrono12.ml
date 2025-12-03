@@ -8,7 +8,7 @@ layout: post
 date: 2025-12-01 18:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115653130422944741
 ---
 
 Oh man, the year is basically over, I'll be writing my yearly summaries for my favorites of the year pretty soon, and I have no idea of how to deal with how fast the year has gone already.
