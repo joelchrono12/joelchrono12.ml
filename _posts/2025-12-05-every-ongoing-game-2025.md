@@ -8,7 +8,7 @@ layout: post
 date: 2025-12-05 09:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115667783300930937
 ---
 
 During November, the [gaming section](/blog/november-2025-summary/) was filled with ongoing games for some reason. There were so many that my friend [Wouter](https://brainbaking.net) pointed it out to me, surely his backlog is less than mine right?
