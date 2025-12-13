@@ -124,7 +124,7 @@ But, I must admit, it's an excellent choice! I am yet to complete this game myse
 
 ## Naty
 
-[Naty](https://burgeonlab.com) is a great friend who writes about her blogging workflow and plenty of tech shenanigangs, and she doesn't have a lot of time for gaming nowadays. I was still curious to know her answer to this question, and after reaching out, she ended up with probably the most obscure game of them all!
+[Naty](https://burgeonlab.com) is a great friend who writes about her blogging workflow and plenty of tech shenanigans, and she doesn't have a lot of time for gaming nowadays. I was still curious to know her answer to this question, and after reaching out, she ended up with probably the most obscure game of them all!
 
 > Given a desert‑island scenario, I’d probably escape reality by revisiting fond childhood memories by playing a rather obscure, Japan‑only release, PlayStation 1 game (I didn’t realize it was obscure until now) called [**Hermie Hopperhead: Scrap Panic**](https://en.wikipedia.org/wiki/Hermie_Hopperhead%3A_Scrap_Panic), released in 1995. Oh, how I love the OG grey PlayStation from back then.
 > 
@@ -232,7 +232,7 @@ But, the one game I always come back to is **The Witcher III: The Wild Hunt**.
 > 
 > I love that game, and will never tire of it, despite seeing many shiny objects to distract me.
 
-I have always heard of this game, but I haven't played it either. Given its size and the amount of story and quests on it, It really seems like a great pick for this situation.
+I have always heard of this game, but I haven't played it either. Given its size and the amount of story and quests on it, it's a great pick for this situation.
 
 Buckle up, the next one is long...
 
@@ -352,7 +352,7 @@ If you know me, you probably think you already know my answer, it might seem cle
 
 But, I don't think I would choose *Chrono Trigger*.
 
-As much as I love it, and as much as I'd like to get all the endings and play in New Game+ and know all of it's secrets, I just don't think it's a game long enough to hold me for an undetermined period of time.
+As much as I love it, and as much as I'd like to get all the endings and play in New Game+ and know all of its secrets, I just don't think it's a game long enough to hold me for an undetermined period of time.
 
 It would have to be something longer, and something I'm not very familiar with, but with gameplay that I know will be enjoyable for me. Something I can replay multiple times with harder difficulties as well.
 
