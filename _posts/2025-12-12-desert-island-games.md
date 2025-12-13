@@ -29,7 +29,7 @@ The first replies got added first and so on, and hey, there's a table of content
 
 ## Jana
 
-The quickest reply came from [Jana](https://)! Who has listed some other games on her site already, in case you want to know more lol. Although there haven't been many blogposts about gaming itself, maybe that can change sometime soon? 😉
+The quickest reply came from [Jana](https://jsteuernagel.de/)! Who has listed some other games on her site already, in case you want to know more lol. Although there haven't been many blogposts about gaming itself, maybe that can change sometime soon? 😉
 
 > I would pick **Cyberpunk 2077**.
 >
