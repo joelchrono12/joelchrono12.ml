@@ -6,7 +6,7 @@ tags: gaming community
 permalink: /blog/desert-island-games/
 layout: post
 date: 2025-12-12 19:30:00 -0600
-updated: 2025-12-12 22:10:00 -0600
+updated: 2025-12-13 05:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115709834781909364
@@ -111,7 +111,7 @@ I should have seen it coming, a Martian who likes flying ships, it's to closest 
 
 ## Wouter 
 
-Despite my prompt clearly stating that every game system and periferal magically works without any need of electricity, [Wouter](https://brainbaking.net)---who writes about life, gaming, technology and such---decided to limit himself even further---it definitely wasn't my fault he got it wrong---here's what he had to say!
+Despite my prompt clearly stating that every game system and periferal magically works without any need of electricity, [Wouter](https://brainbaking.com)---who writes about life, gaming, technology and such---decided to limit himself even further---it definitely wasn't my fault he got it wrong---here's what he had to say!
 
 > If I could bring only one game to a deserted island, it would have to be a handheld game. I don't think there's going to be a plug for that TV, meaning we'll have to stack those AA batteries, grouped by four. Are you getting where I'm getting at? Indeed, the sturdy old Game Boy. It's solid as a rock and there'll probably plenty of rock-dropping on that island. Plus, those four AA batteries will last you more than twenty hours. On top of that, it'll give you an excuse to get out of the sun. 
 >
