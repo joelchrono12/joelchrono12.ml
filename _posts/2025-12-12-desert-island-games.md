@@ -380,7 +380,7 @@ Also, if you were too lazy to read all of that, here's the list of games!
 
 - Jana - *Cyberpunk 2077*
 - Cory - *SaGa Frontier*
-- Daniel - *Pokémon Unkown*
+- Daniel - *Pokémon Unknown*
 - Gina - *Hogwarts Legacy*
 - Ariadne - *Neverwinter Nights*
 - OrbitalMartian - *FlightGear*
