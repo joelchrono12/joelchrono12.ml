@@ -138,7 +138,9 @@ I literally have no words, I don't know this game at all, but hey, now we do!
 
 ## Jeremy
 
-[JP](https://moddedbear.com) barely writes, but when he does, it's often about software, gaming and tech. He gave another rather lenghty reply this time around, what will it be I wonder? it's answered in the first paragraph and it's something you already know, why am I trying to build up the suspense in the first place?
+[JP](https://moddedbear.com) barely writes, but when he does, it's often about software, gaming and tech. He gave another rather lenghty reply this time around, what will it be I wonder? 
+
+The answer is in the first paragraph and it's something you already know, why am I trying to build up the suspense in the first place?
 
 > If I'm allowed one game to bring to a desert island, I'd have to pick **Cyberpunk 2077**. There are some games I enjoy more, but Cyberpunk has a little bit of everything I like in a game.
 >
