@@ -6,7 +6,7 @@ tags: gaming community
 permalink: /blog/desert-island-games/
 layout: post
 date: 2025-12-12 19:30:00 -0600
-updated: 2025-12-12 22:10:00 -0600
+updated: 2025-12-13 09:55:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115709834781909364
@@ -31,7 +31,7 @@ By the way, this is definitely inspired by [TechDweeb's video collab](https://yo
 
 ## Jana
 
-The quickest reply came from [Jana](https://)! Who has listed some other games on her site already, in case you want to know more lol. Although there haven't been many blogposts about gaming itself, maybe that can change sometime soon? 😉
+The quickest reply came from [Jana](https://jsteuernagel.de/)! Who has listed some other games on her site already, in case you want to know more lol. Although there haven't been many blogposts about gaming itself, maybe that can change sometime soon? 😉
 
 > I would pick **Cyberpunk 2077**.
 >
@@ -113,7 +113,7 @@ I should have seen it coming, a Martian who likes flying ships, it's to closest 
 
 ## Wouter 
 
-Despite my prompt clearly stating that every game system and periferal magically works without any need of electricity, [Wouter](https://brainbaking.net)---who writes about life, gaming, technology and such---decided to limit himself even further---it definitely wasn't my fault he got it wrong---here's what he had to say!
+Despite my prompt clearly stating that every game system and periferal magically works without any need of electricity, [Wouter](https://brainbaking.com)---who writes about life, gaming, technology and such---decided to limit himself even further---it definitely wasn't my fault he got it wrong---here's what he had to say!
 
 > If I could bring only one game to a deserted island, it would have to be a handheld game. I don't think there's going to be a plug for that TV, meaning we'll have to stack those AA batteries, grouped by four. Are you getting where I'm getting at? Indeed, the sturdy old Game Boy. It's solid as a rock and there'll probably plenty of rock-dropping on that island. Plus, those four AA batteries will last you more than twenty hours. On top of that, it'll give you an excuse to get out of the sun. 
 >
@@ -126,7 +126,7 @@ But, I must admit, it's an excellent choice! I am yet to complete this game myse
 
 ## Naty
 
-[Naty](https://burgeonlab.com) is a great friend who writes about her blogging workflow and plenty of tech shenanigangs, and she doesn't have a lot of time for gaming nowadays. I was still curious to know her answer to this question, and after reaching out, she ended up with probably the most obscure game of them all!
+[Naty](https://burgeonlab.com) is a great friend who writes about her blogging workflow and plenty of tech shenanigans, and she doesn't have a lot of time for gaming nowadays. I was still curious to know her answer to this question, and after reaching out, she ended up with probably the most obscure game of them all!
 
 > Given a desert‑island scenario, I’d probably escape reality by revisiting fond childhood memories by playing a rather obscure, Japan‑only release, PlayStation 1 game (I didn’t realize it was obscure until now) called [**Hermie Hopperhead: Scrap Panic**](https://en.wikipedia.org/wiki/Hermie_Hopperhead%3A_Scrap_Panic), released in 1995. Oh, how I love the OG grey PlayStation from back then.
 > 
@@ -140,7 +140,9 @@ I literally have no words, I don't know this game at all, but hey, now we do!
 
 ## Jeremy
 
-[JP](https://moddedbear.com) barely writes, but when he does, it's often about software, gaming and tech. He gave another rather lenghty reply this time around, what will it be I wonder? it's answered in the first paragraph and it's something you already know, why am I trying to build up the suspense in the first place?
+[JP](https://moddedbear.com) barely writes, but when he does, it's often about software, gaming and tech. He gave another rather lenghty reply this time around, what will it be I wonder? 
+
+The answer is in the first paragraph and it's something you already know, why am I trying to build up the suspense in the first place?
 
 > If I'm allowed one game to bring to a desert island, I'd have to pick **Cyberpunk 2077**. There are some games I enjoy more, but Cyberpunk has a little bit of everything I like in a game.
 >
@@ -234,7 +236,7 @@ But, the one game I always come back to is **The Witcher III: The Wild Hunt**.
 > 
 > I love that game, and will never tire of it, despite seeing many shiny objects to distract me.
 
-I have always heard of this game, but I haven't played it either. Given its size and the amount of story and quests on it, It really seems like a great pick for this situation.
+I have always heard of this game, but I haven't played it either. Given its size and the amount of story and quests on it, it's a great pick for this situation.
 
 Buckle up, the next one is long...
 
@@ -354,7 +356,7 @@ If you know me, you probably think you already know my answer, it might seem cle
 
 But, I don't think I would choose *Chrono Trigger*.
 
-As much as I love it, and as much as I'd like to get all the endings and play in New Game+ and know all of it's secrets, I just don't think it's a game long enough to hold me for an undetermined period of time.
+As much as I love it, and as much as I'd like to get all the endings and play in New Game+ and know all of its secrets, I just don't think it's a game long enough to hold me for an undetermined period of time.
 
 It would have to be something longer, and something I'm not very familiar with, but with gameplay that I know will be enjoyable for me. Something I can replay multiple times with harder difficulties as well.
 
@@ -382,7 +384,7 @@ Also, if you were too lazy to read all of that, here's the list of games!
 
 - Jana - *Cyberpunk 2077*
 - Cory - *SaGa Frontier*
-- Daniel - *Pokémon Unkown*
+- Daniel - *Pokémon Unknown*
 - Gina - *Hogwarts Legacy*
 - Ariadne - *Neverwinter Nights*
 - OrbitalMartian - *FlightGear*
