@@ -24,6 +24,8 @@ Feel free to reply with your own picks of course. I personally reached out to th
 
 The first replies got added first and so on, and hey, there's a table of contents.
 
+By the way, this is definitely inspired by [TechDweeb's video collab](https://youtu.be/2eMNMZxnGgM), check it out as well!
+
 * TOC
 {:toc}
 
