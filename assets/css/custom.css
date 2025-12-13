@@ -1,6 +1,6 @@
 :root {
     /* Set sans-serif & mono fonts */
-    /*--sans-font: "IBM Plex Mono",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;*/
+    --sans-font: "Ubuntu","IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
     --mono-font: "Ubuntu Mono","mononoki","IBM Plex Mono","Roboto Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
     --base-fontsize: 1.15rem;
@@ -66,7 +66,7 @@ a:hover {
 }
 
 body {
-    font-family: var(--mono-font);
+    font-family: var(--sans-font);
     font-weight: normal;
     line-height: var(--line-height);
     margin: 0;
@@ -320,9 +320,10 @@ figcaption {
 blockquote{
     border-left: 4px solid var(--border);
     padding: .2rem 1.5rem;
-    font-style: italic;
+    /*font-style: italic;*/
     margin: 0 0 1.2rem;
     position: relative;
+    background-color: var(--code-bg);
 }
 
 blockquote p{
