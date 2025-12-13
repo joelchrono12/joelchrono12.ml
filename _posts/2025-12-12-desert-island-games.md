@@ -6,6 +6,7 @@ tags: gaming community
 permalink: /blog/desert-island-games/
 layout: post
 date: 2025-12-12 19:30:00 -0600
+updated: 2025-12-12 22:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115709834781909364
@@ -294,7 +295,7 @@ Don't worry Gabz, the interesting thing is that this makes for the second appari
 
 I love [Bobby's](https://bobbyhiltz.com) website! He often writes about his life as a teacher, but also shares a lot of his thoughts about games on his *Credit Feed* posts, which I try to never miss.
 
-Anyway, he was pretty enthusiastic about the idea of this blogpost, which is a little worrisome, but alas, here's what he said:
+Anyway, he was pretty enthusiastic about the idea of getting stranded with nothing but games to survive, which is a little worrisome, but alas, here's what he said:
 
 > Solitude. Yes please. And I get a game to play too? Sweet. A few games come to mind, but there can only be one. Should I take the game that brings comfort or the one I could git gud at with my free time? As much as I would love to play the same loop of some shmup, like *Crimzon Clover World EXplosion*, until I had the top score, I think I’ll take the first game that came to mind. 
 > 
@@ -303,6 +304,30 @@ Anyway, he was pretty enthusiastic about the idea of this blogpost, which is a l
 Would you look at that, the first (and only? maybe?) Metroidvania that made it to the list! And it is the epitome of the genre that came out back in the SNES days!
 
 That is one absolutely goated choice, and I completely approve of it.
+
+## Sotolf
+
+This [Sotolf](https://sotolf.codeberg.page/) guy can be quite a pain sometimes, but he's a good fellow, I like to think, and I love his blog! Rather odd and grumpy sometimes but he does his best.
+
+But well, as I say, a pain, who keeps trying to get away with more than one game and stuff.
+
+> So, I'll try to keep to the premise of the question, and not just say a PC, because there is so much other things that i can do on the PC, and just pretend that the game is all that I get. So here we go:
+ 
+The peripherals. don't. matter. You can have a PC with just one game installed on it...
+ 
+> When faced with a question like this it's so easy for me to just say my favourite game, *Tetris*, but I would think the stay would be rather long, and as much as I love *Tetris* it's not really something that would hold for a long time.
+
+You never know, but I agree to be honest, I would prefer to go with *Lumines* myself.
+
+> I'm leaning more towards a big RPG like *Persona 5*, which also has enough RNG stuff that it will be playable for a while, since I think I would be alone on the island, the social aspects of the games would also probably be a salve on the soul.
+>
+> Now if I do have access to books to keep myself sane as well my answer would probably be different, and I would go for *Siralim: Ultimate* there is a bit of a recency bias there since it's a game that I'm currently playing. It has a lot of procedural generation, and just a ton of fun stuff to do, and just fun to experiment with different monster teams, occupations, interact with the different systems, it's just a really fun game to tinker with, and something that hopefully would keep me occupied until rescue arrives :)
+> 
+> So there you go, one AAA game and an indie, probably leaning towards the latter personally.
+
+Umm, well, I didn't mention books in any capacity so I guess I am kinda confused...
+
+I'll say you picked **Siralim Ultimate** and call it a day. No double picks! I haven't heard of that one that much so, it's a very interesting choice!
 
 
 ## FlamedFury
@@ -369,6 +394,7 @@ Also, if you were too lazy to read all of that, here's the list of games!
 - Amin - *A deck of cards*
 - Gabz - *Pokémon Crystal Legacy*
 - Bobby - *Super Metroid*
+- Sotolf - *Siralim Ultimate*
 - FlamedFury - *Pokémon FireRed*
 - Me - *Dragon Quest XI: Echoes of an Elusive Age - Definitive Edition*
 
