@@ -135,7 +135,7 @@ table {
     width: 100%;
 }
 table th, table td {
-    padding: 10px 20px;
+    padding: .2rem .4rem;
 }
 table td span {
     padding: 5px;

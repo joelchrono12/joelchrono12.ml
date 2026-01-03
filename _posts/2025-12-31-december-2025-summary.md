@@ -33,6 +33,12 @@ Revisited an all time great, this time in black and white, a new to me movie whe
 - Dead Poets Society - Loved like 90% of it but man it hurts.
 - Avatar: Fire and Ash - New antagonist was cool, action too.
 
+## TV Shows
+
+Only watched one show due to my sisters coming to visit. Honestly, even if I didn't enjoy how everything went, it feels weird to say goodbye to a series that I started when I was a teenager. So long, Stranger Things.
+
+- Stranger Things Season 5
+
 ## Gaming
 
 This month was mostly filled with weekend multiplayer games, I did play some retro titles on my Anbernic from time to time, but I tried to focus on Silksong, I won't beat it this year, but it's not bad at all. None of these games are finished.
