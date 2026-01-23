@@ -6,9 +6,10 @@ tags: tech storytime life
 permalink: /blog/old-phone-case/
 layout: post
 date: 2026-01-22 16:50:00 -0600
+updated: 2026-01-23 09:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 115944745260921046
 ---
 
 We went to the mall during the weekend, and if there's one thing that malls have, is phone case kiosks. Small shops selling peripherals and cases for popular Apple and Samsung devices,and not much else---at least that's what I always assumed.
