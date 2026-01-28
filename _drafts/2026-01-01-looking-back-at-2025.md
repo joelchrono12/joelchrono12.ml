@@ -20,12 +20,5 @@ Overall, I'm pretty grateful with how everything turned out, and I wanted to rev
 - Buying less videogames than in 2024
 - More blogposts than ever before
 - A bigger blogging community
-- 
-
-
-
-
-
-
 
 This is day 1 of [#100DaysToOffload](https://100daystooffload.com)
