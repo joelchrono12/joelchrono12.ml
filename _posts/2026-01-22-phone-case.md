@@ -41,5 +41,5 @@ My mom has showed signs of wanting a new phone, and I have felt like I should ge
 For now, I spent more money than I wanted on a case, my dad has better eyesight than me, I should look at myself in the mirror when it comes to my assumptions, and in any case, my mom is happy.  
 
 
-
+This is day 5 of [#100DaysToOffload](https://100daystooffload.com)
 
