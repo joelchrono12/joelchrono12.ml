@@ -29,9 +29,8 @@ https://rknight.me/subscribe/posts/rss.xml
 https://rldane.space/feeds/all.atom.xml
 https://cassie.ink/index.xml
 https://robert.winter.ink/feed
-https://scottbanwart.com/blog/feed/atom.xml
-https://sheepdev.xyz/feed
 https://shellsharks.com/feeds/feed.xml
+https://blueberrylemonade.pika.page/posts_feed
 https://tahimik.com/journal.rss
 https://thomasrigby.com/feed.xml
 https://tk-web.top/index.xml

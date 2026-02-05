@@ -8,7 +8,10 @@ redirect_from: /more/uses/
 permalink: /uses/
 ---
 
-**Last Updated: [November 2025](#changelog-2025-11)**
+**Last Updated: [February 2026](#2026-02)**
+
+* TOC
+{:toc}
 
 ## Software
 
@@ -19,12 +22,12 @@ I split this section between desktop (mostly Free Software and available on Linu
 
 ### Computer
 
-- **OS**: [Arch Linux](https://archlinux.org/): I've finally done it, I use Arch btw.
-- **Desktop**: [dwm](https://awesomewm.org/): A lightweight tiling window manager, [check my rice](https://tildegit.org/chrono/dwm)
+- **OS**: [Arch Linux](https://archlinux.org/)- I've finally done it, I use Arch btw.
+- **Desktop**: [dwm](https://awesomewm.org/) - A lightweight tiling window manager, [check my rice](https://tildegit.org/chrono/dwm)
 - **Browser**: [Firefox](https://firefox.com) - it works well after all.
-- **Terminal**: [alacritty](https://github.com/alacritty/alacritty): My terminal of choice. Fast and minimal.
+- **Terminal**: [alacritty](https://github.com/alacritty/alacritty) - My terminal of choice. Fast and minimal.
 - **Shell**: [bash](https://www.gnu.org/software/bash/) - I am too lazy to try others.
-- **Text editor**: [neovim](https://neovim.io/)- here I write my blogs, edit files and scripts.
+- **Text editor**: [neovim](https://neovim.io/) - here I write my blogs, edit files and scripts.
 - **Password manager**: [KeepassXC](https://keepassxc.org) - simple, offline, all I need.
 - **File Manager**: [pcmanfm](https://wiki.archlinux.org/title/PCManFM) - it just works.
 - **RSS Reader**: [newsboat](https://newsboat.org/) - minimal, terminal interface
@@ -65,11 +68,11 @@ I split this section between desktop (mostly Free Software and available on Linu
 
 </article>
 
-# Hardware
+## Hardware
 
 <article markdown=1>
 
-## Laptop
+### Laptop
 
 My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these specs:
 
@@ -82,21 +85,24 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 - Display: 15" 1920×1080
 ```
 
-## Gaming
+### Gaming
 
-- Nintendo Switch OLED (Tears of the Kingdom Edition)
-    - I use a NitroDeck for comfy handheld gameplay.
-- Anbernic RG35XX SP (Silver color, runing MuOS)
-- PlayStation Portable (Black, reshelled by me, modded with ARK-4)
-- Miyoo Mini Plus (Transparent Black, running OnionOS)
+- **Nintendo Switch OLED** (Tears of the Kingdom Edition): The first ever console I've purchased myself.
+    - **8BitDo Ultimate 2C**: controller with 2.4 Ghz and Bluetooth, no stick drift and great feel.
+    - **VoltEdge CX-60**: A basic controller, no fancy sticks or anything, just cheap and functional.
+    - **NitroDeck**: unibody controller that decks on the Switch, with better ergonomics.
+    - **Linyuvo KS42**: joycon replacements with better ergonomics, dpad is bad though, but good otherwise.
+- **Anbernic RG35XX SP** (Silver color, runing MuOS): My preferred handheld for retro gaming.
+- **PlayStation Portable** (Black, reshelled by me, modded with ARK-4): My favorite handheld, I've owned it for 14 years.
+- **Miyoo Mini Plus** (Transparent Black, running OnionOS): Another great retro handheld, borrowed by a sibling atm.
 
-## Other
+### Other
 
 - **E-reader**: Kobo Clara 2E
 - **Music Player**: Innioasis Y1
 - **Pen**: Pilot Metropolitan
 
-## Peripherals
+### Peripherals
 
 - **Mouse**: Logitech M-705
 - **Phone**: Nothing Phone 3(a)
@@ -107,7 +113,7 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 - ~~Earphones: Sony WF-C500~~
 </article>
 
-# Unused but good
+## Unused but good
 
 I decided to make this section to mention software that I no longer use but might work for you.
 - [Void Linux](https://voidlinux.org/): A unique distro that is not a fork, its super light, fast and customizable.
@@ -136,7 +142,9 @@ I decided to make this section to mention software that I no longer use but migh
 - [GadgetBridge](https://gadgetbridge.org/): Connect with my smartwatch without giving away my data.
 - [FitoTrack](https://codeberg.org/jannis/FitoTrack): A fitness tracker, integrates with GadgetBridge.
 
-#### Changelog 2025-04
+## Changelog
+
+### 2025-04
 
 ```
 - Added GIMP, KISS Launcher, Signal, Joplin
@@ -147,7 +155,7 @@ I decided to make this section to mention software that I no longer use but migh
 - Renamed Self-hosted to Web Services
 ```
 
-#### Changelog 2025-11
+### 2025-11
 
 ```
 - Updated list format to show generic program names instead of just the program itself.
@@ -159,4 +167,10 @@ I decided to make this section to mention software that I no longer use but migh
 - Added Conversations, XMPP client
 - Added Element X, Matrix client
 - Added Email providers
+```
+### 2026-02
+```
+- A few formatting changes and typos fixed
+- Added gaming controllers and peripherals: 8BitDo, NitroDeck, also descriptions.
+- Added a table of contents
 ```
