@@ -10,6 +10,17 @@ updated: 2025-12-13 09:55:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115709834781909364
+mentions:
+  - author: Bobby Hiltz
+    title: "Credit Feed #6: The Gunner Light"
+    url: https://bobbyhiltz.com/posts/2026/01/credit-feed-6/index.html
+  - author: Noisy Deadlines
+    url: https://noisydeadlines.net/week-notes-dec-03-to-dec-15-2025
+    title: "Week Notes – Dec 03 to Dec 15 2025"
+  - author: Sotolf
+    url: https://sotolf.codeberg.page/posts/this-week-2025-50/
+    title: "This Week 2025 50"
+
 ---
 
 The title is enough explanation, what game would I bring with me if I had to stay in a deserted island? 
