@@ -11,130 +11,178 @@ layout: default
 
 You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!
 
-{% comment %}
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Started</th>
-      <th>Finished</th>
-    </tr>
-  </thead>
-  <tbody>
-{% for item in site.data.books %}
-    <tr>
-      <td><i>{{ item.title }}</i> by {{ item.author }}</td>
-      <td>{{ item.start }}</td>
-      {% if item.end == "In progress" %}
-      <label for="file">Downloading progress:</label>
-      <progress id="file" value="8" max="100">8%</progress>
-      {% else %}
-      <td>{{ item.end }}</td>
-      {% endif %}
-    </tr>
-{% endfor %}
-  </tbody>
-</table>
-{% endcomment %}
+{% comment %} <table> <thead> <tr> <th>Title</th> <th>Started</th> <th>Finished</th> </tr> </thead> <tbody> {% for item in site.data.books %} <tr> <td><i>{{ item.title }}</i> by {{ item.author }}</td> <td>{{ item.start }}</td> {% if item.end == "In progress" %} <label for="file">Downloading progress:</label> <progress id="file" value="8" max="100">8%</progress> {% else %} <td>{{ item.end }}</td> {% endif %} </tr> {% endfor %} </tbody> </table> {% endcomment %}
 
-<style>
-  .responsive-grid {
-    display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
-    justify-content: start;
-    margin-bottom: 1.5rem;
-  }
+<style > 
+.responsive-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
+}
 
-  .book-cover-container {
-    background-color: var(--code-bg);
-    border: solid 2px var(--code);
-    max-width: 50%;
-    /*border-radius: 12px;*/
-    display: flex;
-    flex: 1 1 25%;
-    flex-direction: row;
-  }
+.media-container{
+  border: none;
+  padding: 0;
+  flex: 1 1 15%;
+  flex-direction: row;
+}
+.media-summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: inherit;
+  gap: 0.8rem;
+}
 
-  .book-cover {
-    background-size: cover;
-    background-position: center;
-    /*border-radius: 12px;*/
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-    height: 220px;
-    min-width: 130px;
-  }
-  .book-cover-img {
-    background-size: cover;
-    background-position: center;
-    /*border-radius: 12px;*/
-    overflow: hidden;
-    position: relative;
-    text-align: center;
-    height: 220px;
-    width: 110px;
-    min-width: 130px;
-  }
+.media-art{
+  background-size: cover;
+  background-position: center;
+  /*border-radius: 12px;*/
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  height: 220px;
+  min-width: 130px;
+}
+.media-art img {
+  background-size: cover;
+  background-position: center;
+  /*border-radius: 12px;*/
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  height: 220px;
+  width: 110px;
+  min-width: 130px;
+}
+
+.book-content {
+  display: flex;
+  flex-grow: 1;
+  padding: 0 0.8rem;
+  align-items: center;
+  word-break: break-word;
+  text-align: center;
+  justify-content: center;
+}
+
+.title {
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.artist {
+  font-size: small;
+}
+
+.dates {
+  font-size: small;
+  white-space: pre-line;
+  margin: 0;
+  overflow: visible;
+}
+.info {
+  display: grid;
+  line-height: 1.5;
+}
+
+details[open] summary, details summary {
+  list-style: none;
+  font-weight: inherit;
+  margin-bottom: 0;
+}
+
+.book-summary {
+text-align: left;
+}
+
+details {
+  transition: none;
+  background: none;
+  margin: 0;
+}
+details[open] {
+  display: flex;
+  flex: 1 1 100%;
+  max-width: 100%;
+}
+
+details[open] > .media-art {
+  height: 100%;
+  min-width: 130px;
+}
+details[open] > div img {
+  height: 100%;
+  min-width: 130px;
+}
+details[open] div.book-content{
+  display: none;
+}
+
+details[open] > .media-summary{
+  display: flex;
+  flex-direction: row;
+  background-color: inherit;
+  border: none;
+}
+details[open] summary div.book-content {
+  justify-content: left;
+  text-align: left;
+}
+details[open] > .info {
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+  text-align: center;
+  border: solid 2px var(--accent);
+  margin-left: 1rem;
+  background: var(--code-bg)
+  
+}
+@media screen and (max-width: 600px) {
+    details[open] {
+      display: flex;
+      flex: 1 1 100%;
+      max-width: 100%;
+      align-items: center;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    details[open] > .info {
+      border: solid 2px var(--accent);
+      margin: 0;
+      background: var(--code-bg)
+      
+    }
 
   .book-content {
-    display: flex;
     flex-grow: 1;
-    padding: 0 .8rem;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-  }
-
-  .title {
-    font-weight: bold;
-    line-height: 1.2;
-  }
-
-  .artist {
-    font-size: small;
-  }
-
-  .dates {
-    font-size: small;
-    white-space: pre-line;
-    margin: 0;
-    overflow: visible;
-  }
-   .info {
-    line-height: 1.5;
-   }
-
-  @media screen and (max-width: 600px) {
-    .book-cover-container {
-        flex-direction: row;
-        max-width: 100%;
-    }
-
-    .book-content {
-    flex-grow: 1;
-    min-height: 0px;
+    min-height: 0;
     align-items: right;
-    text-align: right;
-    justify-content: right;
-    }
-    .dates {
-    display: inline-block;
-    }
   }
+  .dates {
+    display: inline-block;
+  }
+}
 
-progress::-moz-progress-bar { background: var(--border); }
-progress::-webkit-progress-value { background: var(--border); }
+progress::-moz-progress-bar {
+  background: var(--border);
+}
+progress::-webkit-progress-value {
+  background: var(--border);
+}
 progress {
-    height: 12px;
-    width: 100%;
-    border: solid 2px var(--border);
-    accent-color: var(--border);
-    background-color: var(--bg);
-    margin-bottom: 0;
+  height: 12px;
+  width: 100%;
+  border: solid 2px var(--border);
+  accent-color: var(--border);
+  background-color: var(--bg);
+  margin-bottom: 0;
 }
 </style>
+
 
 {% if site.data.books %}
   {% assign books_by_year = site.data.books | sort: 'end' | group_by_exp: "item", "item.end | date: '%Y'" %}
@@ -142,24 +190,38 @@ progress {
   <h3>{{ year_group.name }}</h3>
   <div class="responsive-grid">
   {% for item in year_group.items reversed %}
-  <div class="book-cover-container">
-  <div class="book-cover">
-  <img alt="{{ item.title }}" class="book-cover-img" src="{{ item.cover }}">
-  </div>
-  <div class="book-content">
+  <details class="media-container">
+    <summary class="media-summary">
+    <div class="media-art"><img alt="{{ item.title }}" src="{{ item.cover }}"></div>
+    <div class="book-content">
+        <div class="info">
+            <span class="title"><i>{{ item.title }}</i></span>
+            <span class="artist">by <b>{{ item.author }}</b></span>
+            <span class="dates">Start: {{ item.start }}</span>
+            {% if item.progress < 100 %}
+            <p class="dates"><label for="file">Progress: {{ item.progress }}%</label><progress id="file" value="{{ item.progress }}" max="100"/></p>
+            {% else %}
+            <span class="dates">Finish: {{ item.end }}</span>
+        {% endif %}
+      </div>
+      </div>
+    </summary>
       <div class="info">
-      <div class="title"><i>{{ item.title }}</i></div>
-      <div class="artist">by <b>{{ item.author }}</b></div>
-      <div class="dates">Start: {{ item.start }}</div>
-      {% if item.progress < 100 %}
-      <p class="dates"><label for="file">Progress: {{ item.progress }}%</label><progress id="file" value="{{ item.progress }}" max="100"/></p>
-      {% else %}
-      <div class="dates">Finish: {{ item.end }}</div>
-      {% endif %}
+            <div class="book-metadata">
+                <span class="title"><i>{{ item.title }}</i></span>
+                <span class="artist">by <b>{{ item.author }}</b></span>
+                <br>
+                <span class="dates">Start: {{ item.start }}</span>
+                {% if item.progress < 100 %}
+                <p class="dates"><label for="file">Progress: {{ item.progress }}%</label><progress id="file" value="{{ item.progress }}" max="100"/></p>
+                {% else %}
+                <span class="dates">Finish: {{ item.end }}</span>
+                {% endif %}
+            </div>
+            <p class="book-summary">{{ item.summary }}</p>
       </div>
-      </div>
-      </div>
-          {% endfor %}
+  </details>
+  {% endfor %}
   </div>
   {% endfor %}
 {% endif %}
