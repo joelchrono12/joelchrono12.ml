@@ -1,14 +1,14 @@
 ---
 title: Setting up phones is a nightmare
 header: Setting up phones is a nightmare
-description: Just shared 
+description: Some thoughts about my experience getting my parents' new devices up and running, and how bad it keeps getting today.
 tags: tech thoughts rant
 permalink: /blog/setting-up-phones-is-a-nightmare/
 layout: post
 date: 2026-02-18 09:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116092279113669910
 ---
 
 As I shared on previous posts, my dad and mom acquired new devices, the same model, but with quite different uses!
