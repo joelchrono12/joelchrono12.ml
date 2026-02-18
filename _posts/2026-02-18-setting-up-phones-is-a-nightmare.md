@@ -6,6 +6,7 @@ tags: tech thoughts rant
 permalink: /blog/setting-up-phones-is-a-nightmare/
 layout: post
 date: 2026-02-18 09:00:00 -0600
+updated: 2026-02-18 12:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116092279113669910
@@ -25,7 +26,7 @@ At the very least, the backup tools by OEM's have caught up quite well, if at th
 
 I must admit I didn't do that much this time around. Just the bare minimum list of the things that I had to change.
 
-- **Data migration** - I did this with the Android built-in metho78d, transferring data from device to device. I hate to admit I also used Samsung's Smart Switch to migrate even more data, like all folders and files, photos and the like. This was not ideal, but I was lazy.
+- **Data migration** - I did this with the Android built-in method, transferring data from device to device. I hate to admit I also used Samsung's Smart Switch to migrate even more data, like all folders and files, photos and the like. This was not ideal, but I was lazy.
 
 - **Log-in to Google** - Rather unavoidable for a normal person who uses a phone, unless I offered myself for tech support even more setting up Droid-ify or something like that, but no.
 
