@@ -20,7 +20,9 @@ mentions:
   - author: Sotolf
     url: https://sotolf.codeberg.page/posts/this-week-2025-50/
     title: "This Week 2025 50"
-
+  - author: Naty S
+    url: https://burgeonlab.com/weeknotes/2025/w48
+    title: "Weeknote 2025-W48: CLI usage & Hong Kong Tai Po Fire"
 ---
 
 The title is enough explanation, what game would I bring with me if I had to stay in a deserted island? 
