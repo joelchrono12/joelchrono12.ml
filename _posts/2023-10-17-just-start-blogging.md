@@ -14,6 +14,9 @@ mentions:
   - url: https://sheepdev.xyz/blog/your-own-corner-of-the-internet
     author: Jakov
     title: Your Own Corner of the Internet
+  - url: https://www.markpitblado.me/blog/two-years-of-blogging/
+    author: Mark Pitblado
+    title: Two years of blogging
   
 ---
 

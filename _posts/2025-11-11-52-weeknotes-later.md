@@ -9,6 +9,10 @@ date: 2025-11-11 07:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115531240548902980
+mentions:
+    - url: https://winther.sysctl.dk/q4-2025-notes/
+      title: Q4 2025 notes
+      author: winther blog
 ---
 
 It's been [a whole year](/blog/2024-w45-weeknotes) now since I decided to start writing my own weeknotes, a lot of stuff has happened since then, and a portion of that has been documented week after week on this website.

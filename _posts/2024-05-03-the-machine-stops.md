@@ -9,6 +9,10 @@ date: 2024-05-03 08:00:14 -0600
 host: fosstodon.org
 username: joel
 com_id: 112377761654409336
+mentions:
+  - url: https://82mhz.net/posts/2024/05/the-books-i-read-in-april-2024/
+    title: The books I read in April 2024
+    author: Andreas
 ---
 
 After reading _I Have no Mouth and I Must Scream_ a year or so ago, I gained quite a bit of appreciation for short stories. They are great! I get a tiny package that can contain quite a bit of good ideas and story-telling, while not requiring a lot of time to be read.

@@ -9,6 +9,10 @@ date: 2024-11-25 19:56:57 -0600
 host: fosstodon.org
 username: joel
 com_id: 113547086814401470
+mentions:
+  - author: Clayton Errington
+    url: https://claytonerrington.com/blog/when-texting-destroyed-communication/
+    title: "When texting destroyed communication"
 ---
 
 {% include post_embed.html

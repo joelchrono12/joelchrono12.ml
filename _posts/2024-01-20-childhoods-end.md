@@ -10,6 +10,10 @@ date: 2024-01-20 21:00:27 -0600
 host: fosstodon.org
 username: joel
 com_id: 111792011004521317
+mentions:
+  - url: https://82mhz.net/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/
+    author: Andreas
+    title: The books I read so far this year (January through March 2024) 
 ---
 
 Childhood's End, by Arthur C. Clarke, is a book about the fate of humanity after they make contact with a benevolent alien race, that helps them reach a Golden Age of progress and peace. Rating: ⭐⭐⭐⭐⭐
