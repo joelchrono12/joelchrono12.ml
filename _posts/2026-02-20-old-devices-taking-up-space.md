@@ -6,6 +6,7 @@ tags: tech ramble lifestyle hardware
 permalink: /blog/devices-collecting-dust/
 layout: post
 date: 2026-02-20 20:57:12 -0600
+date: 2026-02-21 20:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116111000984467406
@@ -40,6 +41,8 @@ Honestly, this is pretty much a collection at this point, even though I don't di
 This makes me think about all the devices [I still use](/uses/), what is going to happen to them in 3 or 4 years, or 10, or 20? I still live with my parents, for example, how many of my things will they get rid of without me knowing, how much of it will I carry with me whenever I leave the house and go my own way? And when I move? When I have to make space for a bigger family of my own?
 
 Some of these things I may be attached to today and forget about in a year, some I don't care about right now may be around for a decade, but one thing is for sure: [my PSP still lives](/blog/it's-psp-season/), and I still can't find my [Hollow Knight map](/blog/2025-w38/), what a tragedy...
+
+In any case, I would love to know if you also have old devices and peripherals taking up space in your houses too! It should be kind of fun to have a conversation about it.
 
 
 This is day 20 of [#100DaysToOffload](https://100daystooffload.com)
