@@ -6,6 +6,7 @@ tags: game review
 permalink: /blog/resident-evil-2/
 layout: post
 date: 2026-02-27 21:40:00 -0600
+updated: 2026-02-28 10:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116146196121205808
@@ -62,7 +63,7 @@ There are bosses, but they just sponges that require you to shoot them with your
 
 The game is also **very replayable**, thanks to the different scenarios you can play, and the unlockable modes it features. The game featurs the [zapping system](https://residentevil.fandom.com/wiki/Zapping). A fantastic mechanic that let's you perform actions that **affect the other character's scenario**, for example, you can take a weapon as Leon which will become unavailable on Claire's side.
 
-Each scenario changes the route, features very different puzzles and also exclusive bosses and characters you meet on them, it's really amazing stuff that expands the game while reusing some assets.
+Each scenario changes the route, features very different puzzles and also exclusive bosses and characters you meet on them, it's really amazing stuff that expands the game while cleverly reusing some assets.
 
 In my case, I only went through the Leon A and Claire B scenario, but the story plays out differently if you do Claire first. I will probably replay this game at some point starting with her, just because it is that fun.
 
@@ -74,13 +75,13 @@ The amount of work that went into these games is just incredible. As stated befo
 
 It is important to note, that **these graphics were made for the PS1**, at a 240p resolution, and they don't look nearly as well as they would on a proper CRT display, like was common at the time, and that often blended things together, smoothing out the pixels beautifully. The images shown in this review are edited with some blur and a filter to mimmick the effect.
 
-There are some great fan projects out there that upscale those backgrounds for the bigger displays, such as [RESHDP](https://www.reshdp.com/re2/), but I think they all look way too smooth and shiny compared to the gritty look of the original art. I feel like **using a CRT filter is the best way to play these** if you don't have a proper display.
+There are some great fan projects out there that upscale those backgrounds for the bigger screens, such as [RESHDP](https://www.reshdp.com/re2/), but I think they all look way too smooth and shiny compared to the gritty look of the original art. I feel like **using a CRT filter is the best way to play these** if you don't have a proper display.
 
-I played the game on my [Anbernic RG35XX SP](/blog/the-gba-experience-i-wanted/), which features a 480p 3.5 inch display, and given the display size and pixel density, I had a fantastic time enjoying the game on the go without complains.
+I played the game on my [Anbernic RG35XX SP](/blog/the-gba-experience-i-wanted/), which features a 480p 3.5 inch display, and given the size and pixel count, I enjoyed the game on the go without complains.
 
-Besides the backgrounds, the **character models** of the playable characters and enemies alike feature a ton of detail, we see faces, although not many expressions, and the model textures change as the story continues. 
+Besides the backgrounds, the **character models** of feature a ton of detail, we see faces, although not many expressions, and the textures change as the story continues if the character gets injured. There's also some outfits you can unlock.
 
-The **music** of course is also amazing, I played most of the game wearing earphones, and the atmosphere was awesome and very terrifying. There are many tracks in the game that fit very well, like the beautiful yet melancholic melody that plays when [reaching a safe room](https://www.youtube.com/watch?v=53aDI5K49F4), or a character theme playing when you [meet them ](https://www.youtube.com/watch?v=srcXOYjKR6s). Other themes build up the tension or get you hyped up during a boss fight or action sequences, and everything just works.
+The **music** is also amazing, I played most of the game wearing earphones, and the atmosphere was awesome and very terrifying. There are many tracks in the game that fit very well, like the beautiful yet melancholic melody that plays when [reaching a safe room](https://www.youtube.com/watch?v=53aDI5K49F4), or a character theme playing when you [meet them ](https://www.youtube.com/watch?v=srcXOYjKR6s). Other themes build up the tension or get you hyped up during a boss fight or action sequences, and everything just works.
 
 Audio is actually a core part of the gameplay, as it often signals enemies that can't be seen on screen due to the camera angle, so staying alert is very helpful to avoid getting scared by a zombie popping up around the corner. Gunshots, steps sounds varying due to the floor surface and the like are very well done, so much detail has gone into this, it's unreal for the time.
 
@@ -95,10 +96,13 @@ This game also features **voice acting** for everything, there's actually no sub
 - The background art and character models look amazing.
 - The map design for the police station is very good.
 - Cinematic camera angles and sounds that keep you on your toes.
-- Scattered in files and documents that is intersesting to read and find clues.
+- Lore scattered in files and documents that is intersesting to read and find clues.
 - More than enough resources to complete the game if you manage items well.
+- Lovable characters and voice acting that is charming, if dated.
+- The zapping system and events where decisions affect your next playthrough.
 - Short playtime and lots of replayability.
-- Great side characters
+- Lots of extra weapons and different modes to unlock and try out.
+- Great side characters that we can control in some sections.
 
 ### The bad
 
