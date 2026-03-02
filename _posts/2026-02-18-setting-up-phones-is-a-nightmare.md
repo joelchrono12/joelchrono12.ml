@@ -6,7 +6,7 @@ tags: tech thoughts rant
 permalink: /blog/setting-up-phones-is-a-nightmare/
 layout: post
 date: 2026-02-18 09:00:00 -0600
-updated: 2026-02-18 12:00:00 -0600
+updated: 2026-03-01 21:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116092279113669910
@@ -14,7 +14,14 @@ mentions:
   - title: "Setting up new phones in 2026"
     author: Rubenerd
     url: https://rubenerd.com/setting-up-new-phones
+  - title: "Setting up phones is a nightmare"
+    author: Hacker News
+    url: https://news.ycombinator.com/item?id=47170958
 ---
+
+_**Update**: A lot of Hacker News visitors this time around, if you feel like I bought my parents the wrong phones, feel free to [donate](https://ko-fi.com/joelchrono/) to me so I get them better devices with GrapheneOS (or just iPhones I guess?) next time! It would be fun to write about their experience using them... no promises though!_
+
+***
 
 As I shared on previous posts, my dad and mom acquired new devices, the same model, but with quite different uses!
 
