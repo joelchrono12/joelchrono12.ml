@@ -6,7 +6,7 @@ tags: tech thoughts rant
 permalink: /blog/setting-up-phones-is-a-nightmare/
 layout: post
 date: 2026-02-18 09:00:00 -0600
-updated: 2026-03-01 21:10:00 -0600
+updated: 2026-03-02 06:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116092279113669910
@@ -51,7 +51,7 @@ I must admit I didn't do that much this time around. Just the bare minimum list 
 
 - **Default browser** - *Samsung Internet* and *Chrome* went poof, and I decided to switch both phones to [Vivaldi Browser](https://vivaldi.com), there was a time where [Firefox](https://firefox.com) would have been it, *but not today.*
 
-- **Other app replacements** - There were not many extra apps I installed on their devices---you are always free to check [what's on my phone](/blog/whats-on-my-phone-2025) though---other than *Vivaldi Browser*, *Fossify Gallery* and a password manager like *Bitwarden* or *KeepassXC*. I could install some more things, but, meh.
+- **Other app replacements** - There were not many extra apps I installed on their devices---you are always free to check [what's on my phone](/blog/whats-on-my-phone-summer-2025/) though---other than *Vivaldi Browser*, *Fossify Gallery* and a password manager like *Bitwarden* or *KeepassXC*. I could install some more things, but, meh.
 
 All in all, the new phones are pretty good hardware-wise, and I still need to do a couple of things like installing their banking apps or maybe a few logins that I missed.
 
