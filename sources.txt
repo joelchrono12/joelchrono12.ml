@@ -3,14 +3,13 @@ https://analogoffice.net/feed.xml
 https://anhvn.com/feed.xml
 https://bell.bz/feed.xml
 https://benjaminhollon.com/musings/feed/
-https://blog.ohheybrian.com/feeds/all.atom.xml
+https://ohheybrian.com/feed
 https://bobbyhiltz.com/atom.xml
 https://brainbaking.com/index.xml
 https://btxx.org/index.rss
 https://chriswiegman.com/feed
 https://claytonerrington.com/feed.xml
 https://d.moonfire.us/atom.xml
-https://heavyconsulting.net/blog/feed.atom
 https://hunden.linuxkompis.se/feed.xml
 https://ilyess.cc/index.xml
 https://kevquirk.com/posts-feed

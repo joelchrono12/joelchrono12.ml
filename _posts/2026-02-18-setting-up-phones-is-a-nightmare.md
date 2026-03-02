@@ -19,7 +19,9 @@ mentions:
     url: https://news.ycombinator.com/item?id=47170958
 ---
 
-_**Update**: A lot of Hacker News visitors this time around, if you feel like I bought my parents the wrong phones, feel free to [donate](https://ko-fi.com/joelchrono/) to me so I get them better devices with GrapheneOS (or just iPhones I guess?) next time! It would be fun to write about their experience using them... no promises though!_
+_**Update**: A lot of Hacker News visitors this time around, if you feel like I bought my parents the wrong phones, feel free to [donate](https://ko-fi.com/joelchrono/), so I get them better devices with GrapheneOS (or just iPhones I guess?) next time! It would be fun to write about their experience using them... no promises though!_
+
+*This is just a joke, but I would appreciate the support, feel free to look around the rest of my website :3*
 
 ***
 
