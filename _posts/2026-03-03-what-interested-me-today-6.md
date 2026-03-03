@@ -8,7 +8,7 @@ layout: post
 date: 2026-03-03 08:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116165865493163496
 ---
 
 I already share links every time I do week notes, but I still read quite a bit of things on my FreshRSS instance and thought I'd share some more thoughts on articles and things I found interesting today---maybe yesterday.
@@ -81,4 +81,4 @@ Here I am being grumpy about Apple devices taking over tech enthusiasts while at
 
 This was fun! I just get to banter and talk whatever I want and maybe some of it clicks with you and maybe some of it is rather useless, but I was feeling like making a random stream of thoughts kind of post, and here it is! Enjoy.
 
-This is day 24 of [#100DaysToOffllad](https://100daystooffload.com)
+This is day 26 of [#100DaysToOffllad](https://100daystooffload.com)
