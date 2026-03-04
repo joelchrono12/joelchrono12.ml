@@ -2,13 +2,13 @@
 title: Persepolis Rising
 header: Persepolis Rising
 description: My review for the seventh book of The Expanse, the beginning of a new trilogy, a new enemy approaches, and old enemies become friends...
-tags: weeknotes
+tags: book review
 permalink: /blog/persepolis-rising/
 layout: post
 date: 2026-03-04 16:55:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116173393745649151
 ---
 
 I mentioned on my last Weeknotes that I wouldn finish this next week, but against all odds, I ended up finishing the book on the very same day!
