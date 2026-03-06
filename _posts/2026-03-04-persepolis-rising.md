@@ -15,7 +15,7 @@ I mentioned on my last Weeknotes that I wouldn finish this next week, but agains
 
 *Persepolis Rising* is the seventh book of *The Expanse* series by James S.A. Corey. And it continues the journey in a rather unexpected way---*which got spoiled to me many months ago anyway and it's not that big of a deal according to [Amin](https://benjaminhollon.com) so whatever.*
 
-We are getting closer to the end of the series, only two more main books to go---and maybe a lot of side stories I'll check out at some point--- so **spoilers about previous books will be present**. You should just give the series a go, I can say it has been absolutely worth it.
+We are getting closer to the end of the series, only two more main books to go---and maybe a lot of side stories I'll check out at some point---so **spoilers about previous books will be present**. You should just give the series a go, I can say it has been absolutely worth it.
 
 ***
 
@@ -35,7 +35,7 @@ The stakes on an interplanetary level are huge, and once again, victory is not c
 
 The book is written in the same style as ever, keeping me on my toes chapter after chapter, at least during the second half of it, as it takes a bit to pick up.
 
-I must say I found some of the dialogue to feel a little bit repetitive this time around. For example, I think there's like five or six variations of "this map of space is not true to scalejust to showcase how vast something is, or how small we really are, or something akin. There's also like three or four "this object is going away but it's actually us moving", because of the perspective at zero gravity and the darkness of space (especially in the slow zone). It is nothing bad at all, I think I just noticed it and couldn't stop doing so later on.
+I must say I found some of the dialogue to feel a little bit repetitive this time around. For example, I think there's like five or six variations of "this map of space is not true to scale" just to showcase how vast something is, or how small we really are, or something akin. There's also like three or four "this object is going away but it's actually us moving", because of the perspective at zero gravity and the darkness of space (especially in the slow zone). It is nothing bad at all, I think I just noticed it and couldn't stop doing so later on.
 
 The point of character of the villain is probably the weakest bit. Don't get me wrong, it is well written, but every single time I just could not help but chuckle and think "how is this guy believing half the things he says?", which I guess is the point. They are space fascists after all, and even if the ideas are ridiculous, they are also terrifying.
 
