@@ -6,7 +6,7 @@ tags: productivity response
 permalink: /blog/i-made-a-one-page-notebook/
 layout: post
 date: 2026-03-07 15:51:03 -0600
-updated: 2026-03-07 21:30:00 -0600
+updated: 2026-03-07 21:55:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116190416757973763
@@ -46,11 +46,26 @@ This is how it looks when it's completely folded up. it's super compact and fits
 
 {% include img.html image='/assets/img/blogs/2026-03-07-cover-of-my-one-page-notebook.png' caption='My one-page notebook closed and in my hand' %}
 
+
 And here is how it looks once unfolded and flat, as I mentioned, part of it is upside down, completely fine when folded, although I Ellane reminds in her article that the direction doesn't matter at all anyway, especially on the original concept where it's just the folded sheet without any cuts.
 
-{% include img.html image='/assets/img/blogs/2026-03-07-my-complete-one-page-notebook.png' caption='My complete one-page notebook' %}
 
-As most of it is on cursive and a part of it is upside down. It's probably better to download the image and rotate it on your image viewer of choice. Of course, here's a text version of the contents if you want to just read what it says!
+<style>
+#t{display:none} 
+#t:checked + label img{transform:rotate(180deg)} 
+label img{cursor:pointer;transition:transform .4s} 
+</style>
+<figure>
+<input id="t" type="checkbox">
+<label for="t">
+  <img src="/assets/img/blogs/2026-03-07-my-complete-one-page-notebook.png">
+</label>
+  <figcaption>My complete one-page notebook</figcaption>
+</figure>
+
+As most of it is on cursive and a part of it is upside down, ~~it's probably better to download the image and rotate it on your image viewer of choice.~~ **EDIT: _you can click/tap the image to rotate it!_**
+
+Of course, here's a text version of the contents if you want to just read what it says!
 
 
 <details markdown=1>
@@ -128,7 +143,7 @@ Feels much more fluid and I even forgot how some block letters are written, LOL
 
 </details>
 
-So, how do you feel about this kind of analogue productivity stuff? I keep jumping on and off, but this one seemed rather fun to me, and I may make use of it on a more regular basis, I just need to not forget about it...
+So, how do you feel about this kind of analog productivity stuff? I keep jumping on and off, but this one seemed rather fun to me, and I may make use of it on a more regular basis, I just need to not forget about it...
 
 If you decide to make your own, I would love to see it as well! Any advice or ideas to implement for it are welcome too, but maybe keeping it simple is the point of it all...
 
