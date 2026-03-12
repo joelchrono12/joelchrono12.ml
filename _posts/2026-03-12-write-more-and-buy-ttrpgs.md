@@ -7,7 +7,7 @@ layout: post
 date: 2026-03-12 14:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116218020870949868
 ---
 
 My previous post ended with me mentioning how inspired I was feeling today, referring to my desire to make another post!
