@@ -8,7 +8,7 @@ layout: post
 date: 2026-03-12 09:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116216974463590584
 ---
 
 I just got off the bus to work, it always arrives early, giving me thirty minutes or so that I often use to play on my gaming handheld or read on my Kobo. Today however, I opened up my RSS reader and saw this prompt from [Syl's blog](https://syls.blog/this-moment-in-time/):
