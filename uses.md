@@ -89,6 +89,7 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 
 - **Nintendo Switch OLED** (Tears of the Kingdom Edition): The first ever console I've purchased myself.
     - **8BitDo Ultimate 2C**: controller with 2.4 Ghz and Bluetooth, no stick drift and great feel.
+    - **8BitDo Pro 2**: controller with Bluetooth, no stick drift and great feel, the buttons are even better than the other one.
     - **VoltEdge CX-60**: A basic controller, no fancy sticks or anything, just cheap and functional.
     - **NitroDeck**: unibody controller that decks on the Switch, with better ergonomics.
     - **Linyuvo KS42**: joycon replacements with better ergonomics, dpad is bad though, but good otherwise.
@@ -107,7 +108,7 @@ My computer is an Asus Notebook, especifically the VivoBook S15 S533E with these
 - **Mouse**: Logitech M-705
 - **Phone**: Nothing Phone 3(a)
 - **Earphones**: Nothing Ear (a)
-- **Microcomputer**: Raspberry Pi 4B 8GB
+- ~~**Microcomputer**: Raspberry Pi 4B 8GB~~
 - ~~Mouse: Logitech MX Anywhere 3~~
 - ~~Phone: Xiaomi Poco F4~~
 - ~~Earphones: Sony WF-C500~~

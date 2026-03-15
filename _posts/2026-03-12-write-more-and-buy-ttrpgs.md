@@ -3,6 +3,7 @@ title: The urge to write more (and buy TTRPGs)
 header: The urge to write more (and buy TTRPGs)
 description: I wanted to write about that feeling I get to write something, without having any idea of what, and I also bought another TTRPG btw 
 permalink: /blog/the-urge-to-write-more-and-buy-ttrpgs/
+tags: thoughts writing
 layout: post
 date: 2026-03-12 14:00:00 -0600
 host: fosstodon.org
