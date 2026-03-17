@@ -8,7 +8,7 @@ tags: reading
 date: 2026-03-17 16:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116246972310992286
 ---
 
 I saw [Alex Wolfe](https://alexwolfe.ca/im-a-science-fiction-nerd-and-this-is-my-genre-tag/) answering these questions and I thought I'd give them a go! I even wrote an early draft by hand before transferring them to digital for some final edits.
