@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Iosevka+Charon+Mono:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap');*/
 :root {
     /* Set sans-serif & mono fonts */
-    --sans-font: "Ubuntu","IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
-    --mono-font: "Ubuntu Mono","mononoki","IBM Plex Mono","Roboto Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;
+    /*--sans-font: "Ubuntu","IBM Plex Sans",Lato,Roboto,"Nimbus Sans L",Avenir,"Noto Sans", "Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;*/
+    --sans-font: "IBM Plex Mono", monospace;
+    /*--mono-font: "Ubuntu Mono","mononoki","IBM Plex Mono","Roboto Mono","Fira Code","Overpass Mono", Monaco,"Droid Sans Mono",monospace;*/
+    --mono-font: "IBM Plex Mono", monospace;
     /* Body font size. By default, effectively 18.4px, based on 16px as 'root em' */
     --base-fontsize: 1.15rem;
     /* Major third scale progression - see https://type-scale.com/ */
