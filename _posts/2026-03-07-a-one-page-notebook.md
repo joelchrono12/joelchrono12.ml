@@ -11,6 +11,10 @@ host: fosstodon.org
 username: joel
 com_id: 116190416757973763
 image: 'assets/img/blogs/2026-03-07-cover-of-my-one-page-notebook.webp'
+mentions:
+  - author: Amin Hollon
+    title: "Weeknotes: W10, 2026"
+    url: https://benjaminhollon.com/weeknotes/2026-W10/
 ---
 
 {% include post_embed.html

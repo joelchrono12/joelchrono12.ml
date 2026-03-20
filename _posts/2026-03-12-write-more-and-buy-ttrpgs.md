@@ -9,6 +9,10 @@ date: 2026-03-12 14:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116218020870949868
+mentions:
+  - url: https://lazybea.rs/re-the-urge-to-write-more/
+    author: Hyde Stevenson
+    title: "Re: The urge to write more"
 ---
 
 My previous post ended with me mentioning how inspired I was feeling today, referring to my desire to make another post!

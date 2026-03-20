@@ -10,6 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 116010343835076921
 image: "/assets/img/blogs/2026-02-03-land-of-eem.webp"
+mentions:
+  - url: https://doserver.top/blog/my-family-went-on-a-quest-and-my-first-time-GMing/
+    author: Daniel
+    title: "My family went on a Quest! (and my first time GMing)"
 ---
 
 For the past few months, my friend Dave has been working on his own TTRPG, documenting his misadventures on his [personal blog](https://lategamer.bearblog.dev/its-not-procrastination-its-a-side-quest).

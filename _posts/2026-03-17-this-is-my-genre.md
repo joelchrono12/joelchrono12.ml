@@ -9,6 +9,17 @@ date: 2026-03-17 16:30:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116246972310992286
+mentions:
+  - url: https://thomasrigby.com/posts/this-is-my-genre-fantasy/
+    author: Thomas Rigby
+    title: "This is My Genre: Fantasy"
+  - url: https://forkingmad.blog/this-is-my-genre-golden-age-detectives/ 
+    author: David
+    title: "This is my genre: Golden Age Detectives"
+  - url: https://syls.blog/this-is-my-genre-horror/
+    author: Syl
+    title: "This is My Genre (Horror!)"
+
 ---
 
 I saw [Alex Wolfe](https://alexwolfe.ca/im-a-science-fiction-nerd-and-this-is-my-genre-tag/) answering these questions and I thought I'd give them a go! I even wrote an early draft by hand before transferring them to digital for some final edits.
