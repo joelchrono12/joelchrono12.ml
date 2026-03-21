@@ -23,47 +23,6 @@ I'm really into music, this text will be overwritten by the latest song I listen
 </div>
 </div>
 </article>
-
-
-
-<article markdown="1">
-## On This Day (when this site was last built)
-
-{% assign today = site.time | date: "%m-%d" %}
-{% assign current_year = site.time | date: "%Y" %}
-
-<div class="flex-container">
-{% for post in site.posts %}
-{% assign post_date = post.date | date: "%m-%d" %}
-{% assign post_year = post.date | date: "%Y" %}
-{% if post_date == today and post_year != current_year %}
-<article>
-  <h3 class="post">
-  <a href="{{ post.url }}">{{ post.title }}</a>
-{% if post.tags contains "book" %}
-<a href="/tags/book">📖</a>
-{% endif %}
-{% if post.tags contains "response" %}
-<a href="/tags/response">💬</a>
-{% endif %}
-{% if post.tags contains "game" %}
-<a href="/tags/game">🕹</a>
-{% endif %}
-  </h3>
-  <div class="blog-description">{{ post.description | strip_html | strip_newlines }}</div>
-  <span class="post-date">
-    <time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>
-  </span>
-</article>
-{% endif %}
-{% endfor %}
-</div>
-
-</article>
-
-
-
-
 <article markdown="1">
 ## Latest blogs
 <div class="flex-container">
@@ -85,6 +44,40 @@ I'm really into music, this text will be overwritten by the latest song I listen
   <span class="post-date"><time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
 </article>
 {% endfor %} 
+</div>
+</article>
+
+<article markdown="1">
+## This week in other years
+
+{% assign current_week = site.time | date: "%V" %}
+{% assign current_week_year = site.time | date: "%G" %}
+
+<div class="flex-container">
+{% for post in site.posts %}
+  {% assign post_week = post.date | date: "%V" %}
+  {% assign post_week_year = post.date | date: "%G" %}
+
+  {% if post_week == current_week and post_week_year != current_week_year %}
+  <article>
+    <h3 class="post"><a href="{{ post.url }}">{{ post.title }}</a>
+{% if post.tags contains "book" %}
+<a href="/tags/book">📖</a>
+{% endif %}
+{% if post.tags contains "response" %}
+<a href="/tags/response">💬</a>
+{% endif %}
+{% if post.tags contains "game" %}
+<a href="/tags/game">🕹</a>
+{% endif %}
+</h3>
+    <div class="blog-description">{{ post.description | strip_html | strip_newlines }}</div>
+    <span class="post-date">
+      <time datetime="{{ post.date }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    </span>
+  </article>
+  {% endif %}
+{% endfor %}
 </div>
 </article>
 
