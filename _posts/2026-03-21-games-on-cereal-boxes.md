@@ -87,7 +87,7 @@ In any case, this game is as deep and fun to poke around with, letting you explo
 
 {% include img.html image='/assets/img/blogs/2026-03-21-my-first-amazing-history-explorer.png' caption='Each time period was a colorful map full of animations and stuff to click' %}
 
-[There are whole playthroughs on YouTube!](https://youtu.be/pvOnMPvklyA), such a trip down memory lane. The English dub is really amazing, the Spanish voice is super annoying, but I didn't mind it as a kid.
+[There are whole playthroughs on YouTube!](https://youtu.be/pvOnMPvklyA) they evoke *so much nostalgia*. The English dub is really good, the Spanish voice is kinda annoying, but I didn't mind much as a kid.
 
 ## Finishing thoughts
 
