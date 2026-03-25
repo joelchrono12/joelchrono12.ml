@@ -48,7 +48,7 @@ Maybe it's slow and tedious, maybe it takes more manual effort, maybe it's the "
 
 There are, maybe, valid reasons for it all. I am not really unfollowing those that use it, like some others have, but I can't get the feeling out of my head, that I am no longer reading a human sometimes, and that they are mostly excusing themselves, precisely because at least there's a feeling there, that it's wrong.
 
-Regardless of what you do, on this website, it's  just me, here and now. Me and my dumb takes and opinions, my rambles about nothing and my thoughts on things everything has mentioned before, but it doesn't really matter does it? Because I am the one writing. Helplessly human, helplessly unpolished, imperfect and wrong, but documenting it all because it's just fun for me.
+Regardless of what you do, on this website, it's  just me, here and now. Me and my dumb takes and opinions, my rambles about nothing and my thoughts on things everyone has mentioned before, but it doesn't really matter does it? Because I am the one writing. Helplessly human, helplessly unpolished, imperfect and wrong, but documenting it all because it's just fun for me.
 
 Like, look at this post, it's kind of ugly, it sounds like I'm bragging, and I hate that, I'm not doing anything special, it's just another blogpost out of the hundreds of blogposts I've done, out of the hundreds of millions of articles written by humans.
 
