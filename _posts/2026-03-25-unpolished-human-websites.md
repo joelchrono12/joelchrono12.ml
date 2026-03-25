@@ -8,7 +8,7 @@ layout: post
 date: 2026-03-25 08:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116290228887762432
 ---
 
 Every day I am more and more annoyed by the way some of the blogs I have followed for *years* have started to "get with the times" or "catch up" on using *those* "tools" to "improve" their blogging in one way or another.
