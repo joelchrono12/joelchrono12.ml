@@ -7,6 +7,7 @@ layout: default
 {% capture time_words %}
 {{count_words | divided_by: 5}}
 {% endcapture %}
+<script src="https://cdn.jsdelivr.net/gh/welpo/iine@main/iine.mini.js"></script>
 <aside class="blog-data">
 	<span>📆 <time class="dt-published" datetime="{{ page.date }}">{{ page.date | date_to_string }}</time></span>
 	{% if page.updated %}
@@ -24,7 +25,7 @@ layout: default
 </aside>
 <article class="e-content">
 {{ content }}
-<aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span><span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
+<aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span> <span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
 
 {% assign page_url = page.url | replace: '/$', '' %}
 {% assign page_url_slash = page_url | append: '/' %}
@@ -58,8 +59,6 @@ layout: default
 {% for mention in page.mentions %}
 <li><a href="{{ mention.url }}">{{ mention.title }}</a> by {{ mention.author }}</li>
 {% endfor%}
-
-
 </ul>
 </article>
 {% endif %}

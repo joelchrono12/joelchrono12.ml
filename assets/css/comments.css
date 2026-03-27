@@ -30,13 +30,26 @@ div.mastodon-username{
 .comment-options{
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  flex-wrap: wrap;
   gap: 1rem;
+  margin-bottom: 1rem;
 }
 
 
 .comment-options *{
   text-align: center;
-  width: 100%;
-  margin-bottom: 1rem;
+
+}
+
+.iine-button{
+	display: flex;
+	align-items: center;
+}
+
+.iine-button *{
+	display: flex;
+	margin: 0;
+	padding: 0;
+	justify-content: center;
+
 }
