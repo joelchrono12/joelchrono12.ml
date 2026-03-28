@@ -1,3 +1,24 @@
+async function getCurrentListen(username) {
+	const url = `https://api.listenbrainz.org/1/user/${username}/playing-now`;
+	const altUrl = `https://api.listenbrainz.org/1/user/${username}/listens?count=1`;
+	const container = document.getElementById('latest-listen');
+	try {
+		const response = await fetch(url);
+		const data = await response.json();
+		if (data.payload && data.payload.listens && data.payload.listens.length > 0) {
+			const listen = data.payload.listens[0];
+			const track = listen.track_metadata.track_name;
+			const artist = listen.track_metadata.artist_name;
+			container.innerHTML = `<b>Currently listening:</b></br>🎵 <i>${track}</i> by <i>${artist}</i>.`;
+		} else {
+			container.innerHTML = `<p>No recent listens found.</p>`;
+			getLatestListen("joel76");
+		}
+	} catch (error) {
+		console.error("Error fetching listen:", error);
+		container.innerHTML = `<p>Failed to load latest listen.</p>`;
+	}
+}
 async function getLatestListen(username) {
 	const url = `https://api.listenbrainz.org/1/user/${username}/listens?count=1`;
 	const container = document.getElementById('latest-listen');
@@ -22,4 +43,6 @@ async function getLatestListen(username) {
 		container.innerHTML = `<p>Failed to load latest listen.</p>`;
 	}
 }
-getLatestListen("joel76");
+getCurrentListen("joel76");
+
+
