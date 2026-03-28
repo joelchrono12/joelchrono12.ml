@@ -1,48 +1,39 @@
-async function getCurrentListen(username) {
-	const url = `https://api.listenbrainz.org/1/user/${username}/playing-now`;
-	const altUrl = `https://api.listenbrainz.org/1/user/${username}/listens?count=1`;
-	const container = document.getElementById('latest-listen');
+async function fetchListen(url) {
 	try {
 		const response = await fetch(url);
 		const data = await response.json();
-		if (data.payload && data.payload.listens && data.payload.listens.length > 0) {
-			const listen = data.payload.listens[0];
-			const track = listen.track_metadata.track_name;
-			const artist = listen.track_metadata.artist_name;
-			container.innerHTML = `<b>Currently listening:</b></br>🎵 <i>${track}</i> by <i>${artist}</i>.`;
-		} else {
-			container.innerHTML = `<p>No recent listens found.</p>`;
-			getLatestListen("joel76");
-		}
-	} catch (error) {
-		console.error("Error fetching listen:", error);
-		container.innerHTML = `<p>Failed to load latest listen.</p>`;
+		return data.payload.listens[0] || null;
+	}
+	catch (err){
+		console.error("Unable to fetch", err);
+		return null;
 	}
 }
-async function getLatestListen(username) {
-	const url = `https://api.listenbrainz.org/1/user/${username}/listens?count=1`;
+
+function printHtml(container, content){
+	container.innerHTML = content;
+}
+
+async function getListen(username) {
 	const container = document.getElementById('latest-listen');
-	try {
-		const response = await fetch(url);
-		const data = await response.json();
-		if (data.payload && data.payload.listens && data.payload.listens.length > 0) {
-			const listen = data.payload.listens[0];
-			const track = listen.track_metadata.track_name;
-			const artist = listen.track_metadata.artist_name;
-			const listenedAt = new Date(listen.listened_at * 1000); // Convert timestamp
-			const dateFormatted = listenedAt.toLocaleString();
-			container.innerHTML = `
-	  <b>Last listened track:</b></br>
-	  <i>${track}</i> by <i>${artist}</i>. <br>${dateFormatted}
-	`;
-		} else {
-			container.innerHTML = `<p>No recent listens found.</p>`;
-		}
-	} catch (error) {
-		console.error("Error fetching listen:", error);
-		container.innerHTML = `<p>Failed to load latest listen.</p>`;
+	const currentUrl = `https://api.listenbrainz.org/1/user/${username}/playing-now`;
+	const current = await fetchListen(currentUrl);
+	if (current) {
+		const track = current.track_metadata.track_name;
+		const artist = current.track_metadata.artist_name;
+		return printHtml(container, `<b>Currently listening:</b></br>🎵 <i>${track}</i> by <i>${artist}</i>.`);
 	}
+	const latestUrl = `https://api.listenbrainz.org/1/user/${username}/listens?count=1`;
+	const latest = await fetchListen(latestUrl);
+
+	if (latest) {
+		const track = latest.track_metadata.track_name;
+		const artist = latest.track_metadata.artist_name;
+		const listenedAt = new Date(latest.listened_at * 1000); // Convert timestamp
+		const dateFormatted = listenedAt.toLocaleString();
+		return printHtml(container, `<b>Last listened track:</b></br>🎶 <i>${track}</i> by <i>${artist}</i>. <br>${dateFormatted}`);
+	}
+	printHtml(container, `<b>No music found</b>`);
 }
-getCurrentListen("joel76");
 
-
+getListen('joel76');
