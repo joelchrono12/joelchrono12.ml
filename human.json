@@ -1,0 +1,20 @@
+---
+layout: none
+permalink: /human.json
+---
+{
+	"version": "0.1.1",
+	"url": "{{ site.url }}",
+	"vouches": [
+		{% for human in site.data.humans %}
+		{
+			"url": "{{ human.link }}",
+			"vouched_at": "2026-04-03"
+		},
+		{% endfor %}
+		{
+			"url": "https://tahimik.com/",
+			"vouched_at": "2026-04-03"
+		}
+	]
+}
