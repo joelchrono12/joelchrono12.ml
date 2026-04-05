@@ -31,5 +31,4 @@ https://blueberrylemonade.pika.page/posts_feed
 https://tahimik.com/journal.rss
 https://thomasrigby.com/feed.xml
 https://tk-web.top/index.xml
-https://ascia.tech/index.xml
 https://syls.blog/feed/?type=rss
