@@ -61,6 +61,7 @@ a:hover {
 
 
 .header-container{
+	border-radius: 0px;
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1rem;
@@ -76,6 +77,10 @@ body {
     line-height: var(--line-height);
     margin: 0;
     font-size: var(--base-fontsize);
+}
+
+body * {
+	border-radius: 12px;
 }
 
 p.description {
@@ -108,7 +113,7 @@ img.badge{
     image-rendering: crisp-edges;
     height: 31px;
     opacity: 1;
-    /*border-radius: 0px;*/
+    border-radius: 0px;
 }
 
 p > code {
@@ -354,10 +359,6 @@ article.post, .post{
     font-style: italic;
 }
 
-a.post{
-    padding: 0 1rem;
-}
-
 a.post .post-title {
     font-weight: bold;
     text-wrap: balance;
@@ -395,7 +396,10 @@ aside {
 
 main {
     display: block;
-    margin: 1rem ;
+    background-image: url(/assets/img/bg-pattern.svg);
+  background-repeat: repeat; /* Default behavior: tiles horizontally and vertically */
+  background-size: 300px 300px; /* Optional: controls the size of each tile */
+
     /*padding: 0 1rem;*/
     /*max-width: 60rem;*/
 }
@@ -407,6 +411,11 @@ main {
   margin: 0 auto;
   padding: 1rem;
   /*gap: 2rem;*/
+}
+
+article.main-container{
+  background-image: none;
+  background-color: var(--bg);
 }
 
 
@@ -490,7 +499,6 @@ img.logo {
 }
 
 footer {
-	margin-top: 5rem;
 	padding: 1rem 0;
 	text-align: center;
 	font-size: small;
@@ -509,6 +517,7 @@ footer {
 
 .breadcrumb {
   background: var(--accent-bg);
+  border-radius: 0px;
   padding: .3rem 3rem;
 }
 

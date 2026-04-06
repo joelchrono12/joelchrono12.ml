@@ -11,7 +11,8 @@
 		</div>
 		{% include breadcrumbs.html %}
 	</header>
-	<main class="h-entry main-container">
+	<main class="h-entry">
+		<article class="main-container">
 		<section class="content" id="content">
 			<h1 class="p-name">{{ page.header }}</h1>
 			<p class="description">{{ page.description }}</p>
@@ -24,6 +25,7 @@
 			{% include out.html %}
 			{% include badges_footer.html %}
 		</section>
+		</article>
 	</main>
 	<footer>
 		{% include footer.html %}
