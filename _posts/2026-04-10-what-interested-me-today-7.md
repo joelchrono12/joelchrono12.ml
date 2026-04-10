@@ -6,6 +6,7 @@ tags: rss fediverse podcasts software gaming
 permalink: /blog/what-interested-me-today-7/
 layout: post
 date: 2026-04-10 09:40:00 -0600
+updated: 2026-04-10 10:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116381205791884381
@@ -33,9 +34,9 @@ But [Adele](https://social.pollux.casa/@adele) recently created a minimal web cl
 
 ## Into The Aether's latest bonus episode!
 
-I you like the **Persona** games, you may be up to listening to a 5+ hours long deep dive into *Personal 4 Golden*, treat yourself and get into my favorite podcast of all time!
+I you like the **Persona** games, you may be up to listening to a 5+ hours long deep dive into [*Personal 4 Golden*](https://intothecast.transistor.fm/episodes/persona-4-golden-bonus-episode), treat yourself and get into my favorite podcast of all time!
 
-Personally, I'm skipping it until I play that series, more than happy to listen to their weekly episode, the latest of which also talks about the rumours around a remake of *The Legend of Zelda: Ocarina of Time* for the Nintendo Switch 2. This may make me buy that console at last, no doubt.
+Personally, I'm skipping it until I play that series, more than happy to listen to their weekly episode, the [latest](https://intothecast.transistor.fm/episodes/daruni-os-they-rock-feat-zelda-ocarina-of-time-fire-emblem-advance-wars-and-cairn) of which also talks about the rumours around a remake of *The Legend of Zelda: Ocarina of Time* for the Nintendo Switch 2. This may make me buy that console at last, no doubt.
 
 ## Linux user groups and updating my XTEINK X4
 
