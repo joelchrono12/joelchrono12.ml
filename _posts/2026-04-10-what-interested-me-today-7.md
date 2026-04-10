@@ -8,7 +8,7 @@ layout: post
 date: 2026-04-10 09:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116381205791884381
 ---
 
 I am currently working on my review for *Resident Evil*, but I need to take some pictures and finish it up a little more! So far I tend to separate everything into the basics, art, gameplay, story, music and stuff; but I ended up turning this post into more of a retrospective about survival horror as a whole and bringing up the Romero movies and talking about the FMVs and other things and, basically it's a work in progress and the kind of thing I could make into a video essay if I put more effort into it, so it's not ready.
@@ -19,7 +19,7 @@ For now, this is a quick post about **what interested me today!** I have been th
 
 - I have followed and enjoyed [Brandon's Journal](https://brandons-journal.com) for a while, but during a short hiatus where he took it down, I ended up removing it from my FreshRSS feed. I realized when he returned months ago, but I forgot to add him back, that mistake has been corrected. Here's a [short post](https://brandons-journal.com/post/just-write) to get a taste for his writing!
 
-- [Chris Smith's](https://chameth.com/) website was not on my radar at all, but I often like to check who links back to me and noticed that he mentioned me on his [monthly meanderings](https://chameth.com/monthly-meanderings-2026-03/), where he appreciated the way I link back to posts I reply to, etc. In any case, I really liked the design and the fact he has a section for all his [board games](https://chameth.com/boardgames/.
+- [Chris Smith's](https://chameth.com/) website was not on my radar at all, but I often like to check who links back to me and noticed that he mentioned me on his [monthly meanderings](https://chameth.com/monthly-meanderings-2026-03/), where he appreciated the way I link back to posts I reply to, etc. In any case, I really liked the design and the fact he has a section for all his [board games](https://chameth.com/boardgames/).
 
 - Last but not least! [marmar22](https://marmar22.tilde.team/) was a fun find. I can't recall where I found their site, I believe I was just looking for some ereader blogposts somewhere because I stumbled upon [this review](https://marmar22.tilde.team/blog/a-review-of-a-cheap-e-reader-because-i-bought-one.html) of some no brand ereader. The posts about [organising photos](https://marmar22.tilde.team/blog/organising-my-photos.html) felt kind of familiar as well.
 
