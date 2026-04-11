@@ -416,6 +416,9 @@ main {
 article.main-container{
   background-image: none;
   background-color: var(--bg);
+  box-shadow: 0px 0px 10px 20px var(--bg);
+  clip-path: inset(0px -100px 0px -100px);
+  border-radius: 0;
 }
 
 
