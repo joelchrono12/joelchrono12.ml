@@ -396,9 +396,9 @@ aside {
 
 main {
     display: block;
-    background-image: url(/assets/img/bg-pattern.svg);
+    background-image: url(/assets/img/bg-pattern-grid.svg);
   background-repeat: repeat; /* Default behavior: tiles horizontally and vertically */
-  background-size: 300px 300px; /* Optional: controls the size of each tile */
+  background-size: 400px 400px; /* Optional: controls the size of each tile */
 
     /*padding: 0 1rem;*/
     /*max-width: 60rem;*/
