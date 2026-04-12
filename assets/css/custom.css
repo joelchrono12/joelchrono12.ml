@@ -398,7 +398,8 @@ main {
     display: block;
     background-image: url(/assets/img/bg-pattern-grid.svg);
   background-repeat: repeat; /* Default behavior: tiles horizontally and vertically */
-  background-size: 400px 400px; /* Optional: controls the size of each tile */
+  background-size: 450px 450px; /* Optional: controls the size of each tile */
+  background-attachment: fixed;
 
     /*padding: 0 1rem;*/
     /*max-width: 60rem;*/
