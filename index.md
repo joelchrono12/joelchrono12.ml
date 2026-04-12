@@ -10,7 +10,7 @@ layout: default
 <p class="p-note">Hey! I'm <a href="{{ site.url }}" rel="me" class="u-url u-uid p-name">Joel</a> (a.k.a <code class="p-nickname">joelchrono</code>). A random guy from <span class="p-country-name">México</span> lindo y querido! I am a <span class="p-category">hobby collector</span>, fake fan of many things, <span class="p-category">foss enthusiast</span>, gamer, <span class="p-category">mechatronics engineer</span>, and of course, a <span class="p-category">blogger</span></p>
 
 <div class=bio>
-<img class="u-photo" src="/assets/img/pfp_og.png">
+<img class="u-photo" src="/assets/img/pfp_isometric.png">
 <div markdown=1>
 
 You are visiting my personal website. Here you can see some of my **thoughts** and **ramblings** about **tech**, **gaming** and **other hobbies**, my favorite of which is [origami](/origami). I hope you enjoy your visit!

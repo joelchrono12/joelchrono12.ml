@@ -8,7 +8,7 @@ layout: default
 <article markdown="1">
 ## 👤 About the author
 
-<img src="/assets/img/pfp2.png" alt="My profile pic" class="avatar"> 
+<img src="/assets/img/pfp-full.png" width="350px" alt="My profile pic" class="avatar"> 
 
 Hello! I am Joel, I am just a guy who likes tech, FOSS and many other things. I was born in **Mexico**, where I still live. I am a hobby collector, fake fan of many things, foss enthusiast, videogame enjoyer, and a mechatronics engineer, working as a system admin for some company somewhere.
 

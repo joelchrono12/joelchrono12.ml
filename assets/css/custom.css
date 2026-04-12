@@ -600,6 +600,11 @@ gap: 1rem;
   border-bottom-left-radius: 8px;
 }
 img.avatar{
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
+    image-rendering: crisp-edges;
 	    float: right;
 	    max-width: 40%;
 	    margin: 1rem;
