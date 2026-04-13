@@ -1,6 +1,6 @@
 ---
 title: Resident Evil 2 (1998)
-header: Resident Evil 2 (1988)
+header: Resident Evil 2 (1998)
 description: My review for this classic game of survival horror, where Leon Kennedy and Claire Redfield try to survive the zombies running rampant on Raccoon City, looking for safety in the Police Station, and being met with evil...
 tags: game review
 permalink: /blog/resident-evil-2/
