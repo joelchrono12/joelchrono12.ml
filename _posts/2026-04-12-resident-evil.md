@@ -1,30 +1,32 @@
 ---
 title: Resident Evil (1996)
 header: Resident Evil (1996)
-description: My review for the mother of the Survival Horror genre
+description: My review for the game that brought the Survival Horror genre to the spotlight, kickstarting one of gaming's most iconic franchises.
 tags: review game
 permalink: /blog/resident-evil/
 layout: post
 date: 2026-04-12 22:50:00 -0600
+updated: 2026-04-13 05:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116395706084146606
+image: 'assets/img/blogs/2026-04-12-re1-cover.webp'
 ---
 
 A game originally released in 1996, the first to ever use the term "survival horror" to refer to itself. This is was the entryway for a whole generation into a genre that has continued to be relevant to this day, thanks to the franchise's return to its roots, from RE7 to the remakes, and its latest title, Resident Evil Requiem.
 
 When I played [RE2](/blog/resident-evil-2/), I thought going to the original may be kind of a drag, that I would have more difficulty getting used to it, that it would be clumsier, unfair, and outdated.
 
-I heard everywhere that *Resident Evil* for the PS1 was not worth playing when the Remake for it---originally released on the Game Cube---exists. Most people said it was too archaic and not fun at all in comparison.
+I heard everywhere that *Resident Evil* for the PS1 was not worth playing when the Remake for it---originally released on the Game Cube---exists. Most people said it was too archaic and not as fun in comparison.
 
 That was not my experience at all.
 
 You should be aware though, that I'm someone who---thanks to the sequel---is completely on board with prerrendered backgrounds, fixed camera angles and tank controls. I completed RE2 and have never even touched RE4 or anything after it. So, giving this game a try for the first time, I have to say I had a great time, so, here's my review for it!
 
-{% include img.html image='/assets/img/blogs/2026-04-12-re1-cover.png' caption='Artwork from the game cover' %}
+{% include img.html image='/assets/img/blogs/2026-04-12-re1-cover.webp' caption='Artwork from the game cover' %}
 
 
-Everyone is aware of the Zombie-apocalypse trope by now, popularized in the late 60s by Romero's *Night of the Living Dead*---a fantastic film that holds up well even today---which became franchise that explored different facets of the idea.
+Everyone is aware of the Zombie-apocalypse trope by now, popularized in the late 60s by Romero's *Night of the Living Dead*---a fantastic film that holds up well even today---which became a franchise of its own, and explored different facets of the idea.
 
 Those films inspired and changed the landscape in the industry. The film took itself seriously, and it showed. Watching the original, during that [news report explaining the situation](https://youtu.be/aTPhSbn1yNM) with that monotonous news presenter voice so common at the time, the challenge the characters faced was made clear. When the story continued and that ending sequence happened, I could only watch as history was made in cinema.
 
@@ -32,7 +34,7 @@ However, not every horror movie gets to be *Night of the Living Dead*. Even the 
 
 My native language is Spanish, words like "camp" weren't really in my vocabulary for most of my youth. But once you learn what they mean, you just know it when you see it. 
 
-This game pretty much let's you live through an 80s horror movie, and it delivers. Although it's relevant due to its unique setting and memorable characters, it's the bad writing and the absolutely horrendous yet charming voice actingh what has made it a cutural icon, and source of memes and references that have stayed with us to this day.
+This game pretty much let's you live through an 80s horror movie, and it delivers. Although it's relevant due to its unique setting and memorable characters, it's the bad writing and the absolutely horrendous yet charming voice acting what has made it a culture icon, and source of memes and references that have stayed with us to this day.
 
 {% include img.html image='/assets/img/blogs/2026-04-12-re1.png' caption='The survivors of your team entering the mansion, Jill, Barry, and Albert Wesker' %}
 
@@ -82,7 +84,7 @@ The back and forth in this game is quite big, some puzzles take place across mul
 
 **The bosses aren't very good**, lackluster when it comes to battle design---you only need to move to some good location and shot away until it dies---however, due to the status of the game, they are memorable as set pieces, and often move the plot forward in interesting ways. For example, you can end up quite hurt, with some character taking you to another location to heal you; or the way to the boss can contain certain puzzle elements beforehand, to make the eventual battle easier.
 
-As the story continues, there will be plenty of **encounters with different characters of the game**, depending on the who you play as. These are in-game cutscenes, and I need to say, as cringe and badly acted as they are, I always found them rather charming, and it was nice to always get a new sense of direction, or a new useful weapon, or a plot twist here and there. Sometimes, the game atmosphere was rather tense, or I was low on health. Which makes getting to new rooms rather nerve-wracking at first, so I was always glad to see a cutscene that made things more chill.
+As the story continues, there will be plenty of **encounters with different characters of the game**, depending on who you play as. These are in-game cutscenes, and I need to say, as cringe and badly acted as they are, I always found them rather charming, and it was nice to always get a new sense of direction, or a new useful weapon, or a plot twist here and there. Sometimes, the game atmosphere was rather tense, or I was low on health. Which makes getting to new rooms rather nerve-wracking at first, so I was always glad to see a cutscene that made things more chill.
 
 {% include img.html image='/assets/img/blogs/2026-04-12-barry-and-jill-find-something-sus.png' caption='Barry and Jill find something sus' %}
 
@@ -90,19 +92,19 @@ A cozy cutscene is nice, but there is nothing quite like finally hearing that [s
 
 Honestly though, **all the music and ambiance in the game is stunning**. There's plenty of tracks for different rooms and sections, as well as action moments, reveals and similar, all of it is very well done and maintains the atmosphere perfectly. So long as you are not playing the [Dual Shock's Director Cut](https://youtu.be/iJYvCHm3Ov4), or that there's not some cheesy dialogue happening at the same time.
 
-Things get real creepy with the **audio design** as well, ever step, every grunt, the sounds of the water flowing and the dogs howling, I can't praise it enough. Also the effects when moving on the game's inventory/map/status screen is just as satisfying. The doors opening and closing, the screesh of an old door, the elevator going up and down. The sound department of this game did wonders, and thanks to the PS1's usage of CDs instead of cartridges, the quality is top notch. The sounds of the guns shooting and reloading is also a pleasure.
+Things get real creepy with the **audio design** as well, every step, every grunt, the sounds of the water flowing and the dogs howling, I can't praise it enough. Also the effects when moving on the game's inventory/map/status screen is just as satisfying. The doors opening and closing, the screech of an old door, the elevator going up and down. The sound department of this game did wonders, and thanks to the PS1's usage of CDs instead of cartridges, the quality is top notch. The sounds of the guns shooting and reloading is also a pleasure.
 
-**Animation work** is also rather good, even if it lacks some of the goodies that RE2 introduced, like character animations to indicate health status. It's still pretty good and the models are awesome for the time. The way all the different items come with 3D renders you can inspect is also appreciated, every gun, herb, key and the like has a nice amount of detail to it.
+**Animation work** is also remarkable, even if it lacks some of the polish RE2 introduced, like character animations to indicate health status. It's still pretty good and the models are awesome for the time. The way all the different items come with 3D renders you can inspect is also appreciated, every gun, herb, key and the like has a nice amount of detail to it.
 
-There are other 3D models during game besides the characters, like interactable objects and items, making them easy to notice against prerrendered backgrounds (which are unfortunately pretty low-res for modern screens, but still charming). This is a useful to solve block-style puzzles---like moving a shelf to reach something behind it, or finding green plants to restore health.
+There are other 3D models during game besides the characters, like interactable objects and items, making them easy to notice against prerrendered backgrounds (which are unfortunately pretty low-res for modern screens, but still charming). This is useful to solve block-style puzzles---like moving a shelf to reach something behind it, or finding green plants to restore health.
 
 {% include img.html image='/assets/img/blogs/2026-04-12-a-giant-boulder-is-a-sign-of-trouble-for-jill.png' caption='A giant boulder is a sign of trouble for Jill' %}
 
 All in all, as cheesy as all the dialogue is, as arcane as tank controls may seem, as slow as it may be to aim guns as Jill. Everything is just part of the course. **Every obstacle** or hiccup, is only one more **challenge for your survival inside this mansion**. There are plenty of resources for Jill to take, the amount of enemies is more than manageable, and there aren't that many bosses in the first place.
 
-This game, like its successor, is pretty much of a 3D Metroidvania game with zombies, and I am extremely amazed at how well it still runs. The gameplay from start to finish was a pleasure to experience. The utility of most items is made clear rather well, and my insticts started to develop soon enough. Judging when an item may make sense to keep or not, or when it was better to backtrack to an item box when I could feel that I was about to get a lot of items soon became second nature somehow.
+This game, like its successor, is pretty much a 3D Metroidvania game with zombies, and I am extremely amazed at how well it still runs. The gameplay from start to finish was a pleasure to experience. The utility of most items is made clear rather well, and my instincts started to develop soon enough. Judging when an item may make sense to keep or not, or when it was better to backtrack to an item box when I could feel that I was about to get a lot of items soon became second nature somehow.
 
-Resident Evil gives you all the tools you need, **the designers really want you to beat it**, it is only a matter of understading its mechanics and everything will became clear. I am actually looking for a second playthrough of this one as Chris---even though I hear is much tougher---because the game has taught me all I need, and it trusts me so much. No tutorials, no GUI other than the status screen that gets out of the way when you don't use it. It is a rather cinematic experience.
+Resident Evil gives you all the tools you need, **the designers really want you to beat it**, it is only a matter of understading its mechanics and everything will become clear. I am looking forward to a second playthrough of this one as Chris---even though I hear is much tougher---because the game has taught me all I need, and it trusts me so much. No tutorials, no GUI other than the status screen that gets out of the way when you don't use it. It is a rather cinematic experience.
 
 {% include img.html image='/assets/img/blogs/2026-04-12-jill-and-barry-discover-something-sus-again.png' caption='Jill and Barry find something sus again' %}
 
