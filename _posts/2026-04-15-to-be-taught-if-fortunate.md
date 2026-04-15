@@ -1,14 +1,14 @@
 ---
 title: "To Be Taught, If Fortunate"
 header: "To Be Taught, If Fortunate"
-description: My review for a short Science Fiction novella, about the journey of an astronaut team as they head to explore a distant star system with four planets in the inhabitable zone
+description: My review for a short Science Fiction novella, about the journey of an astronaut team as they head to explore a distant star system with four planets that contain extraterrestrial life
 tags: book review
 permalink: /blog/to-be-taught-if-fortunate/
 layout: post
 date: 2026-04-15 09:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116409430300976397
 ---
 
 Ages ago at this point, I watched a YouTube video about short science fiction books! Back then I ended up reading and eventually reviewing [The Undefeated](/blog/the-undefeated/) by Una McCormack. That very same video is what first brought this novella to my attention, but well, it took me a few more years to finally give it a go.
