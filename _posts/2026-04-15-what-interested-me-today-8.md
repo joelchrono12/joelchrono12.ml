@@ -8,7 +8,7 @@ layout: post
 date: 2026-04-15 18:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116411583813512160
 ---
 
 Welcome to another installment of "things that interested me today but aren't enough to warrant a blogpost by themselves so I bundled them all together here"—I hope you find something that catches your eye!
@@ -46,11 +46,11 @@ Even though AI in real life right is an [absolute](/blog/unpolished-human-websit
 
 ## I'm in the podium of #100DaysToOffload
 
-I've talked about this [100 DaysToOffload challenge](https://100daystooffload.com/) and Kev, who keeps the website updated with the people participating in it, recently updated the design a bit!
+I've talked about this [100 DaysToOffload challenge](https://100daystooffload.com/) before—and Kev, who keeps the website updated with the people participating in it—[recently changed the design a bit!](https://fosstodon.org/@kev/116386572668321193)
 
 There's now a button to sort by number of completions, and I am happy to say that I am in the top 3!
 
-Unfortunately for me, [Hyde](https://lazybea.rs) surpasses me by two and [Dan Q ](https://danq.me/) sits at the throne with a total of 7 completions!
+Unfortunately for me, [Hyde](https://lazybea.rs) surpasses me by two and [Dan Q](https://danq.me/) sits at the throne with a total of 7 completions!
 
 Honestly though I am relieved that [Rubenerd](https://www.rubenerd.au/)---who recently updated his URL btw so update it if you haven't ---has not participated on it. He doesn't need to anyway... *Please, if you read this, please don't do it I beg you!!*
 
