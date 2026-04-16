@@ -25,7 +25,7 @@ Well, now that I am using the stock ROM that came with my Nothing (3a), I just h
 
 What have I become?
 
-At least I have Balatro on my phone though.
+But hey, I have Balatro on my phone!
 
 ## 🔍 Sill using Google Search
 
