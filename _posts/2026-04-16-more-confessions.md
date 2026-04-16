@@ -8,7 +8,7 @@ layout: post
 date: 2026-04-16 12:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116415835424173736
 ---
 
 Well, it's been about a year since my last round of [confessions as a FOSS enthusiast](/blog/confessions-from-a-linux-user/) and I do have a few more things that I thought I'd share!
