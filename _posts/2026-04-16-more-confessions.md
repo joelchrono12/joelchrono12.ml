@@ -31,11 +31,13 @@ But hey, I have Balatro on my phone!
 
 For a while now [DuckDuckGo](https://duckduckgo.com) has been my go-to for web search, and it has served me quite well. However, more than once, I end up appending the !Bang syntax for Google: `!g`, to get those results instead.
 
-And of course, a often stick to their quick summarized answer instead of looking for an article or diving deeper. I simply don't care that much, and for the stuff I need, the results are simply correct.
+And of course, I'd often stick to the quick summarized answer instead of looking for an article or diving deeper. I simply don't care that much, and for the stuff I need, the results are serviceable.
 
 Besides, nowadays a lot of the big search engines have turned to a life of crime, not just Google. DuckDuckGo has AI-assisted quick answers too. Brave Search has the same plus all the crypto stuff of the brower itself. Kagi Search is paid and also has some AI stuff on it.
 
 I will still find what I need from a regular search sometimes, clicking on a result that leads me to a website and in the proper way, but that rarely happens nowadays, and [a lot of top results are slop anyway](/blog/ai-generated-blogposts-suck/). Not sure what to do here to be honest.
+
+Perhaps it's better to stick to independent search engines like [Marginalia](https://marginalia-search.com/) or [Clew.se](https://clew.se/) when possible.
 
 ## 🤖 FOSS with AI on it...
 
