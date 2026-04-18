@@ -16,7 +16,6 @@ https://kevquirk.com/posts-feed
 https://kwon.nyc/notes/index.xml
 https://lazybea.rs/index.xml
 https://lynnandtonicblog.com/feed/feed.xml
-https://megancarnes.blog/feed/?type=rss/
 https://moddedbear.com/index.xml
 https://mtwb.blog/index.xml#feed
 https://noisydeadlines.net/feed/
