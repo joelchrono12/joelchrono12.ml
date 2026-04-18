@@ -11,6 +11,10 @@ username: joel
 com_id: 116411583813512160
 ---
 
+
+{% include img.html image='/assets/img/blogs/2026-04-15-interests.webp' alt="screenshots of the interests mentioned in the text" caption='Bubbles main page, art of the game, and the 100DaysToOffload hall of fame' %}
+
+
 Welcome to another installment of "things that interested me today but aren't enough to warrant a blogpost by themselves so I bundled them all together here"—I hope you find something that catches your eye!
 
 Again I don't really plan to do these every week but it just so happens that I felt like writing about something but didn't really have a big topic in mind.

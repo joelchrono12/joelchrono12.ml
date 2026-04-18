@@ -11,6 +11,8 @@ username: joel
 com_id: 116415835424173736
 ---
 
+{% include img.html image='/assets/img/blogs/2026-04-16-confessions.webp' alt="a bunch of floppy disks" caption='Photo by <a href="https://unsplash.com/@kelsymichael">Kelsy Gagnebin</a> on <a href="https://unsplash.com/photos/a-stack-of-books-R52YghRa_Ikt">Unsplash</a>' %}
+
 Well, it's been about a year since my last round of [confessions as a FOSS enthusiast](/blog/confessions-from-a-linux-user/) and I do have a few more things that I thought I'd share!
 
 This was in part tangentially inspired by a post by Adrian Perales on [controversies around FOSS programs](https://adrianperales.com/2026/04/polemicas-en-torno-a-programas-libres) (in Spanish).
