@@ -11,7 +11,7 @@ username: joel
 com_id: 114482137786544223
 mentions:
   - author: Taming Knots
-    url: https://tk-web.top/posts/2025-06-28-weeknotes8/
+    url: https://tk-web.quest/posts/2025-06-28-weeknotes8/
     title: "Weeknotes #8"
 ---
 

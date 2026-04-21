@@ -19,7 +19,7 @@ It's been [a whole year](/blog/2024-w45-weeknotes) now since I decided to start 
 
 I was inspired by many people, such as [Jeremy](https://moddedbear.com) who was the one who gave me the final push, [Jedda](https://notes.jeddacp.com) who was at it since earlier, or [Ariadne](https://noisydeadlines.net/), who was among the first I saw!
 
-There's also [Thomas](https://thomasrigby.com), [TK](https://tk-web.top/), [Tracy](https://tracydurnell.com) (woah that's three T's!), [Cassie](https://cassie.ink/), [Sylvia](https://sylvia.buzz/weeknotes-40-2025), [Sam](https://thetangent.space/) (wooah that's CSS!?), and many, many more!
+There's also [Thomas](https://thomasrigby.com), [TK](https://tk-web.quest/), [Tracy](https://tracydurnell.com) (woah that's three T's!), [Cassie](https://cassie.ink/), [Sylvia](https://sylvia.buzz/weeknotes-40-2025), [Sam](https://thetangent.space/) (wooah that's CSS!?), and many, many more!
 
 Since the day I started, I've asked myself how worth it is it to actually write down stuff like this, the random things that happen day after day, that are just a part of everyone's life.
 

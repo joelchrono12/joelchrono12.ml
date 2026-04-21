@@ -22,7 +22,7 @@ I know I didn't ask for your permission, but I am giving a shout-out to y'all an
 
 - [Raul](https://minim.blog)
 - [Anita](https://anitalewis.org/)
-- [TK](https://tk-web.top)
+- [TK](https://tk-web.quest)
 - [Thomas Rigby](https://thomasrigby.com/)
 - [Amin](https://benjaminhollon.com)
 - [Basic](https://basic.bearblog.dev/)

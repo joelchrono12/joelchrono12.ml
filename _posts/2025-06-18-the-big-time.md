@@ -10,7 +10,7 @@ host: fosstodon.org
 username: joel
 com_id: 114707958473903007
 mentions:
-    - url: https://tk-web.top/posts/2025-06-28-weeknotes8/
+    - url: https://tk-web.quest/posts/2025-06-28-weeknotes8/2025-06-28-weeknotes8/
       author: Taming Knots
       title: "Weeknotes #8"
 ---

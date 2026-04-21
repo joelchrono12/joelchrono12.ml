@@ -25,7 +25,7 @@ Honestly, I was super nervous all the time, and I haven't actually listened to i
 
 This episode was centered on bloggers, and a few of the TWG Discord members participated. Including: 
 
-- [Brent](https://tk-web.top/), the main host, who writes about Linux, FOSS and weeknotes. I've exchanged emails with him, leading to some cool conversations across a couple months now! I still don't reply back to the latest one oof.
+- [Brent](https://tk-web.quest/), the main host, who writes about Linux, FOSS and weeknotes. I've exchanged emails with him, leading to some cool conversations across a couple months now! I still don't reply back to the latest one oof.
 - [Cassie](https://cassie.ink), who writes plenty stuff, from weeknotes, to blogging, books, technology and life in general. Also her website design is superb, absolutely lovely.
 - [Cameron Swingle](https://thingle.pika.page/), who mostly sticks to game reviews, all of which are about super niche titles. I took a look at the [Top 25 Games](https://thingle.pika.page/posts/my-top-25-games-of-all-time-pt-i-25-21-the-nostalgia-zone) series, and only recognized like 8 of them, crazy stuff.
 - and [me](/about).

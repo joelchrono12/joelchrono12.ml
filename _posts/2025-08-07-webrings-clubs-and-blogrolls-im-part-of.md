@@ -55,7 +55,7 @@ Sorry that I didn't add a description for this section, there are just, quite a 
 - [Scientiac](https://scientiac.space)
 - [Shellsharks](https://shellsharks.com/blogroll)
 - [Simbly Scribbles](https://simbly.me/blogroll/)
-- [Taming Knots](https://tk-web.top/pages/connections)
+- [TK's Web Quest](https://tk-web.quest/connections)
 - [The Art of Not Asking Why](https://taonaw.com/blogroll)
 - [Tom Brandis](https://tombrandis.uk)
 

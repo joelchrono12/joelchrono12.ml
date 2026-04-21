@@ -11,7 +11,7 @@ username: joel
 com_id: 114571023880955785
 image: 'assets/img/blogs/2025-05-25-my-desk-setup.webp'
 mentions:
-  - url: https://tk-web.top/posts/2025-05-31-weeknotes4/
+  - url: https://tk-web.quest/posts/2025-05-31-weeknotes4/
     author: Taming Knots
     title: "Weeknotes #4"
 ---
