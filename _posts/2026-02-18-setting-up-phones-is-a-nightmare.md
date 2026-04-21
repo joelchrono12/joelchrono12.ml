@@ -13,7 +13,7 @@ com_id: 116092279113669910
 mentions:
   - title: "Setting up new phones in 2026"
     author: Rubenerd
-    url: https://rubenerd.com/setting-up-new-phones
+    url: https://www.rubenerd.au/setting-up-new-phones
   - title: "Setting up phones is a nightmare"
     author: Hacker News
     url: https://news.ycombinator.com/item?id=47170958

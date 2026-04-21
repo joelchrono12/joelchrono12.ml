@@ -22,7 +22,7 @@ mentions:
 
 ---
 
-I tried to avoid reading other people's replies, such as [R.L's](https://rldane.space/blog-questions-challenge-technology-edition.html), [Rubenerd's](https://rubenerd.com/blog-question-challenge-technology) or [82MHz's](http://82mhz.net/posts/2025/02/blog-questions-challenge-technology-edition) and the like, but in the end I did! This challenge had been around since a couple months ago, and I just hadn't gotten around to it, so, here are my answers!
+I tried to avoid reading other people's replies, such as [R.L's](https://rldane.space/blog-questions-challenge-technology-edition.html), [Rubenerd's](https://www.rubenerd.au/blog-question-challenge-technology) or [82MHz's](http://82mhz.net/posts/2025/02/blog-questions-challenge-technology-edition) and the like, but in the end I did! This challenge had been around since a couple months ago, and I just hadn't gotten around to it, so, here are my answers!
 
 ## When did you first get interested in technology
 
