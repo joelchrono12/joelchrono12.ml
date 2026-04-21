@@ -12,7 +12,7 @@ layout: default
 ## Social Networks
 
 - 🐘 **[Mastodon](https://fosstodon.org/@joel)**: My social presence, I post often and I am quite active. If you want more of me, this is it.
-- 🦉 **[GoToSocial](https://polymaths.social/@joelchrono)** - GoToSocial is lightweight, and the instance I'm on is perfect for hobbysts.
+- 🦉 **[GoToSocial](https://polymaths.social/@joel)** - GoToSocial is lightweight, and the instance I'm on is perfect for hobbysts.
 - 📖 **[Bookwyrm](https://bookrastinating.com/@joel)** - I use this site to keep track of my books, it also happens to be a federated social network.
 - 📺 **[YouTube](https://youtube.com/@joelchrono)**: Haven't posted in years, but the day I do, you'll know!
 {% comment %}
