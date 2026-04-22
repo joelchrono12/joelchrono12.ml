@@ -8,7 +8,7 @@ layout: post
 date: 2026-04-22 09:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116448988505885548
 ---
 
 In all honesty, this is basically just another post to talk about games I haven't finished yet but that have been very fun, so I just want to go on a quick ramble about how good they have been so far.
@@ -77,7 +77,7 @@ As I stated when I started, I just wanted to write about some videogames, I gues
 
 What are some of the titles that you haven't returned to in a long time? What is the game you are currently obsessed with?
 
-Perhaps I should not ask, I already have so many games on my list, and I already endangered my playthrough of *Peace Walker because I purchased Vampire Crawlers* this morning, so, send help...
+Perhaps I should not ask, I already have so many games on my list, and I already endangered my playthrough of *Peace Walker* because I purchased *Vampire Crawlers* this morning, so, send help...
 
 This is day 55 of [#100DaysToOffload](https://100daystooffload.com)
 
