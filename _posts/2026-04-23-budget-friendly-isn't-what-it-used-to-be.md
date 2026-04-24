@@ -2,7 +2,7 @@
 title: Budget friendly tech isn't what it used to be
 header: Budget friendly tech isn't what it used to be
 description: "What the title says. Things that are considered to be good value for the money are honestly way too expensive, what happened to actually affordable prices in tech. Just complaining honestly."
-tags: tech ramble
+tags: tech ramble response
 permalink: /blog/budget-friendly-tech-isn't-what-it-used-to-be/
 layout: post
 date: 2026-04-23 17:26:26 -0600
