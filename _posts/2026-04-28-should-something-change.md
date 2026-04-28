@@ -8,7 +8,7 @@ layout: post
 date: 2026-04-28 09:30:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116483087389982373
 ---
 
 *This is a pretty personal post btw, not dark or anything but it may not be up your alley to have my ramblings and questions get to you or something.*
