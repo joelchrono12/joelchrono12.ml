@@ -1,7 +1,7 @@
 ---
 title:  New games on hold, old games return
 header: New games on hold, old games return
-description: My weeknotes from April 14 to 20, 2026! 
+description: I have started some games that I abandoned ages ago, and I also talk about some games I started more recently, but that are on hold nowadays. I don't know, my mind is an enigma.
 tags: gaming ramble
 permalink: /blog/new-games-on-hold-old-games-return/
 layout: post

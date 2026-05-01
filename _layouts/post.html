@@ -25,7 +25,11 @@ layout: default
 </aside>
 <article class="e-content">
 {{ content }}
-<aside class="blog-data"><span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span> <span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span></aside>
+<aside class="blog-data">
+	<span>Written by <a href="https://joelchrono.xyz" rel="me" class="p-author h-card">joelchrono</a>.</span><span class="bubbles-vote" data-url="{{ site.url }}{{ page.permalink }}"></span>
+	<span class="tags"><a class="u-url" href={{ page.url }}>🔗 permalink</a></span>
+</aside>
+<script src="https://bubbles.town/vote.js" defer></script>
 
 {% assign page_url = page.url | replace: '/$', '' %}
 {% assign page_url_slash = page_url | append: '/' %}

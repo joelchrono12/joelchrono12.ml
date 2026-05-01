@@ -204,7 +204,9 @@ input[type="button"] {
 
 .blog-data{
 	display: flex;
-	font-size: small;
+	font-size: smaller;
+	justify-content: space-between;
+	gap: 1rem;
 }
 
 .blog-data span {
@@ -250,8 +252,8 @@ ul.posts, ul.posts ul{
 
 .tags{
     display: flex;
-    margin-left: auto;
     align-items: center;
+    margin-left: auto;
 }
 
 nav.main-navbar{
@@ -696,7 +698,7 @@ img.avatar{
 	    margin: 0 auto;
 	    align-items: center;
 	    float: none;
-	    display: block
+	    display: block;
     }
 }
 
@@ -709,4 +711,18 @@ img.avatar{
 font-size: medium;
 font-style: italic;
 
+}
+
+span.bubbles-vote{
+	margin-top: 0 !important;
+	margin-right: auto;
+}
+span.bubbles-vote *{
+	font-family: inherit !important;
+	font-size: inherit !important;
+}
+
+.bubbles-vote-btn{
+	--bt-fg: var(--text) !important;
+	--bt-accent: var(--accent) !important;
 }
