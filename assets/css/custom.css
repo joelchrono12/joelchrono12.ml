@@ -603,6 +603,7 @@ gap: 1rem;
   border-bottom-left-radius: 8px;
 }
 img.avatar{
+    opacity: 1;
     image-rendering: -moz-crisp-edges;
     image-rendering: -o-crisp-edges;
     image-rendering: -webkit-optimize-contrast;
