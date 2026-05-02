@@ -45,6 +45,7 @@ This is reversed order, if you want to start from the beginning
         {% for post in month.items  %}
         <li class="post">
         <span class="p-name post-title"><a class="u-url" href="{{ post.url }}">{{ post.title }}</a></span>
+        {% if post.tags contains "book" or post.tags contains "book" or post.tags contains "game"%}
         <span class="post-tags">
         {% if post.tags contains "book" %}
         <a href="/tags/book">📖</a>
@@ -56,6 +57,7 @@ This is reversed order, if you want to start from the beginning
         <a href="/tags/game">🕹</a>
         {% endif %}
         </span>
+        {% endif %}
         <span class="post-date"><time class="dt-published" datetime="{{ post.date }}"> {{ post.date | date: "%b %d" }}</time></span>
         </li>
         {% endfor %}
@@ -65,14 +67,3 @@ This is reversed order, if you want to start from the beginning
 </ul>
 </article>
 {% endfor %}
-
-{% comment %}
-{% for year in postsByYear %}
-{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-{% for month in postsByMonth %}
-{% for post in month.items  %}
-<!--<p>{{ post.date | date: '%Y-%m-%d' }}</p>-->
-{% endfor %}
-{% endfor %}
-{% endfor %}
-{% endcomment %}

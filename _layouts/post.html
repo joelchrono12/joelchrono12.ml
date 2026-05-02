@@ -16,10 +16,9 @@ layout: default
 	<span> 📕 {{ count_words }} words ⏳ {{ time_words | divided_by: 60 }} min.</span>
 	<div class="tags">
 		<ul>
-			<li>🏷️</li>
-			{% for tag in page.tags %}
-			<li><a class="p-category" href="/tags/{{ tag }}">{{ tag }}</a></li>
-			{% endfor %}
+		{% for tag in page.tags %}
+		  <li><a class="p-category" href="/tags/{{ tag }}">{{ tag }}</a></li>
+		{% endfor %}
 		</ul>
 	</div>
 </aside>
