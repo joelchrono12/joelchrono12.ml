@@ -150,7 +150,7 @@ What can I say? This is a fantastic title with excellent production and passion 
 - Just use turbo button controls if you emulate, save yourself the button mashing headache.
 - Get familiar with the available control schemes of the game, some are better for boss fights such as "Shooter Mode".
 - Don't forget to use the radio for extra tips! You can also get extra info from enemies under your grip.
-- Try to ~kidnap~ recruit everyone and there will be tools later to see which enemies are worth recruiting more later too!
+- Try to ~~kidnap~~ recruit everyone and there will be tools later to see which enemies are worth recruiting more later too!
 
 There's a couple more things I could say but I'll leave it here for now. This game is truly awesome, I was on the edge of my seat multiple times and I really jaw-dropped at some of the moments and the fact that all of this was running on a PSP in the first place.
 
