@@ -1,14 +1,15 @@
 ---
-title: I got a bike
-header: I got a bike
-description: Welp I ended up purchasing a bike so I decided to write some thoughts about it
-tags: lifestyle
-permalink: /blog/i-got-a-bike/
+title: Buying a bike
+header: Buying a bike
+description: Welp I ended up purchasing a bike so I decided to write some thoughts about it.
+tags: lifestyle ramble
+permalink: /blog/buying-a-bike/
 layout: post
-date: 2026-05-13 19:18:58 -0600
+date: 2026-05-16 12:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116586969178185874
+image: 'assets/img/blogs/2026-05-16-bike.webp'
 ---
 
 A continuation to [this post.](/blog/looking-for-a-bike/)
@@ -27,9 +28,9 @@ When I looked at videos online, I saw a lot of mixed experiences. Videos of bike
 
 With the rise of the internet and AI and all of what happened during the pandemic, it seems to me like a lot of people simply don't trust anymore on the opinion of the experts, even those you can see right in front of you, who constantly work and operate in their are of expertise.
 
-But of course, what if the expert will only lead you to buy something with a big markup for them to get more money, when something cheaper could have been enough, for example. What if they sell me a bad bicycle and I'm ignorant and happy about it and I could have find the same thing elsewhere at half the price?
+But of course, what if the expert will only lead you to buy something with a big markup for them to get more money, when something cheaper could have been enough? What if they sell me a bad bicycle and I'm ignorant and happy about it and I could have found the same thing elsewhere at half the price?
 
-Just like how most videos from content creators and influencers online will also be sponsored by shady companies offering dubious services, and one can't help but wonder if people only care about money instead of being decent with each other.
+And online, most videos from content creators and influencers online will also be sponsored by some companies offering dubious services, and one can't help but wonder if people only care about money instead of being decent with each other, but also that's just how the system seems to be over in the mainstream web.
 
 But well, in the end, I watched videos from European and American channels, where people ride to work in bikes worth $5,000 and a training wheel installation can cost 50 or 70 bucks.
 
@@ -37,6 +38,14 @@ Most of the bikes I saw people riding are just tools more than recreation, and a
 
 So I decided to trust the shop the shop, I got a bike from them. All in all, they were very understanding, and I guess they want to sell stuff after all.
 
-I chose my bike, a Fuji Traverse 1.6, a hybrid bike ideal for city commute and some light dirt paths. I traveled all the way from the bike shop to my house, abou 7.5 kilometers or so, which took me about 25 minutes. It was a great ride with just a few uphills that were no problem at all!
+I chose my bike, a Fuji Traverse 1.6, a hybrid bike ideal for city commute and some light dirt paths, I got it used for 432 bucks, and paid an extra 10 bucks to add a kickstand---no installation fee! 
 
-This is day of [#100DaysToOffload](https://100daystooffload.com)
+I traveled all the way from the bike shop to my house, about 7.5 kilometers or so, which took me about 25 minutes. It was a great ride with just some down and uphills. None of it was a problem at all!
+
+And well, I've already gone on a couple of rides and had some more experiences and thoughts to share, which I'll write for an upcoming post.
+
+TL;DR: I am very happy with my purchase, good stuff!
+
+{% include img.html image='/assets/img/blogs/2026-05-16-bike.png' caption='My bike!' %}
+
+This is day 65 of [#100DaysToOffload](https://100daystooffload.com)
