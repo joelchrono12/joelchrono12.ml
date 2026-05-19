@@ -1,14 +1,14 @@
 ---
 title:  Performative Blogging
 header: Performative Blogging
-description: ""
+description: "A sort of meta-blogpost and rambling about the reason I blog sometimes and why I feel in a bit of a slump lately, just write guys."
 tags: personal ramble internet
 permalink: /blog/performative-blogging/
 layout: post
 date: 2026-05-19 16:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116603580589976840
 image: "assets/img/blogs/2026-05-19-typing.webp"
 ---
 
