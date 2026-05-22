@@ -12,7 +12,7 @@ username: joel
 com_id: 116614926058332931
 ---
 
-*Edit: This post actually said "royalty" instead of koyalty in the title for a whole day. Whoops.*
+*Edit: This post actually said "royalty" instead of loyalty in the title for a whole day. Whoops.*
 
 I don't like to think of myself as someone with "brand loyalty", but it's undeniable that I have preferences for the tools I use hardware and software-wise.
 
