@@ -1,15 +1,18 @@
 ---
-title:  Nothing deserves brand royalty
-header: Nothing deserves brand royalty
+title:  Nothing deserves brand loyalty
+header: Nothing deserves brand loyalty
 description: "Brand loyalty is a poison, you should find the best value for your money, understanding companies are not on your side, but..."
 tags: tech ramble short
 permalink: /blog/nothing-deserves-brand-loyalty/
 layout: post
 date: 2026-05-21 16:20:00 -0600
+updated: 2026-05-22 04:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116614926058332931
 ---
+
+*Edit: This post actually said "royalty" instead of koyalty in the title for a whole day. Whoops.*
 
 I don't like to think of myself as someone with "brand loyalty", but it's undeniable that I have preferences for the tools I use hardware and software-wise.
 
