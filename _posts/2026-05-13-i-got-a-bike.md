@@ -2,7 +2,7 @@
 title: Buying a bike
 header: Buying a bike
 description: Welp I ended up purchasing a bike so I decided to write some thoughts about it.
-tags: lifestyle ramble
+tags: lifestyle ramble cycling
 permalink: /blog/buying-a-bike/
 layout: post
 date: 2026-05-16 12:40:00 -0600
