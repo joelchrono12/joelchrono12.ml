@@ -9,7 +9,7 @@ permalink: /bookshelf/
 layout: default
 ---
 
-You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). You are welcome to join too!
+You can also see this list in my Bookwyrm account at [@joel@bookrastinating.com](https://bookrastinating.com/user/joel). ~~You are welcome to join too!~~ The server is currently down, but you can also follow me on [Storygraph](https://app.thestorygraph.com/profile/joelchrono)
 
 {% comment %} <table> <thead> <tr> <th>Title</th> <th>Started</th> <th>Finished</th> </tr> </thead> <tbody> {% for item in site.data.books %} <tr> <td><i>{{ item.title }}</i> by {{ item.author }}</td> <td>{{ item.start }}</td> {% if item.end == "In progress" %} <label for="file">Downloading progress:</label> <progress id="file" value="8" max="100">8%</progress> {% else %} <td>{{ item.end }}</td> {% endif %} </tr> {% endfor %} </tbody> </table> {% endcomment %}
 
