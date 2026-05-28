@@ -2,13 +2,13 @@
 title:  My Home Screen (2026)
 header: My Home Screen (2026)
 description: "Decided to write and share the current home screen setup on my phone! Featuring KISS Launcher, Arcticons and a few more cool apps"
-tags: gaming community internet
+tags: android tech internet personal
 permalink: /blog/home-screen-2026/
 layout: post
 date: 2026-05-28 17:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116654734533330376
 image: "assets/img/blogs/2026-05-28-homescreen.webp"
 
 ---
