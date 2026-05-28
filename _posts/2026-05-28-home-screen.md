@@ -9,6 +9,8 @@ date: 2026-05-28 17:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
+image: "assets/img/blogs/2026-05-28-homescreen.webp"
+
 ---
 
 It's been a while since I've done a post sharing what my [home screen](/blog/my-home-screen-2024/) looks like, and *a lot* has changed since then. Last year I shared [what's on my phone](/blog/whats-on-my-phone-summer-2025/), but it was more of a listicle that didn't really go into the reasoning behind my choices. In any case, that's what I plan to do here. at least for the homescreen I got right now!
