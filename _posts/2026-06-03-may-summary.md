@@ -6,9 +6,10 @@ tags: monthly
 permalink: /blog/may-2026-summary/
 layout: post
 date: 2026-06-03 07:40:00 -0600
+updated: 2026-06-03 09:15:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 116686828481008990
 ---
 
 Oh my, I had already started writing the outline of my weeknotes when I realized the month was over as well! The monthly summary takes precedence here, so let's get started with it!
