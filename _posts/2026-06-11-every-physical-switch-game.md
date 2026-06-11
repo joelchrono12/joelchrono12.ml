@@ -8,7 +8,7 @@ layout: post
 date: 2026-06-11 07:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116731843990337890 
 ---
 
 I thought it would be fun to list every single physical game I own, and try to justify my purchasing desitions. Honestly though, it will be a bit painful too. It will be a paragraph per game, so it should not be that long.
@@ -185,6 +185,8 @@ Honestly, I know I own too many games for me to even complete, and I'm not even 
 I am not sure why I am writing this, I thought it would be fun but it just kept going and kinda felt pitiful in the end? It's not like it matters that much.
 
 Anyway, if you recognize any of these games and would vouch for me finally trying them, feel free to do so. But of course, there's quite a backlog waiting for me...
+
+Eighty one in total.
 
 This is day 79 of [#100DaysToOffload](https://100daystooffload.com)
 
