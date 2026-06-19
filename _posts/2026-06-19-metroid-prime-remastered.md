@@ -1,14 +1,14 @@
 ---
 title: Metroid Prime Remastered
 header: Metroid Prime Remastered
-description: Metroid Prime Remastered
-tags: weeknotes
+description: My review for one of the best remasters ever made for one of the best games ever made for one of my favourite series ever in one of my favourite videogame genres
+tags: game review
 permalink: /blog/metroid-prime-remastered/
 layout: post
 date: 2026-06-19 11:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116778123105412854
 image: "assets/img/blogs/2026-06-19-metroid-prime-remastered.webp"
 ---
 
