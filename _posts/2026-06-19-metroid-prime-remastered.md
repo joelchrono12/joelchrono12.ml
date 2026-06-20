@@ -149,7 +149,4 @@ The original title has a score of 97 in Metacritic, while the remaster has a 94.
 
 I've been able to play and focus on individual games lately, and I'm not sure if that is a change in my own mindset, or if the games are just that good. In any case, this was a blast. A contender for my favorites of the year.
 
-
-
-
-This is day 80 of [#100DaysToOffload](https://100daystooffload.com)
+This is day 82 of [#100DaysToOffload](https://100daystooffload.com)

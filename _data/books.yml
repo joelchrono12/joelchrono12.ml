@@ -2,16 +2,14 @@
   author: "James S.A. Corey"
   cover: "/assets/img/books/strange-dogs.jpg"
   start: "2026-03-23"
-  end: "2026-05-24"
+  end: "2026-05-27"
   summary: "As Duarte and his people build a new empire in Laconia, we follow a young girl, Cara, who discovers something that will change everything."
-  progress: 11
 - title: "Tiamat's Wrath"
   author: "James S.A. Corey"
   cover: "/assets/img/books/tiamats-wrath.jpg"
   start: "2026-05-08"
-  end: "2026-05-24"
+  end: "2026-06-09"
   summary: "Everything is now under Laconian control, but the resistance remains. The crew is separated and laying low, although Holden is now a special prisoner, a dancing Bear for Duarte. After some experiments on a cosmic scale go wrong, a chain of events may give our heroes the chance to revoke Laconia's rule"
-  progress: 46
 - title: "Persepolis Rising"
   author: "James S.A. Corey"
   cover: "/assets/img/books/persepolis-rising.jpg"
@@ -28,7 +26,7 @@
   cover: "/assets/img/books/clarkesworld-211.jpg"
   start: "2026-03-26"
   end: "2026-04-26"
-  progress: 58
+  progress: 76
 - title: "Chrono Trigger"
   author: "Michael P. Williams"
   cover: "/assets/img/books/chrono-trigger.jpg"
