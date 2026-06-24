@@ -1,6 +1,6 @@
 ---
-title: Tiamat's Wrath (The Expanse #8)
-header: Tiamat's Wrath (The Expanse #8)
+title: Tiamat's Wrath (The Expanse \#8)
+header: Tiamat's Wrath (The Expanse \#8)
 description: My review for the eighth book of this epic space opera. The second to last before the journey comes to an end!
 tags: book review
 permalink: /blog/tiamats-wrath/
@@ -8,7 +8,7 @@ layout: post
 date: 2026-06-24 09:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116805698423911319
 ---
 
 The eight book of *The Expanse* by James S.A. Corey. Spoilers ahead.
