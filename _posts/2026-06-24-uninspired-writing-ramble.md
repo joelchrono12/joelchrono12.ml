@@ -8,7 +8,7 @@ layout: post
 date: 2026-06-24 15:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116807189879063639
 ---
 
 It's weird when this happens but some months are just full of things that feel like tasks rather than something I wanted to do. All of June has been full of nothing but talking about things that happened, physical objects, events, notes, reviews, and rather tangible shenanigans, other than my bike rides, those are still fun.
@@ -61,4 +61,4 @@ Perhaps I should make a Junited post too, just for good measure. Or shut up, let
 
 Enough, for now?
 
-This is day 84 of [#100DaysToOffload](https://100daystooffload.com)
+This is day 85 of [#100DaysToOffload](https://100daystooffload.com)
