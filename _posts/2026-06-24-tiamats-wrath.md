@@ -1,6 +1,6 @@
 ---
-title: Tiamat's Wrath (The Expanse \#8)
-header: Tiamat's Wrath (The Expanse \#8)
+title: "Tiamat's Wrath (The Expanse #8)"
+header: "Tiamat's Wrath (The Expanse #8)"
 description: My review for the eighth book of this epic space opera. The second to last before the journey comes to an end!
 tags: book review
 permalink: /blog/tiamats-wrath/
