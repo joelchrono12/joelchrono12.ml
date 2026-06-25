@@ -18,7 +18,7 @@ Now, I don't intend to be romantic, I simply invited her as a friend, should I b
 
 Basically, she's kind of a childhood friend I only met for like a month before she moved elsewhere more than a decade ago, and somehow we live relatively close now, and it's kind of like everything has been served on a silver plate.
 
-Due to the internet I've had the pleasure of meeting many people, many women included there who I'm happy to have as friends! I have some great connections. Because of this I know that *dating* is hard. But at the same time, *I don't really know how it's supposed to be done.*
+Due to the internet I've had the pleasure of meeting many people, many women included there who I'm happy to have as friends! I have some great connections but never really tried like, dating through this medium, or in any medium. Still, some of those friends have told me how  *dating* is hard and such, and I won't deny I have been interested on pursuing a long distance thing. But at the same time, *I don't really know how anything is supposed to be done.*
 
 When my dad met my mom, he was direct, he told her his intentions and that he wasn't playing any games. But me? How can I be sure? Is the fact that I'm insecure about this a good or bad sign?
 
