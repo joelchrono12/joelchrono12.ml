@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-02 07:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: commmentsid
+com_id: 116850688193616561
 ---
 
 June is over! Did you know this month was my birthday? Yeah it's kinda crazy, a lot has changed, I am twenty six now yet more than half the movies I watched were Direct-to-DVD 50 minute films made to sell action figures!
@@ -150,4 +150,4 @@ I also *need* to setup my bike for a ride to work, I want to give it a go for on
 
 All in all, a good month with lots of things going on, I am 26 years old now, and the fear of adulthood is kind of sinking in a bit more for some reason, we'll see how things go.
 
-This is day 87 of [#100DaysToOffload](https://100daystooffload.com)
+This is day 88 of [#100DaysToOffload](https://100daystooffload.com)
