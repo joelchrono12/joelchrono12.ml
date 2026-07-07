@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-07 09:20:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116879394050333528
 ---
 
 Yesterday after work I got in the bus back home and proceeded to happily play on my [Nintendo 3DS](/blog/nintendo-3ds/) for the whole trip. I was about to finish a stage of *Fire Emblem Awakening*, leveling up a lot of characters, dodging attacks and surviving hits, all nice and well!
