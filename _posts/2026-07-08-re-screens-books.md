@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-08 15:45:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116886574230674361
 ---
 
 Since [JanerationX](https://mas.to/@janerationx) started a new blog on [Pika](https://pika.page/) a couple months ago, I have been enamoured by it. She is not afraid to express her thoughts and is refreshing to see.
