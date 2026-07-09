@@ -5,7 +5,7 @@ description: Yesterday the conversation during my lunch break was rather unusual
 tags: storytime life thoughts
 permalink: /blog/why-are-you-always-happy/
 layout: post
-date: 2026-07-09 10:10:00 -0600
+date: 2026-07-09 10:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
@@ -57,4 +57,4 @@ I am curious, what is the impression you cause on other people? Are you also a c
 
 In any case, it's more than being single and living with my parents---but I can't deny that helps a lot too.
 
-This is day 91 of [#100DaysToOffload](https://100daystooffload.com)
+This is day 94 of [#100DaysToOffload](https://100daystooffload.com)
