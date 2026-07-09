@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-09 10:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116890886089318112
 ---
 
 Yesterday at work something very weird happened. During our lunch break, the conversation focused on me, at least for a couple minutes.
