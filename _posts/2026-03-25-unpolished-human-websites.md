@@ -9,6 +9,16 @@ date: 2026-03-25 08:00:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116290228887762432
+mentions:
+- author: fLaMEd
+  url: https://flamedfury.com/posts/link-dump-march-2026/
+  title: "Link Dump: March 2026"
+- author: isa
+  title: I've become the very thing I hate
+  url: https://tahimik.com/journal/ive-become-the-very-thing-i-hate
+- author: Rob Fahrni
+  url: https://rob.crabapples.net/2026/03/28/saturday-morning-coffee.html
+  title: Saturday Morning Coffee
 ---
 
 Every day I am more and more annoyed by the way some of the blogs I have followed for *years* have started to "get with the times" or "catch up" on using *those* "tools" to "improve" their blogging in one way or another.

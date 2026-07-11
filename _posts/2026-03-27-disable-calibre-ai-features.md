@@ -9,6 +9,10 @@ date: 2026-03-27 16:37:45 -0600
 host: fosstodon.org
 username: joel
 com_id: 116303942825846841
+mentions:
+- author: Adrián Perales
+  title: Polémicas en torno a programas libres
+  url: https://adrianperales.com/2026/04/polemicas-en-torno-a-programas-libres/
 ---
 
 A while back [Calibre](https://calibre-ebook.com)---a book management program which I have been using for years---integrated [AI features](https://calibre-ebook.com/whats-new#:~:text=Allow%20asking%20AI%20questions%20about%20any%20book%20in%20your%20calibre%20library), in an option that showed up in the context menu, when selecting a book and clicking on *View*, titled *Discuss selected book with AI*. Clicking it opens a chat interface that connects to any "provider"---also known as *slop generator*---of your choice.

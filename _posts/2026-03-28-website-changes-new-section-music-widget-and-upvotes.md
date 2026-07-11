@@ -9,6 +9,10 @@ date: 2026-03-28 08:29:42 -0600
 host: fosstodon.org
 username: joel
 com_id: 116308437745790988
+mentions:
+- author: Axxuy
+  title: March Tinkering
+  url: https://axxuy.com/blog/2026/march-tinkering/
 ---
 
 ## "On This Week" section

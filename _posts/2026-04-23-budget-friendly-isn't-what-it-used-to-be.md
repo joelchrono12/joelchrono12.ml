@@ -10,6 +10,13 @@ updated: 2026-04-24 08:10:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116456730959054822
+mentions:
+- title: Week Notes - w18
+  author: Clayton Errington
+  url: https://claytonerrington.com/blog/2026-w18/
+- title: Weekly digest 61
+  author: The Tangent Space
+  url: https://thetangent.space/2026/digest61/
 ---
 
 {% include post_embed.html

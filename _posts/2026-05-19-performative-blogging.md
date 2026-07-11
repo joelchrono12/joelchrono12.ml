@@ -10,6 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 116603580589976840
 image: "assets/img/blogs/2026-05-19-typing.webp"
+mentions:
+- author: Naty
+  url: https://burgeonlab.com/junited-2026/
+  title: "Junited 2026: Blog Sharing Month"
 ---
 
 ![A gentleman typing in an old computer](/assets/img/blogs/2026-05-19-typing.webp)

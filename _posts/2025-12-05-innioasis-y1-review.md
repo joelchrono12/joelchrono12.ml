@@ -9,6 +9,10 @@ date: 2025-12-06 08:50:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 115673447367414171
+mentions:
+- author: Matt
+  url: https://mtwb.blog/posts/2026/tech/why-i-dont-use-a-dedicated-music-player/
+  title: Why I Don't Use A Dedicated Music Player
 ---
 
 An mp3 player for daily use and thinkering!

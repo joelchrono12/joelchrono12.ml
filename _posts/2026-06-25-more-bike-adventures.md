@@ -9,6 +9,10 @@ date: 2026-06-25 09:20:00 -0600
 host: fosstodon.org
 username: joel
 com_id: idcomments
+mentions:
+- author: Ruben Verweij
+  url: https://kedara.eu/junited2026/#26
+  title: Junited 2026
 ---
 
 I realized I didn't provide a cycling update on my previous weeknotes, so I decided to write some more about my misadventures so far. I am yet to buy fenders and a rack, so I am yet to try commuting to work properly. Even so, I continue riding like so, as I don't mind getting my back splashed that much during a weekend, washing my clothes is not too bad.

@@ -9,6 +9,10 @@ layout: post
 host: fosstodon.org
 username: joel
 com_id: 116706917097129125
+mentions:
+- author: Adamsdesk
+  title: "Junited: Blog Post Recommendations for June 2026"
+  url: https://www.adamsdesk.com/posts/junited-2026/
 ---
 
 Today I used my bike as a tool and not just for excercise or hobby! 

@@ -10,6 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 116865637634965192
 image: "assets/img/blogs/2026-07-04-3ds.jpg"
+mentions:
+- title: My Nintendo 3DS XL
+  author: Syl
+  url: https://syls.blog/my-nintendo-3ds-xl/
 ---
 
 Probably not. I bought one anyway. Figured I'd write some of my memories surrounding it growing up, as well as how I set-up my own.

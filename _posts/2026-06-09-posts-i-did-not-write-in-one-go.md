@@ -9,6 +9,10 @@ date: 2026-06-09 21:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116723830694799104
+mentions: 
+- title: Junited 2026
+  author: RL Dane
+  url: https://rldane.space/junited-2026.html
 ---
 
 I am one of those who prefers to get something done in the span of a day or else whatever I publish will need way more work on my part, to make sure the tone stays consistent and the flow of what I write makes sense.

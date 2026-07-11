@@ -10,6 +10,10 @@ updated: 2026-05-22 04:40:00 -0600
 host: fosstodon.org
 username: joel
 com_id: 116614926058332931
+mentions:
+- url: https://claytonerrington.com/blog/2026-w21/?utm_source=rss
+  title: Week Notes - w21
+  author: Clayton Errington
 ---
 
 *Edit: This post actually said "royalty" instead of loyalty in the title for a whole day. Whoops.*

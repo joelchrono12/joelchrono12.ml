@@ -19,7 +19,9 @@ mentions:
   - url: https://syls.blog/this-is-my-genre-horror/
     author: Syl
     title: "This is My Genre (Horror!)"
-
+  - url: https://benjaminhollon.com/weeknotes/2026-W14/
+    title: "Weeknotes: W14, 2026"
+    author: Benjamin Hollon
 ---
 
 I saw [Alex Wolfe](https://alexwolfe.ca/im-a-science-fiction-nerd-and-this-is-my-genre-tag/) answering these questions and I thought I'd give them a go! I even wrote an early draft by hand before transferring them to digital for some final edits.

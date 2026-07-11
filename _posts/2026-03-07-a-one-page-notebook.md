@@ -15,6 +15,9 @@ mentions:
   - author: Amin Hollon
     title: "Weeknotes: W10, 2026"
     url: https://benjaminhollon.com/weeknotes/2026-W10/
+  - author: Chris Smith
+    title: "Monthly Meanderings: March 2026"
+    url: https://chameth.com/monthly-meanderings-2026-03/
 ---
 
 {% include post_embed.html

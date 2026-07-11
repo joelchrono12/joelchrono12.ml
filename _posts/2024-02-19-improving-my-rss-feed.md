@@ -9,6 +9,10 @@ date: 2024-02-19 13:21:31 -0600
 host: fosstodon.org
 username: joel
 com_id: 111960871815998664
+mentions: 
+- title: "Weeknote 2026-W17: My First IndieWebCamp & Link Roundup"
+  author: Naty
+  url: https://burgeonlab.com/weeknotes/2026/w17/
 ---
 
 Playing around with Jekyll is great, or with any static site generator in general! But there can also be many ways to do things wrong! And while this is not really a problem most of the time, you could end up making a mess for your future self, like I've done this time.

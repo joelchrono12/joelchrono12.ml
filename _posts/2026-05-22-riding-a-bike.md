@@ -10,6 +10,10 @@ date: 2026-05-22 21:49:26 -0600
 host: fosstodon.org
 username: joel
 com_id: 116622063288480696
+mentions:
+- author: Syl
+  title: "Week Notes 2: May 17th-23rd"
+  url: https://syl.weblog.lol/2026/05/week-notes-2-may-17th-23rd
 ---
 
 So I got my bicycle from the shop and used it to return home!

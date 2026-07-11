@@ -10,7 +10,10 @@ host: fosstodon.org
 username: joel
 com_id: 116641986460881226
 image: "assets/img/blogs/2026-05-26-games.webp"
-
+mentions:
+- author: Bobby Hiltz
+  title: Summer Game Challenge 2026
+  url: https://bobbyhiltz.com/posts/2026/05/summer-game-challenge/index.html
 ---
 
 There's a bit of an event going on in the [TWG Online](https://theworstgarbage.online) Discord server where everyone agreed to set a goal, to finish at least four out of ten selected games. This usually runs from Memorial Day to Labor Day---May 25 to September 7 in 2026. However, I am Mexican, so I went with Labour Day to Independence Day, which is May 1st to September 16 here. A pretty similar time frame with a few extra days that I don't mind getting as a bonus.
