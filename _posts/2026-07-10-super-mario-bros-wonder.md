@@ -37,6 +37,6 @@ I wonder how many people still run through it today, I should visit some of the 
 
 Definitely a highlight of the Switch library. I really recommend it!
 
-This is day 97 of [#100DaysToOffload](https://100daystooffload.com)
+This is post 3 of 3 for day 95 of [#100DaysToOffload](https://100daystooffload.com)
 
 

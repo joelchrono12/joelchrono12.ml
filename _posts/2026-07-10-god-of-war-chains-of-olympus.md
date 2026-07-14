@@ -31,4 +31,4 @@ Again, story-wise, it's not really *weak*, but it's not really that important. I
 
 *God of War: Chains of Olympus* still plays like a charm, though *Ghost of Sparte*, the second title for the PSP is technically superior in everyway, this is only noticeable once you compare them. I really had fun with it and recommend giving it a try. Do make sure to level up and get good at the combos though, and keep your health in check, some fights in some checkpoints can get very tedious if you are stuck in a bad state and have to reload a previous save further back. I guess that's my one complaint, but it's part of the challenge anyway, lower the difficulty and enjoy the power fantasy if you want that instead.
 
-This is day 95 of [#100DaysToOffload](https://100daystooffload.com)
+This is post 1 of 3 for day 95 of [#100DaysToOffload](https://100daystooffload.com)
