@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-17 08:15:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116935766443228264
 ---
 
 Don't worry, it was fully optional.
