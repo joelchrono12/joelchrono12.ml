@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-22 09:45:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116964418633438211
 ---
 
 Well, here I go again. I wrote 100 posts in a year, in fact, a bit more than that, with a couple short game reviews I decided not to count separately, and one post I didn't promote using the hashtag on my socials.
