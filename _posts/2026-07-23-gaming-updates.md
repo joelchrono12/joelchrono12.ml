@@ -3,12 +3,12 @@ title: "Gaming Updates (Summer 2026)"
 header: "Gaming Updates (Summer 2026)"
 description: It's been a while since I've written a proper update on how my gaming has been in general! Especially the Summer Game Challenge and my spending habits, as well as what I'm playing at all!
 tags: gaming life
-permalink: /blog/gaming-uodates-summer-2026/
+permalink: /blog/gaming-updates-summer-2026/
 layout: post
 date: 2026-07-23 15:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 116971578948967885
 ---
 
 Decided to write an update regarding everything gaming related in my life, as of now in Summer of 2026! What games have I played? What games have I purchased? What games have I beaten? Everything you may want to know about my gaming habits as of now!
