@@ -12,9 +12,6 @@ https://claytonerrington.com/feed.xml
 https://d.moonfire.us/atom.xml
 https://hunden.linuxkompis.se/feed.xml
 https://ilyess.cc/index.xml
-https://kevquirk.com/posts-feed
-https://lazybea.rs/index.xml
-https://lynnandtonicblog.com/feed/feed.xml
 https://moddedbear.com/index.xml
 https://mtwb.blog/index.xml#feed
 https://noisydeadlines.net/feed/
