@@ -8,7 +8,7 @@ layout: post
 date: 2026-07-29 17:40:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117005960425350321
 ---
 
 I stumbled upon a short video about [traveling with a Nintendo 3DS](https://youtu.be/8w-7IDptNr4)---my feed continues to expose me to more of these even after I got one---and one of the main topics there was how playing videogames on exotic places can often enhance the overall experience, not just of the game, but of being there, to the point of forming a memory, that brings you back there whenever you think of it.
