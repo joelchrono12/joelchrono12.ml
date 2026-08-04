@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-04 09:45:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117038048855743049
 ---
 
 Andreas posted some interesting thoughts, wondering if maybe we are [too paranoid when it comes to AI slop](http://82mhz.net/posts/2026/08/are-we-becoming-too-paranoid-about-ai-slop/). Please, go read his words first, I only intend to add to the conversation here, not to put him in an uncomfortable position or something, we are friends and everything after all---*even if he barely mentions my posts on his [Link Dumps](https://82mhz.net/posts/#Linkdumps)... 😭*
