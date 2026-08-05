@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-05 12:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117044429129179293
 ---
 
 Behold, it is I, the guy who continues to play new shiny videogames instead of sticking to my ongoing playthroughs. 
