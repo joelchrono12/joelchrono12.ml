@@ -124,7 +124,7 @@ Seriously there are so many narratives going on at once I don't recall a single 
 
 I had to end with a banger right? Even though last time I touched this game was in 2024, that really is only because I took my time to transfer the PSP save to my Anbernic handheld yet again. I opened the game and I was surprised to see it still working!
 
-You see, I was playing a Spanish translation ages ago, and I wanted to switch to English, and to use the [Chicago Font]() romhack just because. I was surprised to see my save worked perfectly fine despite the language and romhack change, it was cool to have no problems caused by that.
+You see, I was playing a Spanish translation ages ago, and I wanted to switch to English, and to use the [Chicago Font](https://www.romhacking.net/hacks/1950/) romhack just because. I was surprised to see my save worked perfectly fine despite the language and romhack change, it was cool to have no problems caused by that.
 
 Story-wise, I was visiting the hospital and learning more about mythochondria, I was just about done with the part where I realize that I received a kidney transplant from a japanese girl or something. There's also this weird ghost of a different little girl, who is guiding me through the hospital to the roof top. Of course there's enemies everywhere and they have this annoying bouncy projectile that keeps hitting me.
 
