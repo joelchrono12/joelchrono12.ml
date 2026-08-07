@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-07 12:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117055566973168548
 ---
 
 I realize I have spent a lot of my time writing about videogames here, and not focusing much on most of my other hobbies. I guess I just want to ramble about something different today, so why not?
@@ -53,4 +53,4 @@ Still, I don't want to think about that, it just came up on its own. For now I'l
 
 That conclusion seems a bit out of nowhere after I just rambled for a dozen paragraphs about how indecisive I am, let's call it a day shall we? And of course let me know your thoughts about this all.
 
-This is day 11 of [#100DaysToOffload](https://100DaysToOffload.com) and day 6 of [#Blaugust2026](https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/)
+This is day 12 of [#100DaysToOffload](https://100DaysToOffload.com) and day 7 of [#Blaugust2026](https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/)
