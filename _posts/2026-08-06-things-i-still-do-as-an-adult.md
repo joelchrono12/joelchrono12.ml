@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-07 07:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117054405277903248
 ---
 
 Yesterday my work was rather entertaining. A workmate went on vacation for today and tomorrow, and there were a few tasks I had to do on their stead. This was nothing unusual, he covers for me plenty as well. However, I do wish things had allowed for at least a bit more time to write a post.
