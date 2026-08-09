@@ -26,4 +26,3 @@ https://syls.blog/feed/?type=rss
 https://tahimik.com/journal.rss
 https://thetangent.space/feed.xml
 https://thomasrigby.com/feed.xml
-https://tk-web.top/index.xml
