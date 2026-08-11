@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-11 12:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117078428474845872
 ---
 
 So, The Expanse is over, at last, and I will probably write a different post talking about the whole series and my thoughts overall. For now, these are only my thoughts on the last book, let's get to them, after the summary!
