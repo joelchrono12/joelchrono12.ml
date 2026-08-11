@@ -1,14 +1,14 @@
 ---
 title: An unusual commute to work
 header: An unusual commute to work
-description: My morning was an absolutely wild and I thought I would not get to work in time, but things happened and I had to share them!
+description: My morning was an absolutely wild ride, and I thought I would not get to work in time, but things happened and I had to share them!
 tags: work storytime life
 permalink: /blog/an-unusual-commute-to-work/
 layout: post
 date: 2026-08-11 08:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117077467289400656
 ---
 
 I usually take the bus to work, this is provided for free by my workplace.
