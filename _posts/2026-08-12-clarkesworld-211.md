@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-12 09:15:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117083233893066737
 ---
 
 I have been subscribed to Clarkesworld for more than two years now---I blame [Amin](https://benjaminhollon.com)---but it took me this long to finally finish one of their issues. I am just terrible at reading I guess, but since they are a great sci-fi magazine I don't feel particularly guilty about supporting them even if I am not taking advantage of the benefits I get for it.
