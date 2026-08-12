@@ -1,6 +1,6 @@
 ---
-title: Clarkesworld (Issue #211)
-header: Clarkesworld (Issue #211)
+title: Clarkesworld (Issue \#211)
+header: Clarkesworld (Issue \#211)
 description: My review for the first issue of Clarkesworld Magazine I've ever read!
 tags: book review 
 permalink: /blog/clarkesworld-211/
