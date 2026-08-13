@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-13 15:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117090292644857268
 ---
  
 I saw this post by Gabz a while back titled [Iconic moments in gaming](https://gabz.blog/posts/iconic-moments-in-gaming) and I wanted to share my own! Of course, these will spoil game mechanics or plot twists and you should thread carefully!
@@ -96,4 +96,4 @@ A continuation shall come at some point in the future. I actually quite liked th
 
 In any case. I would love to see more posts like this, what are some of your favourite moments in videogames you've played? Please share!
 
-This is day 18 of [#100DaysToOffload](https://100DaysToOffload.com) and day 12 of [#Blaugust2026](https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/)
+This is day 18 of [#100DaysToOffload](https://100DaysToOffload.com) and day 13 of [#Blaugust2026](https://nerdgirlthoughts.game.blog/2026/07/15/blaugust-2026-is-coming/)
