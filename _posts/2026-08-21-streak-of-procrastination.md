@@ -6,9 +6,10 @@ tags: short blog ramble
 permalink: /blog/streak-of-procrastination/
 layout: post
 date: 2026-08-21 14:50:00 -0600
+updated: 2026-08-21 15:15:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117135511124763114
 ---
 
 Sometimes you have such a great idea, a post that you need to write and share with everybody and you just keep meaning to get to it.
