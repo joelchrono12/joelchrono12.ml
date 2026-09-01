@@ -8,7 +8,7 @@ layout: post
 date: 2026-08-31 23:50:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117196973118245056
 ---
 
 Well, the month is over, and with that, Blaugust is gone as well! This is the second time I have participated on this challenge, and it has also lead to quite a lot of interesting interactions and a decent amount of posts.
