@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-02 17:10:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117204017762644945
 ---
 
 My parents are great, but they are also of a different generation, and despite the amount of people around their age that I've met online that somehow align with many of my hobbies, everyone is different, and well, that's the case for them.
