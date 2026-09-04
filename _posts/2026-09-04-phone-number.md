@@ -8,7 +8,7 @@ layout: post
 date: 2026-09-04 12:00:00 -0600
 host: fosstodon.org
 username: joel
-com_id: idcomments
+com_id: 117214117599105797
 ---
 
 Don't worry, I can connect to Wi-Fi networks, I just lost mobile data access and phone calls with my current SIM chip.
