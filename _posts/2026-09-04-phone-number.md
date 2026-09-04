@@ -15,7 +15,7 @@ Don't worry, I can connect to Wi-Fi networks, I just lost mobile data access and
 
 You see, the silly government of my beautiful country decided that the best way to stop scam, blackmail and other crimes via phone calls would be to force everyone into [registering their phone numbers](https://www.mexperience.com/all-mexico-cellphone-users-must-register/) with their ID card and a face scan with the phone's camera.
 
-A huge percentage of the population never did this on the original deadline and the plan utterly failed no phone company disabled any phone numbers because the monetary losses would be too much. So things were fine, at least for a little more time.
+A huge percentage of the population never did this on the original deadline and the plan utterly failed. No phone company disabled any phone numbers because the monetary losses would be too much. So things were fine, at least for a little more time.
 
 They decided instead to give a different deadline to every phone number based on the last digit (0-9), a slower rollout that would make people more nervious, as the peer pressure would slowly build up. Since my phone ends with a 1, my line was deactivated on October 31st, 2026.
 
